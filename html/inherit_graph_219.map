@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="14,31,123,57"/>
+<area shape="rect" id="Node000001" href="$d4/dcd/classwizard_1_1Editor.html" title=" " alt="" coords="211,5,312,32"/>
+<area shape="poly" id="edge1026_Node000000_Node000001" title=" " alt="" coords="138,32,212,24,208,27,139,37"/>
+<area shape="rect" id="Node000004" href="$d9/dc8/classwizard_1_1WsfTextPreview.html" title="Displays a syntax&#45;highlighted snippet of an WSF file." alt="" coords="180,56,343,83"/>
+<area shape="poly" id="edge1028_Node000000_Node000004" title=" " alt="" coords="138,50,182,58,177,59,139,56"/>
+<area shape="rect" id="Node000002" href="$db/d32/classwizard_1_1WsfEditor.html" title=" " alt="" coords="391,56,516,83"/>
+<area shape="poly" id="edge1027_Node000001_Node000002" title=" " alt="" coords="327,33,403,55,398,56,327,39"/>
+<area shape="rect" id="Node000003" href="$de/de7/classwizard_1_1TextStyler.html" title=" " alt="" coords="5,107,132,133"/>
+<area shape="poly" id="edge1029_Node000003_Node000002" title=" " alt="" coords="147,113,241,105,343,92,396,84,401,83,343,97,241,110,147,118"/>
+<area shape="poly" id="edge1030_Node000003_Node000004" title=" " alt="" coords="136,99,205,84,210,83,138,105"/>
+</map>

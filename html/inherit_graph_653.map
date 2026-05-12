@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$dc/dc8/classwsf_1_1UCI__ServiceBase.html" title=" " alt="" coords="5,125,161,152"/>
+<area shape="rect" id="Node000001" href="$d7/d8b/classwsf_1_1UCI__FactoryService.html" title=" " alt="" coords="227,5,396,48"/>
+<area shape="poly" id="edge1778_Node000000_Node000001" title=" " alt="" coords="113,114,157,85,208,58,238,47,234,50,210,62,160,90,117,118"/>
+<area shape="rect" id="Node000002" href="$da/d1a/classwsf_1_1UCI__MessageService.html" title=" " alt="" coords="223,72,401,131"/>
+<area shape="poly" id="edge1779_Node000000_Node000002" title=" " alt="" coords="175,121,225,115,220,117,177,126"/>
+<area shape="rect" id="Node000003" href="$d7/d8b/classwsf_1_1UCI__FactoryService.html" title="Define a generic factory service that can be parameterized with any factory&#45;enabled UCI type." alt="" coords="209,155,415,197"/>
+<area shape="poly" id="edge1780_Node000000_Node000003" title=" " alt="" coords="175,151,211,158,206,160,176,156"/>
+<area shape="rect" id="Node000004" href="$da/d1a/classwsf_1_1UCI__MessageService.html" title="Define a generic service to enable creating, sending, and receiving any UCI message type." alt="" coords="213,221,411,296"/>
+<area shape="poly" id="edge1781_Node000000_Node000004" title=" " alt="" coords="121,157,210,207,234,221,229,221,207,212,120,163"/>
+</map>

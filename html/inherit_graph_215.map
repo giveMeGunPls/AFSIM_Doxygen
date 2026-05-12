@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,284,74,311"/>
+<area shape="rect" id="Node000001" href="$dd/d7c/classwizard_1_1ChangeHistory.html" title=" " alt="" coords="143,5,298,32"/>
+<area shape="poly" id="edge1006_Node000000_Node000001" title=" " alt="" coords="39,268,43,219,56,158,80,96,98,67,120,42,144,28,141,32,123,46,102,70,85,98,61,160,49,220,44,269"/>
+<area shape="rect" id="Node000002" href="$de/d56/classwizard_1_1ClonePlatformDialog.html" title=" " alt="" coords="127,56,314,83"/>
+<area shape="poly" id="edge1007_Node000000_Node000002" title=" " alt="" coords="41,268,49,229,63,182,86,134,102,112,120,93,141,81,138,85,123,97,106,115,91,136,68,183,54,230,47,269"/>
+<area shape="rect" id="Node000003" href="$d7/d7d/classwizard_1_1CreateNewFile.html" title=" " alt="" coords="143,107,298,133"/>
+<area shape="poly" id="edge1008_Node000000_Node000003" title=" " alt="" coords="46,268,71,205,93,172,120,143,144,131,141,135,123,147,97,175,76,207,51,270"/>
+<area shape="rect" id="Node000004" href="$d3/dbb/classwizard_1_1CreatePlatformDialog.html" title=" " alt="" coords="124,157,316,184"/>
+<area shape="poly" id="edge1009_Node000000_Node000004" title=" " alt="" coords="53,269,81,230,99,210,120,194,146,183,143,187,123,198,103,214,85,233,58,272"/>
+<area shape="rect" id="Node000005" href="$df/d4a/classwizard_1_1CreateTypeDialog.html" title=" " alt="" coords="135,208,306,235"/>
+<area shape="poly" id="edge1010_Node000000_Node000005" title=" " alt="" coords="70,273,121,244,156,233,152,237,123,249,74,277"/>
+<area shape="rect" id="Node000006" href="$df/d5d/classwizard_1_1EditAssist.html" title=" " alt="" coords="157,259,284,285"/>
+<area shape="poly" id="edge1011_Node000000_Node000006" title=" " alt="" coords="87,288,158,279,154,283,90,293"/>
+<area shape="rect" id="Node000011" href="$d6/d9e/classwizard_1_1FindInFilesDialog.html" title=" " alt="" coords="136,309,304,336"/>
+<area shape="poly" id="edge1016_Node000000_Node000011" title=" " alt="" coords="88,302,138,309,134,312,90,307"/>
+<area shape="rect" id="Node000012" href="$df/d0c/classwizard_1_1FindReferencesResultDialog.html" title=" " alt="" coords="122,360,319,403"/>
+<area shape="poly" id="edge1017_Node000000_Node000012" title=" " alt="" coords="72,317,123,346,151,358,146,360,120,350,73,322"/>
+<area shape="rect" id="Node000013" href="$d5/dfe/classwizard_1_1ProjectSettingsDialog.html" title=" " alt="" coords="124,427,317,453"/>
+<area shape="poly" id="edge1018_Node000000_Node000013" title=" " alt="" coords="53,322,82,370,101,393,123,412,146,425,141,427,120,417,97,397,78,373,53,328"/>
+<area shape="rect" id="Node000014" href="$d6/d15/classwizard_1_1RenameFileDialog.html" title=" " alt="" coords="133,477,308,504"/>
+<area shape="poly" id="edge1019_Node000000_Node000014" title=" " alt="" coords="47,323,59,357,74,395,95,432,123,463,143,476,137,477,120,467,91,435,69,397,54,359,47,328"/>
+<area shape="rect" id="Node000015" href="$dc/dde/classwizard_1_1ReplaceInFilesDialog.html" title=" " alt="" coords="125,528,316,555"/>
+<area shape="poly" id="edge1020_Node000000_Node000015" title=" " alt="" coords="43,323,52,368,66,419,89,470,105,494,123,514,141,527,136,528,120,518,100,497,84,473,61,420,47,369,43,329"/>
+<area shape="rect" id="Node000016" href="$d3/dfd/classwizard_1_1StartupFilesDialog.html" title=" " alt="" coords="133,579,308,605"/>
+<area shape="poly" id="edge1021_Node000000_Node000016" title=" " alt="" coords="41,323,47,377,59,442,69,475,83,508,101,538,123,565,141,578,135,578,120,569,97,541,78,510,64,477,54,443,42,378,41,329"/>
+<area shape="rect" id="Node000007" href="$da/d91/classwizard_1_1EditAssist__Include.html" title=" " alt="" coords="384,155,512,197"/>
+<area shape="poly" id="edge1012_Node000006_Node000007" title=" " alt="" coords="297,253,318,244,342,227,366,207,391,196,387,200,368,212,345,231,320,249,300,257"/>
+<area shape="rect" id="Node000008" href="$d0/d5a/classwizard_1_1EditAssist__Script.html" title=" " alt="" coords="384,221,512,264"/>
+<area shape="poly" id="edge1013_Node000006_Node000008" title=" " alt="" coords="298,259,386,249,382,252,300,264"/>
+<area shape="rect" id="Node000009" href="$d3/dbf/classwizard_1_1EditAssist__Type.html" title=" " alt="" coords="367,288,529,315"/>
+<area shape="poly" id="edge1014_Node000006_Node000009" title=" " alt="" coords="298,280,369,290,364,292,300,285"/>
+<area shape="rect" id="Node000010" href="$da/d74/classwizard_1_1EditAssist__Type2.html" title=" " alt="" coords="384,339,512,381"/>
+<area shape="poly" id="edge1015_Node000006_Node000010" title=" " alt="" coords="298,287,320,295,345,309,368,324,394,338,389,338,366,329,342,314,318,300,299,292"/>
+</map>

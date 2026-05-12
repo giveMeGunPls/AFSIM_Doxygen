@@ -1,0 +1,13 @@
+<map id="dis" name="dis">
+<area shape="rect" id="node1" href="dir_8566ce563a2f3fa9cd7634ded691bf6c.html" title="weapon" alt="" coords="27,128,93,155"/>
+<area shape="rect" id="node2" href="dir_e345a15e8e2fec0ab65729e8d8c27fd9.html" title="observer" alt="" coords="118,128,189,155"/>
+<area shape="rect" id="node3" href="dir_c26ba742338552e87c18abb91231b219.html" title="dis" alt="" coords="134,53,173,80"/>
+<area shape="poly" id="edge1" href="dir_000008_000095.html" alt="" coords="139,79,90,121,86,116,135,82"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000008_000095.html" title="13" alt="" coords="89,115,103,131"/>
+<area shape="poly" id="edge3" href="dir_000008_000026.html" alt="" coords="155,78,156,113,151,111,152,83"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000008_000026.html" title="1" alt="" coords="158,101,165,117"/>
+<area shape="rect" id="node4" href="dir_bb4e3a5bed84069c47fcf1734de200eb.html" title="wsf" alt="" coords="214,128,256,155"/>
+<area shape="poly" id="edge2" href="dir_000008_000098.html" alt="" coords="168,78,212,118,207,118,167,83"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000008_000098.html" title="45" alt="" coords="206,101,220,117"/>
+<area shape="rect" id="clust1" href="dir_39f083e5cd6cb65aba131c6141e268c3.html" title="source" alt="" coords="16,16,200,165"/>
+</map>

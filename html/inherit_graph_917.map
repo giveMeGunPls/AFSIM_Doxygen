@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$df/dc5/classWsfL16_1_1Messages_1_1FieldBase.html" title=" " alt="" coords="5,180,237,207"/>
+<area shape="rect" id="Node000001" href="$d9/deb/classWsfL16_1_1Messages_1_1BooleanField.html" title="for fields with 1 == true" alt="" coords="303,5,492,48"/>
+<area shape="poly" id="edge2163_Node000000_Node000001" title=" " alt="" coords="144,167,204,112,242,83,283,58,312,47,308,50,286,62,245,87,207,116,148,171"/>
+<area shape="rect" id="Node000002" href="$de/d27/classWsfL16_1_1Messages_1_1FreqOrRangeField.html" title=" " alt="" coords="306,72,488,115"/>
+<area shape="poly" id="edge2164_Node000000_Node000002" title=" " alt="" coords="166,171,284,124,321,114,317,117,286,129,169,176"/>
+<area shape="rect" id="Node000003" href="$dc/dd8/classWsfL16_1_1Messages_1_1InverseBooleanField.html" title="for fields with 0 == true" alt="" coords="305,139,490,181"/>
+<area shape="poly" id="edge2165_Node000000_Node000003" title=" " alt="" coords="251,175,307,170,302,172,253,180"/>
+<area shape="rect" id="Node000004" href="$d5/de2/classWsfL16_1_1Messages_1_1PRF__PRI__IndicatorField.html" title=" " alt="" coords="313,205,482,248"/>
+<area shape="poly" id="edge2166_Node000000_Node000004" title=" " alt="" coords="252,206,315,216,310,217,252,212"/>
+<area shape="rect" id="Node000005" href="$db/dcd/classWsfL16_1_1Messages_1_1PointTrackField.html" title=" " alt="" coords="295,272,500,315"/>
+<area shape="poly" id="edge2167_Node000000_Node000005" title=" " alt="" coords="168,211,286,257,322,271,316,272,284,263,167,216"/>
+<area shape="rect" id="Node000006" href="$db/d20/classWsfL16_1_1Messages_1_1RadarChannelTypeField.html" title=" " alt="" coords="285,339,510,381"/>
+<area shape="poly" id="edge2168_Node000000_Node000006" title=" " alt="" coords="146,215,207,270,245,299,286,324,313,338,307,338,283,329,242,304,204,274,145,220"/>
+</map>

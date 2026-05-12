@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/daf/classWsfSA__Module.html" title=" " alt="" coords="5,56,118,83"/>
+<area shape="rect" id="Node000001" href="$db/daf/classWsfSA__Assess.html" title="This is the assess module of the SA Processor." alt="" coords="169,5,284,32"/>
+<area shape="poly" id="edge2812_Node000000_Node000001" title=" " alt="" coords="121,48,183,31,178,34,123,53"/>
+<area shape="rect" id="Node000002" href="$da/d00/classWsfSA__Perceive.html" title="This is the perceive module of the SA Processor." alt="" coords="166,56,287,83"/>
+<area shape="poly" id="edge2813_Node000000_Node000002" title=" " alt="" coords="133,67,168,69,163,70,134,72"/>
+<area shape="rect" id="Node000003" href="$d4/d32/classWsfSA__Predict.html" title="This is the predict module of the SA Processor." alt="" coords="171,107,282,133"/>
+<area shape="poly" id="edge2814_Node000000_Node000003" title=" " alt="" coords="122,85,183,105,178,107,122,90"/>
+</map>

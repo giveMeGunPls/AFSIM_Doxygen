@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,31,163,57"/>
+<area shape="rect" id="Node000001" href="$d7/d74/classwsf_1_1console_1_1SubscriberBase.html" title="Contains the logic for formatting a message for file or for console." alt="" coords="211,31,406,57"/>
+<area shape="poly" id="edge1182_Node000000_Node000001" title=" " alt="" coords="178,41,213,44,207,44,178,47"/>
+<area shape="rect" id="Node000002" href="$d4/d04/classwsf_1_1console_1_1ConsoleSubscriber.html" title="Writes received messages to stdout." alt="" coords="454,5,667,32"/>
+<area shape="poly" id="edge1183_Node000001_Node000002" title=" " alt="" coords="422,30,456,29,451,30,422,35"/>
+<area shape="rect" id="Node000003" href="$dd/d7a/classwsf_1_1console_1_1FileSubscriber.html" title="Writes received messages to file on disk." alt="" coords="468,56,654,83"/>
+<area shape="poly" id="edge1184_Node000001_Node000003" title=" " alt="" coords="422,53,470,60,464,60,422,58"/>
+</map>

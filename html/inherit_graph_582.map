@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d7/d12/classwsf_1_1six__dof_1_1Integrator.html" title=" " alt="" coords="5,31,161,57"/>
+<area shape="rect" id="Node000001" href="$d1/d99/classwsf_1_1six__dof_1_1PointMassIntegrator.html" title=" " alt="" coords="209,5,426,32"/>
+<area shape="poly" id="edge1737_Node000000_Node000001" title=" " alt="" coords="176,31,211,30,206,31,176,37"/>
+<area shape="rect" id="Node000002" href="$d2/d80/classwsf_1_1six__dof_1_1RigidBodyIntegrator.html" title=" " alt="" coords="210,56,425,83"/>
+<area shape="poly" id="edge1738_Node000000_Node000002" title=" " alt="" coords="176,51,212,58,207,58,176,57"/>
+</map>

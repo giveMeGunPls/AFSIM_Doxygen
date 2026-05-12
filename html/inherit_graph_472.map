@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,81,129,108"/>
+<area shape="rect" id="Node000001" href="$d6/d3d/classwizard_1_1BackupPrefWidget.html" title=" " alt="" coords="179,5,355,32"/>
+<area shape="poly" id="edge1521_Node000000_Node000001" title=" " alt="" coords="107,72,176,42,214,31,209,34,178,46,110,76"/>
+<area shape="rect" id="Node000002" href="$df/d7f/classwizard_1_1EditorPrefWidget.html" title=" " alt="" coords="184,56,350,83"/>
+<area shape="poly" id="edge1522_Node000000_Node000002" title=" " alt="" coords="144,82,186,79,181,81,145,87"/>
+<area shape="rect" id="Node000003" href="$dd/d8a/classwizard_1_1NewFilePrefWidget.html" title=" " alt="" coords="177,107,357,133"/>
+<area shape="poly" id="edge1523_Node000000_Node000003" title=" " alt="" coords="144,102,179,108,174,109,144,107"/>
+<area shape="rect" id="Node000004" href="$d8/d0d/classwizard_1_1ToolPrefWidget.html" title=" " alt="" coords="189,157,345,184"/>
+<area shape="poly" id="edge1524_Node000000_Node000004" title=" " alt="" coords="109,113,178,143,214,157,209,157,176,148,108,118"/>
+</map>

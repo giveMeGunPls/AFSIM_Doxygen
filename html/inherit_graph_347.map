@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,111,81,137"/>
+<area shape="rect" id="Node000001" href="$dd/d52/classWsfThread.html" title=" " alt="" coords="177,35,262,61"/>
+<area shape="poly" id="edge1478_Node000000_Node000001" title=" " alt="" coords="75,100,128,71,179,56,175,59,130,76,78,104"/>
+<area shape="rect" id="Node000004" href="$d7/da7/classengage_1_1SimulationThread.html" title=" " alt="" coords="134,85,306,112"/>
+<area shape="poly" id="edge1481_Node000000_Node000004" title=" " alt="" coords="95,114,135,110,131,113,97,119"/>
+<area shape="rect" id="Node000005" href="$d2/d1b/classwizard_1_1ProjectParseThread.html" title="Thread for parsing the WSF source in the background." alt="" coords="129,136,311,163"/>
+<area shape="poly" id="edge1482_Node000000_Node000005" title=" " alt="" coords="96,129,131,135,126,137,97,134"/>
+<area shape="rect" id="Node000006" href="$da/dae/classwsf_1_1eventpipe_1_1FileWriterWorker.html" title=" " alt="" coords="135,187,304,229"/>
+<area shape="poly" id="edge1483_Node000000_Node000006" title=" " alt="" coords="78,143,130,172,158,186,152,186,127,177,77,149"/>
+<area shape="rect" id="Node000002" href="$db/dd2/classWsfDisIO__Thread.html" title="DIS interface implementation of worker thread." alt="" coords="382,5,508,32"/>
+<area shape="poly" id="edge1479_Node000001_Node000002" title=" " alt="" coords="277,38,384,26,379,28,279,43"/>
+<area shape="rect" id="Node000003" href="$d4/da1/classWsfMultiThreadManager_1_1SimulationUpdateThread.html" title="Implementation of worker thread for updating a platform." alt="" coords="359,56,531,99"/>
+<area shape="poly" id="edge1480_Node000001_Node000003" title=" " alt="" coords="278,53,361,65,356,67,278,58"/>
+</map>

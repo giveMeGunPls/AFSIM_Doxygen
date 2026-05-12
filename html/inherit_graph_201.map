@@ -1,0 +1,142 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,924,91,951"/>
+<area shape="rect" id="Node000001" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="165,924,281,951"/>
+<area shape="poly" id="edge922_Node000000_Node000001" title=" " alt="" coords="105,935,167,935,163,939,108,939"/>
+<area shape="rect" id="Node000002" href="$de/d2a/classWsfXIO__AuxDataPkt.html" title=" " alt="" coords="404,5,550,32"/>
+<area shape="poly" id="edge923_Node000001_Node000002" title=" " alt="" coords="221,908,225,733,231,608,242,472,258,337,281,213,295,159,312,111,331,72,353,42,376,26,405,18,402,22,378,31,357,46,336,75,317,113,300,161,286,215,263,338,247,473,236,608,230,733,227,909"/>
+<area shape="rect" id="Node000003" href="$de/d8b/classWsfXIO__DeletePlatformPkt.html" title="Command the application to delete a platform." alt="" coords="386,56,568,83"/>
+<area shape="poly" id="edge924_Node000001_Node000003" title=" " alt="" coords="222,909,227,742,234,624,245,497,261,370,284,253,314,158,332,121,353,93,368,81,387,73,384,78,371,86,357,97,337,124,319,160,289,255,266,371,250,497,239,625,232,742,227,909"/>
+<area shape="rect" id="Node000004" href="$de/d60/classWsfXIO__DisMessagePkt.html" title=" " alt="" coords="393,107,561,133"/>
+<area shape="poly" id="edge925_Node000001_Node000004" title=" " alt="" coords="222,908,229,750,248,520,265,402,287,293,316,204,334,170,353,143,371,130,394,122,391,126,374,135,357,147,338,172,321,206,292,294,270,402,253,521,234,750,227,908"/>
+<area shape="rect" id="Node000005" href="$d2/de0/classWsfXIO__DrawPkt.html" title="Contains information about objects being drawn with WsfDraw." alt="" coords="414,157,540,184"/>
+<area shape="poly" id="edge926_Node000001_Node000005" title=" " alt="" coords="222,908,230,759,251,545,268,434,290,333,318,251,335,218,353,194,381,176,416,168,412,172,383,181,357,198,339,221,323,253,295,335,273,435,256,545,236,760,228,909"/>
+<area shape="rect" id="Node000006" href="$d0/da6/classWsfXIO__EW__TechniqueStateChangeRequestPkt.html" title="Requests an application to turn on or off an EA/EP technique." alt="" coords="380,208,574,251"/>
+<area shape="poly" id="edge927_Node000001_Node000006" title=" " alt="" coords="223,908,234,771,257,578,274,478,296,387,322,312,337,283,353,261,381,242,378,247,357,265,341,286,327,314,301,389,279,479,262,578,239,772,228,909"/>
+<area shape="rect" id="Node000007" href="$d3/dcd/classWsfXIO__EntityStateRawPkt.html" title=" " alt="" coords="384,1851,571,1877"/>
+<area shape="poly" id="edge928_Node000001_Node000007" title=" " alt="" coords="225,964,234,1137,254,1390,270,1522,292,1643,321,1744,338,1783,357,1813,381,1834,411,1850,406,1850,378,1838,353,1816,334,1785,316,1745,287,1644,265,1522,248,1390,229,1137,224,969"/>
+<area shape="rect" id="Node000028" href="$d4/d12/classWsfXIO__ExtendedTrackInfoPkt.html" title="The response from a WsfXIO_ExtendedTrackInfoRequestPkt." alt="" coords="374,275,580,301"/>
+<area shape="poly" id="edge929_Node000001_Node000028" title=" " alt="" coords="223,908,235,780,259,601,276,510,297,426,323,358,337,331,353,311,376,297,373,302,357,315,342,334,328,360,302,428,281,511,264,602,240,781,229,909"/>
+<area shape="rect" id="Node000029" href="$d0/d52/classWsfXIO__ExtendedTrackInfoRequestPkt.html" title="Used by the IWARS control panel to request the tracks of contributing sensors." alt="" coords="384,325,570,368"/>
+<area shape="poly" id="edge930_Node000001_Node000029" title=" " alt="" coords="224,909,238,794,264,635,282,554,302,480,326,420,353,378,386,358,383,363,357,382,331,422,307,482,287,555,270,636,244,795,230,910"/>
+<area shape="rect" id="Node000030" href="$de/db4/classWsfXIO__FireWeaponPkt.html" title="Triggers a weapon to fire on a track." alt="" coords="395,392,559,419"/>
+<area shape="poly" id="edge931_Node000001_Node000030" title=" " alt="" coords="225,908,240,802,267,658,284,585,304,519,327,465,353,429,372,415,396,408,393,412,375,420,357,433,332,468,309,521,289,587,272,659,245,803,230,909"/>
+<area shape="rect" id="Node000031" href="$db/d49/classWsfXIO__HeartbeatPkt.html" title="Sent at regular intervals over the UDP connections." alt="" coords="401,443,553,469"/>
+<area shape="poly" id="edge932_Node000001_Node000031" title=" " alt="" coords="220,908,223,824,228,768,239,708,255,646,279,585,311,528,353,479,375,465,403,457,399,461,378,470,357,483,315,532,283,587,260,647,244,709,234,769,228,824,226,909"/>
+<area shape="rect" id="Node000032" href="$da/de9/classWsfXIO__InformationRequestPkt.html" title="Requests an application to send back information." alt="" coords="372,493,582,520"/>
+<area shape="poly" id="edge933_Node000001_Node000032" title=" " alt="" coords="222,908,227,832,245,730,262,675,285,622,315,573,353,530,373,518,370,523,357,534,319,576,289,625,267,677,250,731,232,833,227,909"/>
+<area shape="rect" id="Node000033" href="$d0/de8/classWsfXIO__InitializePkt.html" title="Sent at regular intervals over the UDP connections." alt="" coords="406,544,549,571"/>
+<area shape="poly" id="edge934_Node000001_Node000033" title=" " alt="" coords="223,908,231,841,252,752,269,705,291,659,319,617,353,581,377,566,407,558,403,562,380,571,357,585,323,620,295,662,274,707,257,753,237,842,228,909"/>
+<area shape="rect" id="Node000034" href="$db/d35/classWsfXIO__MessagePkt.html" title="Provides messages associated with a WsfXIO_MessageRequestPkt." alt="" coords="403,595,551,621"/>
+<area shape="poly" id="edge935_Node000001_Node000034" title=" " alt="" coords="225,908,236,849,259,774,276,735,297,697,323,662,353,631,376,618,404,610,401,614,378,622,357,635,327,665,302,700,281,737,264,776,242,851,230,909"/>
+<area shape="rect" id="Node000035" href="$db/dad/classWsfXIO__PartStateChangeRequestPkt.html" title="Requests that an application changes either state or mode of a platform part." alt="" coords="355,645,599,672"/>
+<area shape="poly" id="edge936_Node000001_Node000035" title=" " alt="" coords="228,908,242,859,267,797,303,735,326,706,353,682,376,670,373,675,357,686,330,710,308,738,271,799,247,860,233,910"/>
+<area shape="rect" id="Node000036" href="$d5/dcb/classWsfXIO__PlatformListPkt.html" title=" " alt="" coords="394,696,560,723"/>
+<area shape="poly" id="edge937_Node000001_Node000036" title=" " alt="" coords="231,909,249,868,275,820,310,772,354,732,396,715,392,719,356,737,314,776,279,823,254,871,237,910"/>
+<area shape="rect" id="Node000037" href="$dd/d13/classWsfXIO__PlatformListUpdatePkt.html" title=" " alt="" coords="374,747,581,773"/>
+<area shape="poly" id="edge938_Node000001_Node000037" title=" " alt="" coords="237,909,283,845,316,811,354,783,382,772,378,776,356,788,320,815,288,848,242,912"/>
+<area shape="rect" id="Node000038" href="$df/d49/classWsfXIO__PlatformPartStatePkt.html" title="Requests that an application begin sending state information for a specified platform part." alt="" coords="378,797,577,824"/>
+<area shape="poly" id="edge939_Node000001_Node000038" title=" " alt="" coords="246,911,294,871,323,851,354,834,388,823,385,827,356,838,326,855,297,875,251,914"/>
+<area shape="rect" id="Node000039" href="$d7/d78/classWsfXIO__PlatformTypeListPkt.html" title="Contains a list of data about the simulation&#39;s platform types." alt="" coords="380,848,574,875"/>
+<area shape="poly" id="edge940_Node000001_Node000039" title=" " alt="" coords="268,916,354,884,402,873,398,877,356,889,272,919"/>
+<area shape="rect" id="Node000040" href="$dc/d7a/classWsfXIO__PublicationPkt.html" title=" " alt="" coords="398,899,557,925"/>
+<area shape="poly" id="edge941_Node000001_Node000040" title=" " alt="" coords="295,928,399,918,395,922,298,932"/>
+<area shape="rect" id="Node000041" href="$d1/dbc/classWsfXIO__QueryResolutionPkt.html" title="Query response for simple or failed queries." alt="" coords="381,949,573,976"/>
+<area shape="poly" id="edge942_Node000001_Node000041" title=" " alt="" coords="295,942,383,951,378,955,298,947"/>
+<area shape="rect" id="Node000044" href="$d6/d0b/classWsfXIO__ReRoutePlatformPkt.html" title=" " alt="" coords="379,1000,575,1027"/>
+<area shape="poly" id="edge945_Node000001_Node000044" title=" " alt="" coords="269,955,356,985,402,998,398,1001,354,991,271,960"/>
+<area shape="rect" id="Node000045" href="$dd/df7/classWsfXIO__RequestDataPkt.html" title="Basic information required for subscription requests." alt="" coords="391,1051,563,1077"/>
+<area shape="poly" id="edge946_Node000001_Node000045" title=" " alt="" coords="248,959,297,1000,326,1020,356,1036,393,1050,388,1052,354,1041,323,1024,294,1004,249,964"/>
+<area shape="rect" id="Node000010" href="$d4/d59/classWsfXIO__ResponsePkt.html" title=" " alt="" coords="400,1101,554,1128"/>
+<area shape="poly" id="edge958_Node000001_Node000010" title=" " alt="" coords="239,961,288,1026,320,1060,356,1087,402,1105,397,1108,354,1092,316,1064,283,1030,240,967"/>
+<area shape="rect" id="Node000057" href="$db/daf/classWsfXIO__ScriptCommandPkt.html" title=" " alt="" coords="382,1152,572,1179"/>
+<area shape="poly" id="edge977_Node000001_Node000057" title=" " alt="" coords="234,962,254,1004,279,1051,314,1099,357,1138,385,1153,380,1155,353,1142,310,1102,275,1054,249,1006,234,968"/>
+<area shape="rect" id="Node000058" href="$d7/d09/classWsfXIO__ScriptExecutePkt.html" title="Requests that an application begin sending state information for a specified platform part." alt="" coords="388,1203,566,1229"/>
+<area shape="poly" id="edge978_Node000001_Node000058" title=" " alt="" coords="230,963,247,1014,271,1075,308,1137,330,1165,357,1188,390,1206,385,1208,353,1193,326,1168,303,1140,267,1078,242,1016,230,968"/>
+<area shape="rect" id="Node000059" href="$dc/dad/classWsfXIO__ScriptListPkt.html" title="Requests that an application send a list of valid scripts for a given platform or a global script lis..." alt="" coords="402,1253,552,1280"/>
+<area shape="poly" id="edge979_Node000001_Node000059" title=" " alt="" coords="228,963,242,1024,264,1099,281,1137,302,1175,327,1210,357,1239,378,1252,404,1262,399,1264,376,1257,353,1243,323,1213,297,1178,276,1140,259,1100,236,1025,228,969"/>
+<area shape="rect" id="Node000060" href="$df/df5/classWsfXIO__SendMessagePkt.html" title=" " alt="" coords="388,1304,566,1331"/>
+<area shape="poly" id="edge980_Node000001_Node000060" title=" " alt="" coords="226,963,237,1033,257,1121,274,1168,295,1213,323,1254,357,1290,390,1309,385,1311,353,1294,319,1258,291,1215,269,1170,252,1123,231,1034,226,969"/>
+<area shape="rect" id="Node000061" href="$dc/dc8/classWsfXIO__ServiceAvailableQuery.html" title=" " alt="" coords="374,1355,581,1381"/>
+<area shape="poly" id="edge981_Node000001_Node000061" title=" " alt="" coords="224,963,232,1042,250,1143,267,1197,289,1250,319,1299,357,1341,376,1354,370,1356,353,1345,315,1302,285,1253,262,1199,245,1145,227,1042,224,969"/>
+<area shape="rect" id="Node000062" href="$d5/d0c/classWsfXIO__SimTimeCommandPkt.html" title=" " alt="" coords="374,1405,581,1432"/>
+<area shape="poly" id="edge982_Node000001_Node000062" title=" " alt="" coords="223,964,228,1050,234,1106,244,1166,260,1227,283,1287,315,1343,357,1391,375,1405,370,1406,353,1395,311,1346,279,1290,255,1229,239,1167,228,1106,223,1051,223,969"/>
+<area shape="rect" id="Node000063" href="$d6/d33/classWsfXIO__SubscriptionCancelPkt.html" title=" " alt="" coords="373,1456,581,1483"/>
+<area shape="poly" id="edge983_Node000001_Node000063" title=" " alt="" coords="228,964,245,1072,272,1216,289,1288,309,1354,332,1407,357,1442,375,1456,370,1457,353,1446,327,1409,304,1355,284,1289,267,1217,240,1073,227,969"/>
+<area shape="rect" id="Node000064" href="$de/de1/classWsfXIO__SubscriptionPkt.html" title=" " alt="" coords="394,1507,561,1533"/>
+<area shape="poly" id="edge984_Node000001_Node000064" title=" " alt="" coords="227,963,243,1081,268,1240,286,1321,306,1394,330,1453,343,1476,357,1493,374,1505,395,1515,390,1516,371,1510,353,1497,339,1479,325,1456,301,1395,281,1322,263,1241,238,1081,227,968"/>
+<area shape="rect" id="Node000065" href="$d8/d2e/classWsfXIO__TaskCommandPkt.html" title="Requests a task manager processor to create or modify a task." alt="" coords="386,1557,569,1584"/>
+<area shape="poly" id="edge985_Node000001_Node000065" title=" " alt="" coords="227,963,241,1091,265,1265,282,1354,303,1434,328,1500,342,1525,357,1543,371,1554,388,1563,383,1564,368,1559,353,1547,338,1528,323,1502,298,1436,277,1355,260,1266,236,1091,226,969"/>
+<area shape="rect" id="Node000066" href="$dd/d6d/classWsfXIO__TimeBehindPkt.html" title="Informs remote applications whether the simulation is behind real&#45;time." alt="" coords="395,1608,559,1635"/>
+<area shape="poly" id="edge986_Node000001_Node000066" title=" " alt="" coords="226,964,239,1100,262,1290,279,1386,300,1474,326,1546,341,1574,357,1594,375,1607,397,1617,392,1618,372,1612,353,1598,336,1577,321,1548,295,1476,274,1387,256,1290,234,1101,225,969"/>
+<area shape="rect" id="Node000067" href="$d7/dcd/classWsfXIO__TrackManagerStateChangeRequestPkt.html" title="Requests that an application changes the state of a track manager." alt="" coords="382,1659,572,1701"/>
+<area shape="poly" id="edge987_Node000001_Node000067" title=" " alt="" coords="226,963,238,1108,260,1312,277,1417,299,1513,325,1592,340,1622,357,1645,385,1666,379,1666,353,1649,336,1625,320,1594,293,1515,272,1418,255,1313,232,1109,225,969"/>
+<area shape="rect" id="Node000068" href="$d6/d72/classWsfXIO__TypeListQueryPkt.html" title=" " alt="" coords="388,1725,567,1752"/>
+<area shape="poly" id="edge988_Node000001_Node000068" title=" " alt="" coords="225,963,234,1121,254,1346,271,1461,293,1567,322,1654,338,1687,357,1711,371,1723,390,1733,384,1733,368,1727,353,1715,334,1690,317,1656,288,1569,266,1462,249,1346,229,1121,224,969"/>
+<area shape="rect" id="Node000069" href="$de/d8e/classWsfXIO__TypeQueryPkt.html" title=" " alt="" coords="398,1776,556,1803"/>
+<area shape="poly" id="edge989_Node000001_Node000069" title=" " alt="" coords="225,964,233,1131,240,1246,251,1371,268,1494,290,1608,320,1700,337,1736,357,1762,376,1776,401,1787,395,1787,373,1781,353,1766,333,1738,315,1702,285,1609,262,1495,246,1371,234,1246,227,1131,224,969"/>
+<area shape="rect" id="Node000042" href="$d2/d16/classWsfXIO__TypeListQueryResolutionPkt.html" title=" " alt="" coords="647,319,889,345"/>
+<area shape="poly" id="edge943_Node000041_Node000042" title=" " alt="" coords="585,947,597,936,611,915,620,888,628,819,627,737,621,648,614,558,613,475,622,406,631,378,645,356,662,344,659,348,649,359,636,380,627,407,618,475,620,558,626,647,632,737,634,820,625,889,615,917,601,939,589,950"/>
+<area shape="rect" id="Node000043" href="$d0/d34/classWsfXIO__TypeQueryResolutionPkt.html" title=" " alt="" coords="658,369,878,396"/>
+<area shape="poly" id="edge944_Node000041_Node000043" title=" " alt="" coords="585,947,597,936,610,917,618,892,626,830,626,754,621,673,616,591,615,515,623,452,632,426,645,406,662,394,659,399,649,410,637,429,629,453,620,516,621,591,626,673,631,754,632,830,623,893,614,919,601,939,589,950"/>
+<area shape="rect" id="Node000046" href="$df/d43/classWsfXIO__MessageRequestPkt.html" title="Requests messages sent or received by a platform." alt="" coords="669,420,867,447"/>
+<area shape="poly" id="edge947_Node000045_Node000046" title=" " alt="" coords="576,1053,597,1037,611,1016,620,989,628,921,627,838,621,749,614,659,613,576,622,507,631,479,645,457,670,440,667,445,649,460,636,481,627,508,618,577,620,659,626,749,632,838,634,921,625,990,615,1018,601,1040,580,1057"/>
+<area shape="rect" id="Node000047" href="$dd/db6/classWsfXIO__RequestDisDataPkt.html" title=" " alt="" coords="672,471,864,497"/>
+<area shape="poly" id="edge948_Node000045_Node000047" title=" " alt="" coords="576,1053,597,1037,610,1018,618,994,626,931,626,856,621,774,616,692,615,617,623,553,632,528,645,507,673,490,670,494,649,511,637,530,629,554,620,617,621,692,626,774,631,856,632,931,623,995,614,1020,601,1040,580,1057"/>
+<area shape="rect" id="Node000048" href="$d5/d69/classWsfXIO__RequestPkt.html" title="A request for data from an application." alt="" coords="696,521,840,548"/>
+<area shape="poly" id="edge949_Node000045_Node000048" title=" " alt="" coords="576,1053,597,1037,620,1007,634,978,642,949,644,919,637,860,621,800,604,740,597,680,600,649,608,619,623,588,645,558,668,542,697,533,693,537,670,546,649,562,627,591,613,621,605,650,602,680,610,739,626,799,642,859,650,919,647,950,639,980,624,1010,601,1041,580,1056"/>
+<area shape="rect" id="Node000049" href="$d4/d85/classWsfXIO__RequestPlatformInfoPkt.html" title="Requests that an application begin sending information for a specified platform." alt="" coords="660,572,876,599"/>
+<area shape="poly" id="edge950_Node000045_Node000049" title=" " alt="" coords="576,1053,597,1037,617,1011,631,984,638,958,640,932,635,879,621,825,607,772,601,717,604,690,611,663,625,636,645,609,663,597,660,601,649,613,629,639,616,665,609,691,606,717,612,771,626,824,640,878,646,932,643,959,636,986,622,1013,601,1041,580,1056"/>
+<area shape="rect" id="Node000050" href="$d6/d1c/classWsfXIO__RequestPlatformPartInfoPkt.html" title="Requests that an application begin sending state information for a specified platform part." alt="" coords="669,623,867,665"/>
+<area shape="poly" id="edge951_Node000045_Node000050" title=" " alt="" coords="576,1053,597,1037,615,1015,626,993,633,971,636,949,632,905,622,860,612,815,608,769,610,745,617,722,628,699,645,675,671,658,667,662,649,679,633,702,622,724,616,746,613,769,617,814,627,859,638,904,641,949,638,972,631,995,619,1018,601,1041,580,1056"/>
+<area shape="rect" id="Node000051" href="$d8/d00/classWsfXIO__RequestScriptDataPkt.html" title=" " alt="" coords="665,689,871,716"/>
+<area shape="poly" id="edge952_Node000045_Node000051" title=" " alt="" coords="576,1052,597,1037,612,1018,623,999,631,961,629,923,621,884,613,845,610,805,619,765,630,746,645,726,666,713,663,717,649,730,634,749,624,767,616,805,618,844,626,883,634,922,637,962,628,1001,617,1021,601,1041,580,1056"/>
+<area shape="rect" id="Node000052" href="$d9/dac/classWsfXIO__RequestScriptSessionPkt.html" title=" " alt="" coords="655,740,881,767"/>
+<area shape="poly" id="edge953_Node000045_Node000052" title=" " alt="" coords="576,1052,597,1037,619,1006,627,974,626,942,621,909,615,876,614,843,623,809,645,777,664,765,661,769,649,781,628,812,619,843,620,875,626,908,632,941,633,975,624,1008,601,1041,580,1056"/>
+<area shape="rect" id="Node000053" href="$d2/d22/classWsfXIO__RequestSensorDataPkt.html" title=" " alt="" coords="661,791,875,817"/>
+<area shape="poly" id="edge954_Node000045_Node000053" title=" " alt="" coords="576,1052,597,1037,616,1012,623,987,624,961,621,934,618,907,618,880,626,854,645,827,664,816,661,820,649,831,631,856,623,881,623,907,626,934,629,961,629,988,621,1014,601,1041,580,1055"/>
+<area shape="rect" id="Node000054" href="$dd/d83/classWsfXIO__RequestSimTimePkt.html" title=" " alt="" coords="670,841,866,868"/>
+<area shape="poly" id="edge955_Node000045_Node000054" title=" " alt="" coords="575,1051,598,1037,612,1018,620,999,621,959,622,918,630,898,646,878,671,864,668,867,649,882,634,900,627,919,626,959,625,1000,617,1021,601,1041,579,1055"/>
+<area shape="rect" id="Node000055" href="$d4/d3c/classWsfXIO__RequestTracksPkt.html" title="Requests that an application begin sending track information for a specified platform." alt="" coords="676,892,860,919"/>
+<area shape="poly" id="edge956_Node000045_Node000055" title=" " alt="" coords="576,1050,598,1037,609,1024,616,1012,621,984,626,956,633,942,646,929,677,913,673,917,649,933,637,945,631,958,626,985,621,1013,614,1027,601,1041,580,1053"/>
+<area shape="rect" id="Node000056" href="$d1/da0/classWsfXIO__TaskRequestPkt.html" title=" " alt="" coords="682,943,854,969"/>
+<area shape="poly" id="edge957_Node000045_Node000056" title=" " alt="" coords="576,1047,598,1036,613,1023,621,1009,630,993,646,979,683,965,679,969,649,984,634,997,626,1011,617,1027,601,1041,580,1051"/>
+<area shape="rect" id="Node000011" href="$d4/d86/classWsfXIO__DataResponsePkt.html" title="Provides a more generic way to pass data between a request and a service session." alt="" coords="677,993,859,1020"/>
+<area shape="poly" id="edge959_Node000010_Node000011" title=" " alt="" coords="568,1101,598,1087,613,1074,621,1059,630,1044,646,1030,678,1017,674,1021,649,1034,634,1047,626,1062,617,1077,601,1092,571,1105"/>
+<area shape="rect" id="Node000012" href="$d6/d6b/classWsfXIO__DisPlatformInfoPkt.html" title=" " alt="" coords="675,1044,861,1071"/>
+<area shape="poly" id="edge960_Node000010_Node000012" title=" " alt="" coords="562,1095,699,1070,695,1073,565,1100"/>
+<area shape="rect" id="Node000009" href="$d3/d80/classWsfXIO__EntityStatePkt.html" title=" " alt="" coords="688,1919,848,1945"/>
+<area shape="poly" id="edge961_Node000010_Node000009" title=" " alt="" coords="569,1117,587,1126,601,1138,619,1167,631,1204,638,1247,641,1296,637,1405,626,1524,615,1642,611,1750,614,1799,620,1841,632,1877,649,1905,667,1919,690,1930,685,1930,664,1924,645,1908,627,1879,615,1843,608,1799,606,1751,610,1641,621,1523,632,1405,636,1296,633,1248,626,1205,615,1170,597,1142,584,1130,570,1123"/>
+<area shape="rect" id="Node000013" href="$d7/d8c/classWsfXIO__LocalTrackPkt.html" title="A local track." alt="" coords="688,1095,848,1121"/>
+<area shape="poly" id="edge962_Node000010_Node000013" title=" " alt="" coords="569,1110,690,1108,686,1111,571,1115"/>
+<area shape="rect" id="Node000014" href="$d7/de3/classWsfXIO__PartStateChangePkt.html" title="Inform other applications about a platform part state change." alt="" coords="670,1145,866,1172"/>
+<area shape="poly" id="edge963_Node000010_Node000014" title=" " alt="" coords="569,1126,678,1144,673,1146,571,1131"/>
+<area shape="rect" id="Node000015" href="$da/dd7/classWsfXIO__PlatformCommandChainPkt.html" title=" " alt="" coords="649,1196,887,1223"/>
+<area shape="poly" id="edge964_Node000010_Node000015" title=" " alt="" coords="569,1126,601,1138,616,1149,625,1160,634,1171,649,1182,678,1195,673,1196,646,1186,631,1175,621,1164,612,1153,598,1142,570,1131"/>
+<area shape="rect" id="Node000016" href="$d7/d05/classWsfXIO__PlatformPartInfoPkt.html" title=" " alt="" coords="673,1247,863,1273"/>
+<area shape="poly" id="edge965_Node000010_Node000016" title=" " alt="" coords="568,1122,601,1138,613,1149,620,1162,626,1187,632,1211,638,1222,649,1233,675,1248,670,1249,646,1237,634,1225,627,1213,621,1188,615,1164,608,1153,598,1142,570,1127"/>
+<area shape="rect" id="Node000017" href="$d6/d59/classWsfXIO__RawTrackPkt.html" title="A raw track." alt="" coords="690,1297,846,1324"/>
+<area shape="poly" id="edge966_Node000010_Node000017" title=" " alt="" coords="568,1120,601,1138,616,1156,624,1175,626,1212,628,1249,635,1267,649,1283,668,1296,692,1306,687,1307,666,1301,646,1287,631,1269,623,1250,621,1213,619,1176,612,1159,598,1142,569,1125"/>
+<area shape="rect" id="Node000018" href="$d5/de4/classWsfXIO__RequestScriptDataResponsePkt.html" title=" " alt="" coords="675,1348,861,1391"/>
+<area shape="poly" id="edge967_Node000010_Node000018" title=" " alt="" coords="568,1119,587,1127,601,1138,620,1162,628,1187,629,1212,627,1237,624,1262,625,1287,632,1310,649,1334,677,1354,672,1355,645,1338,628,1313,620,1287,619,1262,621,1237,624,1212,623,1188,615,1165,597,1142,584,1132,570,1124"/>
+<area shape="rect" id="Node000019" href="$de/de4/classWsfXIO__RequestScriptSessionResponsePkt.html" title=" " alt="" coords="665,1415,871,1457"/>
+<area shape="poly" id="edge968_Node000010_Node000019" title=" " alt="" coords="569,1119,587,1127,601,1138,624,1171,633,1204,632,1238,627,1271,621,1304,620,1336,628,1369,649,1401,667,1417,662,1417,645,1404,623,1371,615,1337,616,1303,622,1270,627,1237,628,1205,619,1173,597,1142,584,1131,570,1124"/>
+<area shape="rect" id="Node000020" href="$d4/dba/classWsfXIO__RouteUpdatePkt.html" title=" " alt="" coords="682,1481,854,1508"/>
+<area shape="poly" id="edge969_Node000010_Node000020" title=" " alt="" coords="569,1118,587,1126,601,1138,618,1159,629,1180,638,1222,635,1263,626,1305,617,1347,614,1387,623,1428,633,1448,649,1467,664,1479,684,1490,679,1490,662,1484,645,1471,629,1450,618,1430,609,1388,612,1346,621,1304,630,1263,633,1222,624,1182,613,1162,597,1142,584,1131,570,1123"/>
+<area shape="rect" id="Node000021" href="$db/d93/classWsfXIO__SensorTrackingRequestUpdatePkt.html" title=" " alt="" coords="660,1532,876,1575"/>
+<area shape="poly" id="edge970_Node000010_Node000021" title=" " alt="" coords="569,1118,587,1126,601,1138,620,1162,632,1186,640,1210,643,1234,639,1282,627,1329,616,1377,612,1424,614,1447,621,1471,632,1494,649,1518,663,1532,657,1531,645,1522,627,1497,616,1473,609,1448,606,1424,611,1376,622,1328,633,1281,637,1234,634,1211,627,1188,615,1165,597,1142,584,1131,570,1123"/>
+<area shape="rect" id="Node000022" href="$d9/d16/classWsfXIO__SimTimePkt.html" title=" " alt="" coords="694,1599,842,1625"/>
+<area shape="poly" id="edge971_Node000010_Node000022" title=" " alt="" coords="569,1118,587,1126,601,1138,623,1166,637,1195,645,1223,647,1251,641,1308,626,1364,611,1420,605,1475,607,1503,615,1530,628,1557,649,1585,670,1600,697,1611,692,1611,667,1605,645,1589,624,1560,610,1532,602,1504,600,1475,606,1419,621,1363,636,1307,642,1251,639,1224,632,1197,618,1169,597,1142,584,1131,570,1123"/>
+<area shape="rect" id="Node000023" href="$df/d6a/classWsfXIO__TaskInitPkt.html" title="Defines current state of the task manager processor. Response to WsfXIO_TaskRequestPkt." alt="" coords="697,1649,839,1676"/>
+<area shape="poly" id="edge972_Node000010_Node000023" title=" " alt="" coords="568,1118,587,1126,601,1138,614,1157,622,1181,630,1241,630,1312,626,1389,622,1465,622,1536,630,1595,638,1618,649,1635,671,1652,700,1662,695,1663,669,1656,645,1639,633,1620,624,1596,616,1536,617,1465,621,1388,625,1312,625,1241,617,1182,609,1159,597,1142,584,1130,570,1123"/>
+<area shape="rect" id="Node000024" href="$d1/d57/classWsfXIO__TaskUpdatePkt.html" title="Defines a change in a task. Assignment, cancellation, or completion. Response to WsfXIO_TaskRequestPk..." alt="" coords="685,1700,851,1727"/>
+<area shape="poly" id="edge973_Node000010_Node000024" title=" " alt="" coords="568,1118,587,1126,601,1138,615,1159,624,1185,632,1251,631,1330,626,1414,621,1499,620,1576,628,1641,637,1667,649,1686,666,1699,687,1710,682,1710,663,1704,645,1690,632,1669,623,1643,614,1577,615,1498,621,1414,626,1329,627,1251,619,1187,610,1161,597,1142,584,1130,570,1123"/>
+<area shape="rect" id="Node000025" href="$d9/de2/classWsfXIO__TrackCoastPkt.html" title="Notification of a track coast." alt="" coords="686,1751,850,1777"/>
+<area shape="poly" id="edge974_Node000010_Node000025" title=" " alt="" coords="568,1117,587,1126,601,1138,616,1161,626,1190,634,1262,633,1347,626,1439,619,1532,618,1617,626,1688,636,1715,649,1737,666,1750,689,1761,683,1761,664,1755,645,1740,631,1718,621,1689,612,1617,614,1531,621,1439,627,1347,629,1262,621,1191,611,1163,597,1142,584,1130,570,1123"/>
+<area shape="rect" id="Node000026" href="$db/d80/classWsfXIO__TrackDropPkt.html" title="Notification of a track drop." alt="" coords="690,1801,846,1828"/>
+<area shape="poly" id="edge975_Node000010_Node000026" title=" " alt="" coords="568,1117,587,1126,601,1138,617,1163,627,1194,634,1231,636,1272,634,1365,626,1465,618,1565,616,1657,618,1698,624,1734,635,1764,649,1788,668,1802,692,1813,687,1813,665,1807,645,1791,630,1766,619,1735,613,1699,610,1657,613,1565,621,1464,629,1364,631,1272,628,1231,622,1195,612,1165,597,1142,584,1130,570,1123"/>
+<area shape="rect" id="Node000027" href="$dd/de1/classWsfXIO__TrackManagerStateChangePkt.html" title="Sent after an application changes the state of a track manager." alt="" coords="673,1852,863,1895"/>
+<area shape="poly" id="edge976_Node000010_Node000027" title=" " alt="" coords="569,1117,587,1126,601,1138,618,1165,629,1198,636,1238,639,1282,636,1381,627,1489,619,1597,615,1696,618,1740,624,1779,634,1812,649,1838,676,1860,670,1859,645,1842,629,1815,619,1781,612,1741,610,1696,613,1596,622,1489,631,1381,634,1282,631,1238,624,1200,613,1167,597,1142,584,1130,570,1123"/>
+<area shape="rect" id="Node000008" href="$df/d08/classWsfXIO__EntityStateData.html" title=" " alt="" coords="139,1881,307,1908"/>
+<area shape="poly" id="edge991_Node000008_Node000007" title=" " alt="" coords="322,1880,386,1875,380,1876,323,1885"/>
+<area shape="poly" id="edge990_Node000008_Node000009" title=" " alt="" coords="322,1899,689,1924,686,1929,322,1904"/>
+</map>

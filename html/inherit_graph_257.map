@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,132,129,159"/>
+<area shape="rect" id="Node000001" href="$db/db4/classWsfDE__File_1_1Error.html" title=" " alt="" coords="186,5,314,32"/>
+<area shape="poly" id="edge1075_Node000000_Node000001" title=" " alt="" coords="88,119,126,79,175,42,202,31,198,34,178,46,130,83,92,122"/>
+<area shape="rect" id="Node000002" href="$d2/d36/classusmtf_1_1ExportError.html" title="Error with Export file streams." alt="" coords="186,56,314,83"/>
+<area shape="poly" id="edge1076_Node000000_Node000002" title=" " alt="" coords="108,123,176,92,209,82,205,85,178,97,111,127"/>
+<area shape="rect" id="Node000003" href="$dc/d99/classusmtf_1_1ImportError.html" title="Error with import file streams or Parsing with the Standard in mind." alt="" coords="186,107,314,133"/>
+<area shape="poly" id="edge1077_Node000000_Node000003" title=" " alt="" coords="143,132,188,127,183,130,145,137"/>
+<area shape="rect" id="Node000004" href="$d4/d95/classusmtf_1_1MessageError.html" title="Error in accessing a Set that isn&#39;t present in the Message." alt="" coords="178,157,322,184"/>
+<area shape="poly" id="edge1078_Node000000_Node000004" title=" " alt="" coords="144,153,180,160,175,162,145,159"/>
+<area shape="rect" id="Node000005" href="$da/df0/classusmtf_1_1SetError.html" title="Error in accessing a field that isn&#39;t present in the set." alt="" coords="195,208,305,235"/>
+<area shape="poly" id="edge1079_Node000000_Node000005" title=" " alt="" coords="110,163,178,194,209,207,204,208,176,198,110,169"/>
+<area shape="rect" id="Node000006" href="$d2/d8d/classusmtf_1_1ValidationError.html" title="Validation Errors, used heavily in anything thats Validatable." alt="" coords="177,259,323,285"/>
+<area shape="poly" id="edge1080_Node000000_Node000006" title=" " alt="" coords="90,168,130,207,178,244,203,258,197,258,175,249,126,211,89,173"/>
+</map>

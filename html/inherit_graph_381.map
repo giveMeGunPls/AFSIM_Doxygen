@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$db/d20/classwizard_1_1ParseResultsProxyData.html" title=" " alt="" coords="5,5,214,32"/>
+<area shape="rect" id="Node000001" href="$d0/dbf/classwizard_1_1ParseResultsTiny.html" title="Defines a subset of parse results which stay valid while computing the new parse results." alt="" coords="262,5,433,32"/>
+<area shape="poly" id="edge1486_Node000000_Node000001" title=" " alt="" coords="229,16,264,19,258,19,229,21"/>
+<area shape="rect" id="Node000002" href="$da/d1c/classwizard_1_1ParseResults.html" title="Provides access to the results of parsing the WSF inputs." alt="" coords="481,5,627,32"/>
+<area shape="poly" id="edge1487_Node000001_Node000002" title=" " alt="" coords="449,16,484,19,478,19,449,21"/>
+</map>

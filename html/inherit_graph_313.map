@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,13,142,40"/>
+<area shape="rect" id="Node000001" href="$d7/dd3/classwsf_1_1space_1_1KeplerianOrbitalPropagator.html" title="An orbital propagator that implements Keplerian, ellipsoidal, two&#45;body motion." alt="" coords="190,5,375,48"/>
+<area shape="poly" id="edge1212_Node000000_Node000001" title=" " alt="" coords="157,24,192,26,187,27,157,29"/>
+<area shape="rect" id="Node000002" href="$d6/d51/classwsf_1_1space_1_1J2__PerturbationOrbitalPropagator.html" title="A configuration of wsf::KeplerianOrbitalPropagator that sets the J2 gravitational perturbation option..." alt="" coords="423,5,607,48"/>
+<area shape="poly" id="edge1213_Node000001_Node000002" title=" " alt="" coords="390,24,425,27,420,27,390,29"/>
+</map>

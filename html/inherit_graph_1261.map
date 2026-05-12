@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d5/dfb/classWsfTrackClassifier.html" title=" " alt="" coords="5,31,139,57"/>
+<area shape="rect" id="Node000001" href="$d6/d06/classWsfBayesClassifier.html" title=" " alt="" coords="196,5,334,32"/>
+<area shape="poly" id="edge2839_Node000000_Node000001" title=" " alt="" coords="154,31,198,27,193,28,155,36"/>
+<area shape="rect" id="Node000002" href="$dc/d5e/classWsfClassifierTabulated.html" title="A rules based classifier, that gives a user positive control over any mis&#45;classifications." alt="" coords="187,56,343,83"/>
+<area shape="poly" id="edge2840_Node000000_Node000002" title=" " alt="" coords="154,52,189,59,184,59,154,57"/>
+</map>

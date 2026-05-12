@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d6/d0f/classWsfXIO__EM__XmtrRcvrInfo.html" title="XIO representation of Wsf_EM_XmtrRcvr." alt="" coords="5,31,186,57"/>
+<area shape="rect" id="Node000001" href="$d4/db1/classWsfXIO__EM__RcvrInfo.html" title="XIO representation of a WsfEM_Rcvr." alt="" coords="234,5,386,32"/>
+<area shape="poly" id="edge2851_Node000000_Node000001" title=" " alt="" coords="200,29,236,27,231,28,201,34"/>
+<area shape="rect" id="Node000002" href="$dc/d56/classWsfXIO__EM__XmtrInfo.html" title="XIO representation of a WsfEM_Xmtr." alt="" coords="234,56,386,83"/>
+<area shape="poly" id="edge2852_Node000000_Node000002" title=" " alt="" coords="201,54,236,60,231,60,201,59"/>
+</map>

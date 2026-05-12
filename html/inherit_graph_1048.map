@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d9/df7/classWsfParseAuxData.html" title="Abstract class for encapsulating auxiliary data to be attached to a parse node." alt="" coords="5,56,136,83"/>
+<area shape="rect" id="Node000001" href="$dc/d87/classWsfParseDelayLoadData.html" title=" " alt="" coords="193,5,362,32"/>
+<area shape="poly" id="edge2641_Node000000_Node000001" title=" " alt="" coords="142,49,223,31,218,34,144,54"/>
+<area shape="rect" id="Node000002" href="$db/df2/classWsfParseFileReferenceData.html" title=" " alt="" coords="184,56,372,83"/>
+<area shape="poly" id="edge2642_Node000000_Node000002" title=" " alt="" coords="151,67,186,69,181,70,152,72"/>
+<area shape="rect" id="Node000003" href="$df/d3c/classWsfParseTypeInfoData.html" title=" " alt="" coords="199,107,356,133"/>
+<area shape="poly" id="edge2643_Node000000_Node000003" title=" " alt="" coords="143,84,223,105,218,107,143,90"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,80,150,107"/>
+<area shape="rect" id="Node000001" href="$d7/d6d/classWsfAntennaPattern_1_1BaseData.html" title=" " alt="" coords="198,72,341,115"/>
+<area shape="poly" id="edge1228_Node000000_Node000001" title=" " alt="" coords="164,91,200,93,195,94,165,96"/>
+<area shape="rect" id="Node000002" href="$de/d63/classWsfALARM__AntennaPattern_1_1ALARM__Data.html" title="Data that is shared amongst all instances of a given ALARM antenna pattern." alt="" coords="389,5,577,48"/>
+<area shape="poly" id="edge1229_Node000001_Node000002" title=" " alt="" coords="353,64,415,48,410,49,355,69"/>
+<area shape="rect" id="Node000004" href="$df/d71/classWsfESA__AntennaPattern_1_1ESA__Data.html" title=" " alt="" coords="398,72,568,115"/>
+<area shape="poly" id="edge1231_Node000001_Node000004" title=" " alt="" coords="356,91,401,93,395,94,357,96"/>
+<area shape="rect" id="Node000007" href="$d4/d8f/classWsfStandardAntennaPattern_1_1StandardData.html" title=" " alt="" coords="390,139,577,181"/>
+<area shape="poly" id="edge1234_Node000001_Node000007" title=" " alt="" coords="355,117,415,138,410,138,354,122"/>
+<area shape="rect" id="Node000003" href="$d2/d79/classWsfGENAP__AntennaPattern_1_1GENAP__Data.html" title="Data that is shared amongst all instances of a given ALARM antenna pattern." alt="" coords="639,5,829,48"/>
+<area shape="poly" id="edge1230_Node000002_Node000003" title=" " alt="" coords="593,24,642,26,636,27,593,29"/>
+<area shape="rect" id="Node000005" href="$d1/de9/classWsfESA__NX__AntennaPattern_1_1ESA__NX__Data.html" title=" " alt="" coords="636,72,832,115"/>
+<area shape="poly" id="edge1232_Node000004_Node000005" title=" " alt="" coords="583,91,639,93,633,94,583,96"/>
+<area shape="rect" id="Node000006" href="$dd/dd3/classWsfElementESA__AntennaPattern_1_1EESA__Data.html" title=" " alt="" coords="625,139,843,181"/>
+<area shape="poly" id="edge1233_Node000004_Node000006" title=" " alt="" coords="581,116,654,138,648,138,580,122"/>
+</map>

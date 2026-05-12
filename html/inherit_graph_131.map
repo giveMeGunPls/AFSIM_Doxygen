@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d7/d27/classMTT__Track.html" title=" " alt="" coords="5,56,94,83"/>
+<area shape="rect" id="Node000001" href="$d6/d41/classMTT__ActiveTrack.html" title="Corresponds with Suppressor block 387." alt="" coords="154,5,280,32"/>
+<area shape="poly" id="edge891_Node000000_Node000001" title=" " alt="" coords="107,49,172,31,168,34,109,54"/>
+<area shape="rect" id="Node000002" href="$d8/d3a/classMTT__CandidateTrack.html" title="Corresponds with Suppressor block 386." alt="" coords="143,56,290,83"/>
+<area shape="poly" id="edge892_Node000000_Node000002" title=" " alt="" coords="109,67,145,68,140,70,110,72"/>
+<area shape="rect" id="Node000003" href="$d0/d26/classMTT__EmbryonicTrack.html" title="Corresponds with Suppressor block 385." alt="" coords="142,107,292,133"/>
+<area shape="poly" id="edge893_Node000000_Node000003" title=" " alt="" coords="109,84,173,105,168,107,108,90"/>
+</map>

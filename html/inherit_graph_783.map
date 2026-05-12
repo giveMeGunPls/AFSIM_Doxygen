@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d4/d1b/classWsfEventPipeLogger.html" title=" " alt="" coords="5,183,150,209"/>
+<area shape="rect" id="Node000001" href="$d7/d6c/classWsfMilEventPipe.html" title=" " alt="" coords="227,5,349,32"/>
+<area shape="poly" id="edge1853_Node000000_Node000001" title=" " alt="" coords="91,168,132,104,162,70,196,42,228,28,224,32,199,46,166,74,137,107,95,170"/>
+<area shape="rect" id="Node000002" href="$d9/db9/classwsf_1_1AirCombat_1_1EventPipe.html" title="This is the class that is responsible for logging all Air Combat related events." alt="" coords="198,56,378,83"/>
+<area shape="poly" id="edge1854_Node000000_Node000002" title=" " alt="" coords="100,169,142,130,196,92,226,82,222,85,199,97,146,134,104,173"/>
+<area shape="rect" id="Node000003" href="$d0/dd0/classwsf_1_1annotation_1_1EventPipe.html" title=" " alt="" coords="199,107,377,133"/>
+<area shape="poly" id="edge1855_Node000000_Node000003" title=" " alt="" coords="121,174,197,143,236,132,231,136,199,148,124,178"/>
+<area shape="rect" id="Node000004" href="$df/d8e/classwsf_1_1cyber_1_1EventPipe.html" title=" " alt="" coords="213,157,363,184"/>
+<area shape="poly" id="edge1856_Node000000_Node000004" title=" " alt="" coords="164,183,214,178,210,181,167,188"/>
+<area shape="rect" id="Node000005" href="$d1/d30/classwsf_1_1p6dof_1_1EventPipe.html" title=" " alt="" coords="213,208,363,235"/>
+<area shape="poly" id="edge1857_Node000000_Node000005" title=" " alt="" coords="165,204,214,211,210,213,166,209"/>
+<area shape="rect" id="Node000006" href="$db/d18/classwsf_1_1six__dof_1_1EventPipe.html" title=" " alt="" coords="208,259,368,285"/>
+<area shape="poly" id="edge1858_Node000000_Node000006" title=" " alt="" coords="122,213,199,244,236,257,231,259,197,249,122,219"/>
+<area shape="rect" id="Node000007" href="$db/d6e/classwsf_1_1space_1_1EventPipe.html" title=" " alt="" coords="211,309,364,336"/>
+<area shape="poly" id="edge1859_Node000000_Node000007" title=" " alt="" coords="102,218,146,258,199,295,227,308,222,309,196,300,142,262,101,223"/>
+<area shape="rect" id="Node000008" href="$d3/dd2/classwsf_1_1xio_1_1EventPipe.html" title=" " alt="" coords="220,360,356,387"/>
+<area shape="poly" id="edge1860_Node000000_Node000008" title=" " alt="" coords="94,221,137,285,166,318,199,346,223,360,217,359,196,350,162,322,132,288,92,226"/>
+</map>

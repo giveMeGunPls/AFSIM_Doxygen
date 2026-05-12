@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/d9a/classWsfPathList_1_1DynamicsData.html" title="Contains data about the acceleration and altitude changes during a segment." alt="" coords="5,5,194,32"/>
+<area shape="rect" id="Node000001" href="$d1/d8b/classWsfPathList_1_1RotationSegment.html" title="Represents a rotation around an axis. Behaves using values in DynamicsData." alt="" coords="242,27,444,53"/>
+<area shape="poly" id="edge2667_Node000000_Node000001" title=" " alt="" coords="209,26,244,30,239,32,210,31"/>
+<area shape="rect" id="Node000002" href="$db/d0e/classWsfPathList_1_1RotationData.html" title="Contains data about a rotation." alt="" coords="10,56,189,83"/>
+<area shape="poly" id="edge2669_Node000002_Node000001" title=" " alt="" coords="203,54,244,51,239,53,205,59"/>
+<area shape="rect" id="Node000003" href="$d0/dd7/classWsfPathList_1_1RotationArcSegment.html" title="Represents a rotation around an axis, using constant speed / altitude." alt="" coords="258,77,428,120"/>
+<area shape="poly" id="edge2668_Node000002_Node000003" title=" " alt="" coords="204,79,260,88,255,89,204,85"/>
+<area shape="rect" id="Node000004" href="$d1/dcd/classWsfPathList_1_1Segment.html" title="Defines an entity&#39;s segment from one state to another over time." alt="" coords="23,107,176,133"/>
+<area shape="poly" id="edge2672_Node000004_Node000001" title=" " alt="" coords="175,99,192,92,216,78,241,63,278,53,273,55,243,68,219,82,195,97,177,104"/>
+<area shape="poly" id="edge2671_Node000004_Node000003" title=" " alt="" coords="191,109,260,105,254,107,191,115"/>
+<area shape="rect" id="Node000005" href="$de/dc3/classWsfPathList_1_1PauseSegment.html" title=" " alt="" coords="248,144,438,171"/>
+<area shape="poly" id="edge2670_Node000004_Node000005" title=" " alt="" coords="191,131,254,143,249,144,191,137"/>
+</map>

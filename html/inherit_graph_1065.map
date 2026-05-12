@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d2/d56/classWsfParseSourceProvider.html" title="Interface providing source files to the WsfParser." alt="" coords="5,31,174,57"/>
+<area shape="rect" id="Node000001" href="$dc/d1f/classParseSourceProvider.html" title=" " alt="" coords="247,5,391,32"/>
+<area shape="poly" id="edge2664_Node000000_Node000001" title=" " alt="" coords="189,30,249,26,244,27,190,36"/>
+<area shape="rect" id="Node000002" href="$db/d99/classwizard_1_1CacheSourceProvider.html" title="Provides sources to the WsfParser from the TextSourceCache instead of the files directly." alt="" coords="222,56,416,83"/>
+<area shape="poly" id="edge2665_Node000000_Node000002" title=" " alt="" coords="189,52,224,58,219,59,189,58"/>
+</map>

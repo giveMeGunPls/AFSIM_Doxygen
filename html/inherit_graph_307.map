@@ -1,0 +1,37 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,461,99,488"/>
+<area shape="rect" id="Node000001" href="$d3/de1/classWsfApplication_1_1Exception.html" title="An application exception." alt="" coords="173,113,348,140"/>
+<area shape="poly" id="edge1193_Node000000_Node000001" title=" " alt="" coords="65,447,144,301,251,138,249,143,149,304,70,449"/>
+<area shape="rect" id="Node000005" href="$db/d7a/classWsfException.html" title=" " alt="" coords="209,315,312,341"/>
+<area shape="poly" id="edge1197_Node000000_Node000005" title=" " alt="" coords="65,446,97,397,119,372,145,351,176,337,211,330,207,334,178,342,148,356,123,376,101,400,69,449"/>
+<area shape="rect" id="Node000012" href="$d1/d69/classWsfOrbitalEvent_1_1AdvanceMissionEventException.html" title=" " alt="" coords="173,365,349,408"/>
+<area shape="poly" id="edge1204_Node000000_Node000012" title=" " alt="" coords="85,451,146,418,179,407,175,410,148,422,88,454"/>
+<area shape="rect" id="Node000013" href="$d0/d5c/classprofiling_1_1Exception.html" title="profiling exception class" alt="" coords="195,432,327,459"/>
+<area shape="poly" id="edge1205_Node000000_Node000013" title=" " alt="" coords="113,464,196,453,192,457,115,468"/>
+<area shape="rect" id="Node000014" href="$d2/da1/classwsf_1_1space_1_1OrientationEntity_1_1EntityNotFoundException.html" title=" " alt="" coords="166,483,356,525"/>
+<area shape="poly" id="edge1206_Node000000_Node000014" title=" " alt="" coords="113,481,167,489,163,492,115,486"/>
+<area shape="rect" id="Node000015" href="$d9/ded/classwsf_1_1space_1_1OrientationEntity_1_1TrackLocationInvalidException.html" title=" " alt="" coords="157,549,364,592"/>
+<area shape="poly" id="edge1207_Node000000_Node000015" title=" " alt="" coords="82,495,114,516,148,535,177,548,172,550,146,540,111,520,83,500"/>
+<area shape="rect" id="Node000016" href="$d8/d96/classwsf_1_1space_1_1OrientationEntity_1_1TrackNotFoundException.html" title=" " alt="" coords="166,616,356,659"/>
+<area shape="poly" id="edge1208_Node000000_Node000016" title=" " alt="" coords="66,499,100,553,122,579,148,602,169,615,164,616,145,606,119,583,96,556,66,505"/>
+<area shape="rect" id="Node000017" href="$db/d59/classwsf_1_1space_1_1OrientationGeoPoint_1_1GeoPointNotFoundException.html" title=" " alt="" coords="147,683,375,725"/>
+<area shape="poly" id="edge1209_Node000000_Node000017" title=" " alt="" coords="59,501,72,540,90,585,115,630,148,669,166,682,161,682,145,673,110,633,85,587,67,542,59,506"/>
+<area shape="rect" id="Node000002" href="$d1/d38/classWsfApplication_1_1FeatureNotPresent.html" title=" " alt="" coords="436,5,618,48"/>
+<area shape="poly" id="edge1194_Node000001_Node000002" title=" " alt="" coords="305,105,422,58,458,47,454,50,424,62,309,109"/>
+<area shape="rect" id="Node000003" href="$d2/d17/classWsfStandardApplication_1_1InputProcessingFailure.html" title="An exception that is thrown when a command line argument cannot be parsed." alt="" coords="446,72,608,115"/>
+<area shape="poly" id="edge1195_Node000001_Node000003" title=" " alt="" coords="363,111,447,102,443,105,365,116"/>
+<area shape="rect" id="Node000004" href="$d3/d54/classWsfStandardApplication_1_1InvalidCommandLineArgument.html" title="An exception that is thrown when a command line argument cannot be parsed." alt="" coords="423,139,630,181"/>
+<area shape="poly" id="edge1196_Node000001_Node000004" title=" " alt="" coords="363,137,425,146,420,148,365,142"/>
+<area shape="rect" id="Node000006" href="$db/db7/classWsfDuplicateExtension.html" title="An exception that is thrown when attempting to register a duplicate extension." alt="" coords="448,205,606,232"/>
+<area shape="poly" id="edge1198_Node000005_Node000006" title=" " alt="" coords="296,304,354,272,422,242,461,231,457,234,424,246,356,277,299,309"/>
+<area shape="rect" id="Node000007" href="$d9/da0/classWsfSimulation_1_1CreateError.html" title=" " alt="" coords="436,256,617,283"/>
+<area shape="poly" id="edge1199_Node000005_Node000007" title=" " alt="" coords="326,311,465,282,461,285,329,316"/>
+<area shape="rect" id="Node000008" href="$dc/d6d/classWsfSimulation_1_1InitializeError.html" title="An exception that is thrown when Initialize() fails." alt="" coords="446,307,608,349"/>
+<area shape="poly" id="edge1200_Node000005_Node000008" title=" " alt="" coords="327,325,448,327,443,329,329,331"/>
+<area shape="rect" id="Node000009" href="$d0/d35/classWsfSimulation_1_1StartError.html" title="An exception that is thrown when Start() fails." alt="" coords="442,373,612,400"/>
+<area shape="poly" id="edge1201_Node000005_Node000009" title=" " alt="" coords="327,340,465,372,460,374,328,345"/>
+<area shape="rect" id="Node000010" href="$de/d75/classWsfUncloneableException.html" title="An exception that gets thrown when an attempt is made to Clone() an unclonable object." alt="" coords="439,424,614,451"/>
+<area shape="poly" id="edge1202_Node000005_Node000010" title=" " alt="" coords="327,332,353,340,376,351,393,366,401,381,410,396,425,410,449,423,444,424,421,414,405,399,397,384,389,369,374,356,351,345,328,338"/>
+<area shape="rect" id="Node000011" href="$de/ddd/classWsfUnknownExtension.html" title="Exception thrown when attempting to get an unknown extension." alt="" coords="448,475,606,501"/>
+<area shape="poly" id="edge1203_Node000005_Node000011" title=" " alt="" coords="327,329,354,338,377,351,389,365,397,379,402,407,407,435,413,448,425,461,450,477,445,477,421,465,409,451,402,437,397,408,392,381,385,368,373,355,351,342,328,335"/>
+</map>

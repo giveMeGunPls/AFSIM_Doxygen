@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/d3b/classWsfFuelFlow.html" title="Constant flow rate fuel consumption table object." alt="" coords="5,56,104,83"/>
+<area shape="rect" id="Node000001" href="$db/d5b/classWsfFuelFlow1D.html" title=" " alt="" coords="152,5,267,32"/>
+<area shape="poly" id="edge1877_Node000000_Node000001" title=" " alt="" coords="111,48,168,31,164,34,113,53"/>
+<area shape="rect" id="Node000002" href="$d5/d83/classWsfFuelFlow2D.html" title="Two&#45;Dimensional flow rate fuel consumption table object." alt="" coords="152,56,267,83"/>
+<area shape="poly" id="edge1878_Node000000_Node000002" title=" " alt="" coords="119,67,154,68,149,70,120,72"/>
+<area shape="rect" id="Node000003" href="$db/d78/classWsfFuelFlow3D.html" title="Three&#45;Dimensional flow rate fuel consumption table object." alt="" coords="152,107,267,133"/>
+<area shape="poly" id="edge1879_Node000000_Node000003" title=" " alt="" coords="113,86,169,105,164,107,112,91"/>
+</map>

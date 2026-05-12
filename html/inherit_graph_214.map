@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,247,74,273"/>
+<area shape="rect" id="Node000001" href="$d1/df8/classwizard_1_1ContextMenuActions_1_1AddToStartupFiles.html" title=" " alt="" coords="136,5,325,48"/>
+<area shape="poly" id="edge998_Node000000_Node000001" title=" " alt="" coords="42,231,50,192,65,146,87,99,120,58,139,46,136,51,124,62,92,102,70,148,55,193,47,231"/>
+<area shape="rect" id="Node000002" href="$dc/d06/classwizard_1_1ContextMenuActions_1_1OpenFileInEditor.html" title=" " alt="" coords="136,72,325,115"/>
+<area shape="poly" id="edge999_Node000000_Node000002" title=" " alt="" coords="48,231,75,177,95,149,120,125,141,113,138,117,123,129,99,152,80,180,53,233"/>
+<area shape="rect" id="Node000003" href="$d9/d8f/classwizard_1_1ContextMenuActions_1_1OpenFileInProject.html" title=" " alt="" coords="136,139,325,181"/>
+<area shape="poly" id="edge1000_Node000000_Node000003" title=" " alt="" coords="63,234,89,211,120,191,149,180,145,184,123,196,93,216,67,237"/>
+<area shape="rect" id="Node000004" href="$dd/d17/classwizard_1_1ContextMenuActions_1_1RemoveFromStartupFiles.html" title=" " alt="" coords="136,205,325,248"/>
+<area shape="poly" id="edge1001_Node000000_Node000004" title=" " alt="" coords="88,249,137,241,133,245,91,254"/>
+<area shape="rect" id="Node000005" href="$d3/d71/classwizard_1_1ContextMenuActions_1_1SetAsStartupFile.html" title=" " alt="" coords="136,272,325,315"/>
+<area shape="poly" id="edge1002_Node000000_Node000005" title=" " alt="" coords="88,266,137,275,133,278,90,271"/>
+<area shape="rect" id="Node000006" href="$d4/d99/classwizard_1_1ContextMenuActions_1_1ShowStartupFilesDialog.html" title=" " alt="" coords="136,339,325,381"/>
+<area shape="poly" id="edge1003_Node000000_Node000006" title=" " alt="" coords="65,281,93,304,123,324,149,337,144,339,120,329,89,309,65,287"/>
+<area shape="rect" id="Node000007" href="$da/d7a/classwizard_1_1CreatePlatform.html" title=" " alt="" coords="153,405,308,432"/>
+<area shape="poly" id="edge1004_Node000000_Node000007" title=" " alt="" coords="51,285,79,341,99,368,123,391,155,408,150,409,120,396,95,372,74,344,50,291"/>
+<area shape="rect" id="Node000008" href="$d4/d27/classwizard_1_1ViewTypeSummaryAction.html" title=" " alt="" coords="122,456,339,483"/>
+<area shape="poly" id="edge1005_Node000000_Node000008" title=" " alt="" coords="45,286,56,323,71,365,93,407,123,442,142,456,137,455,120,446,88,410,66,367,51,325,45,291"/>
+</map>

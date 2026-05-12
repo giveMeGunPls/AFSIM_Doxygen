@@ -1,0 +1,51 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d1/d21/classengage_1_1Events_1_1Event.html" title=" " alt="" coords="5,764,160,791"/>
+<area shape="rect" id="Node000001" href="$dc/db7/classengage_1_1Events_1_1SensorDetectionAttempt.html" title=" " alt="" coords="215,5,432,48"/>
+<area shape="poly" id="edge840_Node000000_Node000001" title=" " alt="" coords="82,748,90,604,110,398,126,291,147,194,173,114,189,82,206,58,222,46,219,51,210,62,193,85,178,116,152,195,132,292,116,398,96,605,88,749"/>
+<area shape="rect" id="Node000002" href="$dd/d02/classengage_1_1Events_1_1SensorDetectionChanged.html" title=" " alt="" coords="215,72,432,115"/>
+<area shape="poly" id="edge841_Node000000_Node000002" title=" " alt="" coords="83,748,93,617,114,430,131,334,151,247,176,175,190,146,206,125,223,113,220,117,210,128,195,149,181,177,156,248,136,335,120,431,98,617,88,749"/>
+<area shape="rect" id="Node000003" href="$d3/d81/classengage_1_1Events_1_1SensorFrequencyChanged.html" title=" " alt="" coords="212,139,434,181"/>
+<area shape="poly" id="edge842_Node000000_Node000003" title=" " alt="" coords="83,748,95,628,119,462,135,377,155,299,178,236,191,211,206,192,223,179,220,184,210,195,196,213,183,238,160,301,140,378,124,463,101,629,89,749"/>
+<area shape="rect" id="Node000004" href="$d7/d52/classengage_1_1Events_1_1SensorModeActivated.html" title=" " alt="" coords="227,205,420,248"/>
+<area shape="poly" id="edge843_Node000000_Node000004" title=" " alt="" coords="84,748,98,641,123,494,140,420,159,352,181,297,206,258,228,243,225,248,210,262,186,299,164,354,145,421,128,495,103,642,90,749"/>
+<area shape="rect" id="Node000005" href="$da/d22/classengage_1_1Events_1_1SensorModeDeactivated.html" title=" " alt="" coords="227,272,420,315"/>
+<area shape="poly" id="edge844_Node000000_Node000005" title=" " alt="" coords="80,749,82,666,88,612,98,553,113,491,136,431,166,375,206,325,228,310,225,315,210,329,170,378,140,433,118,493,103,554,93,613,88,667,85,749"/>
+<area shape="rect" id="Node000006" href="$de/d2e/classengage_1_1Events_1_1SensorNonOperational.html" title=" " alt="" coords="231,339,416,381"/>
+<area shape="poly" id="edge845_Node000000_Node000006" title=" " alt="" coords="82,748,88,676,106,581,122,530,143,480,171,433,206,391,231,375,229,380,209,395,175,436,148,482,127,531,111,582,93,677,87,749"/>
+<area shape="rect" id="Node000007" href="$d7/d4f/classengage_1_1Events_1_1SensorOperational.html" title=" " alt="" coords="210,405,437,432"/>
+<area shape="poly" id="edge846_Node000000_Node000007" title=" " alt="" coords="83,748,91,685,111,602,127,558,148,515,174,476,206,442,226,430,223,435,209,446,178,479,152,518,132,560,116,603,97,686,88,749"/>
+<area shape="rect" id="Node000008" href="$d6/d5c/classengage_1_1Events_1_1SensorRequestCanceled.html" title=" " alt="" coords="218,456,428,499"/>
+<area shape="poly" id="edge847_Node000000_Node000008" title=" " alt="" coords="86,748,99,697,122,632,157,566,179,535,206,509,226,497,223,502,209,513,184,539,161,569,127,635,104,699,92,749"/>
+<area shape="rect" id="Node000009" href="$db/d01/classengage_1_1Events_1_1SensorRequestInitiated.html" title=" " alt="" coords="218,523,428,565"/>
+<area shape="poly" id="edge848_Node000000_Node000009" title=" " alt="" coords="91,749,107,710,132,663,165,616,206,575,228,564,225,568,209,579,169,619,137,666,112,712,96,751"/>
+<area shape="rect" id="Node000010" href="$d0/d60/classengage_1_1Events_1_1SensorRequestUpdated.html" title=" " alt="" coords="218,589,428,632"/>
+<area shape="poly" id="edge849_Node000000_Node000010" title=" " alt="" coords="99,750,144,695,173,666,206,642,232,630,229,635,209,646,177,670,147,699,104,753"/>
+<area shape="rect" id="Node000011" href="$d0/d1a/classengage_1_1Events_1_1SensorTrackCoasted.html" title=" " alt="" coords="226,656,420,699"/>
+<area shape="poly" id="edge850_Node000000_Node000011" title=" " alt="" coords="117,754,160,730,207,708,241,697,238,701,209,713,162,735,121,757"/>
+<area shape="rect" id="Node000012" href="$df/d30/classengage_1_1Events_1_1SensorTrackDropped.html" title=" " alt="" coords="226,723,420,765"/>
+<area shape="poly" id="edge851_Node000000_Node000012" title=" " alt="" coords="173,763,228,756,224,759,177,767"/>
+<area shape="rect" id="Node000013" href="$d0/d72/classengage_1_1Events_1_1SensorTrackInitiated.html" title=" " alt="" coords="226,789,420,832"/>
+<area shape="poly" id="edge852_Node000000_Node000013" title=" " alt="" coords="174,788,228,796,224,799,176,792"/>
+<area shape="rect" id="Node000014" href="$d3/dd5/classengage_1_1Events_1_1SensorTrackUpdated.html" title=" " alt="" coords="226,856,420,899"/>
+<area shape="poly" id="edge853_Node000000_Node000014" title=" " alt="" coords="118,796,162,820,209,842,242,854,237,857,207,846,160,824,120,801"/>
+<area shape="rect" id="Node000015" href="$d8/d1b/classengage_1_1Events_1_1SensorTurnedOff.html" title=" " alt="" coords="214,923,432,949"/>
+<area shape="poly" id="edge854_Node000000_Node000015" title=" " alt="" coords="100,801,147,857,176,885,209,908,236,921,231,923,206,913,173,889,143,861,101,806"/>
+<area shape="rect" id="Node000016" href="$d3/d36/classengage_1_1Events_1_1SensorTurnedOn.html" title=" " alt="" coords="214,973,432,1000"/>
+<area shape="poly" id="edge855_Node000000_Node000016" title=" " alt="" coords="94,802,114,840,138,882,170,924,209,959,232,972,227,974,206,964,166,928,134,885,109,842,95,807"/>
+<area shape="rect" id="Node000017" href="$d9/dcb/classengage_1_1Events_1_1SimulationComplete.html" title=" " alt="" coords="233,1024,414,1067"/>
+<area shape="poly" id="edge856_Node000000_Node000017" title=" " alt="" coords="91,803,108,850,131,905,165,962,186,987,209,1010,235,1026,230,1028,206,1014,182,991,161,965,127,908,103,852,91,808"/>
+<area shape="rect" id="Node000018" href="$d4/d76/classengage_1_1Events_1_1WeaponFireAborted.html" title=" " alt="" coords="229,1091,418,1133"/>
+<area shape="poly" id="edge857_Node000000_Node000018" title=" " alt="" coords="87,803,101,863,122,936,138,974,157,1012,181,1046,209,1077,231,1092,226,1093,206,1081,177,1050,153,1014,133,977,117,938,96,864,87,809"/>
+<area shape="rect" id="Node000019" href="$d0/dca/classengage_1_1Events_1_1WeaponFireRequested.html" title=" " alt="" coords="229,1157,418,1200"/>
+<area shape="poly" id="edge858_Node000000_Node000019" title=" " alt="" coords="85,803,95,874,113,965,129,1014,150,1061,176,1105,209,1143,231,1159,226,1161,206,1147,172,1108,145,1063,124,1016,108,967,89,875,85,809"/>
+<area shape="rect" id="Node000020" href="$d1/d2f/classengage_1_1Events_1_1WeaponFired.html" title=" " alt="" coords="225,1224,422,1251"/>
+<area shape="poly" id="edge859_Node000000_Node000020" title=" " alt="" coords="83,804,88,887,93,939,103,996,118,1054,140,1111,170,1164,209,1210,227,1223,222,1224,206,1214,166,1167,136,1114,113,1056,98,997,88,940,82,887,83,809"/>
+<area shape="rect" id="Node000021" href="$dd/d82/classengage_1_1Events_1_1WeaponHit.html" title=" " alt="" coords="231,1275,416,1301"/>
+<area shape="poly" id="edge860_Node000000_Node000021" title=" " alt="" coords="87,803,104,908,129,1045,146,1114,165,1176,186,1227,210,1261,234,1278,228,1278,206,1265,181,1230,160,1178,141,1115,124,1046,99,909,87,809"/>
+<area shape="rect" id="Node000022" href="$d2/d0c/classengage_1_1Events_1_1WeaponKilled.html" title=" " alt="" coords="224,1325,423,1352"/>
+<area shape="poly" id="edge861_Node000000_Node000022" title=" " alt="" coords="87,803,102,917,126,1069,142,1147,162,1217,184,1273,210,1311,226,1325,221,1325,206,1315,179,1276,157,1218,137,1148,121,1070,97,918,86,809"/>
+<area shape="rect" id="Node000023" href="$da/dda/classengage_1_1Events_1_1WeaponMissed.html" title=" " alt="" coords="219,1376,428,1403"/>
+<area shape="poly" id="edge862_Node000000_Node000023" title=" " alt="" coords="86,803,100,926,122,1094,139,1179,159,1257,182,1320,195,1344,210,1362,225,1376,220,1375,206,1366,191,1347,177,1322,153,1258,133,1180,117,1095,94,927,86,808"/>
+<area shape="rect" id="Node000024" href="$de/d48/classengage_1_1Events_1_1WeaponTerminated.html" title=" " alt="" coords="208,1427,439,1453"/>
+<area shape="poly" id="edge863_Node000000_Node000024" title=" " alt="" coords="86,804,98,936,119,1119,135,1212,156,1297,180,1367,194,1393,210,1413,225,1427,220,1426,206,1417,190,1396,175,1369,150,1299,130,1213,114,1120,92,937,85,809"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/d56/classWsfQuantumAllocator.html" title=" " alt="" coords="5,213,155,240"/>
+<area shape="rect" id="Node000001" href="$dd/da6/classWsfQuantumAllocatorGreedyIsolated.html" title=" " alt="" coords="204,5,396,48"/>
+<area shape="poly" id="edge2801_Node000000_Node000001" title=" " alt="" coords="92,198,134,129,165,91,201,58,223,47,220,51,204,62,169,94,139,132,97,201"/>
+<area shape="rect" id="Node000002" href="$d0/ddf/classWsfQuantumAllocatorGreedyPriority.html" title=" " alt="" coords="204,72,396,115"/>
+<area shape="poly" id="edge2802_Node000000_Node000002" title=" " alt="" coords="103,201,147,162,201,124,229,113,225,117,204,129,151,166,108,204"/>
+<area shape="rect" id="Node000003" href="$de/d99/classWsfQuantumAllocatorGreedyProfit.html" title=" " alt="" coords="204,139,396,181"/>
+<area shape="poly" id="edge2803_Node000000_Node000003" title=" " alt="" coords="140,206,229,180,225,184,143,211"/>
+<area shape="rect" id="Node000004" href="$dc/dd2/classWsfQuantumAllocatorGreedyValue.html" title=" " alt="" coords="204,205,396,248"/>
+<area shape="poly" id="edge2804_Node000000_Node000004" title=" " alt="" coords="169,224,206,225,202,228,171,229"/>
+<area shape="rect" id="Node000005" href="$d2/d72/classWsfQuantumAllocatorOptimalProfit.html" title=" " alt="" coords="203,272,397,315"/>
+<area shape="poly" id="edge2805_Node000000_Node000005" title=" " alt="" coords="141,242,229,270,225,273,142,248"/>
+<area shape="rect" id="Node000006" href="$de/d10/classWsfQuantumAllocatorScript.html" title=" " alt="" coords="208,339,392,365"/>
+<area shape="poly" id="edge2806_Node000000_Node000006" title=" " alt="" coords="105,249,150,288,204,324,234,338,228,338,201,329,146,292,104,254"/>
+<area shape="rect" id="Node000007" href="$dd/d5b/classWsfQuantumAllocatorSimple.html" title=" " alt="" coords="205,389,394,416"/>
+<area shape="poly" id="edge2807_Node000000_Node000007" title=" " alt="" coords="97,251,140,315,170,348,204,375,228,389,223,389,201,380,166,351,136,318,95,256"/>
+</map>

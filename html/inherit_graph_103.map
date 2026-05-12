@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,56,192,83"/>
+<area shape="rect" id="Node000001" href="$db/dba/classwsf_1_1comm_1_1EdgeWeight.html" title=" " alt="" coords="261,5,426,32"/>
+<area shape="poly" id="edge875_Node000000_Node000001" title=" " alt="" coords="181,50,278,32,273,34,182,55"/>
+<area shape="rect" id="Node000002" href="$d6/d26/classwsf_1_1comm_1_1InverseEdgeWeight.html" title=" " alt="" coords="240,56,447,83"/>
+<area shape="poly" id="edge876_Node000000_Node000002" title=" " alt="" coords="207,67,242,69,236,70,208,72"/>
+<area shape="rect" id="Node000003" href="$d3/dcc/classwsf_1_1comm_1_1LeastHops.html" title=" " alt="" coords="265,107,422,133"/>
+<area shape="poly" id="edge877_Node000000_Node000003" title=" " alt="" coords="182,84,278,105,273,107,181,89"/>
+</map>

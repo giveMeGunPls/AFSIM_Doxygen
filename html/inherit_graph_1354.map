@@ -1,0 +1,39 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$dd/d2f/classWsfXIO__Service.html" title=" " alt="" coords="5,187,125,213"/>
+<area shape="rect" id="Node000001" href="$d1/dd8/classWsfXIO__DisService.html" title=" " alt="" coords="198,5,337,32"/>
+<area shape="poly" id="edge2881_Node000000_Node000001" title=" " alt="" coords="75,171,112,106,138,71,171,42,199,29,195,33,174,46,142,75,116,109,80,174"/>
+<area shape="rect" id="Node000002" href="$d1/d43/classWsfXIO__DrawService.html" title="Services WsfXIO_DrawRequests." alt="" coords="192,56,342,83"/>
+<area shape="poly" id="edge2882_Node000000_Node000002" title=" " alt="" coords="84,173,121,131,145,110,171,92,200,81,196,85,174,97,149,114,125,135,88,175"/>
+<area shape="rect" id="Node000003" href="$d4/dd3/classWsfXIO__MessageService.html" title="Provides WsfMessages sent and received by a platform as requested by WsfXIO_MessageRequest." alt="" coords="181,107,354,133"/>
+<area shape="poly" id="edge2883_Node000000_Node000003" title=" " alt="" coords="101,177,172,143,209,132,205,136,174,148,104,181"/>
+<area shape="rect" id="Node000004" href="$dd/d87/classWsfXIO__PlatformListService.html" title="Fulfills platform list subscription requests." alt="" coords="173,157,362,184"/>
+<area shape="poly" id="edge2884_Node000000_Node000004" title=" " alt="" coords="139,187,174,183,170,186,141,191"/>
+<area shape="rect" id="Node000005" href="$db/d38/classWsfXIO__ServiceT.html" title=" " alt="" coords="193,208,342,251"/>
+<area shape="poly" id="edge2885_Node000000_Node000005" title=" " alt="" coords="139,208,195,217,190,220,141,213"/>
+<area shape="rect" id="Node000006" href="$de/da3/classWsfXIO__SimService.html" title=" " alt="" coords="196,275,338,301"/>
+<area shape="poly" id="edge2886_Node000000_Node000006" title=" " alt="" coords="98,219,135,241,174,260,208,273,203,275,172,265,132,246,99,225"/>
+<area shape="rect" id="Node000017" href="$db/d7b/classWsfXIO__SimTimeService.html" title="Provides other applications with information regarding this application&#39;s simulation clock." alt="" coords="182,325,353,352"/>
+<area shape="poly" id="edge2897_Node000000_Node000017" title=" " alt="" coords="84,223,123,269,147,292,174,311,200,324,195,325,171,316,144,296,120,273,84,229"/>
+<area shape="rect" id="Node000018" href="$d4/dc9/classWsfXIO__TaskService.html" title=" " alt="" coords="194,376,341,403"/>
+<area shape="poly" id="edge2898_Node000000_Node000018" title=" " alt="" coords="77,225,94,258,115,295,142,331,174,362,196,375,191,376,171,366,138,335,110,298,89,261,77,230"/>
+<area shape="rect" id="Node000007" href="$db/d38/classWsfXIO__ServiceT.html" title=" " alt="" coords="415,93,601,152"/>
+<area shape="poly" id="edge2887_Node000006_Node000007" title=" " alt="" coords="351,267,360,261,371,249,378,238,384,214,390,188,408,162,422,154,426,151,412,166,395,190,389,215,383,240,376,252,364,265,354,272"/>
+<area shape="rect" id="Node000009" href="$db/d38/classWsfXIO__ServiceT.html" title=" " alt="" coords="410,176,606,235"/>
+<area shape="poly" id="edge2889_Node000006_Node000009" title=" " alt="" coords="337,268,361,260,438,234,434,236,363,265,340,272"/>
+<area shape="rect" id="Node000011" href="$db/d38/classWsfXIO__ServiceT.html" title=" " alt="" coords="415,259,601,317"/>
+<area shape="poly" id="edge2891_Node000006_Node000011" title=" " alt="" coords="353,285,417,287,412,289,354,291"/>
+<area shape="rect" id="Node000013" href="$db/d38/classWsfXIO__ServiceT.html" title=" " alt="" coords="415,341,601,400"/>
+<area shape="poly" id="edge2893_Node000006_Node000013" title=" " alt="" coords="338,303,363,311,439,340,433,341,361,316,339,309"/>
+<area shape="rect" id="Node000015" href="$db/d38/classWsfXIO__ServiceT.html" title=" " alt="" coords="412,424,604,483"/>
+<area shape="poly" id="edge2895_Node000006_Node000015" title=" " alt="" coords="353,304,364,311,376,324,383,336,389,361,395,386,412,410,427,424,422,423,408,414,390,388,384,362,378,338,371,327,360,315,352,309"/>
+<area shape="rect" id="Node000008" href="$d7/d5f/classWsfXIO__PlatformInfoService.html" title=" " alt="" coords="666,109,857,136"/>
+<area shape="poly" id="edge2888_Node000007_Node000008" title=" " alt="" coords="616,120,669,122,663,123,617,125"/>
+<area shape="rect" id="Node000010" href="$d8/d21/classWsfXIO__PlatformPartInfoService.html" title=" " alt="" coords="654,192,869,219"/>
+<area shape="poly" id="edge2890_Node000009_Node000010" title=" " alt="" coords="622,203,656,205,651,206,623,208"/>
+<area shape="rect" id="Node000012" href="$d9/d8c/classWsfXIO__ScriptService.html" title="Handles requests for script listings, and remote script execution." alt="" coords="685,275,838,301"/>
+<area shape="poly" id="edge2892_Node000011_Node000012" title=" " alt="" coords="616,285,687,288,682,288,617,291"/>
+<area shape="rect" id="Node000014" href="$d7/d90/classWsfXIO__SensorService.html" title=" " alt="" coords="681,357,842,384"/>
+<area shape="poly" id="edge2894_Node000013_Node000014" title=" " alt="" coords="616,368,684,370,678,371,617,373"/>
+<area shape="rect" id="Node000016" href="$da/d2d/classWsfXIO__TrackService.html" title="Sends track information to fulfill the WsfXIO_TrackRequests." alt="" coords="685,440,838,467"/>
+<area shape="poly" id="edge2896_Node000015_Node000016" title=" " alt="" coords="620,451,687,453,682,453,620,456"/>
+</map>

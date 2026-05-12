@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d1/d9b/classWsfXIO__Request.html" title=" " alt="" coords="5,233,130,260"/>
+<area shape="rect" id="Node000001" href="$d6/dd9/classWsfXIO__DisRequest.html" title=" " alt="" coords="215,5,360,32"/>
+<area shape="poly" id="edge2868_Node000000_Node000001" title=" " alt="" coords="73,218,86,178,107,130,137,82,155,61,176,42,194,31,216,24,213,28,196,36,179,46,159,64,141,85,112,133,91,180,78,219"/>
+<area shape="rect" id="Node000002" href="$d3/d09/classWsfXIO__DrawRequest.html" title=" " alt="" coords="210,56,365,83"/>
+<area shape="poly" id="edge2869_Node000000_Node000002" title=" " alt="" coords="79,218,116,154,143,121,176,92,211,78,207,82,179,97,147,124,120,157,83,220"/>
+<area shape="rect" id="Node000003" href="$df/dc7/classWsfXIO__MessageRequest.html" title="Requests copies of messages sent/received by a platform." alt="" coords="199,107,376,133"/>
+<area shape="poly" id="edge2870_Node000000_Node000003" title=" " alt="" coords="87,220,126,180,150,160,176,143,207,132,203,136,179,148,153,164,130,184,92,223"/>
+<area shape="rect" id="Node000004" href="$df/da1/classWsfXIO__PlatformInfoRequest.html" title="Request for platform information." alt="" coords="190,157,385,184"/>
+<area shape="poly" id="edge2871_Node000000_Node000004" title=" " alt="" coords="106,224,177,193,219,183,215,186,179,199,109,228"/>
+<area shape="rect" id="Node000005" href="$d8/dc3/classWsfXIO__PlatformListRequest.html" title=" " alt="" coords="190,208,384,235"/>
+<area shape="poly" id="edge2872_Node000000_Node000005" title=" " alt="" coords="144,235,192,231,188,234,146,240"/>
+<area shape="rect" id="Node000006" href="$d0/d12/classWsfXIO__PlatformPartInfoRequest.html" title="Request for platform part information." alt="" coords="178,259,397,285"/>
+<area shape="poly" id="edge2873_Node000000_Node000006" title=" " alt="" coords="144,253,180,258,175,261,146,258"/>
+<area shape="rect" id="Node000007" href="$d4/dd3/classWsfXIO__SensorDataRequest.html" title=" " alt="" coords="191,309,384,336"/>
+<area shape="poly" id="edge2874_Node000000_Node000007" title=" " alt="" coords="108,265,179,295,219,308,214,310,177,300,108,270"/>
+<area shape="rect" id="Node000008" href="$da/d7a/classWsfXIO__SimTimeRequest.html" title=" " alt="" coords="199,360,376,387"/>
+<area shape="poly" id="edge2875_Node000000_Node000008" title=" " alt="" coords="90,270,130,310,153,329,179,346,208,359,202,360,176,350,150,334,126,314,89,275"/>
+<area shape="rect" id="Node000010" href="$d4/d7a/classWsfXIO__TaskRequest.html" title=" " alt="" coords="211,411,364,437"/>
+<area shape="poly" id="edge2877_Node000000_Node000010" title=" " alt="" coords="82,272,120,336,147,369,179,396,213,414,208,414,176,401,143,373,116,339,80,277"/>
+<area shape="rect" id="Node000011" href="$d1/dc3/classWsfXIO__TrackRequest.html" title=" " alt="" coords="209,461,366,488"/>
+<area shape="poly" id="edge2878_Node000000_Node000011" title=" " alt="" coords="76,272,91,314,112,361,141,408,159,429,179,447,211,465,206,465,176,452,155,433,137,411,107,363,86,315,75,278"/>
+<area shape="rect" id="Node000009" href="$d8/d11/classWsfXIO__TimeSynchronization.html" title=" " alt="" coords="445,360,642,387"/>
+<area shape="poly" id="edge2876_Node000008_Node000009" title=" " alt="" coords="391,371,447,373,442,374,392,376"/>
+</map>
