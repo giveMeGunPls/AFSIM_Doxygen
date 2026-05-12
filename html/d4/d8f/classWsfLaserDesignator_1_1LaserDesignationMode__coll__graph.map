@@ -1,0 +1,82 @@
+<map id="WsfLaserDesignator::LaserDesignationMode" name="WsfLaserDesignator::LaserDesignationMode">
+<area shape="rect" id="Node000001" title="A mode of the sensor." alt="" coords="2109,321,2271,364"/>
+<area shape="rect" id="Node000002" href="$d1/da1/classWsfSensorMode.html" title=" " alt="" coords="1669,403,1787,429"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1802,402,2111,355,2105,356,1803,407"/>
+<area shape="rect" id="Node000003" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="1336,320,1414,347"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1429,333,1526,343,1581,353,1635,367,1673,382,1707,402,1702,402,1671,387,1633,372,1580,358,1525,348,1429,338"/>
+<area shape="rect" id="Node000031" href="$de/daf/classWsfEM__XmtrRcvr.html" title=" " alt="" coords="1664,161,1792,188"/>
+<area shape="poly" id="edge45_Node000031_Node000003" title=" " alt="" coords="1429,327,1527,309,1581,292,1633,268,1659,250,1682,228,1715,190,1720,187,1686,231,1662,254,1635,273,1583,297,1528,314,1430,332"/>
+<area shape="rect" id="Node000004" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="976,320,1064,347"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1079,331,1338,333,1333,334,1080,336"/>
+<area shape="rect" id="Node000005" href="$d0/d47/classWsfSensor.html" title=" " alt="" coords="1332,451,1418,477"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="1433,462,1528,458,1633,444,1689,431,1694,429,1635,449,1528,463,1434,467"/>
+<area shape="rect" id="Node000021" href="$d1/dd8/classWsfLaserDesignator.html" title=" " alt="" coords="1658,607,1798,633"/>
+<area shape="poly" id="edge26_Node000021_Node000005" title=" " alt="" coords="1427,481,1524,521,1635,570,1704,607,1699,606,1633,574,1522,526,1426,486"/>
+<area shape="rect" id="Node000006" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="954,371,1086,397"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1100,396,1260,429,1334,452,1329,452,1259,435,1100,401"/>
+<area shape="rect" id="Node000029" href="$d3/d00/classWsfEM__Antenna.html" title=" " alt="" coords="1315,235,1435,261"/>
+<area shape="poly" id="edge36_Node000029_Node000006" title=" " alt="" coords="1088,363,1110,356,1240,305,1341,263,1346,261,1242,310,1112,361,1090,368"/>
+<area shape="rect" id="Node000007" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="589,283,708,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="723,311,963,369,958,371,723,316"/>
+<area shape="rect" id="Node000008" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="30,180,114,207"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="129,201,590,283,587,288,129,206"/>
+<area shape="rect" id="Node000015" href="$d0/dc6/classWsfUncloneableObject.html" title="An object that does not support Clone." alt="" coords="202,351,357,377"/>
+<area shape="poly" id="edge15_Node000015_Node000008" title=" " alt="" coords="92,217,136,266,190,317,217,334,246,349,241,351,214,339,186,321,132,270,93,222"/>
+<area shape="rect" id="Node000017" href="$de/dd7/classWsfPlatform.html" title="Platforms represent a entity within the simulation." alt="" coords="601,436,696,463"/>
+<area shape="poly" id="edge18_Node000017_Node000008" title=" " alt="" coords="81,219,97,259,119,305,150,351,168,370,189,387,212,395,252,404,366,420,603,444,599,447,366,425,251,409,210,400,187,392,165,374,146,354,115,308,92,261,81,224"/>
+<area shape="rect" id="Node000032" href="$de/d68/classWsfEM__Attenuation.html" title=" " alt="" coords="394,19,533,45"/>
+<area shape="poly" id="edge42_Node000032_Node000008" title=" " alt="" coords="83,165,113,115,135,90,161,70,219,44,281,30,341,24,396,25,392,28,341,30,281,35,221,49,164,74,139,94,118,118,88,167"/>
+<area shape="rect" id="Node000033" href="$d5/d88/classWsfEM__Propagation.html" title="An abstract base class for computing pattern propagation factors." alt="" coords="764,77,905,104"/>
+<area shape="poly" id="edge44_Node000033_Node000008" title=" " alt="" coords="98,168,138,139,187,115,265,94,345,80,426,71,506,67,651,70,766,80,761,83,651,75,506,73,427,77,346,85,266,99,189,120,141,143,102,171"/>
+<area shape="rect" id="Node000009" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="198,459,360,485"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="321,449,619,308,616,312,324,454"/>
+<area shape="poly" id="edge19_Node000017_Node000009" title=" " alt="" coords="375,464,603,451,599,454,376,469"/>
+<area shape="rect" id="Node000010" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="16,459,128,485"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="142,470,200,470,196,474,145,474"/>
+<area shape="rect" id="Node000011" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="230,280,328,307"/>
+<area shape="poly" id="edge10_Node000007_Node000011" title=" " alt="" coords="343,291,591,294,587,297,344,296"/>
+<area shape="poly" id="edge22_Node000017_Node000011" title=" " alt="" coords="324,311,558,414,610,435,605,436,556,418,324,316"/>
+<area shape="poly" id="edge39_Node000031_Node000011" title=" " alt="" coords="334,272,437,243,556,217,717,197,881,183,1044,173,1201,168,1475,166,1666,172,1661,173,1475,171,1201,173,1045,178,882,188,717,202,557,223,438,248,337,277"/>
+<area shape="rect" id="Node000012" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="208,129,351,156"/>
+<area shape="poly" id="edge11_Node000007_Node000012" title=" " alt="" coords="365,142,465,152,506,162,534,177,544,188,548,200,548,224,548,247,551,258,559,269,573,279,591,289,586,290,570,284,555,273,546,260,542,248,543,224,543,201,539,191,531,181,504,167,464,158,367,147"/>
+<area shape="poly" id="edge23_Node000017_Node000012" title=" " alt="" coords="316,162,365,196,423,240,482,295,535,356,543,373,546,387,549,401,559,414,579,428,603,440,598,440,576,433,555,418,544,403,541,388,538,374,530,359,479,298,420,244,362,200,316,167"/>
+<area shape="poly" id="edge40_Node000031_Node000012" title=" " alt="" coords="365,140,833,139,1376,139,1506,143,1634,157,1666,164,1661,164,1634,163,1505,148,1376,144,833,144,367,145"/>
+<area shape="rect" id="Node000013" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="557,232,740,259"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="714,261,741,268,789,279,828,284,865,294,907,319,916,329,920,339,923,348,931,357,957,372,951,372,928,361,919,351,915,341,911,332,904,323,863,299,827,289,788,284,739,273,715,266"/>
+<area shape="poly" id="edge35_Node000029_Node000013" title=" " alt="" coords="755,243,1317,246,1312,249,756,248"/>
+<area shape="rect" id="Node000014" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="580,377,716,404"/>
+<area shape="poly" id="edge13_Node000006_Node000014" title=" " alt="" coords="732,387,956,384,951,386,733,392"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="372,368,582,384,577,387,373,373"/>
+<area shape="rect" id="Node000016" href="$dd/db4/classWsfCategoryList.html" title="Contains the &#39;categories&#39; to which an object belongs." alt="" coords="960,447,1080,473"/>
+<area shape="poly" id="edge16_Node000005_Node000016" title=" " alt="" coords="1095,458,1334,463,1329,464,1096,463"/>
+<area shape="poly" id="edge17_Node000002_Node000017" title=" " alt="" coords="711,456,814,470,930,483,1080,494,1198,498,1315,496,1466,487,1551,483,1588,478,1633,465,1673,448,1705,431,1710,429,1675,453,1635,471,1589,483,1552,488,1466,492,1315,501,1198,503,1080,499,929,488,813,476,711,462"/>
+<area shape="rect" id="Node000018" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="188,509,370,536"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="364,503,603,457,599,460,366,508"/>
+<area shape="rect" id="Node000019" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="5,509,139,536"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="153,520,190,521,185,524,155,525"/>
+<area shape="rect" id="Node000020" href="$d8/df1/structWsfSensorMode_1_1ReportingFlags.html" title=" " alt="" coords="1284,384,1466,427"/>
+<area shape="poly" id="edge24_Node000002_Node000020" title=" " alt="" coords="1481,412,1490,412,1671,417,1666,417,1490,417,1481,417"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="1764,596,2150,365,2155,364,1766,601"/>
+<area shape="rect" id="Node000022" href="$dc/daa/classWsfLaserDesignations.html" title=" " alt="" coords="1298,629,1452,656"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="1467,647,1548,649,1634,643,1683,634,1688,633,1634,648,1549,654,1467,653"/>
+<area shape="rect" id="Node000023" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="938,595,1102,621"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="1118,615,1301,635,1295,635,1118,620"/>
+<area shape="rect" id="Node000024" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="597,595,700,621"/>
+<area shape="poly" id="edge29_Node000023_Node000024" title=" " alt="" coords="715,605,940,608,935,608,716,611"/>
+<area shape="rect" id="Node000025" href="$da/d30/classWsfLaserDesignationsData.html" title=" " alt="" coords="929,645,1111,672"/>
+<area shape="poly" id="edge30_Node000022_Node000025" title=" " alt="" coords="1126,651,1300,646,1295,646,1127,657"/>
+<area shape="rect" id="Node000026" href="$d9/d30/classWsfLaserDesignator_1_1TargetAssociation.html" title=" " alt="" coords="1305,680,1445,723"/>
+<area shape="poly" id="edge31_Node000021_Node000026" title=" " alt="" coords="1460,703,1545,698,1590,691,1633,679,1676,657,1709,634,1714,633,1679,661,1635,684,1591,696,1546,703,1460,708"/>
+<area shape="rect" id="Node000027" href="$d8/dfc/classWsfLaserDesignations_1_1Spot.html" title=" " alt="" coords="1298,747,1452,789"/>
+<area shape="poly" id="edge32_Node000021_Node000027" title=" " alt="" coords="1467,769,1508,766,1551,760,1593,748,1633,731,1662,709,1686,682,1718,635,1722,632,1690,685,1665,713,1635,736,1595,754,1552,765,1508,772,1467,774"/>
+<area shape="rect" id="Node000028" href="$d6/dad/classwsf_1_1Terrain.html" title=" " alt="" coords="1330,579,1420,605"/>
+<area shape="poly" id="edge33_Node000021_Node000028" title=" " alt="" coords="1435,594,1660,614,1655,615,1435,599"/>
+<area shape="poly" id="edge34_Node000001_Node000029" title=" " alt="" coords="1414,266,1451,283,1491,296,1544,306,1613,314,1783,327,2111,341,2105,342,1783,332,1613,319,1543,311,1489,301,1449,288,1414,271"/>
+<area shape="poly" id="edge46_Node000031_Node000029" title=" " alt="" coords="1450,243,1539,234,1633,215,1669,202,1700,190,1705,188,1671,207,1635,220,1540,239,1451,248"/>
+<area shape="rect" id="Node000030" href="$de/d31/classWsfEM__Xmtr.html" title=" " alt="" coords="1913,208,2014,235"/>
+<area shape="poly" id="edge37_Node000001_Node000030" title=" " alt="" coords="2004,240,2151,321,2145,321,2003,245"/>
+<area shape="poly" id="edge38_Node000030_Node000031" title=" " alt="" coords="1807,188,1915,211,1910,212,1807,193"/>
+<area shape="poly" id="edge47_Node000031_Node000031" title=" " alt="" coords="1704,144,1712,137,1728,135,1743,137,1752,143,1755,153,1750,163,1747,159,1749,152,1748,146,1741,142,1728,140,1715,142,1707,148"/>
+<area shape="poly" id="edge41_Node000031_Node000032" title=" " alt="" coords="548,29,833,27,1376,27,1452,29,1511,38,1567,58,1635,91,1683,125,1718,161,1712,160,1679,129,1633,96,1565,63,1509,43,1451,34,1376,32,833,32,549,34"/>
+<area shape="poly" id="edge43_Node000031_Node000033" title=" " alt="" coords="920,87,1088,85,1294,88,1492,99,1573,108,1635,120,1676,138,1711,161,1706,161,1674,142,1633,125,1572,113,1492,104,1294,94,1088,91,921,92"/>
+</map>

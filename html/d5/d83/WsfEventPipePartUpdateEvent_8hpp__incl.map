@@ -1,0 +1,18 @@
+<map id="WsfEventPipePartUpdateEvent.hpp" name="WsfEventPipePartUpdateEvent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,5,320,32"/>
+<area shape="rect" id="Node000002" href="$d7/dac/WsfEvent_8hpp.html" title=" " alt="" coords="86,80,191,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,31,162,70,159,67,192,34"/>
+<area shape="rect" id="Node000005" href="$d6/d11/WsfStringId_8hpp.html" title=" " alt="" coords="214,80,330,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="218,30,253,69,248,69,216,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="106,155,203,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="143,105,151,140,146,139,140,109"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,155,83,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="125,106,74,147,71,143,120,108"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="254,107,189,149,187,144,249,108"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="226,155,286,181"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="271,105,264,141,260,138,267,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="309,155,363,181"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="284,105,317,143,312,142,282,110"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="387,155,493,181"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="302,105,399,148,394,148,301,110"/>
+</map>

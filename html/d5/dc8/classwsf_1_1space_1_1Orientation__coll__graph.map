@@ -1,0 +1,8 @@
+<map id="wsf::space::Orientation" name="wsf::space::Orientation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,162,207"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="36,5,120,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,47,86,180,80,179,77,48"/>
+<area shape="rect" id="Node000003" href="$d9/d94/classWsfAttitudeController.html" title=" " alt="" coords="100,81,246,108"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="106,39,160,80,154,82,106,44"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,119,97,182,93,178,148,119"/>
+</map>

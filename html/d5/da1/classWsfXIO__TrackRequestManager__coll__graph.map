@@ -1,0 +1,11 @@
+<map id="WsfXIO_TrackRequestManager" name="WsfXIO_TrackRequestManager">
+<area shape="rect" id="Node000001" title="Manages all track requests. Routes incoming track messages to the correct WsfXIO_TrackRequest." alt="" coords="22,355,230,381"/>
+<area shape="rect" id="Node000002" href="$d0/dc1/classWsfXIO__RequestManager.html" title="Maintains a group of WsfXIO_Requests." alt="" coords="39,279,213,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,319,128,355,124,353,124,322"/>
+<area shape="rect" id="Node000003" href="$de/d75/classWsfXIO__Interface.html" title=" " alt="" coords="63,180,189,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="128,220,129,279,123,278,124,225"/>
+<area shape="rect" id="Node000004" href="$de/d4a/classWsfXIO__InputData.html" title=" " alt="" coords="60,104,192,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,143,129,180,123,179,125,148"/>
+<area shape="rect" id="Node000005" href="$d2/d51/classWsfXIO__InputData_1_1InputCallbackList.html" title="An input processing callback list." alt="" coords="5,5,247,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="127,45,129,104,123,103,125,50"/>
+</map>

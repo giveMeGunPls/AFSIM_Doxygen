@@ -1,0 +1,44 @@
+<map id="WsfLaserWeapon" name="WsfLaserWeapon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,745,588,772"/>
+<area shape="rect" id="Node000002" href="$d0/d1a/classWsfDirectedEnergyWeapon.html" title=" " alt="" coords="398,548,580,575"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,588,526,746,522,744,492,591"/>
+<area shape="rect" id="Node000018" href="$d1/d7a/classWsfHighEnergyLaser.html" title="This implementation is decoupled from the weapon class to handle only laser&#45;related effects,..." alt="" coords="566,647,711,673"/>
+<area shape="poly" id="edge21_Node000018_Node000002" title=" " alt="" coords="518,582,574,620,616,646,611,646,571,625,517,587"/>
+<area shape="rect" id="Node000003" href="$d8/de2/classWsfImplicitWeapon.html" title=" " alt="" coords="422,472,556,499"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,512,491,549,487,546,487,516"/>
+<area shape="rect" id="Node000004" href="$d2/de3/classWsfWeapon.html" title=" " alt="" coords="443,396,535,423"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="490,435,491,473,487,470,488,440"/>
+<area shape="rect" id="Node000005" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="447,297,579,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="508,337,494,397,490,394,505,341"/>
+<area shape="rect" id="Node000006" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="294,199,412,225"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="387,231,495,296,490,298,387,236"/>
+<area shape="rect" id="Node000007" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="677,5,760,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="685,43,580,110,513,146,443,177,388,200,384,196,441,172,510,141,577,106,689,39"/>
+<area shape="rect" id="Node000014" href="$d0/dc6/classWsfUncloneableObject.html" title="An object that does not support Clone." alt="" coords="641,81,796,108"/>
+<area shape="poly" id="edge14_Node000014_Node000007" title=" " alt="" coords="719,45,721,82,716,80,717,50"/>
+<area shape="rect" id="Node000019" href="$d8/d6d/classWsfDirectedEnergyWeapon_1_1Beam.html" title=" " alt="" coords="742,132,924,175"/>
+<area shape="poly" id="edge20_Node000019_Node000007" title=" " alt="" coords="758,37,786,56,810,80,824,105,832,133,827,131,819,108,806,83,783,60,759,43"/>
+<area shape="rect" id="Node000008" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="116,81,278,108"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="226,115,338,197,333,199,226,120"/>
+<area shape="rect" id="Node000009" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="141,5,253,32"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="197,44,200,81,194,81,197,50"/>
+<area shape="rect" id="Node000010" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="302,81,399,108"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="352,121,355,199,350,198,350,126"/>
+<area shape="rect" id="Node000011" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="423,81,566,108"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="466,120,370,200,367,196,469,116"/>
+<area shape="rect" id="Node000012" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="436,199,619,225"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="525,238,517,298,512,296,522,243"/>
+<area shape="rect" id="Node000013" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="645,199,781,225"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="671,234,541,299,538,295,675,231"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="718,121,716,199,711,197,716,126"/>
+<area shape="rect" id="Node000015" href="$d8/df5/classWsfModeList.html" title=" " alt="" coords="257,297,356,324"/>
+<area shape="poly" id="edge15_Node000004_Node000015" title=" " alt="" coords="337,330,405,370,459,395,454,396,403,374,338,335"/>
+<area shape="rect" id="Node000016" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="104,199,181,225"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="176,231,287,296,283,298,177,236"/>
+<area shape="rect" id="Node000017" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="5,81,93,108"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="68,117,135,197,130,199,69,123"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="615,683,542,747,540,742,610,684"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="834,188,836,260,836,563,834,583,827,599,800,625,757,646,712,657,711,652,756,641,797,620,823,596,828,582,830,563,830,260,832,193"/>
+<area shape="rect" id="Node000020" href="$d7/d5f/classwsf_1_1AtmosphericTurbulence.html" title=" " alt="" coords="605,548,792,575"/>
+<area shape="poly" id="edge22_Node000018_Node000020" title=" " alt="" coords="685,587,648,649,644,644,680,590"/>
+</map>

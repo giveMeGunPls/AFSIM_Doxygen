@@ -1,0 +1,9 @@
+<map id="wsf::event::CyberAttackAttributed" name="wsf::event::CyberAttackAttributed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,225,256"/>
+<area shape="rect" id="Node000002" href="$d9/de0/classwsf_1_1event_1_1CyberResult.html" title=" " alt="" coords="33,155,197,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,195,117,230,113,228,113,199"/>
+<area shape="rect" id="Node000003" href="$d5/d3d/classwsf_1_1event_1_1Result.html" title=" " alt="" coords="51,80,179,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,120,118,155,112,153,114,125"/>
+<area shape="rect" id="Node000004" href="$d7/db6/classwsf_1_1event_1_1ResultBase.html" title=" " alt="" coords="36,5,194,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="116,45,118,80,112,79,114,50"/>
+</map>

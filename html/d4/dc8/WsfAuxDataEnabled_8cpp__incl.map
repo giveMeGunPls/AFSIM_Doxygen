@@ -1,0 +1,22 @@
+<map id="WsfAuxDataEnabled.cpp" name="WsfAuxDataEnabled.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="249,5,417,32"/>
+<area shape="rect" id="Node000002" href="$d3/d98/WsfAuxDataEnabled_8hpp.html" title=" " alt="" coords="31,80,200,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,34,169,77,167,72,297,31"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="224,80,313,107"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="324,31,292,70,288,66,320,34"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="337,80,459,107"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="345,30,380,69,374,68,344,35"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="484,80,590,107"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="368,30,489,74,484,75,368,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="41,229,137,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,109,39,128,24,141,13,156,9,173,16,190,32,205,52,220,47,222,28,209,12,193,4,174,8,154,20,137,37,123,74,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="23,155,91,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="104,109,79,144,74,141,107,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="115,155,236,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="127,105,158,143,153,143,125,110"/>
+<area shape="rect" id="Node000006" href="$d3/d59/WsfAttributeContainer_8hpp.html" title=" " alt="" coords="260,155,435,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="156,105,295,148,290,151,156,110"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="304,184,149,227,148,222,301,180"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="265,229,430,256"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="349,180,350,215,345,212,346,184"/>
+</map>

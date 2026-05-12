@@ -1,0 +1,17 @@
+<map id="WsfCorrelationStrategy" name="WsfCorrelationStrategy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,132,294,159"/>
+<area shape="rect" id="Node000003" href="$d4/ddf/classWsfClusterCorrelation.html" title=" " alt="" coords="370,5,520,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,119,283,79,341,42,374,31,369,34,343,46,286,83,242,123"/>
+<area shape="rect" id="Node000004" href="$d0/db1/classWsfLink16Correlation.html" title=" " alt="" coords="372,56,518,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,123,341,92,384,82,380,84,343,97,263,128"/>
+<area shape="rect" id="Node000005" href="$d9/d5a/classWsfMTT__Correlation.html" title=" " alt="" coords="374,107,516,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="308,132,376,127,371,129,310,138"/>
+<area shape="rect" id="Node000006" href="$d8/d68/classWsfNearestNeighborCorrelation.html" title=" " alt="" coords="342,157,548,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="309,153,344,159,339,160,309,158"/>
+<area shape="rect" id="Node000007" href="$da/d84/classWsfPerfectCorrelation.html" title=" " alt="" coords="370,208,520,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="262,163,343,193,385,207,379,208,341,199,261,168"/>
+<area shape="rect" id="Node000008" href="$d7/d19/classWsfTruthCorrelation.html" title=" " alt="" coords="376,259,514,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="241,167,286,207,343,244,378,260,373,259,341,249,283,211,239,172"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,132,89,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,143,138,144,134,147,106,148"/>
+</map>

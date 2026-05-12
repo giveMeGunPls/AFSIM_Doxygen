@@ -1,0 +1,9 @@
+<map id="WsfL16::Messages::ElevationField&lt; BIT_COUNT &gt;" name="WsfL16::Messages::ElevationField&lt; BIT_COUNT &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,304,233,347"/>
+<area shape="rect" id="Node000002" href="$d8/ddd/classWsfL16_1_1Messages_1_1NormalField.html" title=" " alt="" coords="5,212,264,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,268,137,305,132,303,133,272"/>
+<area shape="rect" id="Node000003" href="$df/dc5/classWsfL16_1_1Messages_1_1FieldBase.html" title=" " alt="" coords="34,120,235,163"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,176,137,213,132,211,133,181"/>
+<area shape="rect" id="Node000004" href="$d8/df0/structWsfL16_1_1Messages_1_1SmallIntType.html" title=" " alt="" coords="39,5,230,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="135,61,137,120,132,119,134,66"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="SOSM_SpectralObject" name="SOSM_SpectralObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,195,159,221"/>
+<area shape="rect" id="Node000002" href="$db/d1f/classSOSM__CoreBase.html" title=" " alt="" coords="230,93,356,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,184,156,156,206,130,239,119,235,122,208,134,159,160,116,188"/>
+<area shape="rect" id="Node000010" href="$d8/d42/classSOSM__SpectralTable2D.html" title="A spectral table with two independent variables." alt="" coords="211,144,374,171"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="154,188,236,170,232,173,157,193"/>
+<area shape="rect" id="Node000011" href="$d0/d90/classSOSM__SpectralTable3D.html" title="A spectral table with two independent variables." alt="" coords="211,195,374,221"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="173,205,213,207,208,209,175,211"/>
+<area shape="rect" id="Node000012" href="$d0/d83/classSOSM__TableTarget_1_1Band.html" title=" " alt="" coords="207,245,379,272"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="155,223,237,244,232,246,156,228"/>
+<area shape="rect" id="Node000013" href="$dd/d48/classSOSM__Target_1_1StateBase.html" title=" " alt="" coords="207,296,379,323"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="115,228,159,256,208,282,240,295,235,296,206,286,156,260,114,233"/>
+<area shape="rect" id="Node000003" href="$dd/d7a/classSOSM__Atmosphere.html" title="An abstract base class for representing atmospherics." alt="" coords="438,43,575,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,87,449,69,445,71,368,92"/>
+<area shape="rect" id="Node000006" href="$dd/d9c/classSOSM__Sensor.html" title="A class that represents an optical sensor (IR or visible)." alt="" coords="452,93,560,120"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="370,104,454,106,449,108,371,109"/>
+<area shape="rect" id="Node000007" href="$d3/ddf/classSOSM__Target.html" title="Abstract base class that represents a target." alt="" coords="454,144,558,171"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="367,122,457,144,451,146,367,127"/>
+<area shape="rect" id="Node000004" href="$d5/d72/classSOSM__SimpleAtmosphere.html" title=" " alt="" coords="633,5,811,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="589,39,643,32,638,34,591,44"/>
+<area shape="rect" id="Node000005" href="$dd/d98/classSOSM__TableAtmosphere.html" title=" " alt="" coords="638,56,806,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="590,59,640,64,635,65,591,64"/>
+<area shape="rect" id="Node000008" href="$d3/d6b/classSOSM__SimpleTarget.html" title=" " alt="" coords="650,119,794,145"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="573,147,653,140,647,141,574,152"/>
+<area shape="rect" id="Node000009" href="$d9/d69/classSOSM__TableTarget.html" title=" " alt="" coords="655,169,789,196"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="573,162,657,174,652,175,573,168"/>
+<area shape="rect" id="Node000014" href="$d9/d94/classSOSM__SimpleTarget_1_1ST__State.html" title=" " alt="" coords="430,255,582,297"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="394,291,433,287,427,288,395,296"/>
+<area shape="rect" id="Node000015" href="$d5/d00/classSOSM__TableTarget_1_1TT__State.html" title="A &#39;State&#39; represents the signature for a given operating mode." alt="" coords="427,321,585,364"/>
+<area shape="poly" id="edge14_Node000013_Node000015" title=" " alt="" coords="394,322,429,330,424,330,394,328"/>
+</map>

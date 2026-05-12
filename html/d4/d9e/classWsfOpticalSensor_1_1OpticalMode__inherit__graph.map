@@ -1,0 +1,9 @@
+<map id="WsfOpticalSensor::OpticalMode" name="WsfOpticalSensor::OpticalMode">
+<area shape="rect" id="Node000001" title="A mode of the sensor." alt="" coords="5,229,214,256"/>
+<area shape="rect" id="Node000002" href="$d1/da1/classWsfSensorMode.html" title=" " alt="" coords="50,155,169,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,195,112,230,107,228,108,199"/>
+<area shape="rect" id="Node000003" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="71,80,148,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,120,112,155,107,154,108,125"/>
+<area shape="rect" id="Node000004" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="66,5,153,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,45,112,80,107,79,109,50"/>
+</map>

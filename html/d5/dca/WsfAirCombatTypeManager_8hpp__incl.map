@@ -1,0 +1,15 @@
+<map id="WsfAirCombatTypeManager.hpp" name="WsfAirCombatTypeManager.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,216,32"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="215,4,235,9,242,19,232,29,229,26,237,19,232,13,217,9"/>
+<area shape="rect" id="Node000002" href="$df/de8/WsfScenarioExtension_8hpp.html" title=" " alt="" coords="21,80,200,107"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="111,30,113,65,108,64,110,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="38,229,135,256"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="97,109,84,130,72,155,70,185,77,215,72,214,64,186,67,154,80,127,100,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="82,155,139,181"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="112,105,113,140,108,138,109,110"/>
+<area shape="rect" id="Node000005" href="$d7/da2/WsfExtension_8hpp.html" title=" " alt="" coords="164,155,292,181"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="131,105,197,145,192,147,131,110"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="206,181,126,224,124,219,201,182"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="201,229,254,256"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="230,180,230,215,226,212,226,184"/>
+</map>

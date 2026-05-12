@@ -1,0 +1,9 @@
+<map id="WsfAttitudeController" name="WsfAttitudeController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,80,284,107"/>
+<area shape="rect" id="Node000003" href="$df/dd8/classWsfInstantAttitudeController.html" title="An attitude controller that makes instantaneous changes in platform orientation." alt="" coords="5,155,192,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,115,119,156,117,152,176,116"/>
+<area shape="rect" id="Node000004" href="$d8/d5c/classWsfRateLimitedAttitudeController.html" title=" " alt="" coords="216,155,432,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,113,307,154,301,154,242,118"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="169,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,46,213,81,208,78,209,50"/>
+</map>

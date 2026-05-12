@@ -1,0 +1,13 @@
+<map id="WsfOpticalSignature" name="WsfOpticalSignature">
+<area shape="rect" id="Node000001" title="An object that represents the optical signature of a platform." alt="" coords="253,155,394,181"/>
+<area shape="rect" id="Node000004" href="$dd/dfc/classWsfCompositeOpticalSignature.html" title=" " alt="" coords="5,229,210,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="274,187,146,231,145,226,269,186"/>
+<area shape="rect" id="Node000005" href="$d9/df0/classWsfSpaceOpticalSignature.html" title=" " alt="" coords="234,229,413,256"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="325,195,326,231,321,227,322,199"/>
+<area shape="rect" id="Node000006" href="$d2/d3b/classWsfStandardOpticalSignature.html" title="A collection of one or more optical signature tables that represent the optical signature of a platfo..." alt="" coords="436,229,630,256"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="375,184,499,229,493,229,374,189"/>
+<area shape="rect" id="Node000002" href="$d6/db4/classWsfSignature.html" title=" " alt="" coords="273,80,374,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,120,326,156,321,153,322,125"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="282,5,365,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,46,326,81,321,78,322,50"/>
+</map>

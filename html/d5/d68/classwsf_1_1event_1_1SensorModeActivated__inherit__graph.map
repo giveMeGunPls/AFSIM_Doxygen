@@ -1,0 +1,7 @@
+<map id="wsf::event::SensorModeActivated" name="wsf::event::SensorModeActivated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,224,181"/>
+<area shape="rect" id="Node000002" href="$d5/d3d/classwsf_1_1event_1_1Result.html" title=" " alt="" coords="50,80,179,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,121,117,155,112,153,113,124"/>
+<area shape="rect" id="Node000003" href="$d7/db6/classwsf_1_1event_1_1ResultBase.html" title=" " alt="" coords="35,5,194,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,45,117,80,112,79,113,50"/>
+</map>

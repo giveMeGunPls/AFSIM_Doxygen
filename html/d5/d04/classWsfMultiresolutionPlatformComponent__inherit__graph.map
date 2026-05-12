@@ -1,0 +1,11 @@
+<map id="WsfMultiresolutionPlatformComponent&lt; DerivedComponent &gt;" name="WsfMultiresolutionPlatformComponent&lt; DerivedComponent &gt;">
+<area shape="rect" id="Node000001" title="A base class template for defining multiresolution WsfPlatformComponent types." alt="" coords="47,155,272,197"/>
+<area shape="rect" id="Node000005" href="$d6/d38/classWsfMultiresolutionWrapperMetaModel.html" title="A class template for defining multiresolution containers for WsfPlatformComponent types." alt="" coords="49,245,270,288"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="161,211,162,246,157,244,158,215"/>
+<area shape="rect" id="Node000002" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="5,80,167,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,116,143,154,138,155,107,121"/>
+<area shape="rect" id="Node000003" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="30,5,142,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,45,89,80,83,79,85,50"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="191,80,274,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,116,180,156,176,153,209,120"/>
+</map>

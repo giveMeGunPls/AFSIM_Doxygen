@@ -1,0 +1,7 @@
+<map id="WsfScriptSA_EntityPerceptionClass" name="WsfScriptSA_EntityPerceptionClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,171,206,213"/>
+<area shape="rect" id="Node000002" href="$dc/dab/classWsfScriptSA__PerceivedItemClass.html" title=" " alt="" coords="11,80,200,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,136,108,171,103,169,104,140"/>
+<area shape="rect" id="Node000003" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="30,5,181,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,45,108,80,103,79,104,50"/>
+</map>

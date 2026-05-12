@@ -1,0 +1,11 @@
+<map id="WsfObserver::Result" name="WsfObserver::Result">
+<area shape="rect" id="Node000001" title=" " alt="" coords="466,219,611,246"/>
+<area shape="rect" id="Node000002" href="$d6/d59/classWsfEM__Interaction.html" title=" " alt="" coords="284,219,417,246"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,230,468,232,463,233,433,235"/>
+<area shape="rect" id="Node000003" href="$d8/df9/structWsfEM__Interaction_1_1LocationData.html" title="Represents the location of a platform or device." alt="" coords="5,50,147,92"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,68,213,77,238,86,261,98,292,125,317,158,347,219,341,218,313,161,289,129,258,102,236,91,212,82,163,73"/>
+<area shape="rect" id="Node000004" href="$d9/deb/structWsfEM__Interaction_1_1RelativeData.html" title=" " alt="" coords="5,211,147,254"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="162,230,285,231,281,234,163,235"/>
+<area shape="rect" id="Node000005" href="$d4/d01/structWsfEM__Interaction_1_1BeamData.html" title="Represents the antenna gain lookup." alt="" coords="5,287,147,330"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="162,300,210,293,259,280,296,263,327,247,332,245,299,268,261,285,212,298,163,306"/>
+</map>

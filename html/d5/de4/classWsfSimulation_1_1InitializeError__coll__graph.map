@@ -1,0 +1,5 @@
+<map id="WsfSimulation::InitializeError" name="WsfSimulation::InitializeError">
+<area shape="rect" id="Node000001" title="An exception that is thrown when Initialize() fails." alt="" coords="5,80,168,123"/>
+<area shape="rect" id="Node000002" href="$db/d7a/classWsfException.html" title=" " alt="" coords="35,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,46,89,81,84,79,85,50"/>
+</map>

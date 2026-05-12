@@ -1,0 +1,9 @@
+<map id="WsfScriptGuidanceComputerClass" name="WsfScriptGuidanceComputerClass">
+<area shape="rect" id="Node000001" title="The script interface &#39;class&#39; for WsfGuidanceComputer." alt="" coords="5,229,197,272"/>
+<area shape="rect" id="Node000002" href="$dd/d0e/classWsfScriptProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="15,155,187,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,195,103,230,99,228,99,199"/>
+<area shape="rect" id="Node000003" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="8,80,194,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,120,104,155,98,154,100,125"/>
+<area shape="rect" id="Node000004" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="25,5,177,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,45,104,80,98,79,100,50"/>
+</map>

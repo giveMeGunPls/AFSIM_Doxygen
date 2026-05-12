@@ -1,0 +1,9 @@
+<map id="WsfExtRadioEntityType.hpp" name="WsfExtRadioEntityType.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="63,5,249,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,102,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,32,86,73,83,68,136,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="126,80,186,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,31,159,66,154,63,154,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="210,80,270,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,30,217,70,211,70,170,35"/>
+</map>

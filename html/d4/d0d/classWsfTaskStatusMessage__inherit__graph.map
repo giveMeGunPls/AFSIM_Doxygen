@@ -1,0 +1,7 @@
+<map id="WsfTaskStatusMessage" name="WsfTaskStatusMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,170,181"/>
+<area shape="rect" id="Node000002" href="$da/dce/classWsfMessage.html" title="A base class for messages sent among simulation communication objects, processors and sensors." alt="" coords="38,80,137,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,121,90,155,85,153,86,124"/>
+<area shape="rect" id="Node000003" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="16,5,159,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,90,80,85,79,86,50"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="WsfUncloneableObject" name="WsfUncloneableObject">
+<area shape="rect" id="Node000001" title="An object that does not support Clone." alt="" coords="137,81,292,108"/>
+<area shape="rect" id="Node000003" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="376,5,512,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,72,339,41,382,32,377,34,341,47,261,77"/>
+<area shape="rect" id="Node000004" href="$db/d52/classWsfPathFinder.html" title=" " alt="" coords="390,56,498,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="307,82,392,75,387,76,308,87"/>
+<area shape="rect" id="Node000007" href="$d0/d28/classWsfThermalSystemComponent.html" title=" " alt="" coords="342,107,546,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="307,102,344,108,339,109,308,108"/>
+<area shape="rect" id="Node000008" href="$d5/d03/classwsf_1_1TrackExtrapolationStrategy.html" title="A base class used to configure a measurement or track with extrapolation objects (wsf::TrackExtrapola..." alt="" coords="340,157,548,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="261,112,341,143,383,157,377,157,339,148,260,117"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,81,89,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,92,139,93,134,96,105,97"/>
+<area shape="rect" id="Node000005" href="$d5/d0d/classWsfNavigationMesh.html" title=" " alt="" coords="627,27,767,53"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="513,59,630,48,624,49,514,64"/>
+<area shape="rect" id="Node000006" href="$dc/d03/classWsfTerrainPathFinder.html" title=" " alt="" coords="623,77,771,104"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="513,72,625,84,620,85,514,78"/>
+<area shape="rect" id="Node000009" href="$d3/d6a/classwsf_1_1DefaultTrackExtrapolationStrategy.html" title="The default track extrapolation strategy." alt="" coords="596,149,798,192"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="564,168,599,171,593,171,564,173"/>
+</map>

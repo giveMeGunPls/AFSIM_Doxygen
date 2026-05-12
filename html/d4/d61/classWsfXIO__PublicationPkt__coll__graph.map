@@ -1,0 +1,9 @@
+<map id="WsfXIO_PublicationPkt" name="WsfXIO_PublicationPkt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,219,165,245"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="6,120,122,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,160,85,219,80,218,68,164"/>
+<area shape="rect" id="Node000003" href="$d5/d64/classWsfXIO__PublishKey.html" title=" " alt="" coords="146,120,288,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,157,104,220,101,216,185,155"/>
+<area shape="rect" id="Node000004" href="$d6/da6/classWsfXIO__PublishKey_1_1Field.html" title=" " alt="" coords="142,5,292,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,62,219,120,215,118,215,66"/>
+</map>

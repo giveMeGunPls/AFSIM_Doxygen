@@ -1,0 +1,21 @@
+<map id="WsfLibrationPoint.hpp" name="WsfLibrationPoint.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="402,5,552,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,144,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="407,35,159,80,158,74,406,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="168,80,237,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="432,33,252,82,251,76,427,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="261,80,314,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="447,32,330,79,328,74,442,33"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="339,80,396,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="461,32,400,74,398,69,456,33"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="421,80,533,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="479,31,479,66,475,63,475,34"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="557,80,688,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="503,30,586,73,581,72,502,35"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="712,80,848,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="531,30,715,76,709,76,530,35"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="871,80,960,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="552,28,858,79,853,80,552,33"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="984,80,1074,107"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="552,24,738,44,972,79,966,80,738,50,552,30"/>
+</map>

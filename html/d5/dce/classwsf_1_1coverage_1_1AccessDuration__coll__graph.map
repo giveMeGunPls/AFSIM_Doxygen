@@ -1,0 +1,7 @@
+<map id="wsf::coverage::AccessDuration" name="wsf::coverage::AccessDuration">
+<area shape="rect" id="Node000001" title="An MOE that measures the durations of individual free asset accesses in coverage." alt="" coords="5,155,210,181"/>
+<area shape="rect" id="Node000002" href="$d2/d81/classwsf_1_1coverage_1_1Measure.html" title=" " alt="" coords="27,80,188,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,121,110,155,105,153,106,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="66,5,149,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,45,110,80,105,79,106,50"/>
+</map>

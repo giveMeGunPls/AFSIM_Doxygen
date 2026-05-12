@@ -1,0 +1,13 @@
+<map id="WsfBMCSV_EventOutput" name="WsfBMCSV_EventOutput">
+<area shape="rect" id="Node000001" title="WsfBMCSV_EventOutput writes BM specific events to the event output logfile." alt="" coords="81,348,254,375"/>
+<area shape="rect" id="Node000002" href="$df/d3d/classWsfBMCSV__EventOutputData.html" title=" " alt="" coords="5,249,207,276"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,287,162,348,157,348,120,291"/>
+<area shape="rect" id="Node000003" href="$dd/d76/classWsfCSV__EventOutput.html" title="A simulation observer to write a comma separated values (csv) event output file." alt="" coords="231,249,384,276"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="279,285,187,350,184,345,274,285"/>
+<area shape="rect" id="Node000004" href="$d0/d43/classwsf_1_1event_1_1output_1_1SimulationExtension.html" title="A simulation extension that serves as an abstract base class for observers which write an event outpu..." alt="" coords="233,157,382,200"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="309,213,310,250,305,248,306,218"/>
+<area shape="rect" id="Node000005" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="225,81,390,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="309,121,310,158,305,156,306,126"/>
+<area shape="rect" id="Node000006" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="256,5,359,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="308,45,310,82,305,80,306,50"/>
+</map>

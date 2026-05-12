@@ -1,0 +1,11 @@
+<map id="SOSM_CoreBase.hpp" name="SOSM_CoreBase.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,5,192,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,113,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,35,44,53,29,66,17,81,13,96,17,112,36,142,31,144,12,114,8,96,13,79,25,62,41,49,78,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="147,155,200,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,30,192,49,208,62,220,79,225,96,221,114,201,145,197,141,216,112,219,96,215,81,204,66,189,53,156,35"/>
+<area shape="rect" id="Node000004" href="$d9/d9c/SOSM__SpectralObject_8hpp.html" title=" " alt="" coords="27,80,206,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="118,30,119,65,114,64,115,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="109,106,80,144,76,141,104,108"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="127,105,157,143,152,142,125,110"/>
+</map>

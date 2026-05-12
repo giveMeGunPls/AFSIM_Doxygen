@@ -1,0 +1,7 @@
+<map id="wsf::dis::ApplicationExtension" name="wsf::dis::ApplicationExtension">
+<area shape="rect" id="Node000001" title="The WSF application extension for cyber." alt="" coords="5,155,203,181"/>
+<area shape="rect" id="Node000002" href="$d3/d44/classWsfApplicationExtension.html" title=" " alt="" coords="20,80,188,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,121,106,155,102,153,102,124"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="52,5,156,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,45,107,80,101,79,103,50"/>
+</map>

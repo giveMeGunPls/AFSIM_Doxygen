@@ -1,0 +1,13 @@
+<map id="usmtf::AircraftMissionTransform" name="usmtf::AircraftMissionTransform">
+<area shape="rect" id="Node000001" title="Transforms a Segment identifying an Aircraft Mission into one or more AFSIM script blocks containing ..." alt="" coords="121,229,329,256"/>
+<area shape="rect" id="Node000002" href="$dd/d04/classusmtf_1_1USMTF__Transformer.html" title="Exists to Facilitate the contract for Polymorphic Script Block Exports From Set Segments." alt="" coords="132,155,318,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,195,227,230,223,227,223,199"/>
+<area shape="rect" id="Node000003" href="$d1/d25/classusmtf_1_1Validatable.html" title=" " alt="" coords="13,80,138,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,111,201,153,196,155,115,116"/>
+<area shape="rect" id="Node000004" href="$de/d97/classusmtf_1_1ErrorManager.html" title=" " alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="76,45,78,80,73,79,75,50"/>
+<area shape="rect" id="Node000005" href="$dc/d51/classusmtf_1_1Exportable.html" title=" " alt="" coords="163,80,287,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,120,227,155,222,153,223,125"/>
+<area shape="rect" id="Node000006" href="$d9/d3d/classusmtf_1_1MacroEnabled.html" title=" " alt="" coords="311,80,456,107"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="344,112,254,156,252,152,340,115"/>
+</map>

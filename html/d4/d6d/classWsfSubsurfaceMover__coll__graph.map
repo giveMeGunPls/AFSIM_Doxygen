@@ -1,0 +1,45 @@
+<map id="WsfSubsurfaceMover" name="WsfSubsurfaceMover">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1583,349,1730,376"/>
+<area shape="rect" id="Node000002" href="$de/df6/classWsfWaypointMover.html" title=" " alt="" coords="1298,349,1433,376"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1449,360,1585,363,1580,363,1449,365"/>
+<area shape="rect" id="Node000019" href="$d4/da0/classWsfWaypointMover_1_1BaseEvent.html" title=" " alt="" coords="1553,299,1760,325"/>
+<area shape="poly" id="edge20_Node000019_Node000002" title=" " alt="" coords="1448,346,1573,326,1579,326,1449,351"/>
+<area shape="rect" id="Node000003" href="$d9/de5/classWsfRouteMover.html" title=" " alt="" coords="1005,184,1122,211"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1137,204,1208,223,1243,239,1275,259,1285,269,1289,278,1300,298,1350,350,1344,348,1296,302,1285,281,1280,272,1272,263,1240,243,1206,228,1137,209"/>
+<area shape="rect" id="Node000004" href="$d7/d6f/classWsfMover.html" title=" " alt="" coords="754,157,835,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="851,174,1007,191,1002,192,851,179"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="395,107,514,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="529,128,756,164,751,166,529,134"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="206,5,289,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="303,32,329,42,388,73,436,106,431,107,385,78,327,46,305,37"/>
+<area shape="rect" id="Node000007" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="167,56,328,83"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="320,84,399,105,394,107,321,90"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="5,56,118,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="132,67,169,68,164,71,134,72"/>
+<area shape="rect" id="Node000009" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="199,107,296,133"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="311,117,397,119,392,121,313,123"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="176,157,319,184"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="319,151,399,132,395,135,321,155"/>
+<area shape="rect" id="Node000011" href="$d3/ddb/classWsfVariable.html" title=" " alt="" coords="378,183,531,209"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="546,196,622,194,701,188,756,180,751,182,701,193,622,199,548,201"/>
+<area shape="rect" id="Node000012" href="$d4/d43/classWsfVariableBase.html" title=" " alt="" coords="187,208,308,235"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="323,210,379,204,375,207,325,215"/>
+<area shape="rect" id="Node000013" href="$d6/dad/classwsf_1_1Terrain.html" title=" " alt="" coords="750,208,839,235"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="855,220,913,219,974,215,1012,211,1006,212,975,220,913,225,855,226"/>
+<area shape="rect" id="Node000014" href="$d5/dbb/classWsfPathComputer.html" title="WsfPathComputer computes a WsfPathList for a platform to reach a target state." alt="" coords="999,328,1128,355"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="1143,342,1274,351,1300,355,1295,356,1273,356,1144,348"/>
+<area shape="rect" id="Node000015" href="$d4/dd2/structWsfPathConstraints.html" title="Contains constraints used for computing a path in WsfPathComputer." alt="" coords="725,281,864,308"/>
+<area shape="poly" id="edge21_Node000002_Node000015" title=" " alt="" coords="879,285,963,282,1063,283,1169,293,1274,313,1313,329,1346,349,1341,348,1310,333,1273,319,1169,298,1062,288,963,287,880,290"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="851,310,889,320,1001,337,996,338,888,325,851,316"/>
+<area shape="rect" id="Node000016" href="$db/d92/classWsfPathList.html" title="Defines a list of motions a platform could take." alt="" coords="1017,387,1110,413"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="1125,406,1197,409,1235,407,1273,401,1309,390,1338,377,1343,376,1311,395,1274,407,1236,412,1197,414,1125,411"/>
+<area shape="rect" id="Node000017" href="$d3/ddb/structWsfPathTarget.html" title=" " alt="" coords="1009,441,1118,468"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="1133,458,1202,456,1238,450,1273,439,1297,426,1319,408,1351,377,1356,375,1322,412,1300,430,1275,444,1239,455,1203,461,1133,464"/>
+<area shape="rect" id="Node000018" href="$d8/d79/classWsfWaypointMover_1_1HitPointEvent.html" title=" " alt="" coords="1810,387,2000,429"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="1792,411,1760,415,1656,420,1611,420,1553,415,1474,399,1407,379,1407,374,1475,394,1553,409,1611,415,1656,414,1760,409,1797,411"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="1738,327,1761,335,1817,359,1868,387,1862,386,1815,363,1759,340,1738,333"/>
+<area shape="rect" id="Node000020" href="$d9/d04/classWsfEvent.html" title=" " alt="" coords="1326,261,1405,288"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="1421,278,1529,291,1566,298,1561,298,1529,296,1421,283"/>
+<area shape="rect" id="Node000021" href="$da/d0d/classWsfAngleOfAttack.html" title="WsfAngleOfAttack uses a table to compute a platform&#39;s pitch given the altitude and speed." alt="" coords="998,496,1129,523"/>
+<area shape="poly" id="edge22_Node000002_Node000021" title=" " alt="" coords="1144,515,1210,510,1242,502,1272,488,1303,464,1327,432,1357,378,1361,375,1332,435,1307,467,1275,493,1244,507,1210,515,1145,520"/>
+</map>

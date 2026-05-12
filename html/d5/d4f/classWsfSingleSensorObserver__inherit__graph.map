@@ -1,0 +1,13 @@
+<map id="WsfSingleSensorObserver" name="WsfSingleSensorObserver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="125,5,300,32"/>
+<area shape="rect" id="Node000002" href="$dd/d2b/classWsfCoherentSensorProcessor.html" title=" " alt="" coords="5,80,204,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,43,125,82,122,77,183,39"/>
+<area shape="rect" id="Node000003" href="$d4/d4d/classwsf_1_1UCI__SensorComponent.html" title=" " alt="" coords="227,80,416,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,38,305,79,300,80,244,44"/>
+<area shape="rect" id="Node000004" href="$d6/dd3/classwsf_1_1UCI__AMTI__Component.html" title=" " alt="" coords="19,155,206,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="274,112,150,157,148,151,268,112"/>
+<area shape="rect" id="Node000005" href="$dd/dc9/classwsf_1_1UCI__ESM__Component.html" title=" " alt="" coords="230,155,414,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="324,121,324,156,320,153,320,124"/>
+<area shape="rect" id="Node000006" href="$d8/dd0/classwsf_1_1UCI__IRST__Component.html" title=" " alt="" coords="438,155,624,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="373,109,497,154,492,154,372,115"/>
+</map>

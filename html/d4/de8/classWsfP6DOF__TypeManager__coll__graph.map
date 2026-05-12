@@ -1,0 +1,11 @@
+<map id="WsfP6DOF_TypeManager" name="WsfP6DOF_TypeManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="79,180,254,207"/>
+<area shape="rect" id="Node000002" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="5,104,160,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,139,155,179,150,180,107,143"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="31,5,134,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="84,45,85,104,80,103,81,50"/>
+<area shape="rect" id="Node000004" href="$d3/d5c/classP6DofTypeManager.html" title=" " alt="" coords="184,104,320,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,140,182,182,179,177,223,142"/>
+<area shape="rect" id="Node000005" href="$d2/dd9/classP6DofScenario.html" title=" " alt="" coords="197,5,306,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,46,254,105,249,103,250,50"/>
+</map>
