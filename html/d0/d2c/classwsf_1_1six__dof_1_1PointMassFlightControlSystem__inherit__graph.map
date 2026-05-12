@@ -1,0 +1,5 @@
+<map id="wsf::six_dof::PointMassFlightControlSystem" name="wsf::six_dof::PointMassFlightControlSystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,200,123"/>
+<area shape="rect" id="Node000002" href="$de/d1c/classwsf_1_1six__dof_1_1Object.html" title=" " alt="" coords="33,5,172,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,46,105,81,100,79,101,50"/>
+</map>

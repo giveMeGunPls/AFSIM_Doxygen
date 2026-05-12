@@ -1,0 +1,49 @@
+<map id="WsfPProxySatisfy" name="WsfPProxySatisfy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1472,353,1601,380"/>
+<area shape="rect" id="Node000002" href="$d4/d9c/classWsfPProxyValue.html" title=" " alt="" coords="256,67,376,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,60,496,38,560,30,624,27,1238,27,1271,30,1301,38,1330,51,1357,69,1404,113,1445,166,1478,222,1504,275,1533,354,1529,352,1499,277,1473,224,1440,169,1401,117,1353,73,1327,56,1299,43,1270,35,1238,32,624,32,561,35,497,43,386,65"/>
+<area shape="rect" id="Node000009" href="$dc/d6f/classWsfPProxyStructValue.html" title=" " alt="" coords="548,117,703,144"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="391,90,550,117,545,119,393,95"/>
+<area shape="rect" id="Node000003" href="$d6/d03/classWsfPProxyType.html" title=" " alt="" coords="5,67,122,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,78,258,78,254,82,139,82"/>
+<area shape="rect" id="Node000004" href="$d1/d42/classWsfPProxyRegistry.html" title=" " alt="" coords="864,221,1001,248"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1016,225,1108,224,1219,230,1277,238,1336,249,1394,266,1449,287,1473,301,1495,318,1527,354,1522,352,1491,322,1470,305,1447,292,1392,271,1335,255,1277,243,1218,235,1108,229,1017,231"/>
+<area shape="rect" id="Node000010" href="$db/da4/classProxyEvaluator.html" title=" " alt="" coords="1182,287,1292,313"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="973,252,1031,275,1109,289,1184,298,1179,299,1109,295,1030,280,973,258"/>
+<area shape="rect" id="Node000005" href="$d1/d33/classWsfParseNamedRule.html" title=" " alt="" coords="552,259,700,285"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="714,259,866,242,861,244,716,264"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="597,241,607,235,626,232,643,234,654,240,657,250,652,260,648,256,651,249,649,244,641,239,626,237,609,240,600,246"/>
+<area shape="rect" id="Node000006" href="$df/d03/classWsfParseRule.html" title=" " alt="" coords="263,361,370,388"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="345,350,381,326,422,306,487,286,554,277,549,279,488,292,424,310,384,331,349,354"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="290,344,299,337,316,335,332,337,342,343,345,353,341,362,336,359,340,352,338,346,330,342,316,340,301,342,294,348"/>
+<area shape="rect" id="Node000011" href="$d2/d04/classWsfPParseRuleTrace.html" title=" " alt="" coords="858,443,1007,469"/>
+<area shape="poly" id="edge21_Node000011_Node000006" title=" " alt="" coords="385,375,587,389,711,404,835,424,894,442,889,442,834,429,711,409,587,394,385,380"/>
+<area shape="rect" id="Node000012" href="$d5/dff/classWsfPParseRuleTracer.html" title=" " alt="" coords="1161,353,1313,380"/>
+<area shape="poly" id="edge17_Node000012_Node000006" title=" " alt="" coords="384,365,423,361,548,357,789,349,1031,344,1073,343,1116,344,1166,352,1161,353,1115,349,1073,348,1031,349,789,355,548,363,423,367,386,370"/>
+<area shape="rect" id="Node000014" href="$dc/df2/classWsfParseNode.html" title=" " alt="" coords="570,443,681,469"/>
+<area shape="poly" id="edge23_Node000014_Node000006" title=" " alt="" coords="354,393,388,410,424,424,500,441,572,452,567,453,499,447,422,429,386,415,354,399"/>
+<area shape="rect" id="Node000007" href="$d6/dd5/classWsfParseRuleDictionary.html" title=" " alt="" coords="234,232,399,259"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="414,251,554,264,549,267,415,256"/>
+<area shape="rect" id="Node000008" href="$d3/d82/classWsfParseType.html" title=" " alt="" coords="572,67,679,93"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="694,84,765,99,802,112,836,128,864,149,889,174,925,221,920,220,885,178,861,153,833,133,800,117,764,104,696,89"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="689,146,835,193,901,220,896,221,833,199,689,152"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="1308,307,1449,335,1501,353,1495,353,1447,340,1308,312"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="1022,450,1115,444,1225,432,1333,413,1482,381,1487,380,1335,419,1226,437,1116,449,1023,456"/>
+<area shape="poly" id="edge18_Node000011_Node000011" title=" " alt="" coords="906,425,915,419,932,416,949,418,959,424,961,434,957,444,953,440,956,434,954,428,947,423,933,421,917,424,909,430"/>
+<area shape="poly" id="edge16_Node000012_Node000011" title=" " alt="" coords="1021,444,1068,435,1115,423,1167,401,1210,381,1215,379,1170,406,1117,428,1070,440,1023,449"/>
+<area shape="rect" id="Node000013" href="$db/df5/classWsfPParseRuleTraceContext.html" title=" " alt="" coords="1140,523,1334,549"/>
+<area shape="poly" id="edge20_Node000013_Node000011" title=" " alt="" coords="951,480,985,521,1007,539,1032,554,1075,564,1119,564,1162,557,1196,550,1201,549,1163,563,1120,569,1074,569,1030,558,1004,544,982,525,949,485"/>
+<area shape="poly" id="edge25_Node000001_Node000012" title=" " alt="" coords="1329,364,1474,366,1469,367,1329,369"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="1142,372,1088,383,1032,398,988,420,952,444,950,440,985,416,1030,394,1087,378,1148,371"/>
+<area shape="poly" id="edge19_Node000011_Node000013" title=" " alt="" coords="1122,528,1076,523,1030,511,988,492,954,472,955,467,990,488,1032,505,1078,517,1127,528"/>
+<area shape="poly" id="edge22_Node000011_Node000014" title=" " alt="" coords="696,453,860,455,855,457,697,459"/>
+<area shape="rect" id="Node000015" href="$d9/df7/classWsfParseAuxData.html" title="Abstract class for encapsulating auxiliary data to be attached to a parse node." alt="" coords="251,469,382,496"/>
+<area shape="poly" id="edge24_Node000014_Node000015" title=" " alt="" coords="396,484,459,484,524,479,581,469,576,471,524,484,459,489,397,489"/>
+<area shape="rect" id="Node000016" href="$d3/d5b/classWsfPProxyPath.html" title="Represents a path or unique key to a value in the proxy." alt="" coords="875,616,990,643"/>
+<area shape="poly" id="edge26_Node000001_Node000016" title=" " alt="" coords="1006,625,1186,613,1273,601,1307,593,1333,583,1368,562,1400,536,1456,478,1499,421,1525,382,1530,379,1503,424,1460,481,1404,540,1371,566,1335,588,1309,598,1274,606,1187,618,1006,630"/>
+<area shape="rect" id="Node000017" href="$d7/d2f/classWsfPProxyUndoValue.html" title=" " alt="" coords="1161,656,1312,683"/>
+<area shape="poly" id="edge28_Node000017_Node000016" title=" " alt="" coords="1005,643,1031,648,1163,665,1158,665,1030,653,1005,649"/>
+<area shape="poly" id="edge27_Node000001_Node000017" title=" " alt="" coords="1328,680,1359,679,1390,674,1420,665,1446,649,1475,619,1496,584,1512,546,1522,506,1532,432,1534,382,1538,378,1538,432,1528,507,1517,547,1501,587,1479,622,1450,653,1422,670,1392,680,1360,685,1328,685"/>
+<area shape="rect" id="Node000018" href="$d6/d2c/classWsfPProxyUndo.html" title=" " alt="" coords="873,693,992,720"/>
+<area shape="poly" id="edge29_Node000017_Node000018" title=" " alt="" coords="1008,708,1061,708,1115,703,1159,693,1196,684,1202,683,1160,698,1116,708,1061,713,1008,714"/>
+</map>

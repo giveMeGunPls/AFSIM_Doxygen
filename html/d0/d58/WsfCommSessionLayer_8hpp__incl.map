@@ -1,0 +1,18 @@
+<map id="WsfCommSessionLayer.hpp" name="WsfCommSessionLayer.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,194,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="134,229,230,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,35,81,66,77,86,78,106,89,145,111,180,130,201,153,221,148,220,127,205,107,183,84,148,73,107,72,86,76,65,93,30"/>
+<area shape="rect" id="Node000003" href="$dd/de3/WsfCommLayer_8hpp.html" title=" " alt="" coords="88,80,229,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,30,141,67,136,68,110,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="147,105,123,142,117,161,119,180,133,201,152,220,146,220,129,204,114,182,111,160,118,139,143,109"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="130,155,187,181"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="160,105,161,140,156,138,157,110"/>
+<area shape="rect" id="Node000005" href="$dd/de6/WsfCommLayerMessage_8hpp.html" title=" " alt="" coords="357,155,551,181"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="210,105,390,149,385,152,210,110"/>
+<area shape="rect" id="Node000007" href="$d0/dbd/WsfUniqueId_8hpp.html" title=" " alt="" coords="210,155,333,181"/>
+<area shape="poly" id="edge8_Node000003_Node000007" title=" " alt="" coords="178,105,241,145,236,147,177,110"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="409,182,245,227,244,222,404,182"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="428,229,481,256"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="456,180,456,215,452,212,452,184"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="258,181,211,222,208,217,253,183"/>
+</map>

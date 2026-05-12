@@ -1,0 +1,129 @@
+<map id="WsfBattleManager.hpp" name="WsfBattleManager.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="7732,5,7886,32"/>
+<area shape="rect" id="Node000002" href="$d7/d92/WsfBMPluginUtilities_8cpp.html" title=" " alt="" coords="3740,80,3910,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="7713,20,7015,25,5915,33,4768,51,4286,65,3922,83,3910,84,3910,78,3922,77,4285,59,4768,46,5915,28,7015,20,7719,20"/>
+<area shape="rect" id="Node000003" href="$dc/d7f/WsfBMUtils_8hpp.html" title=" " alt="" coords="3934,80,4051,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="7713,22,4052,94,4052,88,7718,21"/>
+<area shape="rect" id="Node000023" href="$d4/d46/WsfBattleManager_8cpp.html" title=" " alt="" coords="6697,163,6851,189"/>
+<area shape="poly" id="edge56_Node000001_Node000023" title=" " alt="" coords="7719,30,7343,80,7104,116,6864,157,6828,165,6827,159,6863,152,7103,110,7342,75,7714,30"/>
+<area shape="rect" id="Node000025" href="$d9/d0f/WsfDefaultBattleManagerImpl_8cpp.html" title=" " alt="" coords="6875,163,7097,189"/>
+<area shape="poly" id="edge57_Node000001_Node000025" title=" " alt="" coords="7727,35,7481,83,7051,165,7051,159,7480,77,7721,36"/>
+<area shape="rect" id="Node000026" href="$dc/d39/WsfDefaultDisseminationImpl_8cpp.html" title=" " alt="" coords="7121,163,7342,189"/>
+<area shape="poly" id="edge58_Node000001_Node000026" title=" " alt="" coords="7750,36,7279,165,7278,159,7744,37"/>
+<area shape="rect" id="Node000030" href="$d7/d9e/WsfScriptAssetManagerClass_8cpp.html" title=" " alt="" coords="7366,163,7588,189"/>
+<area shape="poly" id="edge61_Node000001_Node000030" title=" " alt="" coords="7771,38,7504,165,7503,159,7765,40"/>
+<area shape="rect" id="Node000037" href="$d6/d85/WsfScriptBMUtilsClass_8cpp.html" title=" " alt="" coords="7612,163,7797,189"/>
+<area shape="poly" id="edge62_Node000001_Node000037" title=" " alt="" coords="7794,44,7714,165,7712,160,7790,46"/>
+<area shape="rect" id="Node000038" href="$db/dfe/WsfScriptBattleManagerClass_8cpp.html" title=" " alt="" coords="7822,163,8044,189"/>
+<area shape="poly" id="edge63_Node000001_Node000038" title=" " alt="" coords="7829,42,7925,163,7920,161,7827,47"/>
+<area shape="rect" id="Node000042" href="$df/d44/WsfIADSC2ScenarioExtension_8cpp.html" title=" " alt="" coords="7685,328,7914,355"/>
+<area shape="poly" id="edge59_Node000001_Node000042" title=" " alt="" coords="7876,34,7949,58,7985,75,8018,94,8045,116,8062,140,8068,168,8058,199,8039,225,8016,249,7962,286,7905,313,7853,330,7852,325,7903,308,7959,281,8012,244,8035,222,8053,196,8062,168,8057,143,8041,119,8015,98,7983,80,7947,63,7875,39"/>
+<area shape="rect" id="Node000043" href="$d5/dab/WsfIADSC2UnclassProcRegistration_8cpp.html" title=" " alt="" coords="7938,328,8202,355"/>
+<area shape="poly" id="edge60_Node000001_Node000043" title=" " alt="" coords="7901,27,7968,45,8001,60,8032,78,8052,94,8065,110,8082,154,8090,204,8089,253,8075,330,8072,325,8084,253,8085,204,8077,155,8060,113,8048,98,8028,82,7999,64,7966,50,7901,33"/>
+<area shape="rect" id="Node000051" href="$dd/d29/WsfScriptDisseminateC2Class_8cpp.html" title=" " alt="" coords="8169,80,8398,107"/>
+<area shape="poly" id="edge64_Node000001_Node000051" title=" " alt="" coords="7901,31,8203,80,8197,79,7901,37"/>
+<area shape="rect" id="Node000052" href="$dc/d5b/WsfScriptSensorsManagerClass_8cpp.html" title=" " alt="" coords="8421,80,8658,107"/>
+<area shape="poly" id="edge65_Node000001_Node000052" title=" " alt="" coords="7901,26,8423,80,8418,80,7901,32"/>
+<area shape="rect" id="Node000053" href="$db/d6a/WsfScriptWeaponsManagerClass_8cpp.html" title=" " alt="" coords="8682,80,8924,107"/>
+<area shape="poly" id="edge66_Node000001_Node000053" title=" " alt="" coords="7901,23,8670,77,8684,81,8679,81,8670,83,7901,28"/>
+<area shape="rect" id="Node000054" href="$d2/de4/WsfUnclassBattleManager_8hpp.html" title=" " alt="" coords="8230,245,8432,272"/>
+<area shape="poly" id="edge67_Node000001_Node000054" title=" " alt="" coords="7902,19,8170,25,8505,36,8797,53,8893,64,8923,71,8938,78,8960,107,8969,133,8966,156,8952,176,8929,193,8899,208,8820,230,8724,246,8621,255,8433,261,8433,256,8621,250,8723,240,8818,225,8897,203,8927,189,8948,172,8961,154,8964,133,8956,109,8935,82,8921,76,8892,70,8797,58,8505,41,8170,30,7902,24"/>
+<area shape="rect" id="Node000004" href="$d0/d2d/ScenarioAnalyzerIADSC2_8cpp.html" title=" " alt="" coords="1091,328,1289,355"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="3915,106,3343,111,2315,114,1784,118,1323,126,992,139,896,147,868,152,856,156,850,177,849,212,853,248,861,270,958,292,1126,327,1121,327,957,297,858,274,848,249,844,212,845,176,852,153,866,147,895,142,992,133,1322,121,1784,113,2315,108,3343,106,3921,106"/>
+<area shape="rect" id="Node000005" href="$de/d14/WsfAssetManager_8cpp.html" title=" " alt="" coords="1126,163,1280,189"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="3916,107,3656,124,3335,130,2595,127,2217,126,1861,128,1546,138,1411,146,1293,157,1252,165,1251,159,1292,152,1410,141,1546,132,1861,123,2217,121,2595,122,3335,124,3656,119,3921,107"/>
+<area shape="rect" id="Node000006" href="$de/d17/WsfBMAssignmentMessage_8cpp.html" title=" " alt="" coords="1305,163,1518,189"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="3921,107,3729,125,3555,136,3247,145,2976,142,2723,133,2470,125,2199,122,1892,131,1719,142,1530,157,1476,165,1475,159,1530,152,1719,136,1892,126,2199,117,2470,119,2723,128,2976,136,3247,139,3555,130,3728,120,3915,107"/>
+<area shape="rect" id="Node000007" href="$d6/d89/WsfBMAssignmentStatusMessage_8cpp.html" title=" " alt="" coords="1542,163,1792,189"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="3921,107,3597,134,3324,143,3084,143,2860,137,2637,131,2397,129,2125,136,1805,157,1743,165,1742,159,1804,152,2125,131,2397,124,2637,126,2860,132,3084,137,3324,138,3597,128,3915,107"/>
+<area shape="rect" id="Node000008" href="$d3/dbc/WsfBMAssignmentTrackMessage_8cpp.html" title=" " alt="" coords="1817,163,2062,189"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="3921,107,3638,131,3400,140,3190,140,2995,136,2800,132,2591,131,2353,138,2074,157,2014,165,2013,159,2074,152,2353,133,2591,126,2800,126,2995,131,3190,135,3400,135,3638,126,3916,107"/>
+<area shape="rect" id="Node000009" href="$df/d9d/WsfBMCSV__EventOutput_8cpp.html" title=" " alt="" coords="2086,163,2284,189"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="3921,107,3672,129,3462,136,3277,136,3105,132,2933,128,2749,128,2541,137,2296,157,2246,165,2245,159,2295,152,2541,131,2749,123,2933,122,3105,126,3277,130,3462,131,3671,123,3916,107"/>
+<area shape="rect" id="Node000010" href="$dd/db4/WsfBMCueMessage_8cpp.html" title=" " alt="" coords="2308,163,2475,189"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="3921,107,3701,126,3515,133,3352,132,3200,128,3048,125,2886,126,2702,136,2486,157,2443,165,2443,159,2486,152,2702,131,2886,121,3048,120,3200,123,3352,127,3515,127,3700,121,3916,107"/>
+<area shape="rect" id="Node000011" href="$dc/d0c/WsfBMDisseminateC2_8cpp.html" title=" " alt="" coords="2498,163,2679,189"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="3921,107,3732,125,3573,131,3303,131,3173,129,3034,131,2877,140,2692,157,2645,165,2645,159,2691,152,2876,134,3034,126,3173,124,3303,125,3573,126,3732,120,3916,107"/>
+<area shape="rect" id="Node000012" href="$d0/df3/WsfBMEventOutput_8cpp.html" title=" " alt="" coords="2703,163,2866,189"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="3921,107,3760,123,3625,129,3396,129,3168,132,3035,140,2878,157,2837,165,2836,159,2878,152,3034,135,3168,126,3396,124,3625,124,3760,118,3916,107"/>
+<area shape="rect" id="Node000013" href="$da/d60/WsfBMEventResults_8cpp.html" title=" " alt="" coords="2891,163,3060,189"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="3921,107,3789,121,3680,128,3493,131,3307,135,3199,143,3072,157,3029,165,3029,159,3071,152,3198,138,3307,130,3493,125,3680,122,3789,116,3916,107"/>
+<area shape="rect" id="Node000014" href="$db/dbf/WsfBMMOELogger_8cpp.html" title=" " alt="" coords="3084,163,3243,189"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="3921,107,3732,126,3585,131,3440,137,3256,157,3215,165,3215,159,3255,152,3439,132,3585,125,3731,120,3916,107"/>
+<area shape="rect" id="Node000015" href="$d1/dea/WsfBMSensorInfoRecord_8cpp.html" title=" " alt="" coords="3267,163,3462,189"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="3921,107,3793,124,3695,133,3598,142,3474,157,3430,165,3429,159,3474,152,3597,137,3694,128,3793,119,3916,107"/>
+<area shape="rect" id="Node000016" href="$d8/db0/WsfBMSensorsManager_8cpp.html" title=" " alt="" coords="3486,163,3675,189"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="3921,109,3646,165,3645,159,3916,109"/>
+<area shape="rect" id="Node000017" href="$d2/dd4/WsfBMStatusMessage_8cpp.html" title=" " alt="" coords="3699,163,3881,189"/>
+<area shape="poly" id="edge16_Node000003_Node000017" title=" " alt="" coords="3950,112,3822,165,3821,160,3945,113"/>
+<area shape="rect" id="Node000018" href="$da/d5c/WsfBMTrackMessage_8cpp.html" title=" " alt="" coords="3904,163,4081,189"/>
+<area shape="poly" id="edge17_Node000003_Node000018" title=" " alt="" coords="3995,120,3995,164,3991,161,3991,124"/>
+<area shape="rect" id="Node000019" href="$db/d7a/WsfBMUtils_8cpp.html" title=" " alt="" coords="4105,163,4222,189"/>
+<area shape="poly" id="edge18_Node000003_Node000019" title=" " alt="" coords="4034,111,4139,163,4134,162,4033,116"/>
+<area shape="rect" id="Node000020" href="$d2/d1e/WsfBMWeaponInfoRecord_8cpp.html" title=" " alt="" coords="4247,163,4448,189"/>
+<area shape="poly" id="edge19_Node000003_Node000020" title=" " alt="" coords="4063,108,4294,162,4289,162,4063,113"/>
+<area shape="rect" id="Node000021" href="$d9/d62/WsfBMWeaponTable_8cpp.html" title=" " alt="" coords="4472,163,4641,189"/>
+<area shape="poly" id="edge20_Node000003_Node000021" title=" " alt="" coords="4067,100,4246,121,4460,152,4501,162,4496,162,4459,157,4245,126,4066,105"/>
+<area shape="rect" id="Node000022" href="$d2/d98/WsfBMWeaponsManager_8cpp.html" title=" " alt="" coords="4665,163,4859,189"/>
+<area shape="poly" id="edge21_Node000003_Node000022" title=" " alt="" coords="4067,97,4326,116,4489,132,4653,152,4701,162,4696,162,4652,157,4489,138,4326,122,4067,102"/>
+<area shape="poly" id="edge22_Node000003_Node000023" title=" " alt="" coords="4066,92,4560,91,5319,97,5724,104,6106,115,6436,131,6685,152,6728,162,6723,162,6684,157,6436,136,6106,121,5724,110,5319,103,4560,97,4067,97"/>
+<area shape="rect" id="Node000024" href="$d2/de1/WsfDefaultAssetManagerImpl_8cpp.html" title=" " alt="" coords="4883,163,5105,189"/>
+<area shape="poly" id="edge23_Node000003_Node000024" title=" " alt="" coords="4067,95,4415,113,4642,129,4872,152,4926,162,4921,162,4871,157,4641,135,4414,118,4067,100"/>
+<area shape="poly" id="edge24_Node000003_Node000025" title=" " alt="" coords="4067,92,4590,95,5400,103,6243,121,6597,135,6864,152,6922,162,6917,162,6863,157,6597,140,6243,126,5400,108,4590,100,4067,97"/>
+<area shape="poly" id="edge25_Node000003_Node000026" title=" " alt="" coords="4067,92,4630,94,5511,101,5984,108,6431,119,6818,133,7109,152,7167,162,7162,162,7108,157,6817,139,6431,124,5984,114,5511,106,4630,99,4067,97"/>
+<area shape="rect" id="Node000027" href="$d1/d33/WsfDefaultSensorsManagerImpl_8cpp.html" title=" " alt="" coords="5129,155,5315,197"/>
+<area shape="poly" id="edge26_Node000003_Node000027" title=" " alt="" coords="4066,93,4251,96,4511,105,4812,123,5117,152,5132,156,5126,156,5116,157,4811,128,4511,110,4251,101,4066,98"/>
+<area shape="rect" id="Node000028" href="$dd/d30/WsfDefaultWeaponsManagerImpl_8cpp.html" title=" " alt="" coords="5338,155,5530,197"/>
+<area shape="poly" id="edge27_Node000003_Node000028" title=" " alt="" coords="4066,92,4281,94,4593,101,4956,120,5143,134,5326,152,5341,156,5335,156,5326,157,5143,139,4956,125,4593,107,4281,99,4066,97"/>
+<area shape="rect" id="Node000029" href="$d1/d75/WsfInterceptCalc_8cpp.html" title=" " alt="" coords="5553,163,5702,189"/>
+<area shape="poly" id="edge28_Node000003_Node000029" title=" " alt="" coords="4067,93,4370,98,4796,109,5227,127,5406,138,5542,152,5583,162,5578,162,5542,157,5406,144,5227,132,4796,115,4370,104,4067,98"/>
+<area shape="poly" id="edge29_Node000003_Node000030" title=" " alt="" coords="4067,92,4668,93,5621,99,6133,106,6618,117,7038,132,7354,152,7413,162,7407,162,7354,157,7038,137,6618,122,6133,112,5621,104,4668,98,4067,97"/>
+<area shape="rect" id="Node000031" href="$de/db9/WsfScriptBMAssessmentRecordClass_8cpp.html" title=" " alt="" coords="5726,155,5940,197"/>
+<area shape="poly" id="edge30_Node000003_Node000031" title=" " alt="" coords="4067,93,4875,112,5359,130,5561,140,5714,152,5728,156,5723,156,5714,157,5561,146,5359,135,4875,117,4067,99"/>
+<area shape="rect" id="Node000032" href="$d7/dbd/WsfScriptBMAssetRecordClass_8cpp.html" title=" " alt="" coords="5964,163,6198,189"/>
+<area shape="poly" id="edge31_Node000003_Node000032" title=" " alt="" coords="4067,93,4984,111,5542,129,5775,140,5952,152,6012,162,6007,162,5951,157,5775,145,5542,134,4984,117,4067,98"/>
+<area shape="rect" id="Node000033" href="$d8/d6e/WsfScriptBMAssignmentMessageClass_8cpp.html" title=" " alt="" coords="6222,155,6443,197"/>
+<area shape="poly" id="edge32_Node000003_Node000033" title=" " alt="" coords="4067,93,4483,98,5103,108,5741,126,6008,138,6210,152,6224,156,6219,156,6210,157,6008,143,5741,131,5103,114,4483,103,4067,98"/>
+<area shape="rect" id="Node000034" href="$dd/d67/WsfScriptBMAssignmentStatusClass_8cpp.html" title=" " alt="" coords="6467,155,6673,197"/>
+<area shape="poly" id="edge33_Node000003_Node000034" title=" " alt="" coords="4067,92,4524,96,5215,105,5930,123,6230,136,6456,152,6469,156,6464,156,6455,157,6229,141,5930,128,5215,110,4523,101,4067,98"/>
+<area shape="rect" id="Node000035" href="$d8/d8a/WsfScriptBMAssignmentTrackMessageClass_8cpp.html" title=" " alt="" coords="5,155,207,197"/>
+<area shape="poly" id="edge34_Node000003_Node000035" title=" " alt="" coords="3921,107,3748,121,3552,129,3100,137,2593,136,2059,132,1525,127,1022,127,577,136,385,145,218,157,208,158,206,153,218,152,384,140,576,131,1022,122,1525,122,2059,126,2593,131,3100,132,3552,124,3747,116,3916,107"/>
+<area shape="rect" id="Node000036" href="$dc/d69/WsfScriptBMTrackMessageClass_8cpp.html" title=" " alt="" coords="230,163,475,189"/>
+<area shape="poly" id="edge35_Node000003_Node000036" title=" " alt="" coords="3921,107,3760,121,3579,129,3161,137,2691,139,2197,137,1238,135,826,141,648,148,494,157,430,165,428,159,494,152,648,143,826,136,1238,129,2197,132,2691,134,3161,132,3579,123,3760,115,3916,107"/>
+<area shape="poly" id="edge36_Node000003_Node000037" title=" " alt="" coords="4067,92,5879,109,6963,127,7363,139,7600,152,7651,162,7645,162,7599,157,7363,144,6962,133,5879,115,4067,98"/>
+<area shape="poly" id="edge37_Node000003_Node000038" title=" " alt="" coords="4067,92,4740,91,5826,96,6412,103,6967,114,7448,130,7810,152,7869,162,7864,162,7810,157,7448,135,6967,119,6412,108,5825,101,4740,96,4067,97"/>
+<area shape="rect" id="Node000039" href="$d9/df5/WsfWMAIEngagementMod_8cpp.html" title=" " alt="" coords="371,328,577,355"/>
+<area shape="poly" id="edge38_Node000003_Node000039" title=" " alt="" coords="3916,106,3291,112,2158,116,1572,121,1061,128,694,140,586,148,539,157,521,174,506,196,487,245,479,292,476,329,472,326,473,292,482,243,501,193,517,171,537,152,585,143,694,135,1061,123,1571,115,2158,111,3291,107,3921,106"/>
+<area shape="rect" id="Node000040" href="$d0/dce/WsfWMAIEngagementMod_8hpp.html" title=" " alt="" coords="550,163,755,189"/>
+<area shape="poly" id="edge39_Node000003_Node000040" title=" " alt="" coords="3921,107,3669,129,3441,143,3230,150,3035,153,2678,147,2345,134,2012,121,1655,115,1461,118,1251,125,1023,138,774,157,718,165,717,159,774,152,1023,132,1251,119,1461,112,1655,110,2012,116,2345,129,2678,142,3035,148,3230,145,3440,137,3669,124,3916,107"/>
+<area shape="rect" id="Node000046" href="$d7/d1b/WsfWMSAMEngagementMod_8cpp.html" title=" " alt="" coords="871,245,1093,272"/>
+<area shape="poly" id="edge48_Node000003_Node000046" title=" " alt="" coords="3916,106,3346,111,2323,114,1794,118,1335,126,1006,139,910,147,883,152,870,157,864,166,863,175,871,196,883,212,899,224,937,245,931,244,896,229,880,215,866,199,857,175,859,164,867,153,881,147,909,142,1006,133,1335,121,1794,113,2323,108,3346,106,3921,106"/>
+<area shape="rect" id="Node000047" href="$dc/dc1/WsfWMSAMEngagementMod_8hpp.html" title=" " alt="" coords="881,163,1102,189"/>
+<area shape="poly" id="edge49_Node000003_Node000047" title=" " alt="" coords="3921,107,3696,128,3492,140,3305,147,3130,149,2812,145,2515,135,2218,123,1900,119,1726,121,1539,128,1336,140,1114,157,1058,165,1058,159,1114,152,1336,134,1539,123,1726,116,1900,114,2218,118,2515,129,2812,140,3130,144,3304,141,3492,134,3696,122,3916,107"/>
+<area shape="poly" id="edge40_Node000040_Node000039" title=" " alt="" coords="631,199,489,330,486,325,626,200"/>
+<area shape="rect" id="Node000041" href="$da/db4/WsfWeaponsManagerAI_8hpp.html" title=" " alt="" coords="600,245,788,272"/>
+<area shape="poly" id="edge41_Node000040_Node000041" title=" " alt="" coords="667,201,690,246,685,244,665,206"/>
+<area shape="poly" id="edge42_Node000041_Node000004" title=" " alt="" coords="794,272,1080,317,1124,328,1119,327,1079,323,794,278"/>
+<area shape="poly" id="edge46_Node000041_Node000039" title=" " alt="" coords="648,277,509,330,508,325,643,278"/>
+<area shape="poly" id="edge43_Node000041_Node000042" title=" " alt="" coords="803,266,859,269,1338,277,2137,281,4267,281,5386,283,6397,288,7196,299,7482,307,7674,317,7735,328,7730,327,7674,323,7481,312,7195,304,6397,293,5386,288,4267,287,2137,286,1338,283,859,275,803,272"/>
+<area shape="poly" id="edge44_Node000041_Node000043" title=" " alt="" coords="803,266,859,269,1356,278,2184,282,4393,284,5553,285,6602,290,7430,300,7726,308,7926,317,7996,328,7990,327,7926,323,7726,313,7430,306,6602,296,5553,291,4393,289,2184,287,1356,283,859,275,803,272"/>
+<area shape="rect" id="Node000044" href="$df/dbd/WsfScriptWeaponsManagerAIClass_8cpp.html" title=" " alt="" coords="812,328,1067,355"/>
+<area shape="poly" id="edge45_Node000041_Node000044" title=" " alt="" coords="747,275,904,328,898,327,746,280"/>
+<area shape="rect" id="Node000045" href="$da/dba/WsfWeaponsManagerAI_8cpp.html" title=" " alt="" coords="600,328,788,355"/>
+<area shape="poly" id="edge47_Node000041_Node000045" title=" " alt="" coords="696,286,696,330,692,326,692,290"/>
+<area shape="poly" id="edge50_Node000047_Node000046" title=" " alt="" coords="990,203,985,247,981,243,986,207"/>
+<area shape="rect" id="Node000048" href="$dd/d1d/WsfWeaponsManagerSAM_8hpp.html" title=" " alt="" coords="7424,245,7628,272"/>
+<area shape="poly" id="edge51_Node000047_Node000048" title=" " alt="" coords="1072,190,1114,195,1284,205,1541,213,2268,228,3195,238,4226,246,6206,253,7427,257,7422,257,6206,258,4226,251,3195,244,2268,233,1541,219,1284,210,1114,200,1072,195"/>
+<area shape="poly" id="edge52_Node000048_Node000042" title=" " alt="" coords="7584,274,7759,328,7754,327,7583,279"/>
+<area shape="poly" id="edge53_Node000048_Node000043" title=" " alt="" coords="7627,272,7987,328,7981,327,7626,277"/>
+<area shape="rect" id="Node000049" href="$d0/d1c/WsfScriptWeaponsManagerSAMClass_8cpp.html" title=" " alt="" coords="7390,328,7662,355"/>
+<area shape="poly" id="edge54_Node000048_Node000049" title=" " alt="" coords="7528,286,7528,330,7524,326,7524,290"/>
+<area shape="rect" id="Node000050" href="$da/db3/WsfWeaponsManagerSAM_8cpp.html" title=" " alt="" coords="7163,328,7366,355"/>
+<area shape="poly" id="edge55_Node000048_Node000050" title=" " alt="" coords="7473,277,7306,330,7305,325,7468,277"/>
+<area shape="poly" id="edge68_Node000054_Node000042" title=" " alt="" coords="8232,275,7926,323,7879,330,7878,325,7926,317,8227,275"/>
+<area shape="poly" id="edge69_Node000054_Node000043" title=" " alt="" coords="8279,277,8111,330,8111,325,8273,277"/>
+<area shape="rect" id="Node000055" href="$d0/dc6/WsfScriptUnclassBattleManagerClass_8cpp.html" title=" " alt="" coords="8226,320,8437,363"/>
+<area shape="poly" id="edge70_Node000054_Node000055" title=" " alt="" coords="8333,286,8333,322,8329,318,8329,289"/>
+<area shape="rect" id="Node000056" href="$de/df3/WsfUnclassBattleManager_8cpp.html" title=" " alt="" coords="8461,328,8663,355"/>
+<area shape="poly" id="edge71_Node000054_Node000056" title=" " alt="" coords="8382,275,8528,328,8523,327,8381,280"/>
+</map>

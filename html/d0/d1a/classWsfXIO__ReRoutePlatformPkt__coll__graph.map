@@ -1,0 +1,11 @@
+<map id="WsfXIO_ReRoutePlatformPkt" name="WsfXIO_ReRoutePlatformPkt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,202,207"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="24,81,140,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,121,103,180,98,179,86,125"/>
+<area shape="rect" id="Node000003" href="$d3/ded/classWsfRoute.html" title="A collection of WsfWaypoint objects that represent a path to be followed." alt="" coords="165,81,245,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,119,118,182,115,178,178,119"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="94,5,177,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,41,196,81,190,81,157,46"/>
+<area shape="rect" id="Node000005" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="201,5,344,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="254,42,218,83,215,79,249,45"/>
+</map>

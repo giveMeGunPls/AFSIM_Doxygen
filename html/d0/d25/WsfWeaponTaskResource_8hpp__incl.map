@@ -1,0 +1,21 @@
+<map id="WsfWeaponTaskResource.hpp" name="WsfWeaponTaskResource.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="62,5,264,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,126,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,35,96,73,92,69,147,30"/>
+<area shape="rect" id="Node000003" href="$d6/d11/WsfStringId_8hpp.html" title=" " alt="" coords="105,155,220,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,31,165,140,160,139,161,34"/>
+<area shape="rect" id="Node000008" href="$d4/da4/WsfTaskResource_8hpp.html" title=" " alt="" coords="200,80,355,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="183,30,247,70,242,72,183,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="297,229,394,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,179,302,222,297,224,194,184"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="6,229,66,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="143,184,73,224,70,219,139,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="90,229,143,256"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="157,181,134,218,130,214,152,183"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="168,229,273,256"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="174,179,204,217,198,217,172,184"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="260,106,197,148,194,144,255,109"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="289,105,307,127,323,153,335,184,342,216,338,213,329,186,318,156,302,130,288,110"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="244,155,308,181"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="279,105,279,140,274,138,276,109"/>
+</map>

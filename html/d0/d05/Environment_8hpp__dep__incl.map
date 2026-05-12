@@ -1,0 +1,39 @@
+<map id="Environment.hpp" name="Environment.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1276,5,1396,32"/>
+<area shape="rect" id="Node000002" href="$dc/d3c/ActionManager_8cpp.html" title=" " alt="" coords="5,80,139,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1258,21,792,39,474,56,151,83,140,84,139,79,150,77,474,51,792,33,1264,21"/>
+<area shape="rect" id="Node000003" href="$d7/dff/BrowserWidget_8cpp.html" title=" " alt="" coords="163,80,298,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1258,22,855,42,585,59,311,83,299,84,298,79,310,77,584,53,855,36,1263,22"/>
+<area shape="rect" id="Node000004" href="$d1/d1c/CreatePlatformDialog_8cpp.html" title=" " alt="" coords="322,80,494,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1258,24,933,48,506,83,494,84,494,79,505,77,932,42,1263,24"/>
+<area shape="rect" id="Node000005" href="$d6/dbe/EditAssist_8cpp.html" title=" " alt="" coords="518,80,624,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1264,24,985,46,811,62,636,83,625,84,624,79,636,77,811,57,985,41,1258,24"/>
+<area shape="rect" id="Node000006" href="$dc/da6/EditorDock_8cpp.html" title=" " alt="" coords="648,80,760,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1263,26,1041,50,772,83,760,84,760,79,772,77,1041,45,1258,27"/>
+<area shape="rect" id="Node000007" href="$d0/dc0/EditorHelpers_8cpp.html" title=" " alt="" coords="784,80,909,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1264,30,922,83,910,84,910,79,921,77,1258,31"/>
+<area shape="rect" id="Node000008" href="$d6/d4c/EditorManager_8cpp.html" title=" " alt="" coords="934,80,1064,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1265,35,1058,82,1057,77,1260,36"/>
+<area shape="rect" id="Node000009" href="$d4/d31/Environment_8cpp.html" title=" " alt="" coords="1088,80,1208,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1292,37,1182,82,1180,77,1286,38"/>
+<area shape="rect" id="Node000010" href="$db/d81/wizard_2lib_2source_2map_2Platform_8cpp.html" title=" " alt="" coords="1232,80,1328,107"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1319,43,1291,82,1288,77,1315,46"/>
+<area shape="rect" id="Node000011" href="$db/d0e/Plugin_8hpp.html" title=" " alt="" coords="1352,80,1434,107"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="1357,42,1386,81,1381,79,1354,47"/>
+<area shape="rect" id="Node000012" href="$d3/d22/Project_8cpp.html" title=" " alt="" coords="1459,80,1546,107"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="1379,36,1476,80,1471,79,1378,41"/>
+<area shape="rect" id="Node000013" href="$d5/d47/ProjectWorkspace_8cpp.html" title=" " alt="" coords="1570,80,1723,107"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="1406,33,1595,80,1590,79,1405,39"/>
+<area shape="rect" id="Node000014" href="$db/d94/RunManager_8cpp.html" title=" " alt="" coords="1746,80,1867,107"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1411,28,1735,77,1749,82,1744,82,1734,83,1411,34"/>
+<area shape="rect" id="Node000015" href="$db/dfa/Runner_8cpp.html" title=" " alt="" coords="1890,80,1979,107"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1411,23,1622,43,1879,77,1893,82,1887,82,1878,83,1622,49,1411,29"/>
+<area shape="rect" id="Node000016" href="$de/d54/TerrainMonitor_8cpp.html" title=" " alt="" coords="2002,80,2131,107"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="1412,23,1669,44,1991,77,2005,82,1999,81,1990,83,1668,49,1411,28"/>
+<area shape="rect" id="Node000017" href="$d6/d48/VtkInterface_8cpp.html" title=" " alt="" coords="2155,80,2272,107"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1411,21,1730,39,1936,56,2143,77,2157,82,2151,81,2142,83,1935,61,1730,45,1411,26"/>
+<area shape="rect" id="Node000018" href="$d6/d8f/WsfEditor_8cpp.html" title=" " alt="" coords="2296,80,2400,107"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="1411,19,1787,35,2034,52,2284,77,2298,82,2293,81,2284,83,2034,57,1787,40,1411,24"/>
+<area shape="rect" id="Node000019" href="$db/dc1/lib_2source_2map_2Zone_8cpp.html" title=" " alt="" coords="2424,80,2499,107"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="1411,17,1589,18,1838,26,2123,45,2269,59,2412,77,2426,82,2421,82,2412,83,2269,64,2123,50,1838,32,1589,24,1411,22"/>
+</map>

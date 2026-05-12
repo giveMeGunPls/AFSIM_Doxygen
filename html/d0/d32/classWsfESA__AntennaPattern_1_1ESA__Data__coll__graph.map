@@ -1,0 +1,9 @@
+<map id="WsfESA_AntennaPattern::ESA_Data" name="WsfESA_AntennaPattern::ESA_Data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,235,316,277"/>
+<area shape="rect" id="Node000002" href="$d7/d6d/classWsfAntennaPattern_1_1BaseData.html" title=" " alt="" coords="6,120,150,163"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,170,206,233,201,235,117,175"/>
+<area shape="rect" id="Node000003" href="$de/de7/classWsfAntennaPattern_1_1GainAdjustmentTable.html" title=" " alt="" coords="5,5,151,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,61,81,120,75,119,77,66"/>
+<area shape="rect" id="Node000004" href="$d5/dcd/structWsfESA__AntennaPattern_1_1ESA__Data_1_1TaylorWeightingData.html" title=" " alt="" coords="174,120,393,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,175,243,236,239,232,265,178"/>
+</map>

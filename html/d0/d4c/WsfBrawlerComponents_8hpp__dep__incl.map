@@ -1,0 +1,19 @@
+<map id="WsfBrawlerComponents.hpp" name="WsfBrawlerComponents.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="368,5,557,32"/>
+<area shape="rect" id="Node000002" href="$d9/d9e/WsfBrawlerProcessor_8hpp.html" title=" " alt="" coords="376,80,549,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,46,465,81,460,78,461,50"/>
+<area shape="rect" id="Node000003" href="$dc/ddb/WsfBrawler_8cpp.html" title=" " alt="" coords="297,253,412,280"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="358,95,264,99,164,109,117,117,77,127,45,140,23,157,12,172,8,185,10,197,17,208,45,226,87,240,139,250,195,256,300,264,294,265,194,262,138,255,86,245,42,231,13,212,5,199,3,185,8,170,19,153,42,136,75,122,116,111,163,104,264,94,362,93"/>
+<area shape="rect" id="Node000004" href="$dd/dc6/WsfBrawlerConsciousnessEvent_8cpp.html" title=" " alt="" coords="33,163,271,189"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="397,113,202,165,200,159,401,109"/>
+<area shape="rect" id="Node000005" href="$d4/df4/WsfBrawlerMover_8cpp.html" title=" " alt="" coords="295,163,446,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="439,116,386,165,383,160,435,118"/>
+<area shape="rect" id="Node000006" href="$d9/d82/WsfBrawlerProcessor_8cpp.html" title=" " alt="" coords="469,163,643,189"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="489,114,544,163,539,162,488,120"/>
+<area shape="rect" id="Node000007" href="$df/d0d/WsfScriptBrawlerProcessorClass_8cpp.html" title=" " alt="" coords="730,245,912,288"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="565,93,650,97,738,107,814,125,842,138,862,153,869,164,872,176,868,201,856,225,841,247,838,242,851,223,863,200,866,176,864,166,858,156,839,142,812,130,737,113,650,103,565,98"/>
+<area shape="rect" id="Node000008" href="$d0/d69/WsfScriptBrawlerProcessorClass_8hpp.html" title=" " alt="" coords="666,155,848,197"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="524,109,684,154,679,154,523,114"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="654,200,413,255,412,250,648,201"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="782,208,809,246,804,244,780,212"/>
+</map>

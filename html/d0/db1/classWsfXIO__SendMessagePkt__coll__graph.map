@@ -1,0 +1,9 @@
+<map id="WsfXIO_SendMessagePkt" name="WsfXIO_SendMessagePkt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,184,207"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="15,81,131,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,121,94,180,89,179,77,125"/>
+<area shape="rect" id="Node000003" href="$da/dce/classWsfMessage.html" title="A base class for messages sent among simulation communication objects, processors and sensors." alt="" coords="156,81,254,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,118,111,182,107,177,177,118"/>
+<area shape="rect" id="Node000004" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="134,5,277,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,45,208,82,203,80,204,49"/>
+</map>

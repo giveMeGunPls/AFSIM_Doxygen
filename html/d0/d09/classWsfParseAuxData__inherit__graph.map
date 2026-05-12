@@ -1,0 +1,9 @@
+<map id="WsfParseAuxData" name="WsfParseAuxData">
+<area shape="rect" id="Node000001" title="Abstract class for encapsulating auxiliary data to be attached to a parse node." alt="" coords="228,5,358,32"/>
+<area shape="rect" id="Node000002" href="$dc/d87/classWsfParseDelayLoadData.html" title=" " alt="" coords="5,80,175,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,39,126,82,125,77,241,36"/>
+<area shape="rect" id="Node000003" href="$db/df2/classWsfParseFileReferenceData.html" title=" " alt="" coords="198,80,387,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="295,46,295,81,291,78,291,50"/>
+<area shape="rect" id="Node000004" href="$df/d3c/classWsfParseTypeInfoData.html" title=" " alt="" coords="411,80,569,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="342,35,458,79,453,80,341,40"/>
+</map>

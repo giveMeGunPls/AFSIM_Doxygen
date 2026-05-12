@@ -1,0 +1,12 @@
+<map id="WsfCoverageLatLonGrid.hpp" name="WsfCoverageLatLonGrid.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="69,5,258,32"/>
+<area shape="rect" id="Node000002" href="$d3/d16/WsfCoverageGridTypes_8cpp.html" title=" " alt="" coords="5,155,191,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,41,80,58,59,81,55,100,61,119,73,138,87,155,82,155,69,141,56,122,50,100,54,79,77,54,108,37"/>
+<area shape="rect" id="Node000003" href="$dd/d29/WsfCoverageLatLonGrid_8cpp.html" title=" " alt="" coords="69,80,258,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,46,166,81,161,79,162,50"/>
+<area shape="rect" id="Node000004" href="$d0/daa/WsfCoverageZoneBasedGrid_8hpp.html" title=" " alt="" coords="282,80,498,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,34,353,78,348,80,217,40"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="325,113,150,157,149,151,323,108"/>
+<area shape="rect" id="Node000005" href="$dc/d15/WsfCoverageZoneBasedGrid_8cpp.html" title=" " alt="" coords="282,155,498,181"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="392,121,392,156,388,153,388,124"/>
+</map>

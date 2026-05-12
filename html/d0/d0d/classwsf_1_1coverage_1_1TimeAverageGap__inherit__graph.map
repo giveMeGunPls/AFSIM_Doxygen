@@ -1,0 +1,7 @@
+<map id="wsf::coverage::TimeAverageGap" name="wsf::coverage::TimeAverageGap">
+<area shape="rect" id="Node000001" title="An MOE that measures timing of gaps in coverage." alt="" coords="5,155,218,181"/>
+<area shape="rect" id="Node000002" href="$d2/d81/classwsf_1_1coverage_1_1Measure.html" title=" " alt="" coords="31,80,192,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,121,114,155,109,153,110,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="70,5,153,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,45,114,80,109,79,110,50"/>
+</map>

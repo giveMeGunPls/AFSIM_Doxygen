@@ -1,0 +1,7 @@
+<map id="wsf::coverage::CompositeGrid" name="wsf::coverage::CompositeGrid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,204,181"/>
+<area shape="rect" id="Node000002" href="$de/d24/classwsf_1_1coverage_1_1Grid.html" title="The Grid object defines the region over which coverage can be computed." alt="" coords="37,80,172,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,121,107,155,102,153,103,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="63,5,146,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,45,107,80,102,79,103,50"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="ErrorManager.hpp" name="ErrorManager.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,5,191,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,114,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,35,100,55,83,81,72,111,66,140,61,138,67,109,78,79,96,52,118,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="93,80,164,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,30,131,65,126,64,128,35"/>
+<area shape="rect" id="Node000004" href="$d8/d39/USMTF__Exceptions_8hpp.html" title=" " alt="" coords="188,80,352,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,30,234,72,229,73,153,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="235,110,112,152,110,147,232,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="142,155,220,181"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="257,106,209,147,207,142,252,108"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="244,155,297,181"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="272,105,272,141,268,138,268,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="322,155,379,181"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="285,105,328,145,323,144,283,110"/>
+</map>

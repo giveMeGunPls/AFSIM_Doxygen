@@ -1,0 +1,17 @@
+<map id="wsf::space::OrbitalTargetPoint" name="wsf::space::OrbitalTargetPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,173,215"/>
+<area shape="rect" id="Node000002" href="$dd/d8e/classwsf_1_1space_1_1KinematicOffsetTargetPoint.html" title="A target point that adapts another to provide an offset in a particular frame." alt="" coords="224,39,410,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,160,168,124,219,91,247,80,243,84,222,96,171,129,127,164"/>
+<area shape="rect" id="Node000005" href="$d6/d8c/classwsf_1_1space_1_1KinematicStateTargetPoint.html" title="A target point at a fixed inertial position and velocity." alt="" coords="226,105,408,148"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="177,165,244,147,239,150,180,170"/>
+<area shape="rect" id="Node000006" href="$d9/deb/classwsf_1_1space_1_1LibrationTargetPoint.html" title="This orbital target point is used for targeting libration points." alt="" coords="228,172,406,215"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,191,230,192,225,194,189,196"/>
+<area shape="rect" id="Node000007" href="$d3/d28/classwsf_1_1space_1_1PropagatorTargetPoint.html" title="A target point with kinematics given by a propagator." alt="" coords="221,239,414,281"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="178,217,244,237,239,239,178,222"/>
+<area shape="rect" id="Node000008" href="$d0/d79/classwsf_1_1space_1_1TimeOffsetTargetPoint.html" title=" " alt="" coords="221,305,414,348"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="126,222,171,258,222,291,248,305,242,305,219,296,168,262,125,228"/>
+<area shape="rect" id="Node000003" href="$d8/d0c/classwsf_1_1space_1_1NTW__OffsetTargetPoint.html" title="A target point that adapts another to provide an offset in the NTW frame." alt="" coords="462,5,664,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,43,464,39,459,41,427,48"/>
+<area shape="rect" id="Node000004" href="$d4/d54/classwsf_1_1space_1_1RIC__OffsetTargetPoint.html" title="A target point that adapts another to provide an offset in the RIC frame." alt="" coords="466,72,661,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="426,72,468,79,463,81,427,77"/>
+</map>

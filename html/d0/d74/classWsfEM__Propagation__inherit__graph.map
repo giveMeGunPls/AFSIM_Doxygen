@@ -1,0 +1,11 @@
+<map id="WsfEM_Propagation" name="WsfEM_Propagation">
+<area shape="rect" id="Node000001" title="An abstract base class for computing pattern propagation factors." alt="" coords="229,80,370,107"/>
+<area shape="rect" id="Node000003" href="$d2/df9/classWsfEM__ALARM__Propagation.html" title=" " alt="" coords="5,155,200,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="254,113,138,157,136,151,248,112"/>
+<area shape="rect" id="Node000004" href="$d9/d42/classWsfEM__FastMultipath.html" title="Fast multipath propagation model." alt="" coords="224,155,376,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="302,121,302,156,298,153,298,124"/>
+<area shape="rect" id="Node000005" href="$d1/d6a/classWsfEM__GroundWavePropagation.html" title="Ground wave propagation model." alt="" coords="400,155,616,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="351,109,474,154,469,154,350,115"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="258,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,46,302,81,298,78,298,50"/>
+</map>

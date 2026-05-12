@@ -1,0 +1,9 @@
+<map id="SOSM_SimpleInteraction.hpp" name="SOSM_SimpleInteraction.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,392,32"/>
+<area shape="rect" id="Node000002" href="$d3/d7d/SOSM__SensorTarget_8cpp.html" title=" " alt="" coords="5,80,175,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,39,127,82,125,77,243,36"/>
+<area shape="rect" id="Node000003" href="$d3/def/SOSM__SimpleInteraction_8cpp.html" title=" " alt="" coords="199,80,392,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="297,46,297,81,293,78,293,50"/>
+<area shape="rect" id="Node000004" href="$d6/d61/SOSM__TestCommands_8cpp.html" title=" " alt="" coords="416,80,601,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="347,35,474,79,469,80,347,40"/>
+</map>

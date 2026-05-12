@@ -1,0 +1,5 @@
+<map id="WsfDraw::DrawEvent" name="WsfDraw::DrawEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,104,160,131"/>
+<area shape="rect" id="Node000002" href="$d9/d63/structWsfDraw_1_1VertexObject.html" title="Represents a vertex for a drawn item." alt="" coords="5,5,165,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,46,88,104,82,103,83,49"/>
+</map>

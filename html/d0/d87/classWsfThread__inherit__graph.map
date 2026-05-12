@@ -1,0 +1,7 @@
+<map id="WsfThread" name="WsfThread">
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,5,198,32"/>
+<area shape="rect" id="Node000002" href="$db/dd2/classWsfDisIO__Thread.html" title="DIS interface implementation of worker thread." alt="" coords="5,88,132,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,42,83,90,80,86,128,43"/>
+<area shape="rect" id="Node000003" href="$d4/da1/classWsfMultiThreadManager_1_1SimulationUpdateThread.html" title="Implementation of worker thread for updating a platform." alt="" coords="156,80,328,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,40,222,80,217,79,179,45"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="WsfESA_AntennaPattern" name="WsfESA_AntennaPattern">
+<area shape="rect" id="Node000001" title=" " alt="" coords="8,333,177,360"/>
+<area shape="rect" id="Node000002" href="$dc/d80/classWsfAntennaPattern.html" title=" " alt="" coords="25,235,160,261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,275,92,285,92,309,94,334,89,332,87,309,87,285,89,279"/>
+<area shape="poly" id="edge5_Node000001_Node000002" title=" " alt="" coords="94,276,95,334,90,332,90,279"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,128,89,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="59,166,90,234,84,235,57,171"/>
+<area shape="rect" id="Node000004" href="$d7/d6d/classWsfAntennaPattern_1_1BaseData.html" title=" " alt="" coords="113,120,256,163"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="155,176,106,236,102,232,158,172"/>
+<area shape="rect" id="Node000005" href="$de/de7/classWsfAntennaPattern_1_1GainAdjustmentTable.html" title=" " alt="" coords="112,5,257,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="185,61,187,120,182,119,183,66"/>
+</map>
