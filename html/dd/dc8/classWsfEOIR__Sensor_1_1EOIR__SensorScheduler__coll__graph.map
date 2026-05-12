@@ -1,0 +1,34 @@
+<map id="WsfEOIR_Sensor::EOIR_SensorScheduler" name="WsfEOIR_Sensor::EOIR_SensorScheduler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="222,552,390,595"/>
+<area shape="rect" id="Node000002" href="$d1/d72/classWsfSensorScheduler.html" title=" " alt="" coords="340,453,485,480"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="375,487,353,506,333,529,318,554,315,550,329,526,350,502,370,489"/>
+<area shape="rect" id="Node000015" href="$dc/d1f/classWsfSensorTracker.html" title=" " alt="" coords="414,560,544,587"/>
+<area shape="poly" id="edge17_Node000015_Node000002" title=" " alt="" coords="433,490,443,503,476,561,470,559,438,505,431,495"/>
+<area shape="rect" id="Node000003" href="$d0/d47/classWsfSensor.html" title=" " alt="" coords="455,355,541,381"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,392,425,455,422,451,474,395"/>
+<area shape="poly" id="edge16_Node000015_Node000003" title=" " alt="" coords="536,388,550,404,566,437,574,467,572,496,558,529,540,549,518,562,517,557,537,544,553,527,567,495,569,467,561,439,545,407,535,394"/>
+<area shape="rect" id="Node000004" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="358,256,489,283"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,293,491,355,486,354,442,298"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="190,157,308,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="285,189,403,254,398,256,285,195"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="490,5,573,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="520,44,500,80,469,110,440,124,400,137,310,160,307,155,398,132,438,119,466,106,495,77,517,48"/>
+<area shape="rect" id="Node000013" href="$d0/dc6/classWsfUncloneableObject.html" title="An object that does not support Clone." alt="" coords="530,81,685,108"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="555,40,597,81,592,81,555,46"/>
+<area shape="rect" id="Node000007" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="293,81,455,108"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="338,118,272,159,268,155,342,114"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="318,5,430,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="375,45,377,82,371,80,373,50"/>
+<area shape="rect" id="Node000009" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="5,81,103,108"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="101,111,218,155,213,158,102,117"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="126,81,270,108"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="215,118,243,157,237,157,215,123"/>
+<area shape="rect" id="Node000011" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="332,157,515,184"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="425,197,426,257,421,255,422,202"/>
+<area shape="rect" id="Node000012" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="539,157,676,184"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="568,193,449,258,446,253,572,190"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="609,121,610,158,605,156,606,125"/>
+<area shape="rect" id="Node000014" href="$dd/db4/classWsfCategoryList.html" title="Contains the &#39;categories&#39; to which an object belongs." alt="" coords="513,256,632,283"/>
+<area shape="poly" id="edge14_Node000003_Node000014" title=" " alt="" coords="556,293,509,356,506,352,552,297"/>
+<area shape="poly" id="edge15_Node000002_Node000015" title=" " alt="" coords="412,555,380,545,359,530,354,516,358,503,369,489,382,482,387,479,373,493,363,505,359,516,363,526,382,540,417,555"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="wizard::UndoProxyChange" name="wizard::UndoProxyChange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="9,377,186,404"/>
+<area shape="rect" id="Node000002" href="$d6/dc1/classWsfPProxy.html" title=" " alt="" coords="53,279,142,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,320,100,378,95,376,95,323"/>
+<area shape="rect" id="Node000003" href="$dc/d6f/classWsfPProxyStructValue.html" title=" " alt="" coords="169,180,324,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,217,118,280,115,276,216,213"/>
+<area shape="rect" id="Node000004" href="$d4/d9c/classWsfPProxyValue.html" title=" " alt="" coords="37,104,158,131"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="66,143,45,165,23,192,10,222,8,238,11,254,26,291,47,325,88,376,83,378,42,328,21,293,5,255,3,238,5,221,19,189,41,161,68,138"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="99,144,100,279,95,278,95,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="136,135,224,178,219,181,137,141"/>
+<area shape="rect" id="Node000005" href="$d6/d03/classWsfPProxyType.html" title=" " alt="" coords="39,5,156,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="98,45,100,104,95,103,97,50"/>
+<area shape="rect" id="Node000006" href="$d3/d5b/classWsfPProxyPath.html" title="Represents a path or unique key to a value in the proxy." alt="" coords="165,279,280,305"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="209,317,175,355,133,379,131,374,172,351,204,319"/>
+</map>

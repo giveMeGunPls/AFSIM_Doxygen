@@ -1,0 +1,23 @@
+<map id="WsfWeaponEffects" name="WsfWeaponEffects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,132,270,159"/>
+<area shape="rect" id="Node000003" href="$d3/d8f/classWsfEngageLaunchPkTableLethality.html" title=" " alt="" coords="318,81,545,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,125,371,108,366,110,283,131"/>
+<area shape="rect" id="Node000004" href="$dc/d71/classWsfExplicitWeaponEffects.html" title=" " alt="" coords="344,132,520,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="285,143,346,145,340,146,286,148"/>
+<area shape="rect" id="Node000011" href="$d7/def/classWsfHEL__Lethality.html" title="A simple weapon effect calculating the lethal effect from a high&#45;energy laser (HEL)." alt="" coords="368,183,495,209"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="282,160,371,182,366,183,282,165"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,132,89,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,143,138,144,134,147,105,148"/>
+<area shape="rect" id="Node000005" href="$d2/d07/classWsfCarltonLethality.html" title=" " alt="" coords="635,5,771,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="533,124,544,118,560,100,567,81,574,61,592,42,612,31,637,25,632,27,614,36,595,46,579,64,572,83,564,103,547,122,535,129"/>
+<area shape="rect" id="Node000006" href="$d9/d7b/classWsfExoAtmosphericLethality.html" title=" " alt="" coords="608,56,798,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="521,125,544,118,568,105,592,92,633,82,628,84,594,97,571,110,546,122,523,130"/>
+<area shape="rect" id="Node000007" href="$dc/d7c/classWsfGraduatedLethality.html" title=" " alt="" coords="626,107,780,133"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="535,133,628,127,623,128,536,138"/>
+<area shape="rect" id="Node000008" href="$d8/da1/classWsfMobilityAndFirepowerLethality.html" title=" " alt="" coords="593,157,813,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="535,152,595,160,590,161,535,158"/>
+<area shape="rect" id="Node000009" href="$d7/d19/classWsfSphericalLethality.html" title=" " alt="" coords="629,208,777,235"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="522,160,546,168,571,181,594,194,633,208,628,207,592,198,568,186,544,173,522,166"/>
+<area shape="rect" id="Node000010" href="$de/d64/classWsfTabulatedLethality.html" title=" " alt="" coords="628,259,778,285"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="534,161,547,169,564,188,572,208,579,227,595,245,630,263,625,262,592,249,574,230,567,210,560,190,544,173,533,166"/>
+</map>

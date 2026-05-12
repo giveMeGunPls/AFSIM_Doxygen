@@ -1,0 +1,7 @@
+<map id="wsf::six_dof::AutopilotAction" name="wsf::six_dof::AutopilotAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="72,163,261,189"/>
+<area shape="rect" id="Node000002" href="$d4/d5a/classwsf_1_1six__dof_1_1Waypoint.html" title=" " alt="" coords="5,13,160,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,54,90,97,96,118,107,137,119,150,136,162,131,162,116,154,102,140,91,120,84,98,81,58"/>
+<area shape="rect" id="Node000003" href="$dd/d03/structwsf_1_1six__dof_1_1Route_1_1sRouteSegment.html" title=" " alt="" coords="184,5,320,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,62,243,102,225,140,211,154,195,165,193,160,208,150,220,137,238,101,247,65"/>
+</map>

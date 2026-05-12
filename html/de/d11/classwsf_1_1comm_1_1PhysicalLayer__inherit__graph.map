@@ -1,0 +1,9 @@
+<map id="wsf::comm::PhysicalLayer" name="wsf::comm::PhysicalLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,80,282,107"/>
+<area shape="rect" id="Node000003" href="$d9/d6e/classwsf_1_1comm_1_1PhysicalLayerJTIDS.html" title=" " alt="" coords="5,155,182,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,116,121,156,118,152,164,118"/>
+<area shape="rect" id="Node000004" href="$df/d69/classwsf_1_1comm_1_1PhysicalLayerLaser.html" title=" " alt="" coords="205,155,382,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="222,114,271,154,265,154,220,119"/>
+<area shape="rect" id="Node000002" href="$d3/deb/classwsf_1_1comm_1_1LayerImp.html" title="A base class defining the interface for the implementation classes. (Implementor)." alt="" coords="119,5,268,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,46,196,81,191,79,192,50"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="WsfXIO_AutoDisMapping::RemotePlatformInfo" name="WsfXIO_AutoDisMapping::RemotePlatformInfo">
+<area shape="rect" id="Node000001" title="Data pertaining to a platform owned by an external simulation." alt="" coords="860,132,1031,175"/>
+<area shape="rect" id="Node000002" href="$d6/d6b/classWsfXIO__DisPlatformInfoPkt.html" title=" " alt="" coords="523,56,710,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="686,84,862,131,857,132,686,90"/>
+<area shape="rect" id="Node000003" href="$d4/d59/classWsfXIO__ResponsePkt.html" title=" " alt="" coords="202,5,356,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,23,500,39,567,55,562,56,499,44,373,28"/>
+<area shape="rect" id="Node000004" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="14,5,130,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="144,16,204,17,200,20,147,21"/>
+<area shape="rect" id="Node000005" href="$d4/dcb/structWsfXIO__EntityId.html" title=" " alt="" coords="219,56,339,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="354,67,525,68,521,71,355,72"/>
+<area shape="rect" id="Node000006" href="$d1/dcb/structWsfXIO__AutoDisMapping_1_1ConnectionData.html" title=" " alt="" coords="531,132,702,175"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="717,151,862,153,856,154,718,156"/>
+<area shape="rect" id="Node000007" href="$d6/dd9/classWsfXIO__DisRequest.html" title=" " alt="" coords="207,111,351,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="367,129,533,145,528,147,367,134"/>
+<area shape="rect" id="Node000008" href="$d1/d9b/classWsfXIO__Request.html" title=" " alt="" coords="10,111,134,137"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="149,122,209,122,204,126,151,126"/>
+<area shape="rect" id="Node000009" href="$d5/d54/classWsfXIO__Connection.html" title=" " alt="" coords="208,165,350,192"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="365,179,431,179,499,175,533,172,528,174,500,180,431,184,366,185"/>
+<area shape="rect" id="Node000010" href="$de/dd7/classWsfPlatform.html" title="Platforms represent a entity within the simulation." alt="" coords="569,291,664,317"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="661,281,894,176,899,174,663,286"/>
+<area shape="rect" id="Node000011" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="238,216,321,243"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="336,237,500,271,572,291,566,291,499,276,336,242"/>
+<area shape="rect" id="Node000012" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="198,267,360,293"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="375,284,572,300,567,302,376,289"/>
+<area shape="rect" id="Node000013" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="16,267,128,293"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="143,277,200,279,196,281,144,283"/>
+<area shape="rect" id="Node000014" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="188,317,370,344"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="385,320,572,307,567,308,386,325"/>
+<area shape="rect" id="Node000015" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="5,317,139,344"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="154,328,190,330,185,332,155,333"/>
+<area shape="rect" id="Node000016" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="230,368,328,395"/>
+<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="342,364,572,314,566,315,344,369"/>
+<area shape="rect" id="Node000017" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="208,419,351,445"/>
+<area shape="poly" id="edge16_Node000010_Node000017" title=" " alt="" coords="346,411,370,404,435,383,498,358,586,319,591,317,500,362,436,388,371,409,347,417"/>
+</map>

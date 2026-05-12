@@ -1,0 +1,20 @@
+<map id="WsfMultiresolutionMultirunTable.hpp" name="WsfMultiresolutionMultirunTable.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="161,5,336,48"/>
+<area shape="rect" id="Node000002" href="$df/d51/MultiresolutionPluginRegistration_8cpp.html" title=" " alt="" coords="5,427,242,453"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,58,170,76,151,98,135,125,128,148,126,207,126,292,126,427,121,426,121,292,121,207,123,148,130,123,147,94,167,72,193,54"/>
+<area shape="rect" id="Node000003" href="$d4/d68/WsfMultiresolutionMultirunTable_8cpp.html" title=" " alt="" coords="161,96,336,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,61,251,96,246,95,248,66"/>
+<area shape="rect" id="Node000004" href="$d7/d84/WsfMultiresolutionPlatformComponentImpl_8hpp.html" title=" " alt="" coords="361,96,539,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="310,52,405,94,400,96,310,57"/>
+<area shape="rect" id="Node000005" href="$d2/d8d/WsfMultiresolutionPlatformComponent_8hpp.html" title=" " alt="" coords="361,187,539,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="443,152,445,188,440,185,440,157"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="457,170,457,141,459,137,461,172"/>
+<area shape="rect" id="Node000006" href="$d9/d77/MultiresolutionRoles_8hpp.html" title=" " alt="" coords="263,277,427,304"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="413,238,363,279,360,275,409,240"/>
+<area shape="rect" id="Node000007" href="$d7/dfb/WsfMultiresolutionTypes_8hpp.html" title=" " alt="" coords="258,352,448,379"/>
+<area shape="poly" id="edge10_Node000005_Node000007" title=" " alt="" coords="455,243,453,276,442,305,415,334,384,354,381,349,412,330,437,303,448,274,451,247"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="349,317,354,353,349,350,346,322"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="301,384,164,429,163,423,296,383"/>
+<area shape="rect" id="Node000008" href="$d7/d48/WsfMultiresolutionTypes_8cpp.html" title=" " alt="" coords="266,427,456,453"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="358,392,362,428,357,425,354,396"/>
+</map>

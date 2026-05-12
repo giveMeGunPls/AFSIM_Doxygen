@@ -1,0 +1,9 @@
+<map id="wsf::space::KinematicOffsetTargetPoint" name="wsf::space::KinematicOffsetTargetPoint">
+<area shape="rect" id="Node000001" title="A target point that adapts another to provide an offset in a particular frame." alt="" coords="124,96,310,139"/>
+<area shape="rect" id="Node000003" href="$d8/d0c/classwsf_1_1space_1_1NTW__OffsetTargetPoint.html" title="A target point that adapts another to provide an offset in the NTW frame." alt="" coords="5,187,208,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,148,134,188,131,184,177,150"/>
+<area shape="rect" id="Node000004" href="$d4/d54/classwsf_1_1space_1_1RIC__OffsetTargetPoint.html" title="A target point that adapts another to provide an offset in the RIC frame." alt="" coords="232,187,427,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,146,306,186,300,186,254,151"/>
+<area shape="rect" id="Node000002" href="$d0/dd9/classwsf_1_1space_1_1OrbitalTargetPoint.html" title=" " alt="" coords="134,5,301,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,61,220,97,215,95,216,66"/>
+</map>

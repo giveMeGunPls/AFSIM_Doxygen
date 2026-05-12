@@ -1,0 +1,5 @@
+<map id="wsf::space::LibrationTargetPoint" name="wsf::space::LibrationTargetPoint">
+<area shape="rect" id="Node000001" title="This orbital target point is used for targeting libration points." alt="" coords="5,96,184,139"/>
+<area shape="rect" id="Node000002" href="$d0/dd9/classwsf_1_1space_1_1OrbitalTargetPoint.html" title=" " alt="" coords="11,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,62,97,97,92,95,93,66"/>
+</map>

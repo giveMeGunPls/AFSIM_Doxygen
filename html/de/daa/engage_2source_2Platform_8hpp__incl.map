@@ -1,0 +1,10 @@
+<map id="Platform.hpp" name="Platform.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,5,118,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,59,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,30,51,81,38,140,33,138,45,79,64,35"/>
+<area shape="rect" id="Node000003" href="$d0/dc4/TargetConfig_8hpp.html" title=" " alt="" coords="60,80,180,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="80,30,106,67,100,67,79,35"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="107,106,60,147,57,143,102,108"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="91,155,149,181"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="122,105,122,140,118,138,118,109"/>
+</map>

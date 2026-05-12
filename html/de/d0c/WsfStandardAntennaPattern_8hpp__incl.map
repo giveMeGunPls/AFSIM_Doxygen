@@ -1,0 +1,35 @@
+<map id="WsfStandardAntennaPattern.hpp" name="WsfStandardAntennaPattern.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,5,414,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="682,304,778,331"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="354,30,491,76,573,111,651,152,703,182,722,200,738,228,744,259,740,291,736,287,739,260,733,230,717,204,700,187,649,157,571,115,490,81,354,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,229,74,256"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,34,231,54,180,80,128,115,82,156,62,185,50,215,45,213,58,183,77,153,125,110,177,76,229,49,275,31"/>
+<area shape="rect" id="Node000004" href="$d4/d78/WsfAntennaPattern_8hpp.html" title=" " alt="" coords="227,80,388,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="309,30,310,65,305,63,306,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="388,96,466,107,554,130,598,147,640,168,678,195,712,228,728,257,732,290,728,287,723,259,708,231,675,199,637,173,596,152,552,135,465,112,389,101"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="234,109,176,128,117,157,84,186,58,218,54,215,80,182,114,152,174,123,238,106"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="128,155,186,181"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="279,109,198,150,195,145,283,106"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="209,155,315,181"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="301,105,280,143,276,140,298,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="97,229,264,256"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="317,104,334,141,336,163,330,183,304,209,271,226,269,221,300,205,325,180,331,162,329,143,315,109"/>
+<area shape="rect" id="Node000008" href="$dc/da4/WsfObject_8hpp.html" title=" " alt="" coords="391,155,499,181"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="332,105,410,147,405,147,331,110"/>
+<area shape="poly" id="edge12_Node000008_Node000002" title=" " alt="" coords="499,169,542,174,590,185,637,202,681,227,707,257,724,291,719,289,703,260,678,231,635,207,588,190,541,179,499,174"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="388,178,257,200,90,231,88,226,256,195,393,176"/>
+<area shape="poly" id="edge13_Node000008_Node000007" title=" " alt="" coords="396,183,242,227,241,222,401,181"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="428,229,486,256"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="448,180,455,215,450,213,445,184"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="510,229,668,256"/>
+<area shape="poly" id="edge14_Node000008_Node000010" title=" " alt="" coords="470,179,553,222,547,222,469,184"/>
+<area shape="rect" id="Node000011" href="$d6/d11/WsfStringId_8hpp.html" title=" " alt="" coords="288,229,404,256"/>
+<area shape="poly" id="edge15_Node000008_Node000011" title=" " alt="" coords="430,181,377,222,374,218,425,183"/>
+<area shape="poly" id="edge16_Node000011_Node000002" title=" " alt="" coords="405,252,669,303,664,305,404,258"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="423,304,482,331"/>
+<area shape="poly" id="edge17_Node000011_Node000012" title=" " alt="" coords="366,254,424,295,419,295,364,259"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="216,304,269,331"/>
+<area shape="poly" id="edge18_Node000011_Node000013" title=" " alt="" coords="331,256,274,297,271,293,326,257"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="294,304,399,331"/>
+<area shape="poly" id="edge19_Node000011_Node000014" title=" " alt="" coords="348,255,348,290,344,287,344,258"/>
+</map>

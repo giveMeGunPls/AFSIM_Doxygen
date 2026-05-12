@@ -1,0 +1,9 @@
+<map id="WsfL16::Messages::MessageScriptClass" name="WsfL16::Messages::MessageScriptClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,201,115"/>
+<area shape="rect" id="Node000002" href="$d0/d6a/classWsfL16_1_1Messages_1_1MessageContinuationScriptClass.html" title=" " alt="" coords="249,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,65,268,47,263,50,199,70"/>
+<area shape="rect" id="Node000003" href="$d4/d79/classWsfL16_1_1Messages_1_1MessageExtensionScriptClass.html" title=" " alt="" coords="249,72,444,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,91,251,93,246,94,217,96"/>
+<area shape="rect" id="Node000004" href="$dc/dd2/classWsfL16_1_1Messages_1_1MessageInitialScriptClass.html" title=" " alt="" coords="249,139,444,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,117,268,138,263,138,198,122"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="wsf::comm::router::RouterComponent" name="wsf::comm::router::RouterComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="397,139,532,181"/>
+<area shape="rect" id="Node000004" href="$dc/d67/classwsf_1_1comm_1_1router_1_1ProtocolInterface.html" title=" " alt="" coords="580,139,716,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="548,157,583,160,578,160,548,163"/>
+<area shape="rect" id="Node000002" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="166,147,349,173"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,157,399,159,394,161,365,163"/>
+<area shape="rect" id="Node000003" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="5,147,118,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="133,157,168,159,163,161,134,163"/>
+<area shape="rect" id="Node000005" href="$d3/d11/classwsf_1_1comm_1_1router_1_1ProtocolAdHoc.html" title=" " alt="" coords="764,5,899,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="680,126,718,92,762,58,780,50,785,47,765,62,721,96,683,130"/>
+<area shape="rect" id="Node000006" href="$df/d67/classwsf_1_1comm_1_1router_1_1ProtocolLegacy.html" title=" " alt="" coords="764,72,899,115"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="722,130,768,116,773,114,724,135"/>
+<area shape="rect" id="Node000007" href="$da/da3/classwsf_1_1comm_1_1router_1_1ProtocolMulticast.html" title=" " alt="" coords="764,139,899,181"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="731,157,766,160,761,160,731,163"/>
+<area shape="rect" id="Node000008" href="$dd/d97/classwsf_1_1comm_1_1router_1_1ProtocolOSPF.html" title=" " alt="" coords="764,205,899,248"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="723,184,773,205,768,205,723,190"/>
+<area shape="rect" id="Node000009" href="$dc/d2d/classwsf_1_1comm_1_1router_1_1rip_1_1RIPv2.html" title=" " alt="" coords="764,272,899,315"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="682,189,721,224,765,258,785,272,780,271,762,262,718,228,681,195"/>
+</map>

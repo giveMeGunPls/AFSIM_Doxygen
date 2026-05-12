@@ -1,0 +1,5 @@
+<map id="WsfXIO_PartStateChangeRequestPkt" name="WsfXIO_PartStateChangeRequestPkt">
+<area shape="rect" id="Node000001" title="Requests that an application changes either state or mode of a platform part." alt="" coords="5,80,250,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="69,5,186,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,46,130,81,125,78,126,50"/>
+</map>

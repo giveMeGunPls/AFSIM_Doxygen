@@ -1,0 +1,7 @@
+<map id="WsfMultiresolutionTypesRegistration" name="WsfMultiresolutionTypesRegistration">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,240,181"/>
+<area shape="rect" id="Node000002" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="45,80,200,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,121,125,155,120,153,121,124"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="71,5,174,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,46,125,80,120,79,121,50"/>
+</map>

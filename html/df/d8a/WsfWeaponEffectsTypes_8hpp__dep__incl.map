@@ -1,0 +1,21 @@
+<map id="WsfWeaponEffectsTypes.hpp" name="WsfWeaponEffectsTypes.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="519,5,712,32"/>
+<area shape="rect" id="Node000002" href="$d3/da5/StubInterface_8cpp.html" title=" " alt="" coords="5,80,130,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="504,36,143,83,131,84,130,79,142,77,503,30"/>
+<area shape="rect" id="Node000003" href="$d6/de0/Tool_8cpp.html" title=" " alt="" coords="154,80,224,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="507,34,375,57,236,83,225,85,224,80,235,77,375,52,502,35"/>
+<area shape="rect" id="Node000004" href="$dc/d7a/WsfExtDetonation_8cpp.html" title=" " alt="" coords="248,80,402,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="553,36,376,82,375,77,547,36"/>
+<area shape="rect" id="Node000005" href="$d9/db9/WsfMil_8cpp.html" title=" " alt="" coords="425,80,512,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="579,39,495,82,494,77,574,40"/>
+<area shape="rect" id="Node000006" href="$d6/dee/WsfMilExtInterface_8cpp.html" title=" " alt="" coords="536,80,695,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="617,46,618,81,613,78,614,50"/>
+<area shape="rect" id="Node000007" href="$d2/d57/WsfNonExportableBase_8cpp.html" title=" " alt="" coords="718,80,905,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="664,35,780,80,774,79,663,40"/>
+<area shape="rect" id="Node000008" href="$df/d8c/WsfWeapon_8cpp.html" title=" " alt="" coords="929,80,1046,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="696,33,931,81,926,81,695,38"/>
+<area shape="rect" id="Node000009" href="$d6/d5f/WsfWeaponEffectsTypes_8cpp.html" title=" " alt="" coords="1071,80,1264,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="728,32,1073,79,1068,80,727,37"/>
+<area shape="rect" id="Node000010" href="$d9/d75/WsfWeaponEngagement_8cpp.html" title=" " alt="" coords="1288,80,1479,107"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="728,27,1277,77,1291,81,1285,81,1277,83,728,32"/>
+</map>

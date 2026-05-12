@@ -1,0 +1,5 @@
+<map id="wsf::six_dof::AutopilotPidGroupValueData" name="wsf::six_dof::AutopilotPidGroupValueData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,317,198,360"/>
+<area shape="rect" id="Node000002" href="$d8/d05/structwsf_1_1six__dof_1_1SinglePidValueData.html" title=" " alt="" coords="5,5,221,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,47,116,317,110,317,110,48"/>
+</map>

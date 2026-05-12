@@ -1,0 +1,9 @@
+<map id="WsfSimulation" name="WsfSimulation">
+<area shape="rect" id="Node000001" title="The main controller for a simulation." alt="" coords="132,5,238,32"/>
+<area shape="rect" id="Node000002" href="$d4/d0e/classWsfEventStepSimulation.html" title="A specialization of WsfSimulation that implements an event&#45;stepped simulation." alt="" coords="5,80,173,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,43,107,82,104,78,158,40"/>
+<area shape="rect" id="Node000003" href="$d1/d95/classWsfFrameStepSimulation.html" title="A specialization of WsfSimulation that implements an frame&#45;based simulation." alt="" coords="197,80,368,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,39,268,79,263,80,213,44"/>
+<area shape="rect" id="Node000004" href="$d7/dab/classengage_1_1Simulation.html" title=" " alt="" coords="216,155,348,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,121,284,156,280,153,280,124"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="WsfXIO_ProcessorInfo" name="WsfXIO_ProcessorInfo">
+<area shape="rect" id="Node000001" title="Contains information about a processor." alt="" coords="589,5,745,32"/>
+<area shape="rect" id="Node000002" href="$d3/d6a/classWsfXIO__PlatformPartInfo.html" title=" " alt="" coords="190,80,360,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="332,73,384,59,490,39,591,26,586,29,491,44,385,64,335,77"/>
+<area shape="rect" id="Node000011" href="$dc/d32/classWsfXIO__MoverInfo.html" title=" " alt="" coords="600,128,734,155"/>
+<area shape="poly" id="edge13_Node000011_Node000002" title=" " alt="" coords="376,103,602,132,598,135,376,108"/>
+<area shape="rect" id="Node000003" href="$d8/d67/classWsfXIO__ObjectInfo.html" title=" " alt="" coords="5,280,141,307"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,265,127,199,155,162,188,130,209,116,235,105,231,109,212,120,192,134,159,166,131,202,90,267"/>
+<area shape="rect" id="Node000004" href="$d1/da7/classWsfXIO__PlatformInfo.html" title=" " alt="" coords="880,257,1026,284"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="156,289,880,270,879,275,157,294"/>
+<area shape="rect" id="Node000007" href="$db/d4c/classWsfXIO__TrackManagerInfo.html" title="Contains information about a track manager." alt="" coords="384,339,565,365"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="153,308,165,309,386,340,382,344,164,315,155,313"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="941,242,928,213,910,179,886,147,855,121,816,106,764,95,700,88,630,84,486,85,362,90,360,85,486,79,631,79,701,83,765,90,818,101,857,116,889,143,914,176,933,211,945,244"/>
+<area shape="rect" id="Node000005" href="$d4/dcb/structWsfXIO__EntityId.html" title=" " alt="" coords="607,179,727,205"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="742,197,799,207,857,221,896,237,931,257,926,257,894,242,855,227,798,212,743,202"/>
+<area shape="rect" id="Node000006" href="$de/d50/structWsfXIO__EntityType.html" title=" " alt="" coords="598,229,736,256"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="751,248,882,263,877,264,751,254"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="580,350,713,339,785,328,855,309,921,285,926,284,857,315,786,333,714,345,581,355"/>
+<area shape="rect" id="Node000008" href="$d3/ded/classWsfRoute.html" title="A collection of WsfWaypoint objects that represent a path to be followed." alt="" coords="627,403,707,429"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="722,419,788,416,823,408,855,395,886,370,912,340,944,286,948,283,916,343,890,374,857,400,824,414,789,421,723,424"/>
+<area shape="rect" id="Node000009" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="234,445,317,472"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="332,450,624,420,629,420,333,455"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="204,395,347,421"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="362,407,629,414,624,416,362,412"/>
+<area shape="poly" id="edge12_Node000004_Node000011" title=" " alt="" coords="749,142,804,152,857,172,885,191,910,213,945,258,940,256,906,217,882,195,855,177,802,158,749,148"/>
+<area shape="rect" id="Node000012" href="$d4/dd2/structWsfPathConstraints.html" title="Contains constraints used for computing a path in WsfPathComputer." alt="" coords="206,144,345,171"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="360,157,458,158,564,153,603,151,597,153,565,159,459,163,361,163"/>
+<area shape="rect" id="Node000013" href="$df/d72/classWsfAttributeContainer.html" title=" " alt="" coords="592,453,742,480"/>
+<area shape="poly" id="edge15_Node000004_Node000013" title=" " alt="" coords="757,473,808,467,832,459,855,447,875,430,893,410,920,364,937,318,947,286,951,283,942,320,925,366,897,413,879,434,857,452,834,464,809,472,757,478"/>
+</map>

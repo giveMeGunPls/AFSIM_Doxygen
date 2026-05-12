@@ -1,0 +1,7 @@
+<map id="WsfEM_GroundWavePropagation" name="WsfEM_GroundWavePropagation">
+<area shape="rect" id="Node000001" title="Ground wave propagation model." alt="" coords="5,155,222,181"/>
+<area shape="rect" id="Node000002" href="$d5/d88/classWsfEM__Propagation.html" title="An abstract base class for computing pattern propagation factors." alt="" coords="43,80,184,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,121,116,155,111,153,112,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="72,5,155,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,45,116,80,111,79,112,50"/>
+</map>

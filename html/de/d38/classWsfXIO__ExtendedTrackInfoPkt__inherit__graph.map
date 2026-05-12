@@ -1,0 +1,5 @@
+<map id="WsfXIO_ExtendedTrackInfoPkt" name="WsfXIO_ExtendedTrackInfoPkt">
+<area shape="rect" id="Node000001" title="The response from a WsfXIO_ExtendedTrackInfoRequestPkt." alt="" coords="5,80,211,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="50,5,166,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,46,110,81,106,79,106,50"/>
+</map>

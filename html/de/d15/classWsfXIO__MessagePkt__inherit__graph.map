@@ -1,0 +1,5 @@
+<map id="WsfXIO_MessagePkt" name="WsfXIO_MessagePkt">
+<area shape="rect" id="Node000001" title="Provides messages associated with a WsfXIO_MessageRequestPkt." alt="" coords="5,80,154,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="21,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,46,82,80,77,79,78,50"/>
+</map>

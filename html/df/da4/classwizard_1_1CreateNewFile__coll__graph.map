@@ -1,0 +1,5 @@
+<map id="wizard::CreateNewFile" name="wizard::CreateNewFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,160,131"/>
+<area shape="rect" id="Node000002" href="$d5/dad/classwizard_1_1Project.html" title="A WSF &#39;project&#39;. Manages WSF sources files in a WSF project." alt="" coords="28,5,137,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,46,85,104,80,103,80,49"/>
+</map>

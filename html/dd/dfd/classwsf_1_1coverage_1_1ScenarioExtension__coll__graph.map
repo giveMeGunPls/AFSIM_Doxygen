@@ -1,0 +1,14 @@
+<map id="wsf::coverage::ScenarioExtension" name="wsf::coverage::ScenarioExtension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,357,226,384"/>
+<area shape="rect" id="Node000002" href="$de/d1b/classWsfCloneableScenarioExtension.html" title="Implements the WsfScenarioExtension interface given an extension that is cloneable." alt="" coords="9,281,222,308"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,321,118,358,113,356,114,325"/>
+<area shape="rect" id="Node000003" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="30,132,185,159"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,172,117,281,112,281,107,176"/>
+<area shape="rect" id="Node000004" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="78,5,182,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,45,112,132,107,131,124,50"/>
+<area shape="rect" id="Node000006" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="156,81,320,108"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="161,38,222,80,217,82,161,43"/>
+<area shape="rect" id="Node000005" href="$dc/d0b/classWsfCloneableSimulationExtension.html" title=" " alt="" coords="131,183,353,209"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="212,221,134,283,130,279,216,217"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="241,121,244,183,239,182,238,126"/>
+</map>

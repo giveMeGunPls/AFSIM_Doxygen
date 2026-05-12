@@ -1,0 +1,13 @@
+<map id="WsfComponentFactoryBase" name="WsfComponentFactoryBase">
+<area shape="rect" id="Node000001" title="A factory for creating components on an object with a component list.." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="Node000002" href="$d9/ded/classWsfComponentFactory.html" title=" " alt="" coords="240,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,72,247,47,243,50,161,77"/>
+<area shape="rect" id="Node000004" href="$d9/ded/classWsfComponentFactory.html" title=" " alt="" coords="240,72,396,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,91,242,93,237,94,207,96"/>
+<area shape="rect" id="Node000006" href="$d9/ded/classWsfComponentFactory.html" title="A template that defines a component factory for a given parent class." alt="" coords="240,139,396,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="160,109,248,137,243,139,159,114"/>
+<area shape="rect" id="Node000003" href="$d4/df6/classimpl_1_1MultiresolutionComponentFactory.html" title=" " alt="" coords="444,5,648,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,24,446,26,441,27,412,29"/>
+<area shape="rect" id="Node000005" href="$df/d7e/classwsf_1_1comm_1_1medium_1_1ContainerFactory.html" title="A template class for common medium component factory registration." alt="" coords="446,72,646,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="411,91,449,93,444,94,411,96"/>
+</map>

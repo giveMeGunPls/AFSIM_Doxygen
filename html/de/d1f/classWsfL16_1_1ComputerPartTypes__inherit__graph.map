@@ -1,0 +1,9 @@
+<map id="WsfL16::ComputerPartTypes" name="WsfL16::ComputerPartTypes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,196,272"/>
+<area shape="rect" id="Node000002" href="$dc/d79/classWsfObjectTypeList.html" title=" " alt="" coords="30,155,171,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,211,103,246,98,244,99,215"/>
+<area shape="rect" id="Node000003" href="$db/d98/classWsfObjectTypeListBase.html" title="Base class for WsfObjectTypeList. Provides most of the implementation." alt="" coords="19,80,182,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,120,103,155,98,154,99,125"/>
+<area shape="rect" id="Node000004" href="$d5/d92/classWsfObjectTypeListBaseI.html" title="The interface an object type list must support." alt="" coords="17,5,184,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="101,45,103,80,98,79,100,50"/>
+</map>

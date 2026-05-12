@@ -1,0 +1,13 @@
+<map id="WsfBMAssignmentTrackMessage" name="WsfBMAssignmentTrackMessage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="610,39,831,65"/>
+<area shape="rect" id="Node000002" href="$da/dce/classWsfMessage.html" title="A base class for messages sent among simulation communication objects, processors and sensors." alt="" coords="416,8,514,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="530,26,613,39,607,39,530,32"/>
+<area shape="rect" id="Node000003" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="157,5,300,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="315,17,418,20,413,21,316,22"/>
+<area shape="rect" id="Node000004" href="$d6/dca/classWsfBMManagedTypeWrapper.html" title=" " alt="" coords="368,60,562,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="577,66,607,65,612,64,578,71"/>
+<area shape="rect" id="Node000005" href="$d4/d98/classWsfBMTypeWrapper.html" title=" " alt="" coords="137,56,320,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="335,81,370,83,365,83,336,86"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,72,89,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="104,83,139,85,134,86,105,88"/>
+</map>

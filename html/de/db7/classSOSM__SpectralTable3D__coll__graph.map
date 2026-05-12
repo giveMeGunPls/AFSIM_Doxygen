@@ -1,0 +1,11 @@
+<map id="SOSM_SpectralTable3D" name="SOSM_SpectralTable3D">
+<area shape="rect" id="Node000001" title="A spectral table with two independent variables." alt="" coords="160,267,324,293"/>
+<area shape="rect" id="Node000002" href="$d0/d78/classSOSM__SpectralObject.html" title=" " alt="" coords="5,104,159,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,139,232,265,227,267,104,144"/>
+<area shape="rect" id="Node000003" href="$df/d41/classSOSM__Manager.html" title="A singleton class that manages SOSM data." alt="" coords="183,104,301,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,145,244,267,240,265,240,148"/>
+<area shape="rect" id="Node000004" href="$da/d30/classSOSM__TestCommands.html" title="Commands that can be used to test the model." alt="" coords="162,5,322,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,45,245,105,239,103,241,50"/>
+<area shape="rect" id="Node000005" href="$db/d17/classSOSM__TableVar.html" title="A helper class for specifying data to the table loaders." alt="" coords="325,104,442,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="381,144,367,196,354,222,336,245,317,259,296,269,295,264,315,254,332,241,349,219,362,194,377,148"/>
+</map>

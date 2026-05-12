@@ -1,0 +1,9 @@
+<map id="WsfOrbitalManeuveringTypes" name="WsfOrbitalManeuveringTypes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,198,272"/>
+<area shape="rect" id="Node000002" href="$dc/d79/classWsfObjectTypeList.html" title=" " alt="" coords="15,155,188,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,211,104,246,99,244,100,215"/>
+<area shape="rect" id="Node000003" href="$db/d98/classWsfObjectTypeListBase.html" title="Base class for WsfObjectTypeList. Provides most of the implementation." alt="" coords="20,80,183,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,120,104,155,99,154,100,125"/>
+<area shape="rect" id="Node000004" href="$d5/d92/classWsfObjectTypeListBaseI.html" title="The interface an object type list must support." alt="" coords="18,5,185,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,45,104,80,99,79,101,50"/>
+</map>

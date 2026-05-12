@@ -1,0 +1,28 @@
+<map id="P6DofSequencer" name="P6DofSequencer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="636,539,756,566"/>
+<area shape="rect" id="Node000002" href="$d6/d35/classP6DofObject.html" title=" " alt="" coords="330,495,426,522"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,522,492,532,638,549,633,549,492,537,441,527"/>
+<area shape="rect" id="Node000004" href="$d2/d06/classP6DofVehicle.html" title=" " alt="" coords="646,271,746,298"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="440,492,538,463,581,447,610,431,640,399,663,361,689,300,693,297,667,364,644,402,614,435,584,452,540,468,441,497"/>
+<area shape="rect" id="Node000003" href="$d2/dd9/classP6DofScenario.html" title=" " alt="" coords="15,495,124,522"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,506,330,506,328,511,140,511"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="696,312,691,359,678,413,654,467,636,490,614,510,591,522,567,530,517,537,468,534,425,525,426,520,468,528,517,531,566,525,589,517,610,505,632,487,649,464,673,411,686,358,692,316"/>
+<area shape="rect" id="Node000005" href="$d0/d0d/classP6DofAeroCoreObject.html" title=" " alt="" coords="302,25,454,51"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="468,26,506,28,544,34,581,46,614,65,637,88,655,115,680,174,692,230,697,273,692,270,687,231,675,175,650,117,633,91,610,70,578,51,542,39,505,33,470,31"/>
+<area shape="rect" id="Node000006" href="$de/d62/classP6DofMassProperties.html" title=" " alt="" coords="303,79,452,106"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="467,93,553,101,588,109,613,120,632,136,648,155,672,197,687,239,695,272,690,270,682,240,667,199,644,158,628,140,611,124,587,114,552,107,469,98"/>
+<area shape="rect" id="Node000007" href="$d6/d1a/classP6DofKinematicState.html" title=" " alt="" coords="304,134,452,161"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="466,143,541,153,578,164,613,180,640,200,662,224,691,272,686,271,657,228,636,204,611,184,576,169,540,158,468,148"/>
+<area shape="rect" id="Node000008" href="$d2/d59/classP6DofAtmosphere.html" title="P6DofAtmosphere provides atmospheric data for Pseudo 6DOF objects." alt="" coords="5,134,134,161"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="148,145,305,146,302,149,150,150"/>
+<area shape="rect" id="Node000009" href="$da/d35/classP6DofIntegrator.html" title=" " alt="" coords="321,189,434,215"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="449,204,529,215,613,236,648,251,678,271,673,271,645,256,611,241,528,220,450,209"/>
+<area shape="rect" id="Node000010" href="$d0/d0f/classP6DofGraphicalSupport.html" title=" " alt="" coords="299,243,457,270"/>
+<area shape="poly" id="edge10_Node000004_Node000010" title=" " alt="" coords="472,262,648,279,643,281,473,268"/>
+<area shape="rect" id="Node000011" href="$da/d2f/classP6DofSizeFactor.html" title=" " alt="" coords="317,298,438,325"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="453,314,530,314,612,308,660,298,655,300,612,313,531,320,454,319"/>
+<area shape="rect" id="Node000012" href="$d6/d01/structP6DOF_1_1CurrentTargetData.html" title=" " alt="" coords="288,353,468,379"/>
+<area shape="poly" id="edge12_Node000004_Node000012" title=" " alt="" coords="483,367,548,360,611,344,650,322,679,300,684,297,653,326,613,349,548,365,484,372"/>
+<area shape="rect" id="Node000013" href="$dc/d6e/structP6DOF_1_1TrackData.html" title=" " alt="" coords="311,407,445,434"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="460,426,497,425,536,421,575,412,611,396,638,374,660,348,687,300,691,297,664,351,642,378,613,400,576,417,537,426,497,431,460,431"/>
+</map>

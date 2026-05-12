@@ -1,0 +1,17 @@
+<map id="WsfXIO_ModedPartInfo" name="WsfXIO_ModedPartInfo">
+<area shape="rect" id="Node000001" title="Contains information about a part which contains modes (sensor)." alt="" coords="77,229,237,256"/>
+<area shape="rect" id="Node000005" href="$df/d87/classWsfXIO__SensorInfo.html" title="Provides information about a sensor." alt="" coords="5,304,144,331"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="130,269,91,306,87,302,133,264"/>
+<area shape="rect" id="Node000006" href="$d8/d1f/classWsfXIO__WeaponInfo.html" title="Provides information about a weapon." alt="" coords="168,304,312,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="184,264,228,303,223,304,182,269"/>
+<area shape="rect" id="Node000002" href="$d7/d63/classWsfXIO__ArticulatedPartInfo.html" title="Contains information about an articulated part." alt="" coords="66,155,249,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,195,160,230,155,228,156,200"/>
+<area shape="rect" id="Node000003" href="$d3/d6a/classWsfXIO__PlatformPartInfo.html" title=" " alt="" coords="72,80,242,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,120,160,155,155,154,156,125"/>
+<area shape="rect" id="Node000004" href="$d8/d67/classWsfXIO__ObjectInfo.html" title=" " alt="" coords="90,5,225,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,45,160,80,155,79,157,50"/>
+<area shape="rect" id="Node000007" href="$d5/df1/classWsfXIO__ExplicitWeaponInfo.html" title="Provides information about a WsfExplicitWeapon." alt="" coords="40,379,227,405"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="211,339,153,380,151,376,206,340"/>
+<area shape="rect" id="Node000008" href="$d3/d20/classWsfXIO__JammerWeaponInfo.html" title="Provides information about a WsfRF_Jammer." alt="" coords="251,379,442,405"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="272,337,330,378,325,378,270,342"/>
+</map>

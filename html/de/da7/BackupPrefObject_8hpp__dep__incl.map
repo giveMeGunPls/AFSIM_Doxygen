@@ -1,0 +1,19 @@
+<map id="BackupPrefObject.hpp" name="BackupPrefObject.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="340,5,492,32"/>
+<area shape="rect" id="Node000002" href="$dc/d3c/ActionManager_8cpp.html" title=" " alt="" coords="5,80,139,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,38,133,82,131,77,342,33"/>
+<area shape="rect" id="Node000003" href="$d0/d3c/BackupPrefObject_8cpp.html" title=" " alt="" coords="162,80,315,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="369,40,271,82,269,77,373,37"/>
+<area shape="rect" id="Node000004" href="$d9/d9c/BackupPrefWidget_8hpp.html" title=" " alt="" coords="338,80,494,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="418,46,418,81,414,78,414,50"/>
+<area shape="rect" id="Node000008" href="$df/d12/ChangeHistory_8cpp.html" title=" " alt="" coords="518,80,650,107"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="459,36,557,79,552,80,459,41"/>
+<area shape="rect" id="Node000009" href="$d3/d22/Project_8cpp.html" title=" " alt="" coords="674,80,761,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="484,33,676,81,671,82,483,39"/>
+<area shape="rect" id="Node000005" href="$d0/d71/BackupPrefWidget_8cpp.html" title=" " alt="" coords="249,155,404,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="391,116,343,157,341,152,386,118"/>
+<area shape="rect" id="Node000006" href="$d2/d3b/PreferencesDialog_8hpp.html" title=" " alt="" coords="429,155,582,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="444,114,493,155,487,154,443,119"/>
+<area shape="rect" id="Node000007" href="$d8/d5f/Factory_8cpp.html" title=" " alt="" coords="461,229,550,256"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="507,195,507,231,503,227,503,199"/>
+</map>

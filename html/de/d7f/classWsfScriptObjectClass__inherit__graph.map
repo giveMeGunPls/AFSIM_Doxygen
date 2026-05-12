@@ -1,0 +1,215 @@
+<map id="WsfScriptObjectClass" name="WsfScriptObjectClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,753,157,780"/>
+<area shape="rect" id="Node000002" href="$d1/df3/classWsfL16_1_1ScriptedPartClass.html" title="Define script methods for WsfProcessor." alt="" coords="238,15,418,41"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,738,87,594,106,387,122,282,143,185,169,106,185,75,203,51,218,39,239,31,236,36,221,44,207,55,190,78,174,108,148,186,127,283,112,388,93,594,86,738"/>
+<area shape="rect" id="Node000003" href="$dc/dbf/classWsfScriptAdvancedBehaviorTreeClass.html" title=" " alt="" coords="234,65,422,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="81,738,91,606,112,421,128,326,148,239,173,167,187,140,203,118,234,98,232,103,207,122,192,142,178,169,153,240,133,327,117,421,96,607,86,738"/>
+<area shape="rect" id="Node000004" href="$da/dd7/classWsfScriptAdvancedBehaviorTreeNodeClass.html" title=" " alt="" coords="234,132,422,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="82,738,93,619,116,453,132,369,152,292,175,228,188,204,203,185,235,165,232,169,207,189,193,207,180,231,157,293,138,370,122,454,99,619,87,738"/>
+<area shape="rect" id="Node000005" href="$d1/d49/classWsfScriptAntennaPatternClass.html" title=" " alt="" coords="226,199,430,225"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,738,95,627,118,476,135,400,154,331,177,274,203,235,227,220,225,225,207,239,181,276,159,332,140,401,124,477,100,628,88,738"/>
+<area shape="rect" id="Node000006" href="$d6/d5e/classWsfScriptAssetPerceptionClass.html" title=" " alt="" coords="240,249,416,292"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="83,738,99,640,124,510,140,444,159,385,180,336,203,302,220,289,241,280,238,284,222,294,207,306,184,338,164,387,146,446,129,511,104,641,89,738"/>
+<area shape="rect" id="Node000007" href="$df/dfb/classWsfScriptBMAssetClass.html" title=" " alt="" coords="244,316,412,343"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="79,737,82,660,88,610,98,556,113,501,135,447,165,396,203,353,222,340,246,332,242,336,224,344,206,357,169,399,140,449,118,502,103,557,93,611,87,661,84,738"/>
+<area shape="rect" id="Node000008" href="$d3/d7c/classWsfScriptBMAuxDataZoneAttachmentClass.html" title=" " alt="" coords="205,367,451,409"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="81,738,89,672,109,587,124,541,145,497,171,456,203,419,221,408,219,412,206,423,175,459,149,499,129,543,114,588,94,673,87,738"/>
+<area shape="rect" id="Node000009" href="$de/d6b/classWsfScriptBehaviorTreeNodeClass.html" title=" " alt="" coords="234,433,422,476"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="84,738,96,684,118,616,152,546,176,514,203,486,235,468,232,473,206,490,180,518,157,549,122,618,101,686,89,739"/>
+<area shape="rect" id="Node000010" href="$d4/d43/classWsfScriptCorrelationClass.html" title="The following script class is intended to be used for unit testing only." alt="" coords="240,500,416,527"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="87,738,101,693,124,638,158,583,179,558,203,536,241,519,238,524,206,541,183,562,162,586,129,640,106,694,92,739"/>
+<area shape="rect" id="Node000011" href="$d2/dd8/classWsfScriptEM__AttenuationClass.html" title=" " alt="" coords="225,551,431,577"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="91,738,108,703,132,662,164,621,203,587,228,576,225,580,206,592,168,625,137,665,113,705,96,740"/>
+<area shape="rect" id="Node000012" href="$d6/dce/classWsfScriptEM__PropagationClass.html" title=" " alt="" coords="223,601,432,628"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="98,740,142,687,171,660,203,638,233,626,230,631,206,642,174,664,145,690,102,742"/>
+<area shape="rect" id="Node000013" href="$dc/df2/classWsfScriptGroupClass.html" title="Define script methods for WsfSimulation." alt="" coords="254,652,402,679"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="110,743,153,714,204,688,255,674,251,678,206,693,156,718,115,745"/>
+<area shape="rect" id="Node000014" href="$d4/deb/classWsfScriptLaunchComputerClass.html" title="Define script methods for WsfLaunchComputer." alt="" coords="222,703,434,729"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="163,748,261,728,258,732,166,751"/>
+<area shape="rect" id="Node000016" href="$df/d18/classWsfScriptNavigationMeshClass.html" title="Define script methods for WsfPathfinder." alt="" coords="224,753,432,780"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="171,765,226,765,222,768,174,769"/>
+<area shape="rect" id="Node000017" href="$d8/def/classWsfScriptPathFinderClass.html" title="Define script methods for WsfPathfinder." alt="" coords="240,804,416,831"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="163,782,261,802,257,805,166,786"/>
+<area shape="rect" id="Node000018" href="$de/d6a/classWsfScriptPlatformClass.html" title=" " alt="" coords="247,855,409,881"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="111,787,156,815,206,840,248,854,244,857,204,845,153,820,113,792"/>
+<area shape="rect" id="Node000019" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="235,905,421,932"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="99,790,145,843,174,869,206,891,237,904,232,907,203,896,171,873,142,847,101,795"/>
+<area shape="rect" id="Node000071" href="$df/db2/classWsfScriptRIPRJobClass.html" title="Define script methods for WsfRIPRJob." alt="" coords="244,956,412,983"/>
+<area shape="poly" id="edge70_Node000001_Node000071" title=" " alt="" coords="93,792,113,828,137,869,168,909,206,942,246,960,241,962,203,946,164,912,132,872,108,831,94,797"/>
+<area shape="rect" id="Node000072" href="$d7/df2/classWsfScriptRouteClass.html" title="The script interface &#39;class&#39;." alt="" coords="254,1007,402,1033"/>
+<area shape="poly" id="edge71_Node000001_Node000072" title=" " alt="" coords="89,793,106,839,129,893,162,947,183,972,206,992,229,1005,255,1014,251,1017,227,1010,203,997,179,975,158,951,124,895,101,841,90,798"/>
+<area shape="rect" id="Node000073" href="$dc/dab/classWsfScriptSA__PerceivedItemClass.html" title=" " alt="" coords="234,1057,422,1100"/>
+<area shape="poly" id="edge72_Node000001_Node000073" title=" " alt="" coords="86,792,101,848,122,915,157,984,180,1016,206,1043,236,1062,231,1064,203,1047,176,1019,152,987,118,917,96,849,87,798"/>
+<area shape="rect" id="Node000076" href="$d2/db1/classWsfScriptZoneClass.html" title="Define script methods for WsfZone." alt="" coords="257,1124,399,1151"/>
+<area shape="poly" id="edge75_Node000001_Node000076" title=" " alt="" coords="83,793,93,861,112,946,128,991,148,1035,174,1075,206,1110,230,1124,259,1134,254,1137,228,1129,203,1114,170,1079,143,1038,123,993,107,948,88,862,84,798"/>
+<area shape="rect" id="Node000077" href="$d2/d09/classwsf_1_1comm_1_1medium_1_1ScriptMediumClass.html" title=" " alt="" coords="254,1175,402,1217"/>
+<area shape="poly" id="edge76_Node000001_Node000077" title=" " alt="" coords="82,793,90,869,107,968,122,1020,144,1071,171,1119,206,1161,229,1176,256,1187,251,1190,226,1181,203,1165,167,1122,139,1074,117,1022,102,969,85,870,82,798"/>
+<area shape="rect" id="Node000078" href="$d8/d73/classwsf_1_1cyber_1_1ScriptConstraintClass.html" title=" " alt="" coords="236,1241,420,1284"/>
+<area shape="poly" id="edge77_Node000001_Node000078" title=" " alt="" coords="86,793,104,892,129,1022,146,1088,164,1147,184,1195,207,1227,238,1248,233,1251,203,1231,180,1198,159,1149,140,1089,124,1023,99,893,86,798"/>
+<area shape="rect" id="Node000079" href="$d2/d9e/classwsf_1_1space_1_1script_1_1Conjunction.html" title="A Script class to encapsulate the results of an orbital conjunction report." alt="" coords="265,1308,390,1351"/>
+<area shape="poly" id="edge78_Node000001_Node000079" title=" " alt="" coords="85,793,101,905,125,1055,141,1131,160,1200,182,1256,207,1294,234,1313,267,1324,262,1327,231,1317,203,1298,177,1259,155,1202,136,1132,120,1056,96,906,85,798"/>
+<area shape="rect" id="Node000080" href="$d8/dd8/classwsf_1_1space_1_1script_1_1OrbitalEvent.html" title="A scriptable version of WsfOrbitalEvent." alt="" coords="265,2087,390,2129"/>
+<area shape="poly" id="edge79_Node000001_Node000080" title=" " alt="" coords="90,794,325,2086,320,2087,85,796"/>
+<area shape="rect" id="Node000105" href="$de/df1/classwsf_1_1space_1_1script_1_1OrbitalEventCondition.html" title=" " alt="" coords="250,2153,406,2196"/>
+<area shape="poly" id="edge104_Node000001_Node000105" title=" " alt="" coords="83,793,94,1070,115,1499,131,1718,151,1912,177,2060,191,2110,207,2140,226,2156,252,2167,247,2169,224,2160,203,2143,186,2112,171,2061,146,1913,125,1718,109,1499,89,1070,83,798"/>
+<area shape="rect" id="Node000107" href="$db/dd9/classwsf_1_1space_1_1script_1_1Orientation.html" title=" " alt="" coords="265,2220,390,2263"/>
+<area shape="poly" id="edge106_Node000001_Node000107" title=" " alt="" coords="83,793,93,1082,113,1532,129,1763,149,1967,162,2052,175,2122,190,2175,207,2206,233,2226,267,2237,262,2240,231,2231,203,2210,185,2177,170,2124,156,2053,144,1967,123,1763,107,1532,88,1082,83,798"/>
+<area shape="rect" id="Node000015" href="$d6/da6/classWsfScriptOrbitalLaunchComputerClass.html" title="Script interface for WsfOrbitalLaunchComputer." alt="" coords="499,57,715,100"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="444,694,449,689,462,668,472,642,481,573,480,492,474,403,468,314,467,231,475,161,484,133,497,110,512,98,510,103,501,114,489,135,480,162,472,231,474,314,479,403,485,492,486,574,477,643,467,671,453,692,449,697"/>
+<area shape="rect" id="Node000020" href="$da/d9f/classWsfScriptArticulatedPartClass.html" title="Define script methods for WsfArticulatedPart." alt="" coords="524,124,690,167"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="433,905,449,892,463,871,473,846,486,781,490,703,489,618,484,450,486,378,496,322,515,276,539,233,589,165,587,170,544,235,520,278,502,323,492,378,489,450,495,618,496,703,491,781,478,847,467,874,453,895,437,908"/>
+<area shape="rect" id="Node000031" href="$d1/dd6/classWsfScriptCommRouterClass.html" title="Define script methods for WsfCommRouter." alt="" coords="512,335,703,361"/>
+<area shape="poly" id="edge30_Node000019_Node000031" title=" " alt="" coords="433,905,449,892,461,873,470,849,478,788,477,714,473,634,468,554,468,479,476,417,484,392,497,372,514,360,511,364,501,375,489,394,481,418,473,480,473,553,478,634,483,714,483,788,475,850,466,875,453,895,437,908"/>
+<area shape="rect" id="Node000032" href="$de/d5c/classWsfScriptFuelClass.html" title="Define script methods for WsfFuel." alt="" coords="538,385,676,412"/>
+<area shape="poly" id="edge31_Node000019_Node000032" title=" " alt="" coords="433,905,449,891,471,863,485,834,493,805,496,777,489,718,473,660,457,601,450,542,453,512,461,482,475,452,497,422,515,408,539,400,536,404,518,413,501,426,480,455,466,484,458,513,456,542,463,600,478,659,494,717,501,776,498,806,490,836,475,866,453,895,437,908"/>
+<area shape="rect" id="Node000033" href="$de/d81/classWsfScriptMoverClass.html" title="Define script methods for WsfMover." alt="" coords="532,436,682,463"/>
+<area shape="poly" id="edge32_Node000019_Node000033" title=" " alt="" coords="433,903,449,891,495,841,530,783,557,720,576,655,589,594,597,539,605,466,606,461,603,540,595,595,582,657,562,721,535,785,499,844,453,895,437,906"/>
+<area shape="rect" id="Node000044" href="$dd/d0e/classWsfScriptProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="521,1007,693,1033"/>
+<area shape="poly" id="edge43_Node000019_Node000044" title=" " alt="" coords="424,934,452,941,525,973,585,1005,580,1007,523,977,450,947,427,939"/>
+<area shape="rect" id="Node000021" href="$d8/db0/classWsfScriptCommClass.html" title="Define script methods for WsfComm." alt="" coords="802,5,955,32"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="701,118,714,110,729,94,737,76,745,59,762,42,803,25,800,29,765,46,749,62,741,79,733,97,717,114,706,121"/>
+<area shape="rect" id="Node000022" href="$d9/d64/classWsfScriptSensorClass.html" title="Define script methods for WsfSensor." alt="" coords="801,56,956,83"/>
+<area shape="poly" id="edge21_Node000020_Node000022" title=" " alt="" coords="693,117,714,109,763,92,810,81,806,85,764,97,716,115,697,121"/>
+<area shape="rect" id="Node000025" href="$d8/de0/classWsfScriptVisualPartClass.html" title="Define script methods for visual part." alt="" coords="792,107,965,133"/>
+<area shape="poly" id="edge24_Node000020_Node000025" title=" " alt="" coords="703,134,793,126,789,130,707,138"/>
+<area shape="rect" id="Node000026" href="$d3/d15/classWsfScriptWeaponClass.html" title="Define script methods for WsfWeapon." alt="" coords="798,157,959,184"/>
+<area shape="poly" id="edge25_Node000020_Node000026" title=" " alt="" coords="704,152,800,162,796,165,707,157"/>
+<area shape="rect" id="Node000023" href="$d9/df1/classWsfScriptPassiveSensorClass.html" title=" " alt="" coords="1064,31,1266,57"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="970,59,1066,51,1062,55,973,63"/>
+<area shape="rect" id="Node000024" href="$de/d04/classWsfScriptSAR__SensorClass.html" title=" " alt="" coords="1070,81,1260,108"/>
+<area shape="poly" id="edge23_Node000022_Node000024" title=" " alt="" coords="970,75,1072,85,1068,88,973,80"/>
+<area shape="rect" id="Node000027" href="$db/d41/classWsfScriptChaffWeaponClass.html" title="Define script methods for WsfChaffWeapon." alt="" coords="1069,132,1260,159"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="973,160,1071,152,1066,155,976,164"/>
+<area shape="rect" id="Node000028" href="$db/da1/classWsfScriptImplicitWeaponClass.html" title="Define script methods for WsfWeapon." alt="" coords="1064,183,1266,209"/>
+<area shape="poly" id="edge27_Node000026_Node000028" title=" " alt="" coords="973,177,1066,186,1061,189,976,181"/>
+<area shape="rect" id="Node000029" href="$de/d02/classWsfScriptDirectedEnergyWeaponClass.html" title="Define script methods for WsfDirectedEnergyWeapon." alt="" coords="1336,175,1552,217"/>
+<area shape="poly" id="edge28_Node000028_Node000029" title=" " alt="" coords="1280,194,1338,195,1333,197,1283,198"/>
+<area shape="rect" id="Node000030" href="$dc/d8c/classWsfScriptLaserWeaponClass.html" title="Define script methods for WsfLaserWeapon." alt="" coords="1600,183,1793,209"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="1567,194,1602,195,1597,197,1569,198"/>
+<area shape="rect" id="Node000034" href="$dc/d25/classWsfScriptBrawlerMoverClass.html" title=" " alt="" coords="782,208,975,235"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="694,436,713,422,729,401,737,380,737,335,735,313,737,290,744,267,761,245,783,232,780,236,765,249,749,269,742,291,740,313,742,335,742,381,734,404,717,426,698,439"/>
+<area shape="rect" id="Node000035" href="$dd/dc9/classWsfScriptFormationFlyerClass.html" title="The script interface &#39;class&#39; for WsfFormationFlyer." alt="" coords="778,259,979,285"/>
+<area shape="poly" id="edge34_Node000033_Node000035" title=" " alt="" coords="694,435,714,422,726,407,733,392,737,360,740,327,748,311,762,295,782,284,779,288,765,299,752,314,746,329,742,361,738,394,731,410,717,426,698,438"/>
+<area shape="rect" id="Node000036" href="$d6/d1d/classWsfScriptGuidedMoverClass.html" title="The script interface &#39;class&#39; for WsfGuidedMover." alt="" coords="783,309,974,336"/>
+<area shape="poly" id="edge35_Node000033_Node000036" title=" " alt="" coords="694,433,714,422,730,404,737,385,744,365,762,346,786,335,783,339,765,350,749,368,742,387,734,407,717,426,699,436"/>
+<area shape="rect" id="Node000037" href="$df/d26/classWsfScriptP6DOF__MoverClass.html" title=" " alt="" coords="778,360,979,387"/>
+<area shape="poly" id="edge36_Node000033_Node000037" title=" " alt="" coords="691,429,714,422,738,409,762,396,803,385,799,389,764,401,741,414,716,426,695,433"/>
+<area shape="rect" id="Node000038" href="$d6/dd0/classWsfScriptSpaceMoverClass.html" title="Define script methods for space movers that support maneuvering." alt="" coords="785,411,972,437"/>
+<area shape="poly" id="edge37_Node000033_Node000038" title=" " alt="" coords="696,439,787,431,783,434,699,443"/>
+<area shape="rect" id="Node000040" href="$d6/d87/classWsfScriptTowedMoverClass.html" title=" " alt="" coords="785,461,972,488"/>
+<area shape="poly" id="edge39_Node000033_Node000040" title=" " alt="" coords="696,455,787,464,782,467,699,460"/>
+<area shape="rect" id="Node000041" href="$d4/d04/classwsf_1_1six__dof_1_1script_1_1Mover.html" title=" " alt="" coords="812,512,945,555"/>
+<area shape="poly" id="edge40_Node000033_Node000041" title=" " alt="" coords="663,466,764,497,814,513,810,516,763,503,665,470"/>
+<area shape="rect" id="Node000039" href="$d9/dfa/classWsfScriptIntegratingSpaceMover.html" title=" " alt="" coords="1076,375,1254,417"/>
+<area shape="poly" id="edge38_Node000038_Node000039" title=" " alt="" coords="986,411,1078,403,1074,406,989,416"/>
+<area shape="rect" id="Node000042" href="$d5/dfa/classwsf_1_1six__dof_1_1script_1_1PointMassMover.html" title=" " alt="" coords="1099,441,1231,484"/>
+<area shape="poly" id="edge41_Node000041_Node000042" title=" " alt="" coords="958,511,1100,477,1096,481,961,516"/>
+<area shape="rect" id="Node000043" href="$df/d8f/classwsf_1_1six__dof_1_1script_1_1RigidBodyMover.html" title=" " alt="" coords="1099,508,1231,551"/>
+<area shape="poly" id="edge42_Node000041_Node000043" title=" " alt="" coords="959,530,1101,529,1096,532,962,534"/>
+<area shape="rect" id="Node000045" href="$d0/d67/classWsfScriptAssetManagerClass.html" title=" " alt="" coords="780,579,977,605"/>
+<area shape="poly" id="edge44_Node000044_Node000045" title=" " alt="" coords="608,991,618,915,643,814,663,759,689,707,721,658,762,615,782,604,779,608,765,619,726,661,693,709,668,761,648,815,624,916,613,992"/>
+<area shape="rect" id="Node000047" href="$d8/dd2/classWsfScriptBattleManagerClass.html" title=" " alt="" coords="780,629,977,656"/>
+<area shape="poly" id="edge46_Node000044_Node000047" title=" " alt="" coords="610,991,623,924,650,836,670,789,695,744,725,702,762,666,783,655,780,659,765,670,729,705,699,747,675,791,655,837,628,925,615,992"/>
+<area shape="rect" id="Node000049" href="$d7/d16/classWsfScriptDisseminateC2Class.html" title=" " alt="" coords="777,680,980,707"/>
+<area shape="poly" id="edge48_Node000044_Node000049" title=" " alt="" coords="612,991,628,933,657,858,677,819,701,781,729,747,762,717,784,705,781,709,765,721,733,750,705,785,682,822,662,861,633,935,617,993"/>
+<area shape="rect" id="Node000051" href="$d7/de4/classWsfScriptExchangeProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="780,731,977,773"/>
+<area shape="poly" id="edge50_Node000044_Node000051" title=" " alt="" coords="617,992,637,946,669,890,710,832,735,806,762,783,784,772,781,776,765,788,738,810,714,836,673,893,642,948,622,994"/>
+<area shape="rect" id="Node000052" href="$de/d69/classWsfScriptGuidanceComputerClass.html" title="The script interface &#39;class&#39; for WsfGuidanceComputer." alt="" coords="783,797,974,840"/>
+<area shape="poly" id="edge51_Node000044_Node000052" title=" " alt="" coords="623,992,679,921,718,883,762,850,788,839,784,843,765,854,722,887,683,925,628,995"/>
+<area shape="rect" id="Node000053" href="$dc/d3c/classWsfScriptOrbitalConjunctionProcessor.html" title="A processor that will predict orbital conjunctions from tracks." alt="" coords="785,864,972,907"/>
+<area shape="poly" id="edge52_Node000044_Node000053" title=" " alt="" coords="636,995,693,955,762,916,794,905,790,909,764,921,696,960,640,999"/>
+<area shape="rect" id="Node000054" href="$db/d67/classWsfScriptPerceptionProcessor.html" title=" " alt="" coords="778,931,979,957"/>
+<area shape="poly" id="edge53_Node000044_Node000054" title=" " alt="" coords="660,999,763,967,811,956,807,960,764,972,664,1003"/>
+<area shape="rect" id="Node000055" href="$d9/d85/classWsfScriptQuantumTaskerProcessor.html" title=" " alt="" coords="763,981,994,1008"/>
+<area shape="poly" id="edge54_Node000044_Node000055" title=" " alt="" coords="708,1008,765,1004,761,1007,711,1013"/>
+<area shape="rect" id="Node000057" href="$d9/dec/classWsfScriptRIPRProcessorClass.html" title="Define script methods for WsfRIPRProcessor." alt="" coords="776,1032,981,1059"/>
+<area shape="poly" id="edge56_Node000044_Node000057" title=" " alt="" coords="707,1027,778,1034,773,1037,710,1032"/>
+<area shape="rect" id="Node000058" href="$d4/ddb/classWsfScriptSA__ProcessorClass.html" title=" " alt="" coords="780,1083,977,1109"/>
+<area shape="poly" id="edge57_Node000044_Node000058" title=" " alt="" coords="692,1036,716,1043,741,1056,764,1068,803,1081,799,1083,762,1073,738,1060,714,1048,694,1040"/>
+<area shape="rect" id="Node000059" href="$dc/d6d/classWsfScriptSensorsManagerClass.html" title=" " alt="" coords="773,1133,984,1160"/>
+<area shape="poly" id="edge58_Node000044_Node000059" title=" " alt="" coords="707,1038,717,1043,734,1062,742,1082,749,1102,765,1119,787,1132,782,1134,762,1123,744,1104,737,1084,730,1065,714,1047,709,1043"/>
+<area shape="rect" id="Node000061" href="$d7/d21/classWsfScriptSensorsManagerFovClass.html" title=" " alt="" coords="779,1184,978,1227"/>
+<area shape="poly" id="edge60_Node000044_Node000061" title=" " alt="" coords="706,1037,717,1043,731,1059,738,1075,742,1108,746,1140,753,1155,765,1170,781,1183,776,1184,762,1174,748,1158,741,1141,737,1109,733,1077,726,1062,714,1047,708,1042"/>
+<area shape="rect" id="Node000062" href="$df/ded/classWsfScriptTaskManagerClass.html" title="Define script methods for WsfTaskManager." alt="" coords="783,1251,974,1277"/>
+<area shape="poly" id="edge61_Node000044_Node000062" title=" " alt="" coords="706,1036,717,1044,735,1068,743,1093,744,1118,742,1142,740,1167,741,1191,748,1214,765,1237,785,1251,780,1253,761,1241,743,1216,735,1192,734,1167,737,1142,739,1117,738,1094,730,1070,713,1047,707,1041"/>
+<area shape="rect" id="Node000064" href="$d5/df3/classWsfScriptThreatProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="791,1301,966,1344"/>
+<area shape="poly" id="edge63_Node000044_Node000064" title=" " alt="" coords="706,1035,717,1044,739,1074,747,1105,747,1136,743,1167,738,1197,738,1228,745,1258,765,1287,793,1308,788,1309,761,1291,741,1260,733,1228,733,1197,737,1166,742,1136,742,1106,734,1076,713,1047,707,1040"/>
+<area shape="rect" id="Node000065" href="$d4/dd4/classWsfScriptTrackProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="776,1368,981,1395"/>
+<area shape="poly" id="edge64_Node000044_Node000065" title=" " alt="" coords="706,1035,717,1044,733,1063,743,1083,752,1123,750,1162,742,1201,734,1240,732,1279,740,1317,750,1335,765,1354,780,1367,775,1368,761,1358,746,1338,735,1319,726,1279,729,1240,736,1200,744,1161,747,1123,738,1085,728,1066,713,1047,707,1040"/>
+<area shape="rect" id="Node000066" href="$d6/d07/classWsfScriptUplinkProcessor.html" title=" " alt="" coords="791,1419,966,1445"/>
+<area shape="poly" id="edge65_Node000044_Node000066" title=" " alt="" coords="706,1035,717,1044,735,1066,747,1089,753,1113,756,1136,752,1181,742,1227,731,1272,728,1317,730,1339,737,1361,748,1383,765,1405,793,1424,788,1425,762,1409,744,1386,732,1363,725,1340,722,1317,726,1271,736,1226,747,1181,751,1136,748,1114,742,1091,730,1069,713,1047,707,1040"/>
+<area shape="rect" id="Node000067" href="$de/dc4/classWsfScriptWeaponThreatProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="767,1469,990,1512"/>
+<area shape="poly" id="edge66_Node000044_Node000067" title=" " alt="" coords="706,1035,717,1044,737,1070,750,1096,758,1122,760,1148,756,1200,743,1251,731,1302,726,1353,728,1378,735,1404,747,1430,765,1456,779,1468,773,1469,761,1459,742,1432,730,1406,723,1379,720,1353,726,1301,738,1250,750,1199,755,1148,752,1123,745,1098,732,1073,713,1047,707,1040"/>
+<area shape="rect" id="Node000068" href="$da/d7c/classWsfScriptWeaponsManagerClass.html" title=" " alt="" coords="770,1536,987,1563"/>
+<area shape="poly" id="edge67_Node000044_Node000068" title=" " alt="" coords="706,1035,717,1044,740,1074,755,1105,763,1135,765,1166,758,1226,741,1286,726,1345,718,1404,721,1434,729,1463,743,1493,765,1522,780,1535,774,1536,761,1526,739,1495,724,1465,716,1435,713,1404,720,1344,736,1284,752,1225,760,1165,757,1136,750,1106,735,1077,713,1047,707,1040"/>
+<area shape="rect" id="Node000046" href="$de/d2a/classWsfScriptUnclassAssetManagerClass.html" title=" " alt="" coords="1059,575,1270,617"/>
+<area shape="poly" id="edge45_Node000045_Node000046" title=" " alt="" coords="991,591,1061,593,1057,596,994,596"/>
+<area shape="rect" id="Node000048" href="$d1/dca/classWsfScriptUnclassBattleManagerClass.html" title=" " alt="" coords="1059,641,1270,684"/>
+<area shape="poly" id="edge47_Node000047_Node000048" title=" " alt="" coords="991,648,1061,654,1057,657,994,653"/>
+<area shape="rect" id="Node000050" href="$d6/d58/classWsfScriptUnclassDisseminateC2Class.html" title=" " alt="" coords="1065,708,1265,751"/>
+<area shape="poly" id="edge49_Node000049_Node000050" title=" " alt="" coords="994,706,1067,715,1062,718,997,710"/>
+<area shape="rect" id="Node000056" href="$d3/d17/classWsfScriptBrawlerProcessorClass.html" title=" " alt="" coords="1074,973,1256,1016"/>
+<area shape="poly" id="edge55_Node000055_Node000056" title=" " alt="" coords="1008,992,1075,993,1071,996,1010,997"/>
+<area shape="rect" id="Node000060" href="$db/df0/classWsfScriptSimpleSensorsManagerClass.html" title=" " alt="" coords="1056,1125,1274,1168"/>
+<area shape="poly" id="edge59_Node000059_Node000060" title=" " alt="" coords="998,1144,1058,1145,1053,1148,1001,1149"/>
+<area shape="rect" id="Node000063" href="$d1/dc3/classWsfScriptTaskProcessorClass.html" title="Define script methods for WsfTaskProcessor." alt="" coords="1065,1251,1265,1277"/>
+<area shape="poly" id="edge62_Node000062_Node000063" title=" " alt="" coords="989,1262,1067,1263,1062,1265,991,1266"/>
+<area shape="rect" id="Node000069" href="$d7/d5f/classWsfScriptWeaponsManagerAIClass.html" title=" " alt="" coords="1050,1511,1280,1537"/>
+<area shape="poly" id="edge68_Node000068_Node000069" title=" " alt="" coords="1001,1536,1052,1533,1047,1536,1004,1541"/>
+<area shape="rect" id="Node000070" href="$d6/d62/classWsfScriptWeaponsManagerSAMClass.html" title=" " alt="" coords="1042,1561,1288,1588"/>
+<area shape="poly" id="edge69_Node000068_Node000070" title=" " alt="" coords="1001,1558,1044,1563,1039,1565,1003,1563"/>
+<area shape="rect" id="Node000074" href="$da/de6/classWsfScriptSA__EntityPerceptionClass.html" title=" " alt="" coords="507,1057,707,1100"/>
+<area shape="poly" id="edge73_Node000073_Node000074" title=" " alt="" coords="436,1077,509,1077,505,1080,439,1081"/>
+<area shape="rect" id="Node000075" href="$d3/d82/classWsfScriptSA__GroupClass.html" title=" " alt="" coords="520,1124,694,1151"/>
+<area shape="poly" id="edge74_Node000073_Node000075" title=" " alt="" coords="436,1099,542,1122,538,1125,438,1104"/>
+<area shape="rect" id="Node000081" href="$d1/d8e/classwsf_1_1space_1_1script_1_1ChangeAttitude.html" title="A scriptable version of WsfOrbitalAttitudeChangeEvent." alt="" coords="544,2020,670,2063"/>
+<area shape="poly" id="edge80_Node000080_Node000081" title=" " alt="" coords="404,2087,546,2054,542,2058,407,2092"/>
+<area shape="rect" id="Node000082" href="$d9/d1c/classwsf_1_1space_1_1script_1_1OrbitalManeuver.html" title="Same as OrbitalEvent, except named differently, for use with orbital maneuvers." alt="" coords="544,2087,670,2129"/>
+<area shape="poly" id="edge81_Node000080_Node000082" title=" " alt="" coords="405,2106,546,2106,542,2110,407,2110"/>
+<area shape="rect" id="Node000101" href="$d4/d56/classwsf_1_1space_1_1script_1_1OrbitalMissionSequence.html" title="A scriptable version of WsfOrbitalMissionSequence." alt="" coords="522,2153,692,2196"/>
+<area shape="poly" id="edge100_Node000080_Node000101" title=" " alt="" coords="405,2124,524,2153,519,2156,406,2129"/>
+<area shape="rect" id="Node000103" href="$d3/d29/classwsf_1_1space_1_1script_1_1PerformStaging.html" title="A scriptable version of WsfOrbitalStagingEvent." alt="" coords="544,2220,670,2263"/>
+<area shape="poly" id="edge102_Node000080_Node000103" title=" " alt="" coords="405,2118,430,2127,453,2139,469,2156,478,2173,485,2190,501,2206,522,2218,546,2229,541,2230,519,2223,497,2210,481,2193,473,2176,465,2159,449,2143,428,2132,406,2123"/>
+<area shape="rect" id="Node000104" href="$db/def/classwsf_1_1space_1_1script_1_1Scripted.html" title="A scriptable version of WsfOrbitalScriptEvent." alt="" coords="544,2287,670,2329"/>
+<area shape="poly" id="edge103_Node000080_Node000104" title=" " alt="" coords="404,2114,431,2124,453,2139,467,2156,474,2173,478,2207,481,2241,488,2257,501,2273,521,2287,547,2298,542,2300,519,2292,497,2277,483,2260,476,2242,473,2208,469,2175,462,2159,449,2143,428,2129,406,2119"/>
+<area shape="rect" id="Node000083" href="$d2/d41/classwsf_1_1space_1_1script_1_1ChangeEccentricity.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeEccentricity." alt="" coords="807,1587,950,1629"/>
+<area shape="poly" id="edge82_Node000082_Node000083" title=" " alt="" coords="683,2094,700,2085,713,2073,733,2045,745,2018,752,1991,755,1965,749,1911,736,1858,723,1805,718,1751,721,1723,728,1696,741,1668,761,1640,782,1623,809,1613,804,1617,784,1627,765,1643,746,1670,733,1697,726,1724,723,1751,729,1804,741,1857,754,1911,760,1965,757,1992,750,2020,737,2048,717,2076,703,2090,686,2099"/>
+<area shape="rect" id="Node000084" href="$d4/deb/classwsf_1_1space_1_1script_1_1ChangeInclination.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeInclination." alt="" coords="812,1653,945,1696"/>
+<area shape="poly" id="edge83_Node000082_Node000084" title=" " alt="" coords="683,2094,700,2085,713,2073,730,2050,741,2027,747,2004,750,1982,746,1937,736,1892,726,1846,723,1800,726,1777,732,1753,744,1730,761,1706,784,1688,814,1679,809,1682,787,1693,765,1710,749,1733,737,1755,731,1778,728,1800,732,1845,742,1890,751,1936,755,1982,753,2005,746,2029,734,2053,717,2076,703,2089,686,2098"/>
+<area shape="rect" id="Node000085" href="$d2/d4f/classwsf_1_1space_1_1script_1_1ChangeRAAN.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeRAAN." alt="" coords="816,1720,941,1763"/>
+<area shape="poly" id="edge84_Node000082_Node000085" title=" " alt="" coords="683,2094,700,2085,713,2073,737,2036,745,1999,743,1962,736,1925,730,1887,728,1850,737,1811,761,1773,786,1754,817,1745,813,1748,788,1759,765,1776,742,1813,733,1850,735,1887,742,1924,748,1961,750,1999,742,2038,717,2076,703,2089,686,2098"/>
+<area shape="rect" id="Node000086" href="$d4/de3/classwsf_1_1space_1_1script_1_1ChangeRAAN__Inclination.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeRAAN_Inclination." alt="" coords="789,1787,968,1829"/>
+<area shape="poly" id="edge85_Node000082_Node000086" title=" " alt="" coords="683,2093,700,2084,713,2073,732,2044,740,2016,740,1987,736,1958,733,1929,733,1899,741,1869,761,1839,791,1821,787,1825,765,1843,746,1872,738,1900,738,1929,742,1957,745,1987,745,2016,737,2046,717,2076,703,2089,686,2098"/>
+<area shape="rect" id="Node000087" href="$db/d67/classwsf_1_1space_1_1script_1_1ChangeSemiMajorAxis.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeSemiMajorAxis." alt="" coords="797,1853,960,1896"/>
+<area shape="poly" id="edge86_Node000082_Node000087" title=" " alt="" coords="683,2093,699,2084,713,2073,728,2053,735,2033,736,1991,738,1949,746,1927,761,1906,777,1894,799,1885,795,1889,780,1898,765,1910,750,1930,743,1950,742,1991,741,2034,733,2055,717,2077,702,2088,686,2097"/>
+<area shape="rect" id="Node000088" href="$dc/d12/classwsf_1_1space_1_1script_1_1Circularize.html" title="A scriptable version of WsfOrbitalManeuvers::Circularize." alt="" coords="816,1920,941,1963"/>
+<area shape="poly" id="edge87_Node000082_Node000088" title=" " alt="" coords="683,2091,714,2073,724,2061,731,2049,737,2024,743,1998,750,1985,762,1973,787,1957,817,1948,813,1951,789,1962,765,1977,754,1988,748,2000,742,2025,736,2051,729,2064,717,2077,686,2095"/>
+<area shape="rect" id="Node000089" href="$dd/d37/classwsf_1_1space_1_1script_1_1CompoundManeuver.html" title="A scriptable version of WsfOrbitalManeuvers::CompoundManeuver." alt="" coords="804,1987,953,2029"/>
+<area shape="poly" id="edge88_Node000082_Node000089" title=" " alt="" coords="683,2085,714,2072,738,2056,762,2039,806,2024,801,2027,765,2044,741,2060,717,2077,686,2090"/>
+<area shape="rect" id="Node000090" href="$d8/df1/classwsf_1_1space_1_1script_1_1DeltaV.html" title="A scriptable version of WsfOrbitalManeuvers::DeltaV." alt="" coords="816,2053,941,2096"/>
+<area shape="poly" id="edge89_Node000082_Node000090" title=" " alt="" coords="684,2096,818,2081,813,2084,686,2101"/>
+<area shape="rect" id="Node000091" href="$dd/d3e/classwsf_1_1space_1_1script_1_1Drift.html" title=" " alt="" coords="816,2120,941,2163"/>
+<area shape="poly" id="edge90_Node000082_Node000091" title=" " alt="" coords="685,2115,818,2133,813,2135,686,2120"/>
+<area shape="rect" id="Node000092" href="$d2/dbe/classwsf_1_1space_1_1script_1_1HohmannTransfer.html" title="A scriptable version of WsfOrbitalManeuvers::HohmannTransfer." alt="" coords="812,2187,945,2229"/>
+<area shape="poly" id="edge91_Node000082_Node000092" title=" " alt="" coords="684,2126,717,2139,741,2156,765,2172,814,2192,809,2193,762,2177,738,2160,714,2144,685,2131"/>
+<area shape="rect" id="Node000093" href="$d9/d5d/classwsf_1_1space_1_1script_1_1Intercept.html" title="A scriptable version of WsfOrbitalManeuvers::Intercept." alt="" coords="816,2253,941,2296"/>
+<area shape="poly" id="edge92_Node000082_Node000093" title=" " alt="" coords="684,2120,717,2139,729,2152,736,2165,742,2191,748,2216,754,2228,765,2239,789,2254,818,2266,813,2267,787,2259,762,2243,750,2231,743,2218,737,2192,731,2167,724,2155,714,2143,685,2126"/>
+<area shape="rect" id="Node000094" href="$df/d9c/classwsf_1_1space_1_1script_1_1MatchVelocity.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeSemiMajorAxis." alt="" coords="816,2320,941,2363"/>
+<area shape="poly" id="edge93_Node000082_Node000094" title=" " alt="" coords="684,2119,702,2128,717,2139,733,2161,741,2182,742,2225,743,2266,750,2286,765,2306,789,2323,818,2335,813,2335,786,2327,761,2310,746,2289,738,2267,736,2225,735,2183,728,2163,713,2143,699,2132,685,2124"/>
+<area shape="rect" id="Node000095" href="$db/d3f/classwsf_1_1space_1_1script_1_1NaturalMotionCircumnavigation.html" title=" " alt="" coords="773,2387,984,2429"/>
+<area shape="poly" id="edge94_Node000082_Node000095" title=" " alt="" coords="684,2118,703,2127,717,2140,737,2170,745,2200,745,2229,742,2259,738,2287,738,2316,746,2344,765,2373,780,2386,774,2386,761,2376,741,2347,733,2317,733,2287,736,2258,740,2229,740,2200,732,2172,713,2143,700,2132,685,2123"/>
+<area shape="rect" id="Node000096" href="$d3/dfc/classwsf_1_1space_1_1script_1_1Normal.html" title="A scriptable version of WsfOrbitalManeuvers::Normal." alt="" coords="816,2453,941,2496"/>
+<area shape="poly" id="edge95_Node000082_Node000096" title=" " alt="" coords="684,2117,703,2127,717,2140,742,2178,750,2217,748,2255,742,2292,735,2329,733,2366,742,2403,765,2440,788,2457,818,2469,813,2470,786,2462,761,2443,737,2405,728,2366,730,2329,736,2291,743,2254,745,2217,737,2180,713,2143,700,2131,685,2123"/>
+<area shape="rect" id="Node000097" href="$d0/d4b/classwsf_1_1space_1_1script_1_1Rendezvous.html" title="A scriptable version of WsfOrbitalManeuvers::Rendezvous." alt="" coords="816,2520,941,2563"/>
+<area shape="poly" id="edge96_Node000082_Node000097" title=" " alt="" coords="684,2117,703,2127,717,2140,734,2163,746,2187,753,2211,755,2234,751,2280,742,2326,732,2371,728,2416,731,2438,737,2461,749,2483,765,2506,788,2524,818,2536,813,2536,786,2529,761,2510,744,2486,732,2463,726,2439,723,2416,726,2370,736,2324,746,2279,750,2234,747,2212,741,2189,730,2166,713,2143,700,2131,685,2122"/>
+<area shape="rect" id="Node000098" href="$d4/d42/classwsf_1_1space_1_1script_1_1Tangent.html" title="A scriptable version of WsfOrbitalManeuvers::Tangent." alt="" coords="816,2587,941,2629"/>
+<area shape="poly" id="edge97_Node000082_Node000098" title=" " alt="" coords="684,2117,703,2126,717,2140,737,2168,750,2196,757,2224,760,2251,754,2305,741,2359,729,2412,723,2465,726,2492,733,2519,746,2546,765,2573,788,2591,818,2603,813,2603,786,2595,761,2577,741,2548,728,2520,721,2493,718,2465,723,2411,736,2358,749,2305,755,2251,752,2225,745,2198,733,2171,713,2143,700,2131,685,2122"/>
+<area shape="rect" id="Node000099" href="$df/de2/classwsf_1_1space_1_1script_1_1Target.html" title="A scriptable version of WsfOrbitalManeuvers::Rendezvous." alt="" coords="816,2653,941,2696"/>
+<area shape="poly" id="edge98_Node000082_Node000099" title=" " alt="" coords="684,2117,703,2126,717,2140,740,2172,754,2205,762,2237,765,2268,757,2331,741,2392,725,2454,718,2515,721,2546,729,2577,743,2608,765,2639,788,2657,818,2670,813,2670,786,2662,761,2643,739,2611,724,2578,716,2547,713,2515,720,2453,736,2391,752,2330,760,2268,757,2238,749,2206,735,2175,713,2143,700,2131,685,2122"/>
+<area shape="rect" id="Node000100" href="$dd/dee/classwsf_1_1space_1_1script_1_1Teardrop.html" title="A scriptable version of WsfOrbitalManeuvers::Teardrop." alt="" coords="816,2720,941,2763"/>
+<area shape="poly" id="edge99_Node000082_Node000100" title=" " alt="" coords="684,2117,703,2126,717,2140,730,2162,739,2189,748,2258,747,2338,742,2425,737,2512,736,2592,744,2659,753,2685,765,2706,788,2724,818,2737,813,2737,785,2729,761,2710,748,2688,739,2660,731,2592,731,2512,736,2425,742,2338,742,2258,734,2191,726,2164,713,2143,700,2131,685,2122"/>
+<area shape="rect" id="Node000102" href="$d0/d95/classwsf_1_1space_1_1script_1_1OrbitalManeuverSequence.html" title=" " alt="" coords="787,2787,970,2829"/>
+<area shape="poly" id="edge101_Node000101_Node000102" title=" " alt="" coords="706,2195,717,2206,730,2228,739,2256,748,2324,747,2405,742,2492,737,2578,736,2659,744,2726,753,2752,765,2773,789,2794,784,2792,761,2776,748,2754,739,2727,731,2659,731,2578,736,2491,742,2405,742,2325,734,2257,726,2231,713,2210,705,2201"/>
+<area shape="rect" id="Node000106" href="$d3/d01/classwsf_1_1space_1_1script_1_1OrbitalManeuverCondition.html" title="(Deprecated) Same as OrbitalEventCondition, except named differently, for use with orbital maneuvers." alt="" coords="518,2353,697,2396"/>
+<area shape="poly" id="edge105_Node000105_Node000106" title=" " alt="" coords="420,2186,453,2206,467,2223,474,2240,478,2274,481,2307,488,2323,501,2339,520,2354,514,2355,497,2343,483,2326,476,2309,473,2275,469,2241,462,2226,449,2210,421,2192"/>
+</map>

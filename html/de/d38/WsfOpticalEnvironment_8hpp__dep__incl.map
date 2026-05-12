@@ -1,0 +1,24 @@
+<map id="WsfOpticalEnvironment.hpp" name="WsfOpticalEnvironment.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="390,5,575,32"/>
+<area shape="rect" id="Node000002" href="$d5/d9e/WsfCompositeOpticalSignature_8cpp.html" title=" " alt="" coords="5,80,235,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,38,184,82,183,77,406,33"/>
+<area shape="rect" id="Node000003" href="$de/da2/WsfEOIR__IRST__SensorMode_8hpp.html" title=" " alt="" coords="259,80,480,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="453,39,391,82,388,77,448,42"/>
+<area shape="rect" id="Node000010" href="$d6/d3a/WsfOpticalEnvironment_8cpp.html" title=" " alt="" coords="504,80,688,107"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="516,38,579,79,573,79,515,43"/>
+<area shape="rect" id="Node000011" href="$d0/dad/WsfSpaceOpticalSignature_8cpp.html" title=" " alt="" coords="712,80,915,107"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="555,33,758,79,753,80,555,38"/>
+<area shape="rect" id="Node000004" href="$dc/dad/WsfEOIR__IRST__SensorMode_8cpp.html" title=" " alt="" coords="48,155,269,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="316,113,197,157,195,152,321,111"/>
+<area shape="rect" id="Node000005" href="$d5/d77/WsfEOIR__Sensor_8hpp.html" title=" " alt="" coords="294,155,445,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="371,120,372,156,367,153,368,125"/>
+<area shape="rect" id="Node000008" href="$de/dfa/WsfIRST__Sensor_8hpp.html" title=" " alt="" coords="469,155,619,181"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="414,110,516,154,511,154,413,116"/>
+<area shape="rect" id="Node000006" href="$de/d42/WsfEOIR__Sensor_8cpp.html" title=" " alt="" coords="199,229,350,256"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="343,190,292,231,290,227,338,192"/>
+<area shape="rect" id="Node000007" href="$d1/df8/WsfMilSensorTypes_8cpp.html" title=" " alt="" coords="374,229,538,256"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="397,189,444,229,438,228,395,194"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="519,191,472,231,470,227,514,192"/>
+<area shape="rect" id="Node000009" href="$dc/d2c/WsfIRST__Sensor_8cpp.html" title=" " alt="" coords="561,229,711,256"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="573,189,623,230,618,228,571,194"/>
+</map>

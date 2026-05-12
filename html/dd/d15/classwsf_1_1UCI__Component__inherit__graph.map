@@ -1,0 +1,29 @@
+<map id="wsf::UCI_Component" name="wsf::UCI_Component">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,229,400,256"/>
+<area shape="rect" id="Node000008" href="$d4/d2f/classwsf_1_1UCI__Computer.html" title="The OMS / UCI Interface Object to the UCI middleware." alt="" coords="167,304,306,331"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="300,265,253,306,250,301,296,268"/>
+<area shape="rect" id="Node000009" href="$de/d13/classwsf_1_1UCI__PartComponent.html" title=" " alt="" coords="330,304,502,331"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="354,263,403,304,398,304,353,268"/>
+<area shape="rect" id="Node000002" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="266,155,385,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,195,328,230,323,228,324,200"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="61,80,145,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="155,109,289,153,284,156,156,114"/>
+<area shape="rect" id="Node000004" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="169,80,330,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="274,115,315,154,310,155,274,120"/>
+<area shape="rect" id="Node000005" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="194,5,306,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,45,252,80,247,79,249,50"/>
+<area shape="rect" id="Node000006" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="354,80,452,107"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="377,119,341,156,337,152,380,116"/>
+<area shape="rect" id="Node000007" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="475,80,619,107"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="492,113,366,156,363,152,496,110"/>
+<area shape="rect" id="Node000010" href="$d4/d4d/classwsf_1_1UCI__SensorComponent.html" title=" " alt="" coords="214,379,403,405"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="387,339,329,380,326,376,382,341"/>
+<area shape="rect" id="Node000014" href="$d1/d57/classwsf_1_1UCI__WeaponComponent.html" title=" " alt="" coords="427,379,622,405"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="448,337,508,378,503,378,447,342"/>
+<area shape="rect" id="Node000011" href="$d6/dd3/classwsf_1_1UCI__AMTI__Component.html" title=" " alt="" coords="5,453,193,480"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="260,412,137,455,135,450,255,410"/>
+<area shape="rect" id="Node000012" href="$dd/dc9/classwsf_1_1UCI__ESM__Component.html" title=" " alt="" coords="216,453,400,480"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="310,419,310,455,306,451,306,423"/>
+<area shape="rect" id="Node000013" href="$d8/dd0/classwsf_1_1UCI__IRST__Component.html" title=" " alt="" coords="424,453,611,480"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="360,408,484,453,478,453,359,413"/>
+</map>

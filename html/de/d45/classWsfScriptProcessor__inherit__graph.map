@@ -1,0 +1,89 @@
+<map id="WsfScriptProcessor" name="WsfScriptProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="694,512,832,539"/>
+<area shape="rect" id="Node000009" href="$dc/d2c/classWsfAssetManager.html" title=" " alt="" coords="928,5,1057,32"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="765,496,777,395,800,259,816,190,834,128,854,77,878,42,901,27,930,20,925,23,903,32,882,46,859,79,839,130,821,192,805,260,782,396,770,498"/>
+<area shape="rect" id="Node000011" href="$db/d36/classWsfBMDisseminateC2.html" title=" " alt="" coords="914,56,1070,83"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="766,495,780,404,804,284,837,168,856,123,878,93,895,81,917,74,912,77,897,85,882,97,861,126,842,170,809,285,785,405,770,498"/>
+<area shape="rect" id="Node000013" href="$d4/dec/classWsfBMSensorsManager.html" title=" " alt="" coords="910,107,1074,133"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="761,495,765,425,781,329,796,279,816,229,843,183,878,143,912,126,908,129,882,147,848,187,821,232,801,281,786,331,771,425,766,497"/>
+<area shape="rect" id="Node000016" href="$d1/deb/classWsfBMWeaponsManager.html" title=" " alt="" coords="908,157,1077,184"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="763,495,770,433,788,351,803,308,822,267,847,228,878,194,909,178,905,182,882,198,851,231,827,269,808,310,793,353,775,434,768,497"/>
+<area shape="rect" id="Node000019" href="$da/d32/classWsfBattleManager.html" title=" " alt="" coords="928,208,1057,235"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="765,496,775,442,795,374,810,339,828,304,851,272,878,245,901,231,929,224,925,227,903,236,882,249,855,276,833,307,815,341,800,376,780,444,770,498"/>
+<area shape="rect" id="Node000021" href="$d1/d09/classWsfExchangeProcessor.html" title=" " alt="" coords="911,259,1073,285"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="768,496,781,452,803,397,835,342,855,317,878,295,913,280,908,283,882,300,859,321,839,345,807,399,786,453,773,498"/>
+<area shape="rect" id="Node000022" href="$da/dd1/classWsfFusionCenter.html" title=" " alt="" coords="930,309,1054,336"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="772,496,788,462,811,421,841,380,878,346,903,333,932,327,927,329,905,338,882,350,845,384,815,424,792,464,776,499"/>
+<area shape="rect" id="Node000023" href="$da/dbe/classWsfGuidanceComputer.html" title=" " alt="" coords="914,360,1071,387"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="779,497,820,445,848,419,879,396,916,383,911,386,881,401,851,423,824,449,783,501"/>
+<area shape="rect" id="Node000026" href="$d5/d48/classWsfMessageProcessor.html" title="A processor that implements time&#45;delays and message routing." alt="" coords="914,411,1071,437"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="792,500,832,472,879,447,916,437,911,439,881,452,834,477,795,504"/>
+<area shape="rect" id="Node000028" href="$db/d07/classWsfOrbitalConjunctionProcessor.html" title="A processor that will examine tracks and search for possible conjunctions between spacecraft." alt="" coords="886,461,1098,488"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="841,506,931,488,926,490,843,511"/>
+<area shape="rect" id="Node000029" href="$de/d7d/classWsfPerceptionProcessor.html" title=" " alt="" coords="909,512,1075,539"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="846,523,911,525,906,526,848,528"/>
+<area shape="rect" id="Node000030" href="$d2/d3e/classWsfRIPRProcessor.html" title=" " alt="" coords="924,563,1061,589"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="841,540,931,562,926,563,842,545"/>
+<area shape="rect" id="Node000031" href="$d0/da3/classWsfSA__Processor.html" title=" " alt="" coords="928,613,1057,640"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="793,546,834,574,881,599,930,616,924,616,879,604,832,578,793,551"/>
+<area shape="rect" id="Node000032" href="$dd/dbd/classWsfScriptStateMachineProcessor.html" title=" " alt="" coords="883,664,1101,691"/>
+<area shape="poly" id="edge31_Node000001_Node000032" title=" " alt="" coords="782,549,824,602,851,628,881,650,908,663,903,663,879,654,848,632,820,605,780,554"/>
+<area shape="rect" id="Node000033" href="$dd/d01/classWsfTaskManager.html" title=" " alt="" coords="930,715,1054,741"/>
+<area shape="poly" id="edge32_Node000001_Node000033" title=" " alt="" coords="775,550,792,586,815,627,845,667,882,700,905,713,933,723,927,723,903,718,878,705,841,671,811,630,788,589,773,555"/>
+<area shape="rect" id="Node000037" href="$d4/d17/classWsfThreatProcessor.html" title=" " alt="" coords="922,765,1063,792"/>
+<area shape="poly" id="edge36_Node000001_Node000037" title=" " alt="" coords="771,551,786,597,807,651,839,706,859,730,882,751,901,762,924,772,918,772,898,767,878,755,855,734,835,709,803,654,781,599,769,556"/>
+<area shape="rect" id="Node000038" href="$d1/dd0/classWsfTrackProcessor.html" title=" " alt="" coords="924,816,1061,843"/>
+<area shape="poly" id="edge37_Node000001_Node000038" title=" " alt="" coords="769,551,780,607,800,675,815,710,833,744,855,775,882,802,902,814,926,825,921,824,899,819,878,806,851,778,828,746,810,712,795,676,775,608,766,556"/>
+<area shape="rect" id="Node000039" href="$df/de3/classWsfTrackStateControllerProcessor.html" title=" " alt="" coords="880,867,1104,893"/>
+<area shape="poly" id="edge38_Node000001_Node000039" title=" " alt="" coords="767,552,775,617,793,698,808,740,827,782,851,820,882,853,900,867,895,866,878,857,847,823,822,784,803,742,788,699,770,618,764,557"/>
+<area shape="rect" id="Node000040" href="$da/d0f/classWsfUplinkProcessor.html" title=" " alt="" coords="922,917,1063,944"/>
+<area shape="poly" id="edge39_Node000001_Node000040" title=" " alt="" coords="765,552,771,626,786,720,801,770,821,819,848,864,882,903,900,916,924,926,918,926,898,921,878,907,843,867,816,821,796,772,781,721,765,626,762,557"/>
+<area shape="rect" id="Node000041" href="$d9/d10/classWsfWeaponFuse.html" title=" " alt="" coords="932,968,1053,995"/>
+<area shape="poly" id="edge40_Node000001_Node000041" title=" " alt="" coords="769,552,785,645,809,766,842,881,861,925,882,954,905,969,934,980,928,979,903,974,878,958,856,927,837,882,804,767,780,646,767,557"/>
+<area shape="rect" id="Node000044" href="$db/dc0/classWsfWeaponThreatProcessor.html" title=" " alt="" coords="898,1019,1086,1045"/>
+<area shape="poly" id="edge43_Node000001_Node000044" title=" " alt="" coords="769,552,782,655,805,790,821,859,839,921,859,971,882,1005,900,1020,895,1019,878,1009,854,974,834,923,816,860,800,792,777,655,766,556"/>
+<area shape="rect" id="Node000002" href="$de/d06/classWsfProcessor.html" title=" " alt="" coords="541,512,646,539"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="661,523,696,524,691,526,662,528"/>
+<area shape="rect" id="Node000003" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="375,512,493,539"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="508,523,543,524,539,526,510,528"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="205,436,288,463"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="302,463,328,472,409,510,404,512,326,477,304,468"/>
+<area shape="rect" id="Node000005" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="166,487,327,513"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="341,510,377,516,372,519,343,515"/>
+<area shape="rect" id="Node000006" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="5,487,118,513"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="132,498,167,498,163,502,135,502"/>
+<area shape="rect" id="Node000007" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="198,537,295,564"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="309,540,377,532,372,535,311,544"/>
+<area shape="rect" id="Node000008" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="175,588,318,615"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="308,581,326,574,408,537,404,541,328,578,311,585"/>
+<area shape="rect" id="Node000010" href="$d6/dae/classWsfUnclassifiedAssetManager.html" title=" " alt="" coords="1158,5,1359,32"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1072,16,1160,18,1155,20,1073,21"/>
+<area shape="rect" id="Node000012" href="$d4/d6f/classWsfUnclassifiedDisseminateC2.html" title=" " alt="" coords="1155,56,1362,83"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1085,67,1157,68,1152,70,1086,72"/>
+<area shape="rect" id="Node000014" href="$d0/d6c/classWsfSimpleSensorsManager.html" title=" " alt="" coords="1167,107,1350,133"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="1089,117,1169,119,1164,121,1091,123"/>
+<area shape="rect" id="Node000015" href="$d2/d19/classWsfSensorsManagerFov.html" title=" " alt="" coords="1413,107,1578,133"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1365,117,1415,119,1410,121,1366,123"/>
+<area shape="rect" id="Node000017" href="$d0/d28/classWsfWeaponsManagerAI.html" title=" " alt="" coords="1177,157,1340,184"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1092,168,1179,170,1174,172,1093,173"/>
+<area shape="rect" id="Node000018" href="$da/dce/classWsfWeaponsManagerSAM.html" title=" " alt="" coords="1169,208,1348,235"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="1081,185,1187,207,1182,208,1082,190"/>
+<area shape="rect" id="Node000020" href="$d1/d1b/classWsfUnclassifiedBattleManager.html" title=" " alt="" coords="1158,259,1359,285"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="1072,234,1187,257,1182,259,1073,239"/>
+<area shape="rect" id="Node000024" href="$d3/d01/classWsfP6DOF__GuidanceComputer.html" title=" " alt="" coords="1154,309,1363,336"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="1080,354,1187,336,1182,338,1082,359"/>
+<area shape="rect" id="Node000025" href="$d0/dbc/classwsf_1_1six__dof_1_1GuidanceComputer.html" title=" " alt="" coords="1152,360,1365,387"/>
+<area shape="poly" id="edge24_Node000023_Node000025" title=" " alt="" coords="1086,371,1154,373,1149,374,1087,376"/>
+<area shape="rect" id="Node000027" href="$df/d64/classWsfImageProcessor.html" title="A specialization of WsfMessageProcessor that implements an example image processor." alt="" coords="1188,411,1329,437"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="1086,421,1191,423,1186,425,1087,427"/>
+<area shape="rect" id="Node000034" href="$d9/d90/classWsfQuantumTaskerProcessor.html" title=" " alt="" coords="1160,689,1357,716"/>
+<area shape="poly" id="edge33_Node000033_Node000034" title=" " alt="" coords="1069,718,1162,711,1157,713,1070,723"/>
+<area shape="rect" id="Node000036" href="$d8/dae/classWsfTaskProcessor.html" title=" " alt="" coords="1192,740,1325,767"/>
+<area shape="poly" id="edge35_Node000033_Node000036" title=" " alt="" coords="1069,733,1195,747,1189,747,1069,738"/>
+<area shape="rect" id="Node000035" href="$dd/d78/classWsfBrawlerProcessor.html" title=" " alt="" coords="1421,689,1570,716"/>
+<area shape="poly" id="edge34_Node000034_Node000035" title=" " alt="" coords="1372,700,1423,702,1418,703,1372,705"/>
+<area shape="rect" id="Node000042" href="$d7/d37/classWsfAirTargetFuse.html" title="A specialization of WsfWeaponFuse that sets defaults approapriate for efficient Air&#45;Target use." alt="" coords="1195,943,1322,969"/>
+<area shape="poly" id="edge41_Node000041_Node000042" title=" " alt="" coords="1068,971,1192,962,1197,962,1068,977"/>
+<area shape="rect" id="Node000043" href="$d5/d39/classWsfGroundTargetFuse.html" title=" " alt="" coords="1182,993,1335,1020"/>
+<area shape="poly" id="edge42_Node000041_Node000043" title=" " alt="" coords="1068,986,1185,999,1179,999,1068,991"/>
+</map>

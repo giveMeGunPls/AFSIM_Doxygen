@@ -1,0 +1,11 @@
+<map id="wsf::comm::PhysicalLayer" name="wsf::comm::PhysicalLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,300,220,327"/>
+<area shape="rect" id="Node000002" href="$d3/deb/classwsf_1_1comm_1_1LayerImp.html" title="A base class defining the interface for the implementation classes. (Implementor)." alt="" coords="5,201,154,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,239,128,300,122,300,92,244"/>
+<area shape="rect" id="Node000003" href="$d4/d51/classWsfRandomVariable.html" title=" " alt="" coords="177,201,318,228"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,238,148,302,145,297,218,239"/>
+<area shape="rect" id="Node000004" href="$d3/ddb/classWsfVariable.html" title=" " alt="" coords="171,81,324,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,122,250,202,245,200,246,126"/>
+<area shape="rect" id="Node000005" href="$d4/d43/classWsfVariableBase.html" title=" " alt="" coords="187,5,308,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="249,45,250,82,245,80,246,50"/>
+</map>

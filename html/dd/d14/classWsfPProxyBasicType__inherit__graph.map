@@ -1,0 +1,61 @@
+<map id="WsfPProxyBasicType" name="WsfPProxyBasicType">
+<area shape="rect" id="Node000001" title=" " alt="" coords="170,288,319,315"/>
+<area shape="rect" id="Node000003" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,8,549,51"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="251,272,266,228,289,173,322,116,342,90,365,66,394,49,390,53,369,70,346,93,326,119,294,175,270,230,256,275"/>
+<area shape="rect" id="Node000006" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,80,549,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="257,273,299,203,329,165,365,133,388,121,384,125,369,137,333,169,303,206,261,276"/>
+<area shape="rect" id="Node000010" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,147,549,189"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="268,275,312,236,366,199,393,188,389,192,368,204,315,241,272,279"/>
+<area shape="rect" id="Node000013" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,213,549,256"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="305,281,394,255,390,258,307,285"/>
+<area shape="rect" id="Node000016" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,280,549,323"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="333,299,385,300,380,302,335,304"/>
+<area shape="rect" id="Node000019" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="367,347,564,389"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="306,317,395,345,390,347,306,322"/>
+<area shape="rect" id="Node000022" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,413,549,456"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="270,323,315,362,368,399,393,413,388,413,366,404,312,366,269,328"/>
+<area shape="rect" id="Node000025" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,480,549,523"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="260,326,303,396,333,434,369,466,389,480,384,479,365,470,329,437,299,400,258,331"/>
+<area shape="rect" id="Node000028" href="$d2/d29/classProxyTypeAdapterBaseT.html" title=" " alt="" coords="382,547,549,589"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="254,327,270,373,293,428,326,484,346,510,369,533,386,547,381,545,365,537,342,513,321,487,288,431,265,375,252,332"/>
+<area shape="rect" id="Node000002" href="$d6/d03/classWsfPProxyType.html" title=" " alt="" coords="5,288,122,315"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,299,172,300,167,303,139,304"/>
+<area shape="rect" id="Node000004" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="635,5,779,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="564,26,637,26,632,29,566,31"/>
+<area shape="rect" id="Node000005" href="$d1/d79/classWsfPProxyBoolType.html" title=" " alt="" coords="880,11,1022,37"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="794,23,882,24,877,26,795,28"/>
+<area shape="rect" id="Node000007" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="635,80,779,123"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="564,99,637,100,632,102,565,104"/>
+<area shape="rect" id="Node000008" href="$da/de5/classWsfPProxyEnumType.html" title=" " alt="" coords="876,61,1026,88"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="794,89,878,82,873,84,795,94"/>
+<area shape="rect" id="Node000009" href="$d3/d02/classWsfPProxyIntType.html" title=" " alt="" coords="885,112,1016,139"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="794,107,887,118,882,120,795,113"/>
+<area shape="rect" id="Node000011" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="632,147,782,189"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="564,165,634,167,629,169,566,171"/>
+<area shape="rect" id="Node000012" href="$dd/d0b/classWsfPProxyLength2Type.html" title=" " alt="" coords="870,163,1032,189"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="797,168,872,173,867,174,798,174"/>
+<area shape="rect" id="Node000014" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="632,213,782,256"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="564,232,635,234,629,235,565,237"/>
+<area shape="rect" id="Node000015" href="$d9/db6/classWsfPProxyLength3Type.html" title=" " alt="" coords="870,221,1032,248"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="797,232,872,234,867,235,798,237"/>
+<area shape="rect" id="Node000017" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="632,280,782,323"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="564,299,634,301,629,302,565,304"/>
+<area shape="rect" id="Node000018" href="$df/d63/classWsfPProxyPositionType.html" title=" " alt="" coords="869,288,1032,315"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="797,299,871,301,866,302,798,304"/>
+<area shape="rect" id="Node000020" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="612,347,802,389"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="579,365,615,367,609,369,580,371"/>
+<area shape="rect" id="Node000021" href="$db/d4c/classWsfPProxyQuotableStringType.html" title=" " alt="" coords="850,355,1052,381"/>
+<area shape="poly" id="edge20_Node000020_Node000021" title=" " alt="" coords="817,365,852,368,846,368,818,371"/>
+<area shape="rect" id="Node000023" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="635,413,779,456"/>
+<area shape="poly" id="edge22_Node000022_Node000023" title=" " alt="" coords="564,432,637,434,632,435,565,437"/>
+<area shape="rect" id="Node000024" href="$d1/dcf/classWsfPProxyRealType.html" title=" " alt="" coords="879,421,1022,448"/>
+<area shape="poly" id="edge23_Node000023_Node000024" title=" " alt="" coords="794,432,881,434,876,435,795,437"/>
+<area shape="rect" id="Node000026" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="635,480,779,523"/>
+<area shape="poly" id="edge25_Node000025_Node000026" title=" " alt="" coords="564,499,637,501,632,502,565,504"/>
+<area shape="rect" id="Node000027" href="$d8/d91/classWsfPProxyStringType.html" title=" " alt="" coords="876,488,1026,515"/>
+<area shape="poly" id="edge26_Node000026_Node000027" title=" " alt="" coords="794,499,878,501,873,501,795,504"/>
+<area shape="rect" id="Node000029" href="$da/d85/classProxyTypeAdapterT.html" title=" " alt="" coords="635,547,779,589"/>
+<area shape="poly" id="edge28_Node000028_Node000029" title=" " alt="" coords="565,565,637,568,632,568,565,571"/>
+<area shape="rect" id="Node000030" href="$df/d0c/classProxyUnitaryTypeAdapterT.html" title=" " alt="" coords="862,547,1040,589"/>
+<area shape="poly" id="edge29_Node000029_Node000030" title=" " alt="" coords="794,565,864,568,859,568,794,571"/>
+</map>

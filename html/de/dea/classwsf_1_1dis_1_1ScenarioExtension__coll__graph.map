@@ -1,0 +1,13 @@
+<map id="wsf::dis::ScenarioExtension" name="wsf::dis::ScenarioExtension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,272,248,299"/>
+<area shape="rect" id="Node000002" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="5,196,160,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,231,146,271,141,272,104,236"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="30,89,133,116"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,129,85,196,80,195,80,133"/>
+<area shape="rect" id="Node000004" href="$de/db2/classWsfDisInput.html" title=" " alt="" coords="183,196,278,223"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,233,170,274,167,270,204,235"/>
+<area shape="rect" id="Node000005" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="157,81,306,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="233,138,233,196,228,194,230,142"/>
+<area shape="rect" id="Node000006" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="165,5,298,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,45,234,82,229,80,231,50"/>
+</map>

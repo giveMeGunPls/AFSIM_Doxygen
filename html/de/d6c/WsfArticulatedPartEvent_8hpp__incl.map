@@ -1,0 +1,12 @@
+<map id="WsfArticulatedPartEvent.hpp" name="WsfArticulatedPartEvent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,196,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="16,155,113,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,35,73,55,59,81,55,111,59,140,54,139,50,111,54,79,68,52,89,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,80,133,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,30,103,65,98,64,99,35"/>
+<area shape="rect" id="Node000004" href="$d7/dac/WsfEvent_8hpp.html" title=" " alt="" coords="156,80,261,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="120,30,179,70,174,72,119,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="186,107,105,150,102,145,181,107"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="170,155,247,181"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="210,105,211,140,206,138,207,109"/>
+</map>

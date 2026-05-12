@@ -1,0 +1,15 @@
+<map id="WsfAntennaPattern::BaseData" name="WsfAntennaPattern::BaseData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,149,115"/>
+<area shape="rect" id="Node000002" href="$de/d63/classWsfALARM__AntennaPattern_1_1ALARM__Data.html" title="Data that is shared amongst all instances of a given ALARM antenna pattern." alt="" coords="197,5,385,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,64,222,47,218,50,163,69"/>
+<area shape="rect" id="Node000004" href="$df/d71/classWsfESA__AntennaPattern_1_1ESA__Data.html" title=" " alt="" coords="206,72,376,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,91,208,92,203,94,165,96"/>
+<area shape="rect" id="Node000007" href="$d4/d8f/classWsfStandardAntennaPattern_1_1StandardData.html" title=" " alt="" coords="197,139,384,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="162,117,222,138,217,139,162,122"/>
+<area shape="rect" id="Node000003" href="$d2/d79/classWsfGENAP__AntennaPattern_1_1GENAP__Data.html" title="Data that is shared amongst all instances of a given ALARM antenna pattern." alt="" coords="447,5,636,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="400,24,449,26,444,27,401,29"/>
+<area shape="rect" id="Node000005" href="$d1/de9/classWsfESA__NX__AntennaPattern_1_1ESA__NX__Data.html" title=" " alt="" coords="444,72,639,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="391,91,446,93,441,94,391,96"/>
+<area shape="rect" id="Node000006" href="$dd/dd3/classWsfElementESA__AntennaPattern_1_1EESA__Data.html" title=" " alt="" coords="433,139,650,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="388,116,461,138,456,138,388,122"/>
+</map>

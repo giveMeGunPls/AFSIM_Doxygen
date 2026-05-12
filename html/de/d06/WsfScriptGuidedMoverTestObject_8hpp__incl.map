@@ -1,0 +1,9 @@
+<map id="WsfScriptGuidedMoverTestObject.hpp" name="WsfScriptGuidedMoverTestObject.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,5,304,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,126,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,48,103,91,101,86,173,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="149,96,278,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,47,216,82,211,79,212,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="302,96,469,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,46,348,89,342,89,257,51"/>
+</map>

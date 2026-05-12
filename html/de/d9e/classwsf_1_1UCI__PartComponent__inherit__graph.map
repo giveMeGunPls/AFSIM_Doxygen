@@ -1,0 +1,27 @@
+<map id="wsf::UCI_PartComponent" name="wsf::UCI_PartComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="330,304,502,331"/>
+<area shape="rect" id="Node000009" href="$d4/d4d/classwsf_1_1UCI__SensorComponent.html" title=" " alt="" coords="214,379,403,405"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="387,339,329,380,326,376,382,341"/>
+<area shape="rect" id="Node000013" href="$d1/d57/classwsf_1_1UCI__WeaponComponent.html" title=" " alt="" coords="427,379,622,405"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="448,337,508,378,503,378,447,342"/>
+<area shape="rect" id="Node000002" href="$dc/d77/classwsf_1_1UCI__Component.html" title=" " alt="" coords="342,229,490,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,270,419,305,414,302,415,274"/>
+<area shape="rect" id="Node000003" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="357,155,476,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,195,419,230,414,228,415,199"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="152,80,235,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,109,380,153,375,155,247,114"/>
+<area shape="rect" id="Node000005" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="260,80,421,107"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="365,115,406,154,401,154,364,120"/>
+<area shape="rect" id="Node000006" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="284,5,396,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="341,45,343,80,338,79,339,50"/>
+<area shape="rect" id="Node000007" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="445,80,542,107"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="471,116,431,156,428,152,467,119"/>
+<area shape="rect" id="Node000008" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="566,80,709,107"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="582,113,456,156,454,152,587,111"/>
+<area shape="rect" id="Node000010" href="$d6/dd3/classwsf_1_1UCI__AMTI__Component.html" title=" " alt="" coords="5,453,193,480"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="260,412,137,455,135,450,255,410"/>
+<area shape="rect" id="Node000011" href="$dd/dc9/classwsf_1_1UCI__ESM__Component.html" title=" " alt="" coords="216,453,400,480"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="310,419,310,455,306,451,306,423"/>
+<area shape="rect" id="Node000012" href="$d8/dd0/classwsf_1_1UCI__IRST__Component.html" title=" " alt="" coords="424,453,611,480"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="360,408,484,453,478,453,359,413"/>
+</map>

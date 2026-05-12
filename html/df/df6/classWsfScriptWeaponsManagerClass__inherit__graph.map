@@ -1,0 +1,13 @@
+<map id="WsfScriptWeaponsManagerClass" name="WsfScriptWeaponsManagerClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="142,229,360,256"/>
+<area shape="rect" id="Node000005" href="$d7/d5f/classWsfScriptWeaponsManagerAIClass.html" title=" " alt="" coords="5,304,236,331"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="218,263,145,306,142,301,212,264"/>
+<area shape="rect" id="Node000006" href="$d6/d62/classWsfScriptWeaponsManagerSAMClass.html" title=" " alt="" coords="260,304,506,331"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="288,261,363,303,357,303,286,266"/>
+<area shape="rect" id="Node000002" href="$dd/d0e/classWsfScriptProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="165,155,337,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,195,254,230,249,228,250,199"/>
+<area shape="rect" id="Node000003" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="158,80,344,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="252,120,254,155,249,153,250,125"/>
+<area shape="rect" id="Node000004" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="176,5,327,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="252,45,254,80,249,79,250,50"/>
+</map>

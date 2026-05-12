@@ -1,0 +1,11 @@
+<map id="WsfScriptAssetManagerClass" name="WsfScriptAssetManagerClass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="12,229,210,256"/>
+<area shape="rect" id="Node000005" href="$de/d2a/classWsfScriptUnclassAssetManagerClass.html" title=" " alt="" coords="5,304,217,347"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="113,270,113,305,109,303,109,274"/>
+<area shape="rect" id="Node000002" href="$dd/d0e/classWsfScriptProcessorClass.html" title="Define script methods for WsfProcessor." alt="" coords="25,155,197,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,195,114,230,108,228,110,200"/>
+<area shape="rect" id="Node000003" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="18,80,204,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,120,114,155,108,154,110,125"/>
+<area shape="rect" id="Node000004" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="35,5,187,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,45,114,80,108,79,110,50"/>
+</map>

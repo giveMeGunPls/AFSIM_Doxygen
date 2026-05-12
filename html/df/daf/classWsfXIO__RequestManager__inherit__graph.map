@@ -1,0 +1,7 @@
+<map id="WsfXIO_RequestManager" name="WsfXIO_RequestManager">
+<area shape="rect" id="Node000001" title="Maintains a group of WsfXIO_Requests." alt="" coords="127,5,302,32"/>
+<area shape="rect" id="Node000002" href="$da/db5/classWsfXIO__DisRequestManager.html" title=" " alt="" coords="5,80,200,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,40,123,82,121,77,180,41"/>
+<area shape="rect" id="Node000003" href="$d8/d72/classWsfXIO__TrackRequestManager.html" title="Manages all track requests. Routes incoming track messages to the correct WsfXIO_TrackRequest." alt="" coords="224,80,432,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="248,38,311,79,305,79,246,43"/>
+</map>

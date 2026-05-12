@@ -1,0 +1,11 @@
+<map id="wsf::space::SouthernIntersectionCondition" name="wsf::space::SouthernIntersectionCondition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,352,219,395"/>
+<area shape="rect" id="Node000002" href="$d6/d0b/classwsf_1_1space_1_1IntersectionCondition.html" title=" " alt="" coords="31,261,193,304"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,318,114,353,110,351,110,322"/>
+<area shape="rect" id="Node000003" href="$d4/d3e/classwsf_1_1space_1_1OrbitalPropagatorOptimizingCondition.html" title=" " alt="" coords="15,171,209,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,226,115,262,109,260,111,231"/>
+<area shape="rect" id="Node000004" href="$d7/dc3/classwsf_1_1space_1_1OrbitalPropagatorCondition.html" title=" " alt="" coords="15,80,209,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="113,136,115,171,109,170,111,141"/>
+<area shape="rect" id="Node000005" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="70,5,154,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="112,45,115,80,109,79,112,50"/>
+</map>

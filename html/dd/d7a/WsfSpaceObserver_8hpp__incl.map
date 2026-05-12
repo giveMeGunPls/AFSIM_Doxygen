@@ -1,0 +1,16 @@
+<map id="WsfSpaceObserver.hpp" name="WsfSpaceObserver.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="144,5,304,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,144,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,35,116,75,113,71,199,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="168,80,280,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,30,226,65,221,63,223,35"/>
+<area shape="rect" id="Node000004" href="$d1/d3c/WsfSimulationExtension_8hpp.html" title=" " alt="" coords="304,80,493,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="254,30,356,73,351,74,254,35"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="322,229,376,256"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="395,105,376,156,358,216,354,212,371,154,391,109"/>
+<area shape="rect" id="Node000006" href="$d7/da2/WsfExtension_8hpp.html" title=" " alt="" coords="385,155,513,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="408,105,434,143,429,141,406,110"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="434,181,380,222,378,217,429,183"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="401,229,497,256"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="451,180,451,215,447,212,447,184"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="WsfBMEventOutput" name="WsfBMEventOutput">
+<area shape="rect" id="Node000001" title="WsfBMEventOutput writes BM specific events to the event output logfile." alt="" coords="18,348,157,375"/>
+<area shape="rect" id="Node000002" href="$dd/ddd/classWsfEventOutput.html" title="A simulation observer to write an event output file." alt="" coords="28,249,147,276"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,290,90,348,85,347,85,293"/>
+<area shape="rect" id="Node000003" href="$d0/d43/classwsf_1_1event_1_1output_1_1SimulationExtension.html" title="A simulation extension that serves as an abstract base class for observers which write an event outpu..." alt="" coords="13,157,162,200"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,213,90,249,85,248,87,218"/>
+<area shape="rect" id="Node000004" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="5,81,170,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,121,90,158,85,157,87,126"/>
+<area shape="rect" id="Node000005" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="36,5,139,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="88,44,90,81,85,81,87,50"/>
+</map>

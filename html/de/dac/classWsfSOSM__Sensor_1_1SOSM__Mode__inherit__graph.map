@@ -1,0 +1,9 @@
+<map id="WsfSOSM_Sensor::SOSM_Mode" name="WsfSOSM_Sensor::SOSM_Mode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,224,256"/>
+<area shape="rect" id="Node000002" href="$d1/da1/classWsfSensorMode.html" title=" " alt="" coords="55,155,174,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,195,117,230,112,228,113,199"/>
+<area shape="rect" id="Node000003" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="76,80,153,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,120,117,155,112,154,113,125"/>
+<area shape="rect" id="Node000004" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="71,5,158,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,45,117,80,112,79,114,50"/>
+</map>

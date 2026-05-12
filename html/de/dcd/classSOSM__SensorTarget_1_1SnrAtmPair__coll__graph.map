@@ -1,0 +1,7 @@
+<map id="SOSM_SensorTarget::SnrAtmPair" name="SOSM_SensorTarget::SnrAtmPair">
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,125,252,168"/>
+<area shape="rect" id="Node000002" href="$d9/d2f/classSOSM__ScalarTable2D.html" title=" " alt="" coords="5,5,158,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,45,77,74,85,100,96,112,111,125,106,125,92,116,81,103,72,75,74,50"/>
+<area shape="rect" id="Node000003" href="$d7/d83/classSOSM__ScalarTable3D.html" title=" " alt="" coords="196,5,348,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,45,260,75,245,103,218,127,215,123,241,100,256,73,265,49"/>
+</map>

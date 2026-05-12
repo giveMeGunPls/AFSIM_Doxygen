@@ -1,0 +1,11 @@
+<map id="wizard::WsfExecution" name="wizard::WsfExecution">
+<area shape="rect" id="Node000001" title="Encapsulates the execution of a WSF application." alt="" coords="102,219,252,245"/>
+<area shape="rect" id="Node000002" href="$d9/d86/structwizard_1_1WsfExecution_1_1ConnectionParameters.html" title=" " alt="" coords="5,104,168,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,160,84,178,90,193,103,206,121,218,115,218,100,210,86,196,79,180,79,164"/>
+<area shape="rect" id="Node000003" href="$da/d82/classwizard_1_1WsfExe.html" title=" " alt="" coords="212,112,326,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,152,255,176,242,196,226,210,208,221,206,216,223,206,238,193,251,173,260,155"/>
+<area shape="rect" id="Node000004" href="$d3/dcd/classwizard_1_1WsfStyler.html" title="syntax&#45;highlights a WSF file." alt="" coords="108,5,233,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,44,202,78,221,96,244,111,239,112,218,100,197,82,179,49"/>
+<area shape="rect" id="Node000005" href="$d8/d7c/classwizard_1_1WsfExe_1_1GrammarVersion.html" title=" " alt="" coords="257,5,476,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="347,42,282,114,279,110,343,44"/>
+</map>

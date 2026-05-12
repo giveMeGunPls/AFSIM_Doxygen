@@ -1,0 +1,15 @@
+<map id="WsfEW_CoverPulseEffect::CoverPulseData" name="WsfEW_CoverPulseEffect::CoverPulseData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="21,517,198,560"/>
+<area shape="rect" id="Node000002" href="$d2/d38/classWsfEW__PulseEffect_1_1PulseData.html" title=" " alt="" coords="35,427,184,469"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,483,112,518,107,516,108,487"/>
+<area shape="rect" id="Node000003" href="$dd/d72/classWsfEW__PowerEffect_1_1PowerData.html" title=" " alt="" coords="33,336,186,379"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,392,112,427,107,426,108,397"/>
+<area shape="rect" id="Node000004" href="$dc/d62/classWsfEW__RepeaterEffect_1_1RepeaterEffectData.html" title=" " alt="" coords="29,245,190,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,301,112,336,107,335,109,306"/>
+<area shape="rect" id="Node000005" href="$da/d68/classWsfEW__RadiusEffect_1_1RadiusData.html" title=" " alt="" coords="35,155,184,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="110,210,112,245,107,245,109,216"/>
+<area shape="rect" id="Node000006" href="$d8/d45/classWsfEW__Effect_1_1EffectData.html" title="Base effect data used to derive from in inheriting effect classes." alt="" coords="20,80,199,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="110,120,112,155,107,154,109,125"/>
+<area shape="rect" id="Node000007" href="$d6/dcf/classWsfEW__Types_1_1EW__EffectData.html" title=" " alt="" coords="5,5,214,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="110,45,112,80,107,79,109,50"/>
+</map>

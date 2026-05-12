@@ -1,0 +1,7 @@
+<map id="wsf::six_dof::AeroCoreObject" name="wsf::six_dof::AeroCoreObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,5,302,32"/>
+<area shape="rect" id="Node000002" href="$d3/d11/classwsf_1_1six__dof_1_1PointMassAeroCoreObject.html" title=" " alt="" coords="5,80,195,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,41,128,82,126,77,174,43"/>
+<area shape="rect" id="Node000003" href="$d5/d1c/classwsf_1_1six__dof_1_1RigidBodyAeroCoreObject.html" title=" " alt="" coords="218,80,406,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,39,287,80,282,79,233,44"/>
+</map>

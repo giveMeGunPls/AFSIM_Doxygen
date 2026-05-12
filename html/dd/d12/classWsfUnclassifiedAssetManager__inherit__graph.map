@@ -1,0 +1,25 @@
+<map id="WsfUnclassifiedAssetManager" name="WsfUnclassifiedAssetManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="354,453,556,480"/>
+<area shape="rect" id="Node000002" href="$dc/d2c/classWsfAssetManager.html" title=" " alt="" coords="390,379,520,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,419,457,455,453,451,453,423"/>
+<area shape="rect" id="Node000003" href="$d6/dc5/classWsfScriptProcessor.html" title=" " alt="" coords="200,304,339,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="316,334,425,378,420,379,316,339"/>
+<area shape="rect" id="Node000004" href="$de/d06/classWsfProcessor.html" title=" " alt="" coords="218,229,322,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,270,272,305,267,303,268,274"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="210,155,329,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,195,272,230,267,228,269,200"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,80,89,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="99,109,233,152,228,156,100,114"/>
+<area shape="rect" id="Node000007" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="113,80,274,107"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="218,115,259,154,254,155,218,120"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="138,5,250,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="194,45,196,80,191,79,193,50"/>
+<area shape="rect" id="Node000009" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="298,80,396,107"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="321,119,285,156,281,152,324,116"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="419,80,563,107"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="436,114,310,156,307,152,440,110"/>
+<area shape="rect" id="Node000011" href="$d3/d8f/classWsfC2ComponentContainer.html" title=" " alt="" coords="362,304,548,331"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="457,344,457,380,453,377,453,349"/>
+<area shape="rect" id="Node000012" href="$d5/d01/classWsfScriptOverridableProcessor.html" title=" " alt="" coords="572,304,776,331"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="624,335,494,381,493,375,619,337"/>
+</map>

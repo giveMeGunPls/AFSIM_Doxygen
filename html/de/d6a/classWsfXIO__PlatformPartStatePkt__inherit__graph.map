@@ -1,0 +1,5 @@
+<map id="WsfXIO_PlatformPartStatePkt" name="WsfXIO_PlatformPartStatePkt">
+<area shape="rect" id="Node000001" title="Requests that an application begin sending state information for a specified platform part." alt="" coords="5,80,205,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="47,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,46,107,81,103,79,103,50"/>
+</map>
