@@ -1,0 +1,7 @@
+<map id="wsf::space::EclipseExitCondition" name="wsf::space::EclipseExitCondition">
+<area shape="rect" id="Node000001" title="A condition indicating the point at which the propagator exits from eclipse." alt="" coords="5,171,220,197"/>
+<area shape="rect" id="Node000002" href="$d7/dc3/classwsf_1_1space_1_1OrbitalPropagatorCondition.html" title=" " alt="" coords="15,80,210,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,137,115,171,110,169,111,140"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="71,5,154,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,45,115,81,110,79,111,50"/>
+</map>

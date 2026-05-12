@@ -1,0 +1,9 @@
+<map id="WsfEW_Technique" name="WsfEW_Technique">
+<area shape="rect" id="Node000001" title=" " alt="" coords="135,80,268,107"/>
+<area shape="rect" id="Node000003" href="$d3/d43/classWsfEW__EA_1_1EA__Technique.html" title="Special class to handle the EA specific technique implementations as required." alt="" coords="5,155,190,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,115,117,156,114,152,169,116"/>
+<area shape="rect" id="Node000004" href="$d7/d89/classWsfEW__EP_1_1EP__Technique.html" title="Special class to handle the EP specific technique implementations as required." alt="" coords="213,155,398,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,113,290,154,285,154,231,118"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="160,5,243,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,46,204,81,199,78,200,50"/>
+</map>

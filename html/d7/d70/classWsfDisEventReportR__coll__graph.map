@@ -1,0 +1,15 @@
+<map id="WsfDisEventReportR" name="WsfDisEventReportR">
+<area shape="rect" id="Node000001" title=" " alt="" coords="89,371,238,397"/>
+<area shape="rect" id="Node000002" href="$d2/d53/classWsfDisInterface.html" title=" " alt="" coords="105,272,222,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,313,166,372,161,369,161,316"/>
+<area shape="rect" id="Node000003" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="5,196,170,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,231,153,271,148,272,111,236"/>
+<area shape="rect" id="Node000004" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="36,89,139,116"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,129,90,196,85,195,87,134"/>
+<area shape="rect" id="Node000005" href="$de/db2/classWsfDisInput.html" title=" " alt="" coords="194,196,288,223"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="219,232,178,274,175,270,215,235"/>
+<area shape="rect" id="Node000006" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="166,81,316,124"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="242,137,243,196,238,195,240,142"/>
+<area shape="rect" id="Node000007" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="174,5,308,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="242,45,243,82,238,81,240,50"/>
+</map>

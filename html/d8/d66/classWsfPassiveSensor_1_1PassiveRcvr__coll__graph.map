@@ -1,0 +1,66 @@
+<map id="WsfPassiveSensor::PassiveRcvr" name="WsfPassiveSensor::PassiveRcvr">
+<area shape="rect" id="Node000001" title="A specialized WsfEM_Rcvr that can receive on multiple frequency bands." alt="" coords="2097,249,2313,275"/>
+<area shape="rect" id="Node000002" href="$dd/d05/classWsfEM__Rcvr.html" title=" " alt="" coords="1821,273,1921,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1936,279,2099,270,2094,270,1936,284"/>
+<area shape="rect" id="Node000003" href="$de/daf/classWsfEM__XmtrRcvr.html" title=" " alt="" coords="1583,370,1711,397"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1693,361,1835,301,1840,299,1695,366"/>
+<area shape="poly" id="edge24_Node000003_Node000003" title=" " alt="" coords="1630,352,1636,346,1647,343,1658,346,1665,353,1663,371,1659,368,1660,355,1655,351,1647,349,1638,351,1633,357"/>
+<area shape="rect" id="Node000004" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="230,215,328,242"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="343,225,598,222,953,228,1137,238,1308,254,1453,276,1512,291,1560,308,1583,321,1605,337,1637,371,1632,369,1601,341,1581,325,1558,313,1510,296,1452,282,1307,259,1136,243,953,234,598,227,344,230"/>
+<area shape="rect" id="Node000014" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="592,266,710,293"/>
+<area shape="poly" id="edge18_Node000014_Node000004" title=" " alt="" coords="342,237,395,245,594,272,589,274,394,250,344,242"/>
+<area shape="rect" id="Node000023" href="$de/dd7/classWsfPlatform.html" title="Platforms represent a entity within the simulation." alt="" coords="604,75,698,102"/>
+<area shape="poly" id="edge36_Node000023_Node000004" title=" " alt="" coords="342,210,434,182,535,145,628,101,624,104,537,150,436,187,344,214"/>
+<area shape="rect" id="Node000005" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="208,315,351,342"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="336,345,440,375,560,403,697,424,835,429,1326,429,1397,425,1468,417,1586,398,1591,397,1469,422,1397,431,1326,434,835,434,696,430,559,409,439,381,336,350"/>
+<area shape="poly" id="edge19_Node000014_Node000005" title=" " alt="" coords="366,324,448,318,535,307,604,292,599,294,536,313,449,324,367,329"/>
+<area shape="poly" id="edge37_Node000023_Node000005" title=" " alt="" coords="330,307,427,262,482,232,534,199,594,147,636,104,640,101,597,151,537,203,485,237,430,267,332,311"/>
+<area shape="rect" id="Node000006" href="$de/d68/classWsfEM__Attenuation.html" title=" " alt="" coords="767,538,905,565"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="914,566,1045,585,1125,591,1211,592,1300,586,1390,572,1477,547,1558,509,1588,485,1611,453,1628,422,1639,399,1643,396,1633,424,1616,456,1591,488,1560,514,1478,552,1391,577,1301,591,1211,597,1124,596,1044,590,914,571"/>
+<area shape="rect" id="Node000007" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="30,429,114,455"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="112,460,149,477,189,490,267,509,348,524,509,542,654,550,769,553,764,553,654,555,509,547,348,529,266,514,187,495,147,482,112,465"/>
+<area shape="rect" id="Node000008" href="$d5/d88/classWsfEM__Propagation.html" title="An abstract base class for computing pattern propagation factors." alt="" coords="394,479,536,506"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="128,453,188,465,296,478,396,488,391,489,296,483,188,470,129,458"/>
+<area shape="poly" id="edge15_Node000014_Node000007" title=" " alt="" coords="128,427,370,371,481,344,534,328,546,316,558,303,594,290,589,292,561,307,550,319,537,332,482,349,371,376,130,432"/>
+<area shape="rect" id="Node000018" href="$d0/dc6/classWsfUncloneableObject.html" title="An object that does not support Clone." alt="" coords="202,429,357,455"/>
+<area shape="poly" id="edge23_Node000018_Node000007" title=" " alt="" coords="129,440,203,441,199,444,130,445"/>
+<area shape="poly" id="edge32_Node000023_Node000007" title=" " alt="" coords="76,413,89,366,110,309,142,251,162,224,186,201,219,182,265,164,380,133,504,109,606,94,601,96,504,114,382,138,266,169,221,187,190,206,166,228,146,254,115,311,94,368,81,414"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="551,490,835,490,1326,490,1393,489,1446,485,1496,472,1558,448,1599,422,1630,398,1635,396,1602,427,1560,453,1498,477,1446,490,1394,495,1326,495,835,495,551,495"/>
+<area shape="rect" id="Node000009" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="1286,315,1364,342"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="1379,330,1464,340,1560,356,1606,370,1600,369,1558,361,1464,345,1379,336"/>
+<area shape="rect" id="Node000020" href="$d1/da1/classWsfSensorMode.html" title=" " alt="" coords="1588,190,1706,217"/>
+<area shape="poly" id="edge27_Node000020_Node000009" title=" " alt="" coords="1375,307,1608,218,1613,217,1377,312"/>
+<area shape="rect" id="Node000010" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="951,317,1039,343"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="1054,327,1288,329,1283,329,1055,333"/>
+<area shape="rect" id="Node000011" href="$d3/d00/classWsfEM__Antenna.html" title=" " alt="" coords="1265,367,1385,394"/>
+<area shape="poly" id="edge11_Node000003_Node000011" title=" " alt="" coords="1400,379,1440,379,1585,383,1580,383,1440,385,1401,384"/>
+<area shape="rect" id="Node000012" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="560,317,743,343"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="720,346,744,353,768,362,836,374,906,382,1044,389,1168,388,1267,385,1262,386,1168,393,1044,394,905,387,835,379,766,367,742,358,720,351"/>
+<area shape="rect" id="Node000013" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="929,266,1061,293"/>
+<area shape="poly" id="edge20_Node000013_Node000012" title=" " alt="" coords="758,312,931,288,926,290,759,317"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="1054,295,1234,352,1279,367,1273,367,1233,357,1054,301"/>
+<area shape="rect" id="Node000021" href="$d0/d47/classWsfSensor.html" title=" " alt="" coords="1282,194,1368,221"/>
+<area shape="poly" id="edge29_Node000021_Node000013" title=" " alt="" coords="1063,259,1084,254,1284,215,1279,216,1085,259,1064,264"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="726,277,931,279,926,280,726,282"/>
+<area shape="rect" id="Node000015" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="198,69,360,95"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="320,101,626,264,622,267,320,106"/>
+<area shape="poly" id="edge33_Node000023_Node000015" title=" " alt="" coords="375,81,606,86,601,90,376,86"/>
+<area shape="rect" id="Node000016" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="16,69,128,95"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="142,80,200,80,196,84,145,84"/>
+<area shape="rect" id="Node000017" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="583,367,720,394"/>
+<area shape="poly" id="edge21_Node000013_Node000017" title=" " alt="" coords="734,382,776,380,820,373,864,360,904,340,912,332,915,323,919,313,928,303,945,294,950,292,931,307,924,316,920,325,916,335,907,344,866,365,822,378,777,385,735,388"/>
+<area shape="poly" id="edge22_Node000017_Node000018" title=" " alt="" coords="371,427,535,401,586,394,580,395,536,406,372,432"/>
+<area shape="rect" id="Node000019" href="$da/d0d/classWsfPassiveSensor_1_1PassiveMode.html" title="A &#39;mode&#39; of the sensor." alt="" coords="1761,206,1981,233"/>
+<area shape="poly" id="edge25_Node000001_Node000019" title=" " alt="" coords="1996,233,2099,248,2094,248,1996,238"/>
+<area shape="poly" id="edge26_Node000019_Node000020" title=" " alt="" coords="1722,206,1763,211,1757,212,1722,211"/>
+<area shape="poly" id="edge28_Node000020_Node000021" title=" " alt="" coords="1383,204,1590,204,1585,205,1384,209"/>
+<area shape="rect" id="Node000022" href="$dd/db4/classWsfCategoryList.html" title="Contains the &#39;categories&#39; to which an object belongs." alt="" coords="935,151,1055,178"/>
+<area shape="poly" id="edge30_Node000021_Node000022" title=" " alt="" coords="1070,172,1284,201,1279,202,1070,177"/>
+<area shape="poly" id="edge31_Node000020_Node000023" title=" " alt="" coords="713,72,868,45,970,34,1083,27,1203,29,1325,40,1446,65,1504,84,1560,106,1587,123,1610,146,1641,190,1636,189,1606,149,1584,128,1558,111,1502,89,1444,71,1324,46,1203,34,1083,33,971,39,869,50,714,77"/>
+<area shape="rect" id="Node000024" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="188,18,370,45"/>
+<area shape="poly" id="edge34_Node000023_Node000024" title=" " alt="" coords="384,42,536,63,606,78,601,80,535,69,386,47"/>
+<area shape="rect" id="Node000025" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="5,18,139,45"/>
+<area shape="poly" id="edge35_Node000024_Node000025" title=" " alt="" coords="153,29,190,30,185,33,156,34"/>
+<area shape="rect" id="Node000026" href="$d8/df1/structWsfSensorMode_1_1ReportingFlags.html" title=" " alt="" coords="1234,127,1416,170"/>
+<area shape="poly" id="edge38_Node000020_Node000026" title=" " alt="" coords="1431,156,1560,176,1606,189,1600,189,1558,181,1431,161"/>
+</map>

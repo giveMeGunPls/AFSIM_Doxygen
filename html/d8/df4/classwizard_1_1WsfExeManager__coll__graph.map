@@ -1,0 +1,9 @@
+<map id="wizard::WsfExeManager" name="wizard::WsfExeManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,203,248,229"/>
+<area shape="rect" id="Node000002" href="$da/d82/classwizard_1_1WsfExe.html" title=" " alt="" coords="108,104,222,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,145,168,204,163,201,163,148"/>
+<area shape="rect" id="Node000003" href="$d3/dcd/classwizard_1_1WsfStyler.html" title="syntax&#45;highlights a WSF file." alt="" coords="5,5,131,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,40,130,78,155,103,149,104,126,82,91,46"/>
+<area shape="rect" id="Node000004" href="$d8/d7c/classwizard_1_1WsfExe_1_1GrammarVersion.html" title=" " alt="" coords="154,5,374,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="257,45,249,65,237,82,220,95,201,106,199,101,217,91,233,78,244,63,254,49"/>
+</map>

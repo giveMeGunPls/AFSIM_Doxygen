@@ -1,0 +1,19 @@
+<map id="SmallWebView.cpp" name="SmallWebView.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="220,5,354,32"/>
+<area shape="rect" id="Node000002" href="$d4/d4d/SmallWebView_8hpp.html" title=" " alt="" coords="160,80,294,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,31,249,70,245,66,274,34"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="318,80,376,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="298,30,330,68,324,68,297,35"/>
+<area shape="rect" id="Node000003" href="$dd/d3a/BrowserWidget_8hpp.html" title=" " alt="" coords="159,155,294,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,105,229,140,224,138,225,109"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,229,54,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="193,184,69,230,68,225,192,179"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="77,229,150,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="210,181,147,223,145,218,205,183"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="174,229,280,256"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="229,180,229,215,225,212,225,184"/>
+<area shape="rect" id="Node000007" href="$d6/df8/ViExport_8hpp.html" title=" " alt="" coords="304,229,400,256"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="249,179,320,221,315,221,248,184"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="424,229,563,256"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="274,179,435,224,430,226,273,185"/>
+</map>

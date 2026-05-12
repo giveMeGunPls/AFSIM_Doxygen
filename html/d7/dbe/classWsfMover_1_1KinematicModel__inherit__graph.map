@@ -1,0 +1,9 @@
+<map id="WsfMover::KinematicModel" name="WsfMover::KinematicModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,188,107"/>
+<area shape="rect" id="Node000002" href="$d5/d9e/classWsfBallisticMissileLaunchComputer_1_1BallisticModel.html" title=" " alt="" coords="236,5,410,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,73,250,47,246,50,160,77"/>
+<area shape="rect" id="Node000003" href="$df/d14/classWsfSpaceMoverBase_1_1SpaceModel.html" title=" " alt="" coords="245,72,401,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,91,247,93,242,94,203,96"/>
+<area shape="rect" id="Node000004" href="$d9/d3e/classWsfTSPI__Mover_1_1TSPI__Model.html" title=" " alt="" coords="245,139,401,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,109,250,137,245,139,159,114"/>
+</map>

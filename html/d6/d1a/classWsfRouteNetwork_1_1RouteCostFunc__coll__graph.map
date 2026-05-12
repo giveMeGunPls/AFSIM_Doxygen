@@ -1,0 +1,7 @@
+<map id="WsfRouteNetwork::RouteCostFunc" name="WsfRouteNetwork::RouteCostFunc">
+<area shape="rect" id="Node000001" title="A cost function used by the shortest_path algorithm provided by the RouteGraph class." alt="" coords="5,180,235,207"/>
+<area shape="rect" id="Node000002" href="$d1/d5b/classWsfRouteNetwork.html" title="A collection of WsfRoute object that represents a connected network (such as a road network)." alt="" coords="55,81,185,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,122,123,181,117,179,118,125"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="78,5,162,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,45,123,82,117,80,119,49"/>
+</map>

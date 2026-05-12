@@ -1,0 +1,7 @@
+<map id="wsf::comm::NetworkStar" name="wsf::comm::NetworkStar">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,173,181"/>
+<area shape="rect" id="Node000002" href="$d8/d3a/classwsf_1_1comm_1_1Network.html" title=" " alt="" coords="17,80,161,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,121,91,155,87,153,87,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="47,5,131,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,45,92,80,86,79,88,50"/>
+</map>

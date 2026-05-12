@@ -1,0 +1,11 @@
+<map id="wsf::space::DescendingRadiusCondition" name="wsf::space::DescendingRadiusCondition">
+<area shape="rect" id="Node000001" title="A condition indicating the point at which the propagator passes a given radius while moving closer to..." alt="" coords="5,336,209,379"/>
+<area shape="rect" id="Node000002" href="$d9/d80/classwsf_1_1space_1_1RadiusCondition.html" title=" " alt="" coords="12,261,202,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,302,109,337,105,335,105,306"/>
+<area shape="rect" id="Node000003" href="$d4/d3e/classwsf_1_1space_1_1OrbitalPropagatorOptimizingCondition.html" title=" " alt="" coords="10,171,204,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="108,227,110,261,104,260,106,232"/>
+<area shape="rect" id="Node000004" href="$d7/dc3/classwsf_1_1space_1_1OrbitalPropagatorCondition.html" title=" " alt="" coords="10,80,204,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,136,110,171,104,170,106,141"/>
+<area shape="rect" id="Node000005" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="65,5,149,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="107,45,110,80,104,79,107,50"/>
+</map>

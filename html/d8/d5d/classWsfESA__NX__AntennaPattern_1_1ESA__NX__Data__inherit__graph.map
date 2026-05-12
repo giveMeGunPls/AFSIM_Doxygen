@@ -1,0 +1,7 @@
+<map id="WsfESA_NX_AntennaPattern::ESA_NX_Data" name="WsfESA_NX_AntennaPattern::ESA_NX_Data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,201,229"/>
+<area shape="rect" id="Node000002" href="$df/d71/classWsfESA__AntennaPattern_1_1ESA__Data.html" title=" " alt="" coords="18,96,188,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,152,105,187,101,185,101,156"/>
+<area shape="rect" id="Node000003" href="$d7/d6d/classWsfAntennaPattern_1_1BaseData.html" title=" " alt="" coords="31,5,175,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,61,106,96,100,95,102,66"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="WsfRotorcraftMover" name="WsfRotorcraftMover">
+<area shape="rect" id="Node000001" title="New motion model to simulate Rotorcraft dynamics." alt="" coords="1514,203,1654,229"/>
+<area shape="rect" id="Node000002" href="$d4/dda/classWsfIterativeRouteMover.html" title="Base class for route movers that use iterative computation." alt="" coords="1165,283,1328,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1343,279,1415,266,1490,248,1547,230,1552,229,1491,253,1416,271,1344,285"/>
+<area shape="rect" id="Node000003" href="$d9/de5/classWsfRouteMover.html" title=" " alt="" coords="985,283,1101,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1117,293,1167,296,1162,296,1117,299"/>
+<area shape="rect" id="Node000004" href="$d7/d6f/classWsfMover.html" title=" " alt="" coords="771,120,852,147"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="838,155,901,211,940,241,981,268,1005,283,1000,282,978,273,937,245,898,215,837,160"/>
+<area shape="rect" id="Node000018" href="$d4/d8e/classWsfMoverMode.html" title=" " alt="" coords="986,109,1100,136"/>
+<area shape="poly" id="edge20_Node000018_Node000004" title=" " alt="" coords="868,128,989,125,983,126,868,133"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="437,128,556,155"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="571,137,773,134,768,135,572,142"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="238,127,321,153"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="336,135,396,135,439,138,434,139,396,140,337,140"/>
+<area shape="rect" id="Node000021" href="$de/dd7/classWsfPlatform.html" title="Platforms represent a entity within the simulation." alt="" coords="449,211,544,237"/>
+<area shape="poly" id="edge22_Node000021_Node000006" title=" " alt="" coords="330,157,462,209,457,211,329,162"/>
+<area shape="rect" id="Node000007" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="198,192,360,219"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="339,185,394,168,449,154,444,156,395,173,341,190"/>
+<area shape="poly" id="edge23_Node000021_Node000007" title=" " alt="" coords="330,221,362,229,396,231,451,229,446,230,396,236,362,234,330,226"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="16,192,128,219"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="143,203,200,204,196,207,144,208"/>
+<area shape="rect" id="Node000009" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="230,251,328,277"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="338,242,369,228,419,195,475,156,479,154,423,199,372,233,340,247"/>
+<area shape="poly" id="edge26_Node000021_Node000009" title=" " alt="" coords="343,250,451,232,446,233,344,255"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="208,64,351,91"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="339,59,369,59,397,68,408,79,411,92,414,103,421,114,440,127,435,127,418,118,409,105,406,93,403,82,394,73,368,64,341,64"/>
+<area shape="poly" id="edge27_Node000021_Node000010" title=" " alt="" coords="338,94,372,113,398,138,422,165,478,210,472,210,418,169,394,141,369,117,338,100"/>
+<area shape="rect" id="Node000011" href="$d3/ddb/classWsfVariable.html" title=" " alt="" coords="420,77,573,104"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="588,99,743,120,773,127,768,127,743,125,588,105"/>
+<area shape="rect" id="Node000012" href="$d4/d43/classWsfVariableBase.html" title=" " alt="" coords="218,5,340,32"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="353,34,397,50,421,63,452,76,446,77,419,68,395,54,353,40"/>
+<area shape="rect" id="Node000013" href="$d6/dad/classwsf_1_1Terrain.html" title=" " alt="" coords="767,283,856,309"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="872,293,987,296,982,296,872,299"/>
+<area shape="rect" id="Node000014" href="$dc/d62/structWsfRotorcraftMover_1_1LocalGuidance.html" title=" " alt="" coords="1177,165,1316,208"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="1332,191,1516,210,1511,210,1332,197"/>
+<area shape="rect" id="Node000015" href="$db/de0/classWsfWaypointPathGuidance.html" title="A derived guidance class used by WsfMovers that follow WsfWaypoints." alt="" coords="1156,232,1337,259"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="1352,243,1490,233,1523,230,1528,230,1491,239,1353,248"/>
+<area shape="rect" id="Node000016" href="$d2/d91/classWsfPathGuidance.html" title=" " alt="" coords="979,232,1107,259"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1122,243,1158,245,1153,245,1122,248"/>
+<area shape="rect" id="Node000017" href="$d3/d40/classWsfRotorcraftMover_1_1RotorcraftMode.html" title="A &#39;mode&#39; of the Rotorcraft Mover." alt="" coords="1177,99,1316,141"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1332,128,1410,143,1491,165,1529,182,1563,203,1558,202,1527,187,1489,171,1409,148,1332,133"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="1115,119,1179,121,1174,121,1115,124"/>
+<area shape="rect" id="Node000019" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="773,31,850,57"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="865,59,1004,109,998,109,865,65"/>
+<area shape="rect" id="Node000020" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="453,27,540,53"/>
+<area shape="poly" id="edge19_Node000019_Node000020" title=" " alt="" coords="555,38,775,43,770,44,556,43"/>
+<area shape="poly" id="edge21_Node000018_Node000021" title=" " alt="" coords="559,218,696,206,776,195,856,180,937,158,1003,137,1009,136,938,163,857,185,777,200,696,211,559,223"/>
+<area shape="rect" id="Node000022" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="188,305,370,332"/>
+<area shape="poly" id="edge24_Node000021_Node000022" title=" " alt="" coords="342,297,369,287,424,261,469,239,474,237,426,266,371,292,343,302"/>
+<area shape="rect" id="Node000023" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="5,305,139,332"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="154,316,190,319,185,319,154,321"/>
+</map>

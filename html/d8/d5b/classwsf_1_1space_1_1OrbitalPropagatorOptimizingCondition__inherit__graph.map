@@ -1,0 +1,27 @@
+<map id="wsf::space::OrbitalPropagatorOptimizingCondition" name="wsf::space::OrbitalPropagatorOptimizingCondition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="379,156,573,199"/>
+<area shape="rect" id="Node000004" href="$d4/d2e/classwsf_1_1space_1_1ApoapsisCondition.html" title="A condition indicating the point at which the propagator reaches apoapsis." alt="" coords="621,5,824,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="503,142,553,90,585,64,620,42,650,31,646,34,623,46,589,68,557,94,506,147"/>
+<area shape="rect" id="Node000005" href="$d5/dbc/classwsf_1_1space_1_1AscendingNodeCondition.html" title="A condition indicating the point at which the propagator passes the equatorial plane traveling northw..." alt="" coords="630,56,815,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="533,147,620,108,655,98,650,100,622,113,536,152"/>
+<area shape="rect" id="Node000006" href="$de/d86/classwsf_1_1space_1_1DescendingNodeCondition.html" title="A condition indicating the point at which the propagator passes the equatorial plane traveling southw..." alt="" coords="626,123,819,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="588,160,628,156,623,158,589,165"/>
+<area shape="rect" id="Node000007" href="$d6/d0b/classwsf_1_1space_1_1IntersectionCondition.html" title=" " alt="" coords="642,189,803,232"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="588,190,644,199,639,200,589,195"/>
+<area shape="rect" id="Node000010" href="$d6/db2/classwsf_1_1space_1_1PeriapsisCondition.html" title="A condition indicating the point at which the propagator reaches periapsis." alt="" coords="621,256,824,283"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="533,203,622,241,662,255,656,255,620,247,533,209"/>
+<area shape="rect" id="Node000011" href="$d9/d80/classwsf_1_1space_1_1RadiusCondition.html" title=" " alt="" coords="628,307,817,333"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="509,207,561,252,591,274,623,292,653,306,647,306,620,297,588,278,557,256,508,212"/>
+<area shape="rect" id="Node000002" href="$d7/dc3/classwsf_1_1space_1_1OrbitalPropagatorCondition.html" title=" " alt="" coords="137,156,331,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="346,175,381,177,376,178,347,180"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,164,89,191"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,175,139,176,134,179,106,180"/>
+<area shape="rect" id="Node000008" href="$d3/d46/classwsf_1_1space_1_1NorthernIntersectionCondition.html" title=" " alt="" coords="873,133,1084,176"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="818,187,880,176,875,177,819,192"/>
+<area shape="rect" id="Node000009" href="$d7/d63/classwsf_1_1space_1_1SouthernIntersectionCondition.html" title=" " alt="" coords="872,200,1085,243"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="818,212,874,217,869,217,819,217"/>
+<area shape="rect" id="Node000012" href="$d9/dd4/classwsf_1_1space_1_1AscendingRadiusCondition.html" title="A condition indicating the point at which the propagator passes a given radius while moving farther f..." alt="" coords="881,288,1076,331"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="833,313,883,313,878,314,833,318"/>
+<area shape="rect" id="Node000013" href="$d7/d21/classwsf_1_1space_1_1DescendingRadiusCondition.html" title="A condition indicating the point at which the propagator passes a given radius while moving closer to..." alt="" coords="877,355,1080,397"/>
+<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="802,335,880,354,875,354,802,340"/>
+</map>

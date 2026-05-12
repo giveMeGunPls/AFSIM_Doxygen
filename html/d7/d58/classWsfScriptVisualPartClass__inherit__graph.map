@@ -1,0 +1,9 @@
+<map id="WsfScriptVisualPartClass" name="WsfScriptVisualPartClass">
+<area shape="rect" id="Node000001" title="Define script methods for visual part." alt="" coords="12,245,185,272"/>
+<area shape="rect" id="Node000002" href="$da/d9f/classWsfScriptArticulatedPartClass.html" title="Define script methods for WsfArticulatedPart." alt="" coords="16,155,181,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,211,101,246,96,244,97,215"/>
+<area shape="rect" id="Node000003" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="5,80,192,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,120,101,155,96,154,97,125"/>
+<area shape="rect" id="Node000004" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="23,5,174,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,45,101,80,96,79,98,50"/>
+</map>

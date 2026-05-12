@@ -1,0 +1,13 @@
+<map id="WsfPlatformPart" name="WsfPlatformPart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="210,155,329,181"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,80,89,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,109,232,152,229,156,99,114"/>
+<area shape="rect" id="Node000003" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="113,80,274,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,115,259,155,254,154,217,120"/>
+<area shape="rect" id="Node000004" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="138,5,250,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="195,46,196,81,191,79,192,50"/>
+<area shape="rect" id="Node000005" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="298,80,396,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="325,117,284,157,282,152,320,118"/>
+<area shape="rect" id="Node000006" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="419,80,563,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="441,112,309,157,308,151,435,112"/>
+</map>

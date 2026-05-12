@@ -1,0 +1,16 @@
+<map id="SOSM_SpectralTable3D.hpp" name="SOSM_SpectralTable3D.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,5,289,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="12,155,65,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,31,52,49,31,63,14,81,9,95,9,110,23,141,17,142,4,111,3,94,10,79,28,59,50,44,101,26"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,80,82,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,35,93,75,90,70,172,30"/>
+<area shape="rect" id="Node000004" href="$d9/d9c/SOSM__SpectralObject_8hpp.html" title=" " alt="" coords="106,80,284,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,30,197,65,192,63,193,35"/>
+<area shape="rect" id="Node000006" href="$d3/db0/SOSM__TableVar_8hpp.html" title=" " alt="" coords="308,80,450,107"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="227,30,335,73,330,75,226,35"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="474,80,580,107"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="253,30,460,76,456,79,253,35"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="169,110,80,150,78,146,166,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="141,155,248,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="197,105,197,140,192,138,193,109"/>
+</map>

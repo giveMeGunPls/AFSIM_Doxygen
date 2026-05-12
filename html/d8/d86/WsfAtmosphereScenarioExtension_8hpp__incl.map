@@ -1,0 +1,14 @@
+<map id="WsfAtmosphereScenarioExtension.hpp" name="WsfAtmosphereScenarioExtension.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,255,32"/>
+<area shape="rect" id="Node000002" href="$df/de8/WsfScenarioExtension_8hpp.html" title=" " alt="" coords="40,80,220,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,30,133,65,127,64,129,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="58,229,154,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,109,104,130,91,155,89,185,96,215,91,214,84,186,86,154,99,127,120,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="101,155,159,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="131,105,133,140,127,138,129,110"/>
+<area shape="rect" id="Node000005" href="$d7/da2/WsfExtension_8hpp.html" title=" " alt="" coords="183,155,312,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="151,105,217,145,212,147,150,110"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="225,181,145,224,143,219,220,182"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="221,229,274,256"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="249,180,250,215,245,212,245,184"/>
+</map>

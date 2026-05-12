@@ -1,0 +1,9 @@
+<map id="WsfSixDOF_Waypoint.hpp" name="WsfSixDOF_Waypoint.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,5,291,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,151,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,32,114,74,111,70,178,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="175,80,229,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,31,204,66,200,63,200,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,80,359,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,30,278,71,273,71,219,35"/>
+</map>

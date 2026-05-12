@@ -1,0 +1,20 @@
+<map id="WsfParseStruct" name="WsfParseStruct">
+<area shape="rect" id="Node000001" title=" " alt="" coords="67,239,181,265"/>
+<area shape="poly" id="edge6_Node000001_Node000001" title=" " alt="" coords="196,244,208,252,199,259,183,261,180,257,197,254,202,252,197,249"/>
+<area shape="rect" id="Node000005" href="$de/d00/classWsfParseValueType.html" title=" " alt="" coords="8,337,147,364"/>
+<area shape="poly" id="edge8_Node000005_Node000001" title=" " alt="" coords="61,276,48,291,45,302,49,313,66,336,61,338,44,316,40,302,44,288,64,271"/>
+<area shape="rect" id="Node000002" href="$d1/d33/classWsfParseNamedRule.html" title=" " alt="" coords="142,143,290,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,183,138,240,134,237,194,179"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="305,146,317,156,309,165,292,169,289,164,306,160,311,156,305,151"/>
+<area shape="rect" id="Node000006" href="$d9/da1/classWsfParseValue.html" title=" " alt="" coords="116,436,228,463"/>
+<area shape="poly" id="edge10_Node000006_Node000002" title=" " alt="" coords="242,177,267,205,285,238,296,273,300,302,297,331,285,365,270,390,249,410,204,438,201,433,246,406,265,386,280,363,292,330,295,302,291,274,280,240,263,208,242,183"/>
+<area shape="rect" id="Node000003" href="$df/d03/classWsfParseRule.html" title=" " alt="" coords="5,15,112,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,49,203,141,198,143,86,54"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="127,17,138,28,130,38,114,41,110,37,128,33,133,28,128,22"/>
+<area shape="rect" id="Node000004" href="$d6/dd5/classWsfParseRuleDictionary.html" title=" " alt="" coords="292,15,457,41"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="345,53,233,144,230,140,349,49"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="110,326,120,312,125,288,126,268,127,263,131,289,125,314,114,329"/>
+<area shape="poly" id="edge12_Node000005_Node000005" title=" " alt="" coords="162,341,173,351,165,359,148,362,146,357,163,354,168,351,162,347"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="70,377,70,396,75,411,93,427,118,440,113,440,91,432,71,413,65,397,67,381"/>
+<area shape="poly" id="edge9_Node000005_Node000006" title=" " alt="" coords="160,421,152,405,141,390,125,377,108,367,108,362,128,372,144,386,157,403,166,422"/>
+</map>

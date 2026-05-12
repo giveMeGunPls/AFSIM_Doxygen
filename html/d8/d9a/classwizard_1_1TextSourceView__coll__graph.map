@@ -1,0 +1,7 @@
+<map id="wizard::TextSourceView" name="wizard::TextSourceView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="46,104,208,131"/>
+<area shape="rect" id="Node000002" href="$d4/dcd/classwizard_1_1Editor.html" title=" " alt="" coords="5,5,107,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,43,100,78,119,104,114,103,96,82,72,47"/>
+<area shape="rect" id="Node000003" href="$d2/d00/classwizard_1_1TextSource.html" title=" " alt="" coords="131,5,264,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,45,170,82,146,106,143,101,166,78,185,48"/>
+</map>

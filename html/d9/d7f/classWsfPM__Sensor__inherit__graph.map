@@ -1,0 +1,9 @@
+<map id="WsfPM_Sensor" name="WsfPM_Sensor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,155,136,181"/>
+<area shape="rect" id="Node000004" href="$dc/dc9/classWsfPM__RadarSensor.html" title=" " alt="" coords="5,229,154,256"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="81,195,82,230,77,228,78,199"/>
+<area shape="rect" id="Node000002" href="$d7/d66/classWsfPM__PlatformPart.html" title=" " alt="" coords="7,80,152,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,120,82,155,77,154,78,125"/>
+<area shape="rect" id="Node000003" href="$dd/d03/classWsfPProxyNode.html" title=" " alt="" coords="20,5,139,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,45,82,80,77,79,79,50"/>
+</map>

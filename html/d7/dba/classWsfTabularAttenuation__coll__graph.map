@@ -1,0 +1,7 @@
+<map id="WsfTabularAttenuation" name="WsfTabularAttenuation">
+<area shape="rect" id="Node000001" title="An attenuation model defined by externally&#45;created tables." alt="" coords="5,155,159,181"/>
+<area shape="rect" id="Node000002" href="$de/d68/classWsfEM__Attenuation.html" title=" " alt="" coords="13,80,151,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,121,85,155,79,153,80,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="40,5,124,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,45,85,80,79,79,81,50"/>
+</map>

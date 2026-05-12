@@ -1,0 +1,9 @@
+<map id="BrawlerEvaluation.hpp" name="BrawlerEvaluation.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,5,326,32"/>
+<area shape="rect" id="Node000002" href="$da/d3c/BrawlerEvaluation_8cpp.html" title=" " alt="" coords="5,80,157,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,39,112,82,110,77,204,38"/>
+<area shape="rect" id="Node000003" href="$d3/d7e/BrawlerPlatform_8cpp.html" title=" " alt="" coords="181,80,320,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,46,253,81,248,78,248,50"/>
+<area shape="rect" id="Node000004" href="$d9/d82/WsfBrawlerProcessor_8cpp.html" title=" " alt="" coords="344,80,517,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="296,36,401,79,396,80,295,41"/>
+</map>

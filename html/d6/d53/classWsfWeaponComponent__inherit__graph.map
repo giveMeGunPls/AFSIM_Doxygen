@@ -1,0 +1,11 @@
+<map id="WsfWeaponComponent" name="WsfWeaponComponent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,155,193,181"/>
+<area shape="rect" id="Node000004" href="$d7/d84/classWsfSimpleComponentT.html" title=" " alt="" coords="21,229,205,272"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,195,116,230,110,228,112,199"/>
+<area shape="rect" id="Node000002" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="5,80,221,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,120,116,155,110,154,112,125"/>
+<area shape="rect" id="Node000003" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="57,5,169,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,45,116,80,110,79,112,50"/>
+<area shape="rect" id="Node000005" href="$d1/d8b/classWsfChaffEjector.html" title=" " alt="" coords="54,320,172,347"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="115,286,115,321,111,318,111,290"/>
+</map>

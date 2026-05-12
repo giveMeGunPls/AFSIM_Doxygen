@@ -1,0 +1,5 @@
+<map id="WsfWeapon::FireOptions" name="WsfWeapon::FireOptions">
+<area shape="rect" id="Node000001" title="Weapon firing options." alt="" coords="11,5,178,32"/>
+<area shape="rect" id="Node000002" href="$d8/d37/classWsfWeapon_1_1SalvoOptions.html" title="Salvoing options." alt="" coords="5,80,184,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,46,97,81,92,79,93,50"/>
+</map>

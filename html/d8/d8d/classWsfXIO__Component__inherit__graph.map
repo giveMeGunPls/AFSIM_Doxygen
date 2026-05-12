@@ -1,0 +1,13 @@
+<map id="WsfXIO_Component" name="WsfXIO_Component">
+<area shape="rect" id="Node000001" title="An component that may be used to extend the XIO simulation components." alt="" coords="107,261,250,288"/>
+<area shape="rect" id="Node000006" href="$db/d53/classWsfXIO__WeaponComponent.html" title=" " alt="" coords="84,336,273,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,302,181,337,176,334,177,306"/>
+<area shape="rect" id="Node000002" href="$d7/d84/classWsfSimpleComponentT.html" title=" " alt="" coords="83,171,274,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,227,181,262,176,260,177,231"/>
+<area shape="rect" id="Node000003" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="5,80,192,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,131,163,170,157,171,127,137"/>
+<area shape="rect" id="Node000004" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="42,5,155,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,45,101,80,96,79,98,50"/>
+<area shape="rect" id="Node000005" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="216,88,304,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="240,124,199,172,195,168,236,128"/>
+</map>

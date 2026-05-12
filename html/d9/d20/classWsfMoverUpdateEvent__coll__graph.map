@@ -1,0 +1,5 @@
+<map id="WsfMoverUpdateEvent" name="WsfMoverUpdateEvent">
+<area shape="rect" id="Node000001" title="An event to force automatic position updates." alt="" coords="5,80,163,107"/>
+<area shape="rect" id="Node000002" href="$d9/d04/classWsfEvent.html" title=" " alt="" coords="44,5,124,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,46,86,81,82,79,82,50"/>
+</map>

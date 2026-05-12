@@ -1,0 +1,15 @@
+<map id="WsfXIO_WeaponInfo" name="WsfXIO_WeaponInfo">
+<area shape="rect" id="Node000001" title="Provides information about a weapon." alt="" coords="134,304,278,331"/>
+<area shape="rect" id="Node000006" href="$d5/df1/classWsfXIO__ExplicitWeaponInfo.html" title="Provides information about a WsfExplicitWeapon." alt="" coords="5,379,193,405"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,339,119,380,116,376,172,340"/>
+<area shape="rect" id="Node000007" href="$d3/d20/classWsfXIO__JammerWeaponInfo.html" title="Provides information about a WsfRF_Jammer." alt="" coords="217,379,408,405"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="238,337,296,378,291,378,236,342"/>
+<area shape="rect" id="Node000002" href="$da/d02/classWsfXIO__ModedPartInfo.html" title="Contains information about a part which contains modes (sensor)." alt="" coords="126,229,286,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,270,208,305,203,302,204,274"/>
+<area shape="rect" id="Node000003" href="$d7/d63/classWsfXIO__ArticulatedPartInfo.html" title="Contains information about an articulated part." alt="" coords="114,155,297,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,195,208,230,203,228,204,200"/>
+<area shape="rect" id="Node000004" href="$d3/d6a/classWsfXIO__PlatformPartInfo.html" title=" " alt="" coords="120,80,291,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,120,208,155,203,154,205,125"/>
+<area shape="rect" id="Node000005" href="$d8/d67/classWsfXIO__ObjectInfo.html" title=" " alt="" coords="138,5,273,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,45,208,80,203,79,205,50"/>
+</map>

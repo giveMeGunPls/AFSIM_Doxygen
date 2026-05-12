@@ -1,0 +1,20 @@
+<map id="usmtf::SectorGeometry" name="usmtf::SectorGeometry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,564,221,591"/>
+<area shape="rect" id="Node000002" href="$d8/d98/classusmtf_1_1RangeValidator.html" title=" " alt="" coords="47,323,197,365"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,380,144,564,138,563,123,382"/>
+<area shape="rect" id="Node000003" href="$d1/d34/classusmtf_1_1FFIRN__Validator.html" title=" " alt="" coords="61,180,220,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,220,127,323,122,322,136,225"/>
+<area shape="rect" id="Node000009" href="$d8/d98/classusmtf_1_1RangeValidator.html" title=" " alt="" coords="163,256,313,299"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="167,214,216,255,211,256,168,219"/>
+<area shape="rect" id="Node000004" href="$d1/d25/classusmtf_1_1Validatable.html" title=" " alt="" coords="13,81,138,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,118,135,179,130,180,93,124"/>
+<area shape="rect" id="Node000005" href="$de/d97/classusmtf_1_1ErrorManager.html" title=" " alt="" coords="5,5,146,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="76,44,78,81,73,81,75,50"/>
+<area shape="rect" id="Node000006" href="$d8/dd7/classusmtf_1_1Field.html" title=" " alt="" coords="162,81,253,108"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="189,123,152,181,147,178,191,119"/>
+<area shape="rect" id="Node000007" href="$d4/dc2/classusmtf_1_1InnerOuterRange.html" title=" " alt="" coords="159,465,320,492"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="219,502,156,566,153,562,214,503"/>
+<area shape="rect" id="Node000008" href="$d3/d5b/classusmtf_1_1Radius.html" title="USMTF Excerpt:" alt="" coords="186,389,290,416"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="240,429,242,466,237,464,237,433"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="240,312,241,390,236,388,237,316"/>
+</map>

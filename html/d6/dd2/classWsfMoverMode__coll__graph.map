@@ -1,0 +1,35 @@
+<map id="WsfMoverMode" name="WsfMoverMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="972,95,1085,121"/>
+<area shape="rect" id="Node000002" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="771,33,848,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="863,59,981,94,976,94,863,64"/>
+<area shape="rect" id="Node000003" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="453,33,540,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="555,44,773,46,768,48,556,49"/>
+<area shape="rect" id="Node000004" href="$d7/d6f/classWsfMover.html" title=" " alt="" coords="769,217,850,244"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="848,207,1000,123,1005,121,850,212"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="437,217,556,244"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="571,228,771,230,766,231,571,233"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="238,115,321,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="336,142,372,163,380,173,385,182,388,190,396,198,416,209,439,220,434,220,413,214,393,202,384,193,380,184,376,176,369,167,335,148"/>
+<area shape="rect" id="Node000013" href="$de/dd7/classWsfPlatform.html" title="Platforms represent a entity within the simulation." alt="" coords="449,89,544,116"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="335,111,394,101,451,101,446,102,395,107,337,117"/>
+<area shape="rect" id="Node000007" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="198,59,360,85"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="348,89,372,100,409,128,442,160,488,218,483,217,438,164,405,132,369,105,348,94"/>
+<area shape="poly" id="edge14_Node000013_Node000007" title=" " alt="" coords="375,80,396,83,451,93,446,95,395,88,376,85"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="16,59,128,85"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="143,70,200,70,196,74,145,74"/>
+<area shape="rect" id="Node000009" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="230,177,328,204"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="323,208,358,221,395,231,439,236,434,237,394,236,356,226,322,213"/>
+<area shape="poly" id="edge17_Node000013_Node000009" title=" " alt="" coords="331,169,369,151,393,135,451,115,446,117,396,140,372,156,333,174"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="208,251,351,277"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="366,267,395,264,431,255,463,245,468,244,433,260,396,269,367,272"/>
+<area shape="poly" id="edge18_Node000013_Node000010" title=" " alt="" coords="323,241,369,214,433,161,480,118,484,115,437,165,372,218,325,246"/>
+<area shape="rect" id="Node000011" href="$d3/ddb/classWsfVariable.html" title=" " alt="" coords="420,292,573,319"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="588,291,664,278,742,257,779,245,784,244,744,263,665,283,589,297"/>
+<area shape="rect" id="Node000012" href="$d4/d43/classWsfVariableBase.html" title=" " alt="" coords="218,305,340,332"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="355,311,416,310,422,310,355,317"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="559,101,974,106,969,109,559,106"/>
+<area shape="rect" id="Node000014" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="188,5,370,32"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="345,35,371,44,421,70,462,88,456,89,419,74,369,49,345,40"/>
+<area shape="rect" id="Node000015" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="5,5,139,32"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="153,16,190,17,185,20,156,21"/>
+</map>

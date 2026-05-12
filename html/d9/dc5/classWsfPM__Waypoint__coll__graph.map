@@ -1,0 +1,7 @@
+<map id="WsfPM_Waypoint" name="WsfPM_Waypoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,132,207"/>
+<area shape="rect" id="Node000002" href="$dd/d03/classWsfPProxyNode.html" title=" " alt="" coords="9,104,128,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,144,71,180,66,179,67,148"/>
+<area shape="rect" id="Node000003" href="$d3/d5b/classWsfPProxyPath.html" title="Represents a path or unique key to a value in the proxy." alt="" coords="11,5,126,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,45,71,104,66,103,67,50"/>
+</map>

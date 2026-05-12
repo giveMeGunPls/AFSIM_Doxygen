@@ -1,0 +1,9 @@
+<map id="BallisticPlatforms.hpp" name="BallisticPlatforms.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,5,252,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,134,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,32,102,73,100,69,156,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="158,80,197,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,31,180,66,175,63,176,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="222,80,275,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,30,228,69,223,69,189,35"/>
+</map>

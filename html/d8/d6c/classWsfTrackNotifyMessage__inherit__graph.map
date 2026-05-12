@@ -1,0 +1,7 @@
+<map id="WsfTrackNotifyMessage" name="WsfTrackNotifyMessage">
+<area shape="rect" id="Node000001" title="A specialization of WsfMessage that is used by the WsfTrackManager to represent state changes of a tr..." alt="" coords="5,155,172,181"/>
+<area shape="rect" id="Node000002" href="$da/dce/classWsfMessage.html" title="A base class for messages sent among simulation communication objects, processors and sensors." alt="" coords="39,80,138,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,121,91,155,86,153,87,124"/>
+<area shape="rect" id="Node000003" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="17,5,160,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,45,91,80,86,79,87,50"/>
+</map>

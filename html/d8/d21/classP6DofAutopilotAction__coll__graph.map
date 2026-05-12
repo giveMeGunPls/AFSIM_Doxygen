@@ -1,0 +1,7 @@
+<map id="P6DofAutopilotAction" name="P6DofAutopilotAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,147,223,173"/>
+<area shape="rect" id="Node000002" href="$d7/db9/classP6DofWaypoint.html" title=" " alt="" coords="5,5,118,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,45,75,84,94,121,106,134,123,146,118,146,103,138,89,124,70,86,63,50"/>
+<area shape="rect" id="Node000003" href="$d6/dd3/structP6DofRoute_1_1sRouteSegment.html" title=" " alt="" coords="141,5,336,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,45,231,86,223,106,212,124,197,138,181,149,179,144,194,134,207,121,218,103,226,84,235,49"/>
+</map>

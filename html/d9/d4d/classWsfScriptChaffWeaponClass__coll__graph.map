@@ -1,0 +1,11 @@
+<map id="WsfScriptChaffWeaponClass" name="WsfScriptChaffWeaponClass">
+<area shape="rect" id="Node000001" title="Define script methods for WsfChaffWeapon." alt="" coords="5,320,197,347"/>
+<area shape="rect" id="Node000002" href="$d3/d15/classWsfScriptWeaponClass.html" title="Define script methods for WsfWeapon." alt="" coords="21,245,181,272"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,286,103,321,99,319,99,290"/>
+<area shape="rect" id="Node000003" href="$da/d9f/classWsfScriptArticulatedPartClass.html" title="Define script methods for WsfArticulatedPart." alt="" coords="18,155,184,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,211,104,245,98,244,100,216"/>
+<area shape="rect" id="Node000004" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="8,80,194,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="102,120,104,155,98,154,100,125"/>
+<area shape="rect" id="Node000005" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="25,5,177,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="102,45,104,80,98,79,100,50"/>
+</map>

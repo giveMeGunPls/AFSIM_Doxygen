@@ -1,0 +1,37 @@
+<map id="WsfWeapon" name="WsfWeapon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="786,144,878,171"/>
+<area shape="rect" id="Node000010" href="$dc/de3/classWsfExplicitWeapon.html" title="A specialization of WsfWeapon for weapons modeled as separate platforms." alt="" coords="926,68,1061,95"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="875,134,961,96,966,95,877,139"/>
+<area shape="rect" id="Node000014" href="$d8/de2/classWsfImplicitWeapon.html" title=" " alt="" coords="926,144,1061,171"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="893,155,929,157,924,157,894,160"/>
+<area shape="rect" id="Node000018" href="$d9/d22/classWsfRF__Jammer.html" title=" " alt="" coords="935,195,1052,221"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="892,173,951,194,946,194,891,178"/>
+<area shape="rect" id="Node000002" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="606,144,738,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="753,155,788,157,783,157,753,160"/>
+<area shape="rect" id="Node000003" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="408,119,526,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="541,138,608,149,603,149,541,144"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="205,43,288,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="303,71,328,79,431,118,426,118,326,84,303,76"/>
+<area shape="rect" id="Node000005" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="166,93,327,120"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="342,115,410,125,404,126,343,120"/>
+<area shape="rect" id="Node000006" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="5,93,118,120"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="132,104,168,106,163,108,134,109"/>
+<area shape="rect" id="Node000007" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="198,144,295,171"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="310,147,410,138,405,139,311,153"/>
+<area shape="rect" id="Node000008" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="175,195,318,221"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="310,187,326,180,374,155,406,147,411,145,376,160,328,185,311,192"/>
+<area shape="rect" id="Node000009" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="375,169,558,196"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="573,167,604,166,609,165,574,172"/>
+<area shape="rect" id="Node000011" href="$db/d89/classWsfChaffWeapon.html" title="A specialization of WsfExplicitWeapon that models a weapon which fires chaff parcels." alt="" coords="1143,5,1266,32"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1050,60,1109,41,1147,33,1152,32,1110,47,1051,65"/>
+<area shape="rect" id="Node000012" href="$dc/dc9/classWsfP6DOF__ExplicitWeapon.html" title=" " alt="" coords="1111,56,1298,83"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1076,74,1113,74,1108,75,1077,79"/>
+<area shape="rect" id="Node000013" href="$de/dcb/classwsf_1_1six__dof_1_1ExplicitWeapon.html" title=" " alt="" coords="1109,107,1300,133"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="1076,94,1131,106,1125,106,1076,99"/>
+<area shape="rect" id="Node000015" href="$d0/d1a/classWsfDirectedEnergyWeapon.html" title=" " alt="" coords="1113,157,1296,184"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="1077,160,1115,165,1110,165,1077,165"/>
+<area shape="rect" id="Node000016" href="$d8/d86/classWsfLaserWeapon.html" title=" " alt="" coords="1348,157,1472,184"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1311,168,1350,171,1345,171,1311,173"/>
+<area shape="rect" id="Node000017" href="$df/df9/classWsfCuedLaserWeapon.html" title=" " alt="" coords="1520,157,1675,184"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1488,168,1522,171,1517,171,1488,173"/>
+</map>

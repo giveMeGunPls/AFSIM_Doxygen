@@ -1,0 +1,19 @@
+<map id="WsfFuelFlow" name="WsfFuelFlow">
+<area shape="rect" id="Node000001" title="Constant flow rate fuel consumption table object." alt="" coords="621,107,719,133"/>
+<area shape="rect" id="Node000002" href="$de/dd7/classWsfPlatform.html" title="Platforms represent a entity within the simulation." alt="" coords="420,107,514,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,117,623,120,618,120,530,123"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="238,5,321,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,28,372,42,418,73,455,107,449,106,415,77,369,46,336,33"/>
+<area shape="rect" id="Node000004" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="198,56,360,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="346,85,422,107,416,108,346,90"/>
+<area shape="rect" id="Node000005" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="16,56,128,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="143,67,200,68,196,71,144,72"/>
+<area shape="rect" id="Node000006" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="188,107,370,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="386,117,422,120,416,120,386,123"/>
+<area shape="rect" id="Node000007" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="5,107,139,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="154,117,190,119,185,121,155,123"/>
+<area shape="rect" id="Node000008" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="230,157,328,184"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="342,151,417,133,422,132,343,156"/>
+<area shape="rect" id="Node000009" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="208,208,351,235"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="356,200,369,194,415,163,449,135,454,133,418,167,372,198,357,205"/>
+</map>

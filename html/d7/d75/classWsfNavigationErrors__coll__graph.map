@@ -1,0 +1,33 @@
+<map id="WsfNavigationErrors" name="WsfNavigationErrors">
+<area shape="rect" id="Node000001" title=" " alt="" coords="856,261,998,288"/>
+<area shape="rect" id="Node000002" href="$d7/d84/classWsfSimpleComponentT.html" title=" " alt="" coords="420,216,621,243"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="636,235,832,256,858,262,853,262,832,261,637,241"/>
+<area shape="rect" id="Node000003" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="198,208,360,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,222,422,225,417,227,376,227"/>
+<area shape="rect" id="Node000007" href="$de/dd7/classWsfPlatform.html" title="Platforms represent a entity within the simulation." alt="" coords="473,132,568,159"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="345,201,370,193,482,158,478,161,371,199,348,206"/>
+<area shape="rect" id="Node000004" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="16,208,128,235"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="142,219,200,220,196,223,145,224"/>
+<area shape="rect" id="Node000005" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="236,259,323,285"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="337,259,443,242,439,245,339,264"/>
+<area shape="rect" id="Node000006" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="429,267,612,293"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="627,276,858,275,853,276,628,281"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="582,156,700,186,833,228,902,261,897,261,831,233,698,191,583,161"/>
+<area shape="rect" id="Node000008" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="238,5,321,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="335,29,371,42,411,63,448,87,505,131,500,132,445,91,408,67,369,46,336,34"/>
+<area shape="rect" id="Node000009" href="$da/d9d/classWsfComponentListT.html" title=" " alt="" coords="188,56,370,83"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="346,85,371,92,483,130,478,132,370,97,347,90"/>
+<area shape="rect" id="Node000010" href="$db/d52/classWsfComponentList.html" title=" " alt="" coords="5,56,139,83"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="153,67,190,68,185,71,156,72"/>
+<area shape="rect" id="Node000011" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="230,107,328,133"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="343,124,475,139,470,142,344,129"/>
+<area shape="rect" id="Node000012" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="208,157,351,184"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="366,159,475,149,471,152,367,164"/>
+<area shape="rect" id="Node000013" href="$d3/ddb/classWsfVariable.html" title=" " alt="" coords="456,321,585,348"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="600,331,711,324,831,305,890,289,896,288,833,311,711,329,601,336"/>
+<area shape="rect" id="Node000014" href="$d4/d43/classWsfVariableBase.html" title=" " alt="" coords="218,325,340,352"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="355,335,458,335,453,337,356,340"/>
+<area shape="rect" id="Node000015" href="$d3/ddb/classWsfVariable.html" title=" " alt="" coords="444,436,597,463"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="325,356,491,435,486,436,324,362"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="557,468,614,498,685,523,723,530,761,530,797,523,831,507,856,485,876,457,892,427,904,394,918,333,923,290,927,287,923,334,909,396,897,429,881,460,860,488,833,512,799,528,761,536,723,535,684,528,612,503,555,474"/>
+</map>

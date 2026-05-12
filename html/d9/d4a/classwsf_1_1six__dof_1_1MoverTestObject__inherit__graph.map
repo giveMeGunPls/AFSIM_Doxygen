@@ -1,0 +1,7 @@
+<map id="wsf::six_dof::MoverTestObject" name="wsf::six_dof::MoverTestObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="116,5,315,32"/>
+<area shape="rect" id="Node000002" href="$d2/d39/classwsf_1_1six__dof_1_1PointMassMoverTestObject.html" title=" " alt="" coords="5,80,204,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,40,134,82,131,77,183,42"/>
+<area shape="rect" id="Node000003" href="$d0/d45/classwsf_1_1six__dof_1_1RigidBodyMoverTestObject.html" title=" " alt="" coords="228,80,424,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="245,39,300,80,295,79,244,44"/>
+</map>

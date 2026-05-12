@@ -1,0 +1,15 @@
+<map id="WsfEW_RPJ_Effect::RPJ_Data" name="WsfEW_RPJ_Effect::RPJ_Data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,517,216,544"/>
+<area shape="rect" id="Node000002" href="$d2/d38/classWsfEW__PulseEffect_1_1PulseData.html" title=" " alt="" coords="36,427,185,469"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,483,113,518,108,516,109,487"/>
+<area shape="rect" id="Node000003" href="$dd/d72/classWsfEW__PowerEffect_1_1PowerData.html" title=" " alt="" coords="34,336,187,379"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="112,392,113,427,108,426,109,397"/>
+<area shape="rect" id="Node000004" href="$dc/d62/classWsfEW__RepeaterEffect_1_1RepeaterEffectData.html" title=" " alt="" coords="30,245,191,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="111,301,113,336,108,335,110,306"/>
+<area shape="rect" id="Node000005" href="$da/d68/classWsfEW__RadiusEffect_1_1RadiusData.html" title=" " alt="" coords="36,155,185,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="111,210,113,245,108,245,110,216"/>
+<area shape="rect" id="Node000006" href="$d8/d45/classWsfEW__Effect_1_1EffectData.html" title="Base effect data used to derive from in inheriting effect classes." alt="" coords="21,80,200,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="111,120,113,155,108,154,110,125"/>
+<area shape="rect" id="Node000007" href="$d6/dcf/classWsfEW__Types_1_1EW__EffectData.html" title=" " alt="" coords="6,5,215,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="111,45,113,80,108,79,110,50"/>
+</map>

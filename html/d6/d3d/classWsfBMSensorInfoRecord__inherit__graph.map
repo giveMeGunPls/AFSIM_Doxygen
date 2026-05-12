@@ -1,0 +1,13 @@
+<map id="WsfBMSensorInfoRecord" name="WsfBMSensorInfoRecord">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,81,307,108"/>
+<area shape="rect" id="Node000003" href="$d6/da0/classWsfBMEWSensorInfoRecord.html" title=" " alt="" coords="360,5,552,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,73,354,41,397,32,392,34,356,47,271,78"/>
+<area shape="rect" id="Node000004" href="$dc/d99/classWsfBMRWRSensorInfoRecord.html" title=" " alt="" coords="355,56,557,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="322,81,357,80,352,81,323,86"/>
+<area shape="rect" id="Node000005" href="$d7/d63/classWsfBMTARSensorInfoRecord.html" title=" " alt="" coords="358,107,554,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="322,103,360,109,355,110,323,108"/>
+<area shape="rect" id="Node000006" href="$de/d6e/classWsfBMTTRSensorInfoRecord.html" title=" " alt="" coords="358,157,554,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="270,111,356,143,398,157,392,157,354,148,269,117"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,81,89,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,92,139,93,134,96,105,97"/>
+</map>

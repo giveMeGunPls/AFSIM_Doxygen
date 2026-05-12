@@ -1,0 +1,9 @@
+<map id="XWsfRoadTraffic::RoadTrafficNetworkInput" name="XWsfRoadTraffic::RoadTrafficNetworkInput">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,272,202,315"/>
+<area shape="rect" id="Node000002" href="$d4/d53/classXWsfRouteNetwork_1_1NetworkInput.html" title=" " alt="" coords="6,180,201,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,236,106,273,101,271,102,240"/>
+<area shape="rect" id="Node000003" href="$d1/d5b/classWsfRouteNetwork.html" title="A collection of WsfRoute object that represents a connected network (such as a road network)." alt="" coords="39,81,168,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,121,106,180,101,179,102,126"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="62,5,145,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,44,106,81,101,81,103,50"/>
+</map>

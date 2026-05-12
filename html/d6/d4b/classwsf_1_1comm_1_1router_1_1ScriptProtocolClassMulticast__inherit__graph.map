@@ -1,0 +1,5 @@
+<map id="wsf::comm::router::ScriptProtocolClassMulticast" name="wsf::comm::router::ScriptProtocolClassMulticast">
+<area shape="rect" id="Node000001" title="Script class for this protocol." alt="" coords="5,96,196,139"/>
+<area shape="rect" id="Node000002" href="$d9/dfa/classwsf_1_1comm_1_1router_1_1ScriptRouterProtocolClass.html" title="Base interface script class." alt="" coords="12,5,189,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,62,103,97,98,95,99,66"/>
+</map>

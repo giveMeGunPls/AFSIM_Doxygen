@@ -1,0 +1,7 @@
+<map id="WsfGroup" name="WsfGroup">
+<area shape="rect" id="Node000001" title="A class to support the concept of &#39;groups&#39; and &#39;group membership&#39;." alt="" coords="75,80,155,107"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,5,89,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,41,106,79,101,80,68,46"/>
+<area shape="rect" id="Node000003" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="113,5,256,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,42,129,82,125,77,159,44"/>
+</map>

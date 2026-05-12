@@ -1,0 +1,27 @@
+<map id="WsfScriptArticulatedPartClass" name="WsfScriptArticulatedPartClass">
+<area shape="rect" id="Node000001" title="Define script methods for WsfArticulatedPart." alt="" coords="439,73,604,116"/>
+<area shape="rect" id="Node000004" href="$d8/db0/classWsfScriptCommClass.html" title="Define script methods for WsfComm." alt="" coords="663,5,815,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="589,65,651,41,686,33,691,32,653,47,591,70"/>
+<area shape="rect" id="Node000005" href="$d9/d64/classWsfScriptSensorClass.html" title="Define script methods for WsfSensor." alt="" coords="662,56,816,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="619,81,664,78,659,79,620,86"/>
+<area shape="rect" id="Node000008" href="$d8/de0/classWsfScriptVisualPartClass.html" title="Define script methods for visual part." alt="" coords="652,107,826,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="620,103,655,110,649,110,620,109"/>
+<area shape="rect" id="Node000009" href="$d3/d15/classWsfScriptWeaponClass.html" title="Define script methods for WsfWeapon." alt="" coords="659,157,819,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="591,120,653,143,691,157,686,157,651,148,590,125"/>
+<area shape="rect" id="Node000002" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="205,81,391,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,92,441,94,436,95,407,97"/>
+<area shape="rect" id="Node000003" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="5,81,157,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="172,92,207,94,202,96,173,97"/>
+<area shape="rect" id="Node000006" href="$d9/df1/classWsfScriptPassiveSensorClass.html" title=" " alt="" coords="874,17,1076,44"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="831,52,892,44,887,45,832,57"/>
+<area shape="rect" id="Node000007" href="$de/d04/classWsfScriptSAR__SensorClass.html" title=" " alt="" coords="880,68,1070,95"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="831,71,883,76,877,77,832,77"/>
+<area shape="rect" id="Node000010" href="$db/d41/classWsfScriptChaffWeaponClass.html" title="Define script methods for WsfChaffWeapon." alt="" coords="879,144,1070,171"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="834,163,882,163,876,163,835,168"/>
+<area shape="rect" id="Node000011" href="$db/da1/classWsfScriptImplicitWeaponClass.html" title="Define script methods for WsfWeapon." alt="" coords="874,195,1076,221"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="834,183,889,194,884,194,834,188"/>
+<area shape="rect" id="Node000012" href="$de/d02/classWsfScriptDirectedEnergyWeaponClass.html" title="Define script methods for WsfDirectedEnergyWeapon." alt="" coords="1124,187,1340,229"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1091,205,1126,208,1121,208,1091,211"/>
+<area shape="rect" id="Node000013" href="$dc/d8c/classWsfScriptLaserWeaponClass.html" title="Define script methods for WsfLaserWeapon." alt="" coords="1388,195,1581,221"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1356,205,1390,208,1385,208,1356,211"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WsfParseSourceProvider" name="WsfParseSourceProvider">
+<area shape="rect" id="Node000001" title="Interface providing source files to the WsfParser." alt="" coords="89,5,258,32"/>
+<area shape="rect" id="Node000002" href="$dc/d1f/classParseSourceProvider.html" title=" " alt="" coords="5,80,150,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,41,95,82,93,77,142,42"/>
+<area shape="rect" id="Node000003" href="$db/d99/classwizard_1_1CacheSourceProvider.html" title="Provides sources to the WsfParser from the TextSourceCache instead of the files directly." alt="" coords="174,80,368,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,39,257,80,251,80,202,44"/>
+</map>

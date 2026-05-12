@@ -1,0 +1,43 @@
+<map id="wsf::space::script::OrbitalManeuver" name="wsf::space::script::OrbitalManeuver">
+<area shape="rect" id="Node000001" title="Same as OrbitalEvent, except named differently, for use with orbital maneuvers." alt="" coords="378,572,503,615"/>
+<area shape="rect" id="Node000004" href="$d2/d41/classwsf_1_1space_1_1script_1_1ChangeEccentricity.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeEccentricity." alt="" coords="585,5,729,48"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="442,556,453,443,474,295,488,221,505,153,526,97,549,58,565,45,587,36,583,40,568,49,553,62,530,99,510,154,493,222,479,296,458,444,447,557"/>
+<area shape="rect" id="Node000005" href="$d4/deb/classwsf_1_1space_1_1script_1_1ChangeInclination.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeInclination." alt="" coords="590,72,724,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="443,556,456,457,478,328,509,206,528,158,549,125,568,110,592,101,588,105,571,115,553,128,533,161,514,208,483,329,462,457,448,558"/>
+<area shape="rect" id="Node000006" href="$d2/d4f/classwsf_1_1space_1_1script_1_1ChangeRAAN.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeRAAN." alt="" coords="594,139,720,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="439,556,442,481,457,384,471,332,490,281,516,234,549,191,570,176,596,167,592,171,572,181,553,195,521,237,495,284,476,334,462,385,447,482,444,558"/>
+<area shape="rect" id="Node000007" href="$d4/de3/classwsf_1_1space_1_1script_1_1ChangeRAAN__Inclination.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeRAAN_Inclination." alt="" coords="568,205,746,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="441,556,448,492,466,413,480,371,498,330,521,292,549,258,569,246,565,250,553,262,525,295,503,333,485,373,471,414,453,493,446,557"/>
+<area shape="rect" id="Node000008" href="$db/d67/classwsf_1_1space_1_1script_1_1ChangeSemiMajorAxis.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeSemiMajorAxis." alt="" coords="576,272,738,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="445,556,455,505,475,443,506,380,526,350,550,325,577,309,573,313,553,329,530,354,510,382,480,445,461,506,450,558"/>
+<area shape="rect" id="Node000009" href="$dc/d12/classwsf_1_1space_1_1script_1_1Circularize.html" title="A scriptable version of WsfOrbitalManeuvers::Circularize." alt="" coords="594,339,720,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="450,556,464,518,485,474,514,429,550,391,570,378,596,370,592,373,573,383,553,395,518,433,490,476,469,520,455,559"/>
+<area shape="rect" id="Node000010" href="$dd/d37/classwsf_1_1space_1_1script_1_1CompoundManeuver.html" title="A scriptable version of WsfOrbitalManeuvers::CompoundManeuver." alt="" coords="582,405,732,448"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="460,557,498,506,522,480,550,458,584,443,580,446,553,462,526,484,502,509,464,560"/>
+<area shape="rect" id="Node000011" href="$d8/df1/classwsf_1_1space_1_1script_1_1DeltaV.html" title="A scriptable version of WsfOrbitalManeuvers::DeltaV." alt="" coords="594,472,720,515"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="484,561,550,524,596,509,592,512,552,529,488,565"/>
+<area shape="rect" id="Node000012" href="$dd/d3e/classwsf_1_1space_1_1script_1_1Drift.html" title=" " alt="" coords="594,539,720,581"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="518,579,596,568,592,571,520,584"/>
+<area shape="rect" id="Node000013" href="$d2/dbe/classwsf_1_1space_1_1script_1_1HohmannTransfer.html" title="A scriptable version of WsfOrbitalManeuvers::HohmannTransfer." alt="" coords="590,605,724,648"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="518,603,592,615,587,617,519,608"/>
+<area shape="rect" id="Node000014" href="$d9/d5d/classwsf_1_1space_1_1script_1_1Intercept.html" title="A scriptable version of WsfOrbitalManeuvers::Intercept." alt="" coords="594,672,720,715"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="486,621,552,658,597,676,591,677,550,662,486,626"/>
+<area shape="rect" id="Node000015" href="$df/d9c/classwsf_1_1space_1_1script_1_1MatchVelocity.html" title="A scriptable version of WsfOrbitalManeuvers::ChangeSemiMajorAxis." alt="" coords="594,739,720,781"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="463,625,502,677,526,703,553,724,597,746,591,747,550,729,522,707,498,681,462,631"/>
+<area shape="rect" id="Node000016" href="$db/d3f/classwsf_1_1space_1_1script_1_1NaturalMotionCircumnavigation.html" title=" " alt="" coords="551,805,763,848"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="453,627,469,667,490,711,518,754,553,791,571,805,566,805,550,795,514,757,485,713,464,669,452,632"/>
+<area shape="rect" id="Node000017" href="$d3/dfc/classwsf_1_1space_1_1script_1_1Normal.html" title="A scriptable version of WsfOrbitalManeuvers::Normal." alt="" coords="594,872,720,915"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="448,628,461,681,480,742,510,804,530,833,553,858,573,872,597,883,591,883,570,876,550,862,526,836,506,807,475,744,455,682,446,633"/>
+<area shape="rect" id="Node000018" href="$d0/d4b/classwsf_1_1space_1_1script_1_1Rendezvous.html" title="A scriptable version of WsfOrbitalManeuvers::Rendezvous." alt="" coords="594,939,720,981"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="444,628,453,693,471,772,485,814,503,854,525,892,553,925,573,939,597,951,591,951,570,943,550,929,521,895,498,856,480,816,466,774,448,694,443,633"/>
+<area shape="rect" id="Node000019" href="$d4/d42/classwsf_1_1space_1_1script_1_1Tangent.html" title="A scriptable version of WsfOrbitalManeuvers::Tangent." alt="" coords="594,1005,720,1048"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="442,627,447,705,462,802,476,853,495,903,521,950,553,991,572,1006,596,1018,591,1018,570,1010,549,995,516,953,490,905,471,854,457,803,442,705,440,632"/>
+<area shape="rect" id="Node000020" href="$df/de2/classwsf_1_1space_1_1script_1_1Target.html" title="A scriptable version of WsfOrbitalManeuvers::Rendezvous." alt="" coords="594,1072,720,1115"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="447,627,462,729,483,857,514,979,533,1026,553,1058,572,1073,597,1085,591,1085,570,1077,549,1062,528,1029,509,981,478,859,456,730,445,632"/>
+<area shape="rect" id="Node000021" href="$dd/dee/classwsf_1_1space_1_1script_1_1Teardrop.html" title="A scriptable version of WsfOrbitalManeuvers::Teardrop." alt="" coords="594,1139,720,1181"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="446,628,458,743,479,891,493,965,510,1032,530,1087,553,1125,572,1140,596,1152,591,1151,569,1144,549,1128,526,1090,505,1034,488,966,474,892,453,743,444,633"/>
+<area shape="rect" id="Node000002" href="$d8/dd8/classwsf_1_1space_1_1script_1_1OrbitalEvent.html" title="A scriptable version of WsfOrbitalEvent." alt="" coords="205,572,330,615"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,591,380,592,376,595,347,596"/>
+<area shape="rect" id="Node000003" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="5,580,157,607"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,591,206,592,202,595,174,596"/>
+</map>

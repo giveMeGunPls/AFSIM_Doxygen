@@ -1,0 +1,7 @@
+<map id="wizard::ParseResultsProxyData" name="wizard::ParseResultsProxyData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,214,32"/>
+<area shape="rect" id="Node000002" href="$d0/dbf/classwizard_1_1ParseResultsTiny.html" title="Defines a subset of parse results which stay valid while computing the new parse results." alt="" coords="24,80,195,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,45,112,80,107,79,108,50"/>
+<area shape="rect" id="Node000003" href="$da/d1c/classwizard_1_1ParseResults.html" title="Provides access to the results of parsing the WSF inputs." alt="" coords="36,155,183,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,121,112,155,107,153,108,124"/>
+</map>

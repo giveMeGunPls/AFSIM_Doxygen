@@ -1,0 +1,7 @@
+<map id="WsfBMTrackScriptCallbackHandler" name="WsfBMTrackScriptCallbackHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,5,321,48"/>
+<area shape="rect" id="Node000002" href="$d8/d67/classWsfBMTrackScriptLocalHandler.html" title=" " alt="" coords="5,96,214,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,56,130,98,127,93,183,58"/>
+<area shape="rect" id="Node000003" href="$d0/d3e/classWsfBMTrackScriptRemoteHandler.html" title=" " alt="" coords="238,96,461,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,54,333,96,328,95,272,60"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="InputEnumeration.hpp" name="InputEnumeration.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,5,176,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,44,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,31,51,71,47,67,86,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,80,136,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,31,104,65,99,63,100,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="161,80,214,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="118,30,164,70,159,70,116,35"/>
+</map>

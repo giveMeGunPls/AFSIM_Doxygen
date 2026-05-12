@@ -1,0 +1,7 @@
+<map id="SOSM_TableTarget::Band" name="SOSM_TableTarget::Band">
+<area shape="rect" id="Node000001" title=" " alt="" coords="98,125,271,152"/>
+<area shape="rect" id="Node000002" href="$d0/d78/classSOSM__SpectralObject.html" title=" " alt="" coords="5,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,42,176,124,171,126,102,46"/>
+<area shape="rect" id="Node000003" href="$db/dff/classSOSM__TableTarget_1_1Component.html" title="A &#39;Component&#39; represents something like a cold_part, hot part or plume." alt="" coords="183,5,392,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,44,197,127,194,123,264,45"/>
+</map>

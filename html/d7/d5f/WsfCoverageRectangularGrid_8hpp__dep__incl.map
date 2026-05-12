@@ -1,0 +1,21 @@
+<map id="WsfCoverageRectangularGrid.hpp" name="WsfCoverageRectangularGrid.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="317,5,538,32"/>
+<area shape="rect" id="Node000002" href="$d9/df4/WsfCoverageDistanceSteppedGrid_8hpp.html" title=" " alt="" coords="107,80,308,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="377,39,265,82,263,77,381,36"/>
+<area shape="rect" id="Node000005" href="$d8/d2d/WsfCoverageLatLonGrid_8hpp.html" title=" " alt="" coords="333,88,522,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="429,45,430,89,425,87,426,50"/>
+<area shape="rect" id="Node000009" href="$dc/d2d/WsfCoverageRectangularGrid_8cpp.html" title=" " alt="" coords="546,88,767,115"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="478,35,623,87,618,88,477,40"/>
+<area shape="rect" id="Node000003" href="$da/da8/WsfCoverageDistanceSteppedGrid_8cpp.html" title=" " alt="" coords="5,171,207,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,135,132,172,128,168,174,131"/>
+<area shape="rect" id="Node000004" href="$d3/d16/WsfCoverageGridTypes_8cpp.html" title=" " alt="" coords="203,261,388,288"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="227,135,292,261,286,261,223,139"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="384,121,351,145,323,172,311,195,304,219,298,262,293,259,298,218,306,193,319,169,347,140,380,123"/>
+<area shape="rect" id="Node000006" href="$dd/d29/WsfCoverageLatLonGrid_8cpp.html" title=" " alt="" coords="333,179,522,205"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="429,128,430,179,425,177,426,132"/>
+<area shape="rect" id="Node000007" href="$d0/daa/WsfCoverageZoneBasedGrid_8hpp.html" title=" " alt="" coords="546,179,762,205"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="474,118,624,178,619,178,473,123"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="585,209,353,263,352,258,580,209"/>
+<area shape="rect" id="Node000008" href="$dc/d15/WsfCoverageZoneBasedGrid_8cpp.html" title=" " alt="" coords="546,261,762,288"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="656,219,656,263,652,259,652,223"/>
+</map>

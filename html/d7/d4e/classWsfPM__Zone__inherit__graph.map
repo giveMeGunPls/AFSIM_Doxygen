@@ -1,0 +1,9 @@
+<map id="WsfPM_Zone" name="WsfPM_Zone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,80,216,107"/>
+<area shape="rect" id="Node000003" href="$d6/d4b/classWsfPM__ZoneDefinition.html" title=" " alt="" coords="5,155,162,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,116,99,156,96,152,137,118"/>
+<area shape="rect" id="Node000004" href="$d9/d87/classWsfPM__ZoneSet.html" title=" " alt="" coords="186,155,307,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,115,235,154,229,154,189,120"/>
+<area shape="rect" id="Node000002" href="$dd/d03/classWsfPProxyNode.html" title=" " alt="" coords="105,5,224,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,46,167,81,162,79,163,50"/>
+</map>

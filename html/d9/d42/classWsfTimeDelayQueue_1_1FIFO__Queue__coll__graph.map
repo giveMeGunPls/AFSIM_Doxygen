@@ -1,0 +1,5 @@
+<map id="WsfTimeDelayQueue::FIFO_Queue" name="WsfTimeDelayQueue::FIFO_Queue">
+<area shape="rect" id="Node000001" title="Adapter class for a First&#45;In, First&#45;Out (FIFO) queue." alt="" coords="5,96,160,139"/>
+<area shape="rect" id="Node000002" href="$da/d4c/classWsfTimeDelayQueue_1_1RequestQueue.html" title="A queue of pending requests that have not been assigned to a server." alt="" coords="5,5,160,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,62,85,97,80,95,81,66"/>
+</map>

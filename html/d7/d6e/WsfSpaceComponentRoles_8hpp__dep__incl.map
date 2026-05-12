@@ -1,0 +1,86 @@
+<map id="WsfSpaceComponentRoles.hpp" name="WsfSpaceComponentRoles.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2340,5,2548,32"/>
+<area shape="rect" id="Node000002" href="$d4/d95/WsfSpaceMoverBase_8hpp.html" title=" " alt="" coords="2358,80,2531,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2446,46,2446,81,2442,78,2443,50"/>
+<area shape="rect" id="Node000003" href="$d2/d55/WsfAttitudeController_8cpp.html" title=" " alt="" coords="5,163,177,189"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2339,95,1904,101,1282,110,652,128,389,141,190,157,145,165,144,160,189,152,388,136,652,123,1282,105,1904,96,2345,95"/>
+<area shape="rect" id="Node000004" href="$d2/d43/WsfAttitudeControllerTypes_8cpp.html" title=" " alt="" coords="201,163,408,189"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="2340,96,1390,115,831,133,597,144,421,157,369,165,367,159,420,152,597,139,830,127,1390,110,2345,95"/>
+<area shape="rect" id="Node000005" href="$de/d30/WsfConstellationMaker_8cpp.html" title=" " alt="" coords="432,163,614,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="2339,96,1485,115,989,133,782,144,626,157,580,165,579,159,625,152,782,139,989,127,1485,110,2344,96"/>
+<area shape="rect" id="Node000006" href="$d9/ddb/WsfEclipseEventManager_8cpp.html" title=" " alt="" coords="638,163,835,189"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="2340,97,1590,119,1161,136,983,146,847,157,798,165,797,159,847,152,982,141,1161,130,1590,113,2345,96"/>
+<area shape="rect" id="Node000007" href="$d1/d8f/WsfEclipseReport_8cpp.html" title=" " alt="" coords="859,163,1011,189"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="2340,97,1673,118,1297,135,1142,145,1023,157,984,165,983,159,1023,152,1141,140,1297,129,1673,112,2345,96"/>
+<area shape="rect" id="Node000008" href="$d4/dbf/WsfInstantAttitudeController_8cpp.html" title=" " alt="" coords="1035,163,1246,189"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="2340,96,2142,103,1873,113,1567,130,1258,157,1206,165,1206,159,1257,152,1567,125,1873,107,2142,97,2345,96"/>
+<area shape="rect" id="Node000009" href="$d6/d34/WsfIntegratingPropagator_8cpp.html" title=" " alt="" coords="1270,163,1464,189"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="2340,97,1961,116,1720,133,1477,157,1429,165,1428,159,1476,152,1719,128,1961,111,2345,97"/>
+<area shape="rect" id="Node000010" href="$da/dc2/WsfIntegratingSpaceMover_8hpp.html" title=" " alt="" coords="1489,163,1693,189"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="2340,101,2058,123,1886,138,1713,157,1662,165,1661,159,1712,152,1885,133,2058,118,2345,100"/>
+<area shape="rect" id="Node000013" href="$da/dd7/WsfScriptOrbitDesigner_8cpp.html" title=" " alt="" coords="1308,253,1492,280"/>
+<area shape="poly" id="edge25_Node000002_Node000013" title=" " alt="" coords="2340,96,2196,103,2026,113,1869,131,1805,143,1757,157,1742,166,1733,177,1723,189,1707,200,1609,225,1465,255,1465,250,1608,220,1705,195,1719,185,1729,174,1739,162,1755,152,1804,137,1868,125,2026,108,2196,98,2345,96"/>
+<area shape="rect" id="Node000015" href="$df/ded/WsfNORAD__SpaceMover_8hpp.html" title=" " alt="" coords="1769,163,1968,189"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="2345,107,1987,157,1941,165,1940,159,1987,152,2340,107"/>
+<area shape="rect" id="Node000017" href="$d3/d70/WsfOrbitalAttitudeChangeEvent_8cpp.html" title=" " alt="" coords="2262,155,2435,197"/>
+<area shape="poly" id="edge17_Node000002_Node000017" title=" " alt="" coords="2420,116,2374,157,2372,152,2415,118"/>
+<area shape="rect" id="Node000018" href="$d4/dcb/WsfOrbitalManeuver_8cpp.html" title=" " alt="" coords="2459,163,2624,189"/>
+<area shape="poly" id="edge18_Node000002_Node000018" title=" " alt="" coords="2472,114,2529,163,2524,162,2470,119"/>
+<area shape="rect" id="Node000019" href="$d8/d38/WsfOrbitalManeuveringTypes_8cpp.html" title=" " alt="" coords="2649,163,2866,189"/>
+<area shape="poly" id="edge19_Node000002_Node000019" title=" " alt="" coords="2509,108,2711,162,2705,162,2508,114"/>
+<area shape="rect" id="Node000020" href="$d0/d8f/WsfOrbitalMissonEventTypes_8cpp.html" title=" " alt="" coords="2891,163,3110,189"/>
+<area shape="poly" id="edge20_Node000002_Node000020" title=" " alt="" coords="2546,105,2879,152,2929,162,2923,162,2879,157,2546,111"/>
+<area shape="rect" id="Node000021" href="$de/dae/WsfOrbitalScriptEvent_8cpp.html" title=" " alt="" coords="3134,163,3310,189"/>
+<area shape="poly" id="edge21_Node000002_Node000021" title=" " alt="" coords="2547,98,2808,117,2965,132,3122,152,3167,162,3162,162,3121,157,2965,138,2808,122,2547,103"/>
+<area shape="rect" id="Node000022" href="$dc/d0e/WsfRateLimitedAttitudeController_8cpp.html" title=" " alt="" coords="3334,163,3576,189"/>
+<area shape="poly" id="edge22_Node000002_Node000022" title=" " alt="" coords="2546,96,2891,116,3106,131,3322,152,3381,162,3375,162,3321,157,3105,137,2890,121,2546,102"/>
+<area shape="rect" id="Node000023" href="$d8/d63/WsfRocketOrbitalManeuvering_8cpp.html" title=" " alt="" coords="3600,163,3824,189"/>
+<area shape="poly" id="edge23_Node000002_Node000023" title=" " alt="" coords="2547,94,2999,109,3292,126,3589,152,3645,162,3640,162,3588,157,3292,132,2999,114,2547,99"/>
+<area shape="rect" id="Node000024" href="$d8/df5/WsfSatelliteBreakupModel_8cpp.html" title=" " alt="" coords="1871,253,2071,280"/>
+<area shape="poly" id="edge24_Node000002_Node000024" title=" " alt="" coords="2345,103,2187,126,2118,140,2070,157,2040,179,2014,206,1979,255,1977,251,2010,202,2036,175,2067,152,2116,135,2187,120,2340,103"/>
+<area shape="rect" id="Node000025" href="$da/d11/WsfScriptSpaceMoverClass_8cpp.html" title=" " alt="" coords="2095,253,2306,280"/>
+<area shape="poly" id="edge26_Node000002_Node000025" title=" " alt="" coords="2339,98,2266,106,2189,116,2124,133,2100,144,2084,156,2078,166,2076,175,2084,196,2098,214,2117,229,2159,253,2154,252,2114,234,2094,218,2079,199,2071,176,2073,164,2080,153,2097,139,2122,128,2188,111,2266,100,2345,97"/>
+<area shape="rect" id="Node000026" href="$d0/d81/WsfScriptedOrbitalDynamicsTerm_8cpp.html" title=" " alt="" coords="3849,155,4040,197"/>
+<area shape="poly" id="edge27_Node000002_Node000026" title=" " alt="" coords="2546,92,2778,93,3098,101,3465,120,3653,134,3837,152,3852,156,3846,156,3836,157,3652,139,3464,125,3098,107,2778,99,2546,97"/>
+<area shape="rect" id="Node000027" href="$d5/daa/WsfSpaceEventResults_8cpp.html" title=" " alt="" coords="4063,163,4250,189"/>
+<area shape="poly" id="edge28_Node000002_Node000027" title=" " alt="" coords="2546,94,3303,113,3735,130,3915,140,4051,152,4101,162,4096,162,4051,157,3914,146,3735,135,3303,118,2546,99"/>
+<area shape="rect" id="Node000028" href="$db/d66/WsfSpaceEventUtils_8cpp.html" title=" " alt="" coords="4274,163,4442,189"/>
+<area shape="poly" id="edge29_Node000002_Node000028" title=" " alt="" coords="2547,93,2908,98,3403,109,3899,126,4105,138,4262,152,4308,162,4302,162,4261,157,4105,143,3899,132,3403,114,2908,104,2547,98"/>
+<area shape="rect" id="Node000029" href="$d6/da2/WsfSpaceKinematicStateExtrapolation_8cpp.html" title=" " alt="" coords="4466,163,4738,189"/>
+<area shape="poly" id="edge30_Node000002_Node000029" title=" " alt="" coords="2547,91,2867,92,3338,99,3890,117,4175,132,4454,152,4522,162,4517,162,4453,157,4175,137,3890,122,3338,104,2867,97,2547,97"/>
+<area shape="rect" id="Node000030" href="$d4/d3e/WsfSpaceMover_8hpp.html" title=" " alt="" coords="2094,163,2237,189"/>
+<area shape="poly" id="edge31_Node000002_Node000030" title=" " alt="" coords="2389,111,2210,165,2209,160,2384,112"/>
+<area shape="rect" id="Node000037" href="$d8/d91/WsfSpaceMoverBase_8cpp.html" title=" " alt="" coords="4762,163,4935,189"/>
+<area shape="poly" id="edge41_Node000002_Node000037" title=" " alt="" coords="2546,92,2993,95,3630,104,4276,122,4546,135,4750,152,4797,162,4792,162,4749,157,4546,141,4276,127,3630,109,2993,101,2547,98"/>
+<area shape="rect" id="Node000038" href="$d0/dad/WsfSpaceOpticalSignature_8cpp.html" title=" " alt="" coords="4959,163,5162,189"/>
+<area shape="poly" id="edge42_Node000002_Node000038" title=" " alt="" coords="2546,92,3026,96,3721,105,4428,123,4724,136,4947,152,5001,162,4996,162,4947,157,4723,141,4428,128,3721,110,3026,101,2546,98"/>
+<area shape="rect" id="Node000039" href="$d6/d8e/WsfSpaceOrbitalMissionSimulationContext_8cpp.html" title=" " alt="" coords="5186,155,5412,197"/>
+<area shape="poly" id="edge43_Node000002_Node000039" title=" " alt="" coords="2546,92,3064,96,3825,105,4602,123,4928,136,5174,152,5188,156,5183,156,5173,157,4928,141,4602,128,3824,110,3064,101,2546,98"/>
+<area shape="rect" id="Node000040" href="$d3/d83/WsfSpaceOrientation_8cpp.html" title=" " alt="" coords="5436,163,5607,189"/>
+<area shape="poly" id="edge44_Node000002_Node000040" title=" " alt="" coords="2547,92,3108,91,3941,97,4381,104,4796,115,5154,131,5425,152,5472,162,5467,162,5424,157,5154,136,4796,121,4381,110,3941,102,3108,97,2547,97"/>
+<area shape="rect" id="Node000011" href="$d9/d27/WsfIntegratingSpaceMover_8cpp.html" title=" " alt="" coords="1080,253,1284,280"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1520,193,1241,255,1240,250,1515,193"/>
+<area shape="rect" id="Node000012" href="$d6/d0f/WsfScriptIntegratingSpaceMover_8cpp.html" title=" " alt="" coords="878,245,1056,288"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1510,192,1477,200,1362,215,1272,223,1182,232,1067,248,1056,250,1056,245,1067,243,1181,227,1271,218,1361,209,1476,195,1505,193"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="1553,196,1428,255,1427,250,1547,197"/>
+<area shape="rect" id="Node000014" href="$df/d26/WsfSpace_8cpp.html" title=" " alt="" coords="1740,253,1847,280"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="1634,193,1767,253,1762,252,1633,198"/>
+<area shape="poly" id="edge16_Node000015_Node000014" title=" " alt="" coords="1850,200,1806,255,1803,250,1845,203"/>
+<area shape="rect" id="Node000016" href="$d6/d8a/WsfNORAD__SpaceMover_8cpp.html" title=" " alt="" coords="1517,253,1716,280"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="1820,195,1653,255,1652,250,1815,195"/>
+<area shape="poly" id="edge37_Node000030_Node000014" title=" " alt="" coords="2090,193,1860,248,1834,255,1833,250,1858,243,2084,193"/>
+<area shape="poly" id="edge34_Node000030_Node000024" title=" " alt="" coords="2127,196,1999,255,1998,250,2122,197"/>
+<area shape="poly" id="edge35_Node000030_Node000025" title=" " alt="" coords="2178,202,2198,254,2193,251,2175,206"/>
+<area shape="rect" id="Node000031" href="$d2/dea/WsfConjunctionInput_8cpp.html" title=" " alt="" coords="2914,253,3082,280"/>
+<area shape="poly" id="edge32_Node000030_Node000031" title=" " alt="" coords="2228,191,2250,195,2349,208,2432,215,2576,220,2719,224,2803,231,2902,243,2946,253,2941,253,2901,248,2803,236,2719,230,2575,226,2432,221,2348,213,2249,200,2228,196"/>
+<area shape="rect" id="Node000032" href="$de/db5/WsfOrbitDeterminationFusion_8cpp.html" title=" " alt="" coords="3106,253,3324,280"/>
+<area shape="poly" id="edge33_Node000030_Node000032" title=" " alt="" coords="2227,191,2250,195,2378,211,2486,219,2671,224,2857,225,2966,231,3094,243,3149,253,3144,253,3093,248,2965,236,2856,231,2671,229,2486,225,2377,216,2249,200,2226,196"/>
+<area shape="rect" id="Node000033" href="$d2/d0f/WsfSimpleOrbitalManeuvering_8cpp.html" title=" " alt="" coords="3348,253,3570,280"/>
+<area shape="poly" id="edge36_Node000030_Node000033" title=" " alt="" coords="2227,191,2250,195,2414,214,2554,223,2677,226,2792,225,3031,224,3171,229,3337,243,3393,253,3388,253,3336,248,3171,234,3031,229,2792,230,2677,232,2554,229,2414,219,2249,200,2226,196"/>
+<area shape="rect" id="Node000034" href="$d8/dd0/WsfSpaceEventPipe_8cpp.html" title=" " alt="" coords="2330,253,2497,280"/>
+<area shape="poly" id="edge38_Node000030_Node000034" title=" " alt="" coords="2216,192,2381,253,2376,252,2215,198"/>
+<area shape="rect" id="Node000035" href="$d2/d12/WsfSpaceMover_8cpp.html" title=" " alt="" coords="2522,253,2665,280"/>
+<area shape="poly" id="edge39_Node000030_Node000035" title=" " alt="" coords="2231,191,2250,195,2380,219,2510,243,2545,253,2540,252,2509,248,2379,224,2249,200,2231,196"/>
+<area shape="rect" id="Node000036" href="$da/d0a/WsfSpaceScriptExtension_8cpp.html" title=" " alt="" coords="2690,253,2889,280"/>
+<area shape="poly" id="edge40_Node000030_Node000036" title=" " alt="" coords="2229,191,2250,195,2370,212,2464,221,2558,228,2678,243,2726,253,2720,252,2677,248,2557,234,2463,226,2369,217,2249,200,2229,196"/>
+</map>

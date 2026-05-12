@@ -1,0 +1,7 @@
+<map id="WsfGrammarCheckExtension" name="WsfGrammarCheckExtension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,201,181"/>
+<area shape="rect" id="Node000002" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="26,80,180,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,121,105,155,101,153,101,124"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="51,5,155,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,45,106,80,100,79,102,50"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="wsf::six_dof::ThrustProducerObject" name="wsf::six_dof::ThrustProducerObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,39,381,81"/>
+<area shape="rect" id="Node000003" href="$dd/d34/classwsf_1_1six__dof_1_1PointMassThrustProducerObject.html" title=" " alt="" coords="429,5,628,48"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,42,431,40,426,41,397,48"/>
+<area shape="rect" id="Node000004" href="$df/dff/classwsf_1_1six__dof_1_1RigidBodyThrustProducerObject.html" title=" " alt="" coords="430,72,627,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="396,72,432,80,427,80,396,78"/>
+<area shape="rect" id="Node000002" href="$de/d1c/classwsf_1_1six__dof_1_1Object.html" title=" " alt="" coords="5,47,144,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,57,194,59,189,61,160,63"/>
+</map>

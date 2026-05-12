@@ -1,0 +1,17 @@
+<map id="wsf::coverage::Grid" name="wsf::coverage::Grid">
+<area shape="rect" id="Node000001" title="The Grid object defines the region over which coverage can be computed." alt="" coords="137,56,272,83"/>
+<area shape="rect" id="Node000003" href="$d3/d09/classwsf_1_1coverage_1_1CompositeGrid.html" title=" " alt="" coords="336,5,535,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,50,374,32,369,33,284,55"/>
+<area shape="rect" id="Node000004" href="$d9/d38/classwsf_1_1coverage_1_1ExistingPlatformGrid.html" title=" " alt="" coords="320,56,551,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="287,67,322,69,317,70,288,72"/>
+<area shape="rect" id="Node000005" href="$d4/d84/classwsf_1_1coverage_1_1RectangularGrid.html" title=" " alt="" coords="333,107,538,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="284,84,374,106,369,106,283,89"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,56,89,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,67,139,68,134,71,105,72"/>
+<area shape="rect" id="Node000006" href="$dc/d60/classwsf_1_1coverage_1_1DistanceSteppedGrid.html" title="A grid that specifies its separation between points as a length across the surface of the Earth." alt="" coords="599,81,835,108"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="553,107,596,106,602,105,554,112"/>
+<area shape="rect" id="Node000007" href="$d5/dd5/classwsf_1_1coverage_1_1LatLonGrid.html" title=" " alt="" coords="630,132,804,159"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="554,128,632,138,627,137,554,133"/>
+<area shape="rect" id="Node000008" href="$d0/d70/classwsf_1_1coverage_1_1ZoneBasedGrid.html" title="This is a regular grid in latitude and longitude bounded by a WsfZone." alt="" coords="883,132,1084,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="819,143,885,145,880,145,819,148"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WsfXIO_ScriptListPkt" name="WsfXIO_ScriptListPkt">
+<area shape="rect" id="Node000001" title="Requests that an application send a list of valid scripts for a given platform or a global script lis..." alt="" coords="5,80,156,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="22,5,139,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,46,83,81,78,79,79,50"/>
+</map>

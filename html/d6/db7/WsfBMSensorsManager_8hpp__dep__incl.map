@@ -1,0 +1,35 @@
+<map id="WsfBMSensorsManager.hpp" name="WsfBMSensorsManager.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1070,5,1258,32"/>
+<area shape="rect" id="Node000002" href="$d0/d2d/ScenarioAnalyzerIADSC2_8cpp.html" title=" " alt="" coords="5,269,203,296"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1052,21,828,30,692,39,552,52,418,71,297,97,245,113,199,131,161,151,133,173,117,195,109,222,106,270,101,268,104,221,112,193,129,169,158,146,197,126,243,108,296,92,417,66,551,47,691,34,827,25,1057,20"/>
+<area shape="rect" id="Node000003" href="$d8/db0/WsfBMSensorsManager_8cpp.html" title=" " alt="" coords="982,88,1170,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1141,42,1091,90,1088,86,1137,44"/>
+<area shape="rect" id="Node000004" href="$db/d7a/WsfBMUtils_8cpp.html" title=" " alt="" coords="1195,88,1312,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1190,40,1242,88,1237,87,1188,45"/>
+<area shape="rect" id="Node000005" href="$d2/de1/WsfDefaultAssetManagerImpl_8cpp.html" title=" " alt="" coords="1336,88,1557,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1223,34,1405,87,1400,87,1223,39"/>
+<area shape="rect" id="Node000006" href="$d1/d33/WsfDefaultSensorsManagerImpl_8cpp.html" title=" " alt="" coords="1582,80,1767,123"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1272,32,1570,77,1584,82,1579,82,1569,83,1272,37"/>
+<area shape="rect" id="Node000007" href="$df/d44/WsfIADSC2ScenarioExtension_8cpp.html" title=" " alt="" coords="952,269,1181,296"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1057,28,1008,50,988,64,972,81,960,106,960,132,967,159,981,185,1019,233,1055,270,1050,268,1015,237,977,188,962,161,954,133,955,105,967,79,985,60,1006,45,1052,30"/>
+<area shape="rect" id="Node000008" href="$dc/d5b/WsfScriptSensorsManagerClass_8cpp.html" title=" " alt="" coords="1791,88,2028,115"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1274,26,1507,47,1780,77,1835,87,1829,87,1780,83,1507,53,1274,31"/>
+<area shape="rect" id="Node000009" href="$db/df3/WsfSimpleSensorsManager_8hpp.html" title=" " alt="" coords="590,88,799,115"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1073,36,769,90,768,85,1078,34"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="750,117,809,140,869,168,898,189,927,211,985,242,1039,269,1034,268,983,247,924,216,895,194,867,173,807,145,750,123"/>
+<area shape="rect" id="Node000010" href="$d5/dab/WsfIADSC2UnclassProcRegistration_8cpp.html" title=" " alt="" coords="226,269,491,296"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="683,127,651,174,630,196,605,216,570,235,531,251,455,271,454,266,530,246,567,231,603,211,626,192,647,170,678,129"/>
+<area shape="rect" id="Node000011" href="$db/d3b/WsfScriptSimpleSensorsManagerClass_8cpp.html" title=" " alt="" coords="142,171,359,213"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="614,119,355,173,354,167,618,117"/>
+<area shape="rect" id="Node000012" href="$df/d43/WsfSensorsManagerFov_8hpp.html" title=" " alt="" coords="667,179,856,205"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="714,125,754,179,749,177,712,130"/>
+<area shape="rect" id="Node000015" href="$df/d03/WsfSimpleSensorsManager_8cpp.html" title=" " alt="" coords="384,179,592,205"/>
+<area shape="poly" id="edge18_Node000009_Node000015" title=" " alt="" coords="654,120,518,181,517,176,649,122"/>
+<area shape="poly" id="edge13_Node000012_Node000002" title=" " alt="" coords="648,208,604,216,409,238,215,264,171,271,170,266,214,259,409,233,604,211,654,207"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="820,208,1026,269,1020,269,819,213"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="692,209,417,271,416,266,686,209"/>
+<area shape="rect" id="Node000013" href="$dd/de8/WsfScriptSensorsManagerFovClass_8cpp.html" title=" " alt="" coords="515,261,714,304"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="730,213,650,263,648,258,725,214"/>
+<area shape="rect" id="Node000014" href="$d3/db8/WsfSensorsManagerFov_8cpp.html" title=" " alt="" coords="739,269,928,296"/>
+<area shape="poly" id="edge17_Node000012_Node000014" title=" " alt="" coords="782,215,826,270,821,268,780,220"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WsfPathList::RotationArcSegment" name="WsfPathList::RotationArcSegment">
+<area shape="rect" id="Node000001" title="Represents a rotation around an axis, using constant speed / altitude." alt="" coords="92,80,262,123"/>
+<area shape="rect" id="Node000002" href="$d1/dcd/classWsfPathList_1_1Segment.html" title="Defines an entity&#39;s segment from one state to another over time." alt="" coords="5,5,159,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,40,155,79,150,80,108,45"/>
+<area shape="rect" id="Node000003" href="$db/d0e/classWsfPathList_1_1RotationData.html" title="Contains data about a rotation." alt="" coords="182,5,360,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,41,202,82,200,77,242,43"/>
+</map>

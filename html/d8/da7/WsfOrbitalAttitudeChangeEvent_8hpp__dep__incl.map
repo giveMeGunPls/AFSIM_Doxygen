@@ -1,0 +1,20 @@
+<map id="WsfOrbitalAttitudeChangeEvent.hpp" name="WsfOrbitalAttitudeChangeEvent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="399,5,572,48"/>
+<area shape="rect" id="Node000002" href="$d3/d70/WsfOrbitalAttitudeChangeEvent_8cpp.html" title=" " alt="" coords="5,171,179,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,55,301,98,136,173,134,168,299,94,414,53"/>
+<area shape="rect" id="Node000003" href="$df/d61/WsfOrbitalEventVisitor_8hpp.html" title=" " alt="" coords="312,96,491,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="455,58,416,98,413,93,451,60"/>
+<area shape="rect" id="Node000008" href="$df/d26/WsfSpace_8cpp.html" title=" " alt="" coords="516,96,623,123"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="519,56,559,96,554,95,517,61"/>
+<area shape="rect" id="Node000009" href="$d3/d2f/WsfSpaceScriptOrbitalManeuvers_8cpp.html" title=" " alt="" coords="648,96,891,123"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="573,50,727,95,722,96,573,55"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="338,130,172,173,171,167,339,124"/>
+<area shape="rect" id="Node000004" href="$de/d64/WsfOrbitalEventVisitor_8cpp.html" title=" " alt="" coords="202,179,382,205"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="375,131,310,181,308,176,369,133"/>
+<area shape="rect" id="Node000005" href="$d9/d47/WsfOrbitalMissionSequence_8cpp.html" title=" " alt="" coords="406,179,618,205"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="432,130,497,179,492,178,430,135"/>
+<area shape="rect" id="Node000006" href="$de/dae/WsfOrbitalScriptEvent_8cpp.html" title=" " alt="" coords="641,179,818,205"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="468,124,680,178,675,178,467,129"/>
+<area shape="rect" id="Node000007" href="$dd/d64/WsfOrbitalStagingEvent_8cpp.html" title=" " alt="" coords="842,179,1028,205"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="507,121,830,168,873,178,868,178,829,173,506,127"/>
+</map>

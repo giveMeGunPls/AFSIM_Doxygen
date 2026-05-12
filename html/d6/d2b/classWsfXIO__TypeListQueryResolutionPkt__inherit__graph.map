@@ -1,0 +1,7 @@
+<map id="WsfXIO_TypeListQueryResolutionPkt" name="WsfXIO_TypeListQueryResolutionPkt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,247,181"/>
+<area shape="rect" id="Node000002" href="$d1/dbc/classWsfXIO__QueryResolutionPkt.html" title="Query response for simple or failed queries." alt="" coords="30,80,222,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,121,128,155,124,153,124,124"/>
+<area shape="rect" id="Node000003" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="68,5,184,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,46,129,80,123,79,125,50"/>
+</map>

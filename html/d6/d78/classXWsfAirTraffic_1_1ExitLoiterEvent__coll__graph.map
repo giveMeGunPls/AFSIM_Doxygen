@@ -1,0 +1,5 @@
+<map id="XWsfAirTraffic::ExitLoiterEvent" name="XWsfAirTraffic::ExitLoiterEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,175,123"/>
+<area shape="rect" id="Node000002" href="$d9/d04/classWsfEvent.html" title=" " alt="" coords="50,5,130,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,46,93,81,87,79,88,50"/>
+</map>

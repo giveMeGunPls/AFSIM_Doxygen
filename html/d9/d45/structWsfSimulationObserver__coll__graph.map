@@ -1,0 +1,5 @@
+<map id="WsfSimulationObserver" name="WsfSimulationObserver">
+<area shape="rect" id="Node000001" title=" " alt="" coords="28,104,188,131"/>
+<area shape="rect" id="Node000002" href="$da/db5/classWsfObserver_1_1InitializeCallback.html" title="A special callback list used in WsfObserver::Initialize." alt="" coords="5,5,211,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,46,111,105,105,103,106,49"/>
+</map>

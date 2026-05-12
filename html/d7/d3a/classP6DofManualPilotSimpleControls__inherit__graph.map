@@ -1,0 +1,9 @@
+<map id="P6DofManualPilotSimpleControls" name="P6DofManualPilotSimpleControls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,221,256"/>
+<area shape="rect" id="Node000002" href="$de/d90/classP6DofManualPilot.html" title=" " alt="" coords="50,155,176,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,195,115,230,111,228,111,199"/>
+<area shape="rect" id="Node000003" href="$d7/d99/classP6DofPilotObject.html" title=" " alt="" coords="52,80,174,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="114,120,116,155,110,154,112,125"/>
+<area shape="rect" id="Node000004" href="$d6/d35/classP6DofObject.html" title=" " alt="" coords="65,5,161,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,45,116,80,110,79,112,50"/>
+</map>

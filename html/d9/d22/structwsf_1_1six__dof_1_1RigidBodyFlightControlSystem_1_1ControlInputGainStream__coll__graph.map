@@ -1,0 +1,5 @@
+<map id="wsf::six_dof::RigidBodyFlightControlSystem::ControlInputGainStream" name="wsf::six_dof::RigidBodyFlightControlSystem::ControlInputGainStream">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,120,262,163"/>
+<area shape="rect" id="Node000002" href="$d9/dfc/structwsf_1_1six__dof_1_1RigidBodyFlightControlSystem_1_1ControlInputValue.html" title=" " alt="" coords="24,5,243,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,62,136,120,131,119,132,65"/>
+</map>

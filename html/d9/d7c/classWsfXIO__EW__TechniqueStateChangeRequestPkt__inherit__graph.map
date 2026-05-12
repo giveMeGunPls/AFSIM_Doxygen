@@ -1,0 +1,5 @@
+<map id="WsfXIO_EW_TechniqueStateChangeRequestPkt" name="WsfXIO_EW_TechniqueStateChangeRequestPkt">
+<area shape="rect" id="Node000001" title="Requests an application to turn on or off an EA/EP technique." alt="" coords="5,80,200,123"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="44,5,161,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,46,105,81,100,79,101,50"/>
+</map>

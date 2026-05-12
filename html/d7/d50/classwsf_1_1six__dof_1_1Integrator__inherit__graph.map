@@ -1,0 +1,7 @@
+<map id="wsf::six_dof::Integrator" name="wsf::six_dof::Integrator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="156,5,312,32"/>
+<area shape="rect" id="Node000002" href="$d1/d99/classwsf_1_1six__dof_1_1PointMassIntegrator.html" title=" " alt="" coords="5,80,223,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,40,136,82,134,77,198,41"/>
+<area shape="rect" id="Node000003" href="$d2/d80/classwsf_1_1six__dof_1_1RigidBodyIntegrator.html" title=" " alt="" coords="246,80,462,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,38,336,79,330,79,267,43"/>
+</map>

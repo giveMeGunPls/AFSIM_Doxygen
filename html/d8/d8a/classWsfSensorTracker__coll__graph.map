@@ -1,0 +1,32 @@
+<map id="WsfSensorTracker" name="WsfSensorTracker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="270,453,400,480"/>
+<area shape="rect" id="Node000014" href="$d1/d72/classWsfSensorScheduler.html" title=" " alt="" coords="276,552,420,579"/>
+<area shape="poly" id="edge16_Node000014_Node000001" title=" " alt="" coords="341,493,349,553,344,550,337,497"/>
+<area shape="rect" id="Node000002" href="$d0/d47/classWsfSensor.html" title=" " alt="" coords="348,355,434,381"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,390,355,407,345,431,339,455,335,451,339,429,350,404,361,394"/>
+<area shape="poly" id="edge15_Node000014_Node000002" title=" " alt="" coords="422,390,432,404,443,425,452,451,451,485,444,506,430,530,417,544,400,554,398,549,414,540,426,526,439,504,446,484,447,452,438,427,427,407,420,395"/>
+<area shape="rect" id="Node000003" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="251,256,382,283"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="336,293,384,354,379,354,335,298"/>
+<area shape="rect" id="Node000004" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="257,157,376,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="317,197,319,257,314,255,315,202"/>
+<area shape="rect" id="Node000005" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="139,5,222,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="189,44,206,76,226,106,258,134,293,156,288,157,255,138,222,110,201,79,189,49"/>
+<area shape="rect" id="Node000012" href="$d0/dc6/classWsfUncloneableObject.html" title="An object that does not support Clone." alt="" coords="5,81,161,108"/>
+<area shape="poly" id="edge12_Node000012_Node000005" title=" " alt="" coords="150,44,101,83,97,80,153,39"/>
+<area shape="rect" id="Node000006" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="236,81,397,108"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="317,121,319,158,314,156,315,126"/>
+<area shape="rect" id="Node000007" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="260,5,372,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="317,45,319,82,314,80,316,50"/>
+<area shape="rect" id="Node000008" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="421,81,518,108"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="428,117,344,159,341,155,432,113"/>
+<area shape="rect" id="Node000009" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="542,81,685,108"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="546,114,368,159,366,154,550,111"/>
+<area shape="rect" id="Node000010" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="399,157,583,184"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="453,194,341,258,338,253,457,190"/>
+<area shape="rect" id="Node000011" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="76,157,212,184"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="156,195,170,215,186,230,217,247,253,259,248,261,215,252,182,234,166,218,156,201"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="102,117,137,156,131,158,103,122"/>
+<area shape="rect" id="Node000013" href="$dd/db4/classWsfCategoryList.html" title="Contains the &#39;categories&#39; to which an object belongs." alt="" coords="406,256,525,283"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="449,293,402,356,399,352,445,297"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="259,554,240,546,223,529,218,512,227,497,245,486,272,480,267,482,248,491,231,501,223,513,227,527,243,541,264,554"/>
+</map>

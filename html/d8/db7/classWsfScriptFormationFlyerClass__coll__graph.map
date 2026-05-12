@@ -1,0 +1,9 @@
+<map id="WsfScriptFormationFlyerClass" name="WsfScriptFormationFlyerClass">
+<area shape="rect" id="Node000001" title="The script interface &#39;class&#39; for WsfFormationFlyer." alt="" coords="5,229,206,256"/>
+<area shape="rect" id="Node000002" href="$de/d81/classWsfScriptMoverClass.html" title="Define script methods for WsfMover." alt="" coords="31,155,180,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,195,108,230,103,228,104,199"/>
+<area shape="rect" id="Node000003" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="12,80,199,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,120,108,155,103,154,104,125"/>
+<area shape="rect" id="Node000004" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="30,5,181,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,45,108,80,103,79,105,50"/>
+</map>

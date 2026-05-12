@@ -1,0 +1,9 @@
+<map id="WsfTaskManager::EventBase" name="WsfTaskManager::EventBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="133,80,328,107"/>
+<area shape="rect" id="Node000003" href="$d8/d3b/classWsfTaskManager_1_1TaskCompleteEvent.html" title="A event for scheduling the completion of a task." alt="" coords="5,155,221,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,115,144,156,142,152,197,116"/>
+<area shape="rect" id="Node000004" href="$de/d4c/classWsfTaskManager_1_1TrackUpdateEvent.html" title="A event for sending track updates to assignees." alt="" coords="244,155,451,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,113,320,154,315,154,260,118"/>
+<area shape="rect" id="Node000002" href="$d9/d04/classWsfEvent.html" title=" " alt="" coords="191,5,270,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,46,233,81,228,78,229,50"/>
+</map>
