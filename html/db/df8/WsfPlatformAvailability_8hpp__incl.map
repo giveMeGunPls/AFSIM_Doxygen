@@ -1,0 +1,18 @@
+<map id="WsfPlatformAvailability.hpp" name="WsfPlatformAvailability.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="27,5,208,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,102,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,35,69,54,48,81,43,110,47,140,41,140,37,110,43,79,65,50,95,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="57,80,103,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,30,96,68,91,65,109,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="128,80,185,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,30,145,66,140,66,123,35"/>
+<area shape="rect" id="Node000005" href="$d6/d11/WsfStringId_8hpp.html" title=" " alt="" coords="209,80,324,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="144,30,229,72,224,74,143,35"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="231,110,106,152,104,147,229,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="157,155,216,181"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="255,106,213,147,210,142,250,108"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="240,155,294,181"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="269,105,269,141,265,138,265,109"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="318,155,424,181"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="286,105,343,146,338,145,284,110"/>
+</map>

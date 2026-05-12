@@ -1,0 +1,5 @@
+<map id="WsfPathList::Segment" name="WsfPathList::Segment">
+<area shape="rect" id="Node000001" title="Defines an entity&#39;s segment from one state to another over time." alt="" coords="5,104,159,131"/>
+<area shape="rect" id="Node000002" href="$da/d59/structWsfPathState.html" title=" " alt="" coords="30,5,134,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="84,46,85,104,79,103,80,49"/>
+</map>

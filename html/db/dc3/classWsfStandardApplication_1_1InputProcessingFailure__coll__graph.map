@@ -1,0 +1,5 @@
+<map id="WsfStandardApplication::InputProcessingFailure" name="WsfStandardApplication::InputProcessingFailure">
+<area shape="rect" id="Node000001" title="An exception that is thrown when a command line argument cannot be parsed." alt="" coords="12,80,174,123"/>
+<area shape="rect" id="Node000002" href="$d3/de1/classWsfApplication_1_1Exception.html" title="An application exception." alt="" coords="5,5,181,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,46,96,81,90,79,91,50"/>
+</map>

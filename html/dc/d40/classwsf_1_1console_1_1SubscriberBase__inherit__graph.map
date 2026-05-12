@@ -1,0 +1,7 @@
+<map id="wsf::console::SubscriberBase" name="wsf::console::SubscriberBase">
+<area shape="rect" id="Node000001" title="Contains the logic for formatting a message for file or for console." alt="" coords="126,5,322,32"/>
+<area shape="rect" id="Node000002" href="$d4/d04/classwsf_1_1console_1_1ConsoleSubscriber.html" title="Writes received messages to stdout." alt="" coords="5,80,219,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,40,133,82,130,77,189,41"/>
+<area shape="rect" id="Node000003" href="$dd/d7a/classwsf_1_1console_1_1FileSubscriber.html" title="Writes received messages to file on disk." alt="" coords="243,80,429,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,38,319,79,314,79,255,43"/>
+</map>

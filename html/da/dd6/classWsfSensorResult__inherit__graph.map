@@ -1,0 +1,9 @@
+<map id="WsfSensorResult" name="WsfSensorResult">
+<area shape="rect" id="Node000001" title=" " alt="" coords="138,80,262,107"/>
+<area shape="rect" id="Node000003" href="$dd/d99/classWsfLADAR__Sensor_1_1LADAR__Result.html" title=" " alt="" coords="5,155,197,197"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,116,128,156,125,152,170,118"/>
+<area shape="rect" id="Node000004" href="$db/d65/classWsfLocalSensorResult.html" title=" " alt="" coords="221,163,376,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,114,286,163,281,162,226,119"/>
+<area shape="rect" id="Node000002" href="$d6/d59/classWsfEM__Interaction.html" title=" " alt="" coords="133,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,46,202,81,197,79,198,50"/>
+</map>

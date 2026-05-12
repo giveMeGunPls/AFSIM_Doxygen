@@ -1,0 +1,47 @@
+<map id="UsCtx.hpp" name="UsCtx.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,283,32"/>
+<area shape="rect" id="Node000002" href="$de/d37/EditAssist_8hpp.html" title=" " alt="" coords="5,155,112,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,45,76,156,72,152,214,39"/>
+<area shape="rect" id="Node000007" href="$d1/d28/wizard_2lib_2source_2Us_2Parser_8h.html" title=" " alt="" coords="234,80,304,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="252,44,267,80,262,79,251,49"/>
+<area shape="rect" id="Node000009" href="$d9/ddf/UsCtx_8cpp.html" title=" " alt="" coords="136,155,221,181"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="232,44,186,155,181,153,228,48"/>
+<area shape="rect" id="Node000011" href="$de/dbe/WsfScriptData_8hpp.html" title=" " alt="" coords="635,80,767,107"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="299,26,637,80,633,83,299,32"/>
+<area shape="rect" id="Node000003" href="$d2/dbc/AutoCompletePopup_8cpp.html" title=" " alt="" coords="477,304,643,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,181,204,200,285,227,310,240,336,254,420,281,500,303,495,303,418,286,333,258,308,245,283,232,202,205,127,186"/>
+<area shape="rect" id="Node000004" href="$d6/dbe/EditAssist_8cpp.html" title=" " alt="" coords="347,229,453,256"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="127,181,348,228,345,232,127,186"/>
+<area shape="rect" id="Node000005" href="$d2/d98/ViewTypeSummaryAction_8cpp.html" title=" " alt="" coords="75,229,271,256"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="92,187,155,228,151,230,91,193"/>
+<area shape="rect" id="Node000006" href="$d6/d8f/WsfEditor_8cpp.html" title=" " alt="" coords="166,304,271,331"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="53,194,55,227,58,241,65,254,85,275,111,291,139,301,168,310,163,311,137,306,109,295,82,280,60,258,53,243,49,227,52,199"/>
+<area shape="rect" id="Node000008" href="$d2/d6a/wizard_2lib_2source_2Us_2Parser_8cpp.html" title=" " alt="" coords="244,155,329,181"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="277,120,286,155,281,153,275,125"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="240,118,196,156,192,152,244,115"/>
+<area shape="rect" id="Node000010" href="$d7/d84/WsfScriptData_8cpp.html" title=" " alt="" coords="352,155,485,181"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="309,111,395,153,390,155,309,117"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="635,112,469,157,467,151,640,110"/>
+<area shape="rect" id="Node000012" href="$db/d70/ParseResults_8cpp.html" title=" " alt="" coords="1070,155,1196,181"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="783,106,1073,156,1067,157,783,111"/>
+<area shape="rect" id="Node000013" href="$d6/dc6/ParseWorker_8cpp.html" title=" " alt="" coords="508,155,630,181"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="668,113,593,156,591,152,663,115"/>
+<area shape="rect" id="Node000014" href="$d1/dac/WsfExe_8cpp.html" title=" " alt="" coords="654,155,748,181"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="703,120,703,156,699,153,699,125"/>
+<area shape="rect" id="Node000015" href="$d9/de3/WsfScriptLookup_8hpp.html" title=" " alt="" coords="900,155,1046,181"/>
+<area shape="poly" id="edge16_Node000011_Node000015" title=" " alt="" coords="763,108,928,154,923,154,763,114"/>
+<area shape="rect" id="Node000020" href="$d3/d59/WsfStyler_8cpp.html" title=" " alt="" coords="772,155,876,181"/>
+<area shape="poly" id="edge25_Node000011_Node000020" title=" " alt="" coords="736,112,805,154,800,154,735,118"/>
+<area shape="poly" id="edge17_Node000015_Node000003" title=" " alt="" coords="956,192,921,228,877,258,819,282,758,298,698,309,644,315,643,310,697,304,756,293,817,277,875,254,918,224,951,194"/>
+<area shape="poly" id="edge22_Node000015_Node000004" title=" " alt="" coords="882,182,673,207,466,232,454,234,453,229,465,227,673,201,887,181"/>
+<area shape="rect" id="Node000016" href="$d5/d92/AutoCompletePopup_8hpp.html" title=" " alt="" coords="477,229,643,256"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="888,184,633,231,632,226,883,185"/>
+<area shape="rect" id="Node000017" href="$dc/d93/DocumentationInterpretter_8cpp.html" title=" " alt="" coords="666,229,864,256"/>
+<area shape="poly" id="edge21_Node000015_Node000017" title=" " alt="" coords="925,186,802,231,801,226,920,187"/>
+<area shape="rect" id="Node000018" href="$d3/d90/SyntaxTips_8cpp.html" title=" " alt="" coords="938,229,1051,256"/>
+<area shape="poly" id="edge23_Node000015_Node000018" title=" " alt="" coords="983,194,993,230,989,228,980,199"/>
+<area shape="rect" id="Node000019" href="$dc/d0e/WsfScriptLookup_8cpp.html" title=" " alt="" coords="1075,229,1221,256"/>
+<area shape="poly" id="edge24_Node000015_Node000019" title=" " alt="" coords="1018,185,1120,229,1115,228,1017,190"/>
+<area shape="poly" id="edge19_Node000016_Node000003" title=" " alt="" coords="562,270,562,305,558,302,558,274"/>
+<area shape="poly" id="edge20_Node000016_Node000006" title=" " alt="" coords="488,260,271,308,270,302,482,260"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="FindInFilesDialog.hpp" name="FindInFilesDialog.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="152,5,300,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,74,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,35,87,76,85,71,193,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,80,205,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,32,177,72,174,67,211,34"/>
+<area shape="rect" id="Node000004" href="$d3/d7b/FindTextRequest_8hpp.html" title=" " alt="" coords="228,80,374,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,30,280,70,275,69,238,35"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="398,80,548,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="270,30,418,74,412,76,269,35"/>
+</map>

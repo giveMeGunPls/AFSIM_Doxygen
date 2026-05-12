@@ -1,0 +1,23 @@
+<map id="WsfGroundMover" name="WsfGroundMover">
+<area shape="rect" id="Node000001" title="WsfGroundMover is a specialization of WsfWaypointMover for ground vehicles." alt="" coords="208,453,331,480"/>
+<area shape="rect" id="Node000011" href="$df/d97/classWsfRoadMover.html" title=" " alt="" coords="214,528,326,555"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="272,494,272,529,267,526,268,498"/>
+<area shape="rect" id="Node000002" href="$de/df6/classWsfWaypointMover.html" title=" " alt="" coords="202,379,337,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,419,272,454,267,452,268,423"/>
+<area shape="rect" id="Node000003" href="$d9/de5/classWsfRouteMover.html" title=" " alt="" coords="212,304,328,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="271,344,272,379,267,377,268,349"/>
+<area shape="rect" id="Node000004" href="$d7/d6f/classWsfMover.html" title=" " alt="" coords="229,229,310,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="271,269,272,305,267,303,269,274"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="210,155,329,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="271,195,272,230,267,228,269,200"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,80,89,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="99,109,233,152,228,156,101,114"/>
+<area shape="rect" id="Node000007" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="113,80,274,107"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="218,115,259,154,254,155,218,120"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="138,5,250,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="194,45,196,80,191,79,193,50"/>
+<area shape="rect" id="Node000009" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="298,80,396,107"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="321,120,285,156,281,152,324,115"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="419,80,563,107"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="436,114,310,156,307,152,440,110"/>
+</map>

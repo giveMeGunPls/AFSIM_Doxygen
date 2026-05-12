@@ -1,0 +1,21 @@
+<map id="WsfARGO8_Mover" name="WsfARGO8_Mover">
+<area shape="rect" id="Node000001" title=" " alt="" coords="429,332,564,359"/>
+<area shape="rect" id="Node000002" href="$d7/d6f/classWsfMover.html" title=" " alt="" coords="456,256,537,283"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="498,296,498,333,494,330,494,300"/>
+<area shape="rect" id="Node000003" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="288,157,406,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="380,190,479,255,474,256,378,195"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,81,89,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,107,297,155,294,159,104,112"/>
+<area shape="rect" id="Node000005" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="113,81,274,108"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="234,112,324,156,318,158,233,118"/>
+<area shape="rect" id="Node000006" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="138,5,250,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="195,45,196,82,191,80,193,50"/>
+<area shape="rect" id="Node000007" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="298,81,396,108"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="348,121,349,158,345,156,346,125"/>
+<area shape="rect" id="Node000008" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="419,81,563,108"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="451,117,373,159,370,154,455,114"/>
+<area shape="rect" id="Node000009" href="$d3/ddb/classWsfVariable.html" title=" " alt="" coords="538,157,692,184"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="590,193,513,258,511,253,585,195"/>
+<area shape="rect" id="Node000010" href="$d4/d43/classWsfVariableBase.html" title=" " alt="" coords="586,81,708,108"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="638,120,622,159,619,155,634,124"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="wsf::space::script::ChangeRAAN_Inclination" name="wsf::space::script::ChangeRAAN_Inclination">
+<area shape="rect" id="Node000001" title="A scriptable version of WsfOrbitalManeuvers::ChangeRAAN_Inclination." alt="" coords="5,261,184,304"/>
+<area shape="rect" id="Node000002" href="$d9/d1c/classwsf_1_1space_1_1script_1_1OrbitalManeuver.html" title="Same as OrbitalEvent, except named differently, for use with orbital maneuvers." alt="" coords="32,171,157,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,227,97,262,92,260,93,231"/>
+<area shape="rect" id="Node000003" href="$d8/dd8/classwsf_1_1space_1_1script_1_1OrbitalEvent.html" title="A scriptable version of WsfOrbitalEvent." alt="" coords="32,80,157,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,136,97,171,92,170,94,141"/>
+<area shape="rect" id="Node000004" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="19,5,170,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,45,97,80,92,79,94,50"/>
+</map>

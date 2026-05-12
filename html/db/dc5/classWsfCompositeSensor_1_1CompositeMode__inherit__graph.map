@@ -1,0 +1,9 @@
+<map id="WsfCompositeSensor::CompositeMode" name="WsfCompositeSensor::CompositeMode">
+<area shape="rect" id="Node000001" title="A mode of the sensor." alt="" coords="5,229,155,272"/>
+<area shape="rect" id="Node000002" href="$d1/da1/classWsfSensorMode.html" title=" " alt="" coords="21,155,139,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,195,83,230,77,228,78,199"/>
+<area shape="rect" id="Node000003" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="41,80,119,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,120,83,155,77,154,79,125"/>
+<area shape="rect" id="Node000004" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="36,5,124,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="81,45,83,80,77,79,79,50"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="WsfScriptBMAssetClass.hpp" name="WsfScriptBMAssetClass.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,5,321,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,95,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,35,96,76,93,71,196,30"/>
+<area shape="rect" id="Node000003" href="$d5/d4b/WsfScriptObjectClass_8hpp.html" title=" " alt="" coords="118,80,331,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,30,227,65,222,63,223,35"/>
+<area shape="rect" id="Node000006" href="$df/d8d/WsfBMCommon_8hpp.html" title=" " alt="" coords="354,80,498,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="260,30,379,73,374,75,259,35"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="28,155,125,181"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,107,117,150,115,145,196,108"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="149,155,311,181"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="227,105,230,140,226,138,224,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="342,155,510,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="428,105,428,141,424,137,424,109"/>
+</map>

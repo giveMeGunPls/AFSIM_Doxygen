@@ -1,0 +1,35 @@
+<map id="wsf::comm::LayerEvent" name="wsf::comm::LayerEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="121,475,281,501"/>
+<area shape="rect" id="Node000002" href="$d9/d04/classWsfEvent.html" title=" " alt="" coords="5,376,85,403"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,409,183,473,178,476,77,414"/>
+<area shape="rect" id="Node000003" href="$de/d9d/classwsf_1_1comm_1_1Comm.html" title=" " alt="" coords="364,376,497,403"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="392,409,354,429,307,453,243,477,242,471,305,448,352,424,386,410"/>
+<area shape="rect" id="Node000014" href="$d0/db6/classwsf_1_1comm_1_1ProtocolStack.html" title="This class represents a communication devices protocol stack." alt="" coords="386,475,562,501"/>
+<area shape="poly" id="edge15_Node000014_Node000003" title=" " alt="" coords="425,416,425,434,429,450,438,462,452,475,447,473,435,466,424,452,420,435,421,420"/>
+<area shape="rect" id="Node000004" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="254,256,385,283"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="343,292,421,376,416,376,341,297"/>
+<area shape="rect" id="Node000005" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="260,157,379,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,197,322,257,317,255,318,202"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="175,5,259,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="227,44,242,76,261,106,283,133,307,157,302,157,279,137,256,110,238,78,226,49"/>
+<area shape="rect" id="Node000013" href="$d0/dc6/classWsfUncloneableObject.html" title="An object that does not support Clone." alt="" coords="41,81,196,108"/>
+<area shape="poly" id="edge13_Node000013_Node000006" title=" " alt="" coords="187,44,137,83,133,79,189,39"/>
+<area shape="rect" id="Node000007" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="559,81,720,108"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="568,114,375,159,374,154,572,110"/>
+<area shape="rect" id="Node000008" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="584,5,696,32"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="641,45,642,82,637,80,638,49"/>
+<area shape="rect" id="Node000009" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="271,81,368,108"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="321,121,322,158,317,156,319,126"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="392,81,535,108"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="424,117,346,159,343,155,428,114"/>
+<area shape="rect" id="Node000011" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="403,157,586,184"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="456,193,344,258,341,253,460,190"/>
+<area shape="rect" id="Node000012" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="88,157,224,184"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="164,196,176,215,189,230,220,248,256,260,251,262,218,253,186,234,171,218,164,201"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="131,119,152,157,147,157,131,124"/>
+<area shape="poly" id="edge14_Node000003_Node000014" title=" " alt="" coords="487,459,490,444,487,428,476,415,463,406,464,401,480,411,491,426,495,444,490,463"/>
+<area shape="rect" id="Node000015" href="$da/da1/classwsf_1_1comm_1_1Address.html" title=" " alt="" coords="410,256,552,283"/>
+<area shape="poly" id="edge16_Node000003_Node000015" title=" " alt="" coords="472,296,438,377,434,374,467,299"/>
+<area shape="rect" id="Node000016" href="$df/d0d/classwsf_1_1comm_1_1layer_1_1Message.html" title=" " alt="" coords="109,376,293,403"/>
+<area shape="poly" id="edge17_Node000001_Node000016" title=" " alt="" coords="203,417,203,476,199,473,199,420"/>
+</map>

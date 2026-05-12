@@ -1,0 +1,9 @@
+<map id="WsfTaskResource" name="WsfTaskResource">
+<area shape="rect" id="Node000001" title="Attributes of a task&#45;able resource." alt="" coords="225,5,354,32"/>
+<area shape="rect" id="Node000002" href="$df/da4/classWsfJammerTaskResource.html" title="Attributes of a task&#45;able jammer resource." alt="" coords="5,80,182,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,39,129,82,127,77,239,37"/>
+<area shape="rect" id="Node000003" href="$d5/da4/classWsfUplinkTaskResource.html" title="Attributes of a task&#45;able uplink resource." alt="" coords="206,80,373,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,46,292,81,287,78,288,50"/>
+<area shape="rect" id="Node000004" href="$dd/d45/classWsfWeaponTaskResource.html" title="Attributes of a task&#45;able weapon resource." alt="" coords="397,80,574,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="338,35,454,79,448,80,337,40"/>
+</map>

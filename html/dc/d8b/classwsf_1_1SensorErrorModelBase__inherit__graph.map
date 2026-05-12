@@ -1,0 +1,31 @@
+<map id="wsf::SensorErrorModelBase" name="wsf::SensorErrorModelBase">
+<area shape="rect" id="Node000001" title="A base class for SensorErrorModels." alt="" coords="137,235,321,261"/>
+<area shape="rect" id="Node000003" href="$d1/dd9/classwsf_1_1SensorErrorModel.html" title=" " alt="" coords="374,131,577,173"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,225,368,183,404,173,399,175,370,188,273,230"/>
+<area shape="rect" id="Node000005" href="$d1/dd9/classwsf_1_1SensorErrorModel.html" title=" " alt="" coords="369,197,582,240"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="336,233,371,231,366,232,337,238"/>
+<area shape="rect" id="Node000014" href="$d3/d07/classWsfTRIMSIM__ErrorModel.html" title=" " alt="" coords="390,264,562,291"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="336,258,392,267,387,268,336,263"/>
+<area shape="rect" id="Node000015" href="$d1/dd9/classwsf_1_1SensorErrorModel.html" title="This class defines the interface to compute specific measurement errors." alt="" coords="398,315,553,357"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="278,265,370,300,405,314,400,314,368,305,277,270"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,235,89,261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,246,138,247,134,249,105,250"/>
+<area shape="rect" id="Node000004" href="$d0/df0/classwsf_1_1AbsoluteSensorErrorModel.html" title=" " alt="" coords="631,131,801,173"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="592,149,633,151,628,153,593,155"/>
+<area shape="rect" id="Node000006" href="$d7/dd9/classwsf_1_1StandardSensorErrorModel.html" title=" " alt="" coords="630,197,802,240"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="598,216,633,218,627,219,599,221"/>
+<area shape="rect" id="Node000007" href="$d0/d72/classWsfEOIR__Sensor_1_1EOIR__ErrorModel.html" title="EOIR sensor Error model." alt="" coords="868,5,1036,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="798,185,800,184,812,168,818,153,823,122,827,90,835,74,848,58,865,48,870,46,851,62,839,77,832,92,828,123,823,154,816,171,804,187,801,190"/>
+<area shape="rect" id="Node000008" href="$d6/d75/classWsfPassiveSensor_1_1PassiveMode_1_1PassiveErrorModel.html" title=" " alt="" coords="858,72,1046,115"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="794,187,800,183,815,169,823,154,832,139,848,125,867,116,872,114,851,129,836,143,828,157,819,172,803,187,797,192"/>
+<area shape="rect" id="Node000009" href="$d0/dfe/classWsfSAR__Sensor_1_1SAR__Mode_1_1SAR__ErrorModel.html" title=" " alt="" coords="869,139,1035,181"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="816,191,871,180,865,181,818,196"/>
+<area shape="rect" id="Node000010" href="$d8/d81/classwsf_1_1BistaticErrorModel.html" title=" " alt="" coords="873,205,1030,232"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="817,216,875,218,870,219,818,221"/>
+<area shape="rect" id="Node000011" href="$dc/dbf/classwsf_1_1OTH__RadarSensorErrorModel.html" title="A sensor error model for the OTH Radar Sensor specific error model functionality." alt="" coords="857,256,1046,299"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="817,241,866,255,861,255,817,246"/>
+<area shape="rect" id="Node000012" href="$d3/df2/classwsf_1_1RadarSensorErrorModel.html" title="A sensor error model for the Radar Sensor Specific Error Model functionality." alt="" coords="857,323,1046,349"/>
+<area shape="poly" id="edge11_Node000006_Node000012" title=" " alt="" coords="755,247,800,280,851,308,884,322,878,322,849,313,797,284,753,252"/>
+<area shape="rect" id="Node000013" href="$d5/d13/classwsf_1_1SurfaceWaveRadarSensorErrorModel.html" title="A sensor error model for the Radar Sensor Specific Error Model functionality." alt="" coords="850,373,1054,416"/>
+<area shape="poly" id="edge12_Node000006_Node000013" title=" " alt="" coords="742,250,789,306,819,335,851,359,874,373,868,372,848,364,815,339,785,310,740,255"/>
+</map>

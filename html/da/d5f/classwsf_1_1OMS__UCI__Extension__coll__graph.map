@@ -1,0 +1,7 @@
+<map id="wsf::OMS_UCI_Extension" name="wsf::OMS_UCI_Extension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,182,181"/>
+<area shape="rect" id="Node000002" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="16,80,171,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,121,96,155,91,153,92,124"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="42,5,145,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,45,96,80,91,79,92,50"/>
+</map>

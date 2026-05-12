@@ -1,0 +1,7 @@
+<map id="WsfPM_Platform" name="WsfPM_Platform">
+<area shape="rect" id="Node000001" title=" " alt="" coords="14,80,135,107"/>
+<area shape="rect" id="Node000003" href="$d4/dfa/classWsfPM__MilPlatform.html" title=" " alt="" coords="5,155,144,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="76,121,77,155,72,153,73,124"/>
+<area shape="rect" id="Node000002" href="$dd/d03/classWsfPProxyNode.html" title=" " alt="" coords="15,5,134,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,45,77,80,72,79,73,50"/>
+</map>

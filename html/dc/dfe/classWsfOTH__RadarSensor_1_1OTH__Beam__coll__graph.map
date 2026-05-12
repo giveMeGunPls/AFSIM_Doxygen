@@ -1,0 +1,11 @@
+<map id="WsfOTH_RadarSensor::OTH_Beam" name="WsfOTH_RadarSensor::OTH_Beam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,180,284,223"/>
+<area shape="rect" id="Node000002" href="$d7/d88/classWsfSensorBeam.html" title=" " alt="" coords="5,81,126,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,115,180,178,175,181,93,120"/>
+<area shape="rect" id="Node000003" href="$d9/dc6/classWsfEM__Clutter.html" title="An abstract class for computing clutter power." alt="" coords="150,81,261,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,121,208,181,203,178,204,125"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="164,5,247,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,45,208,82,203,80,204,49"/>
+<area shape="rect" id="Node000005" href="$d9/d99/classWsfEM__Noise.html" title=" " alt="" coords="286,81,392,108"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="323,119,287,158,250,182,248,177,284,154,318,122"/>
+</map>

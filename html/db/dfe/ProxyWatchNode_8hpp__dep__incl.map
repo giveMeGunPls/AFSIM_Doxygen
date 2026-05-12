@@ -1,0 +1,41 @@
+<map id="ProxyWatchNode.hpp" name="ProxyWatchNode.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1233,5,1381,32"/>
+<area shape="rect" id="Node000002" href="$d6/de3/ProxyWatchNode_8cpp.html" title=" " alt="" coords="1152,80,1300,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1284,41,1241,82,1239,77,1279,44"/>
+<area shape="rect" id="Node000003" href="$d3/d63/ProxyWatcher_8hpp.html" title=" " alt="" coords="1324,80,1453,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1333,40,1377,80,1372,79,1332,45"/>
+<area shape="rect" id="Node000004" href="$d8/d9f/ClonePlatformDialog_8cpp.html" title=" " alt="" coords="5,163,172,189"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1311,107,1138,123,992,129,745,129,626,128,498,131,354,140,185,157,142,165,141,159,184,152,354,134,498,125,625,123,745,123,992,123,1137,118,1306,107"/>
+<area shape="rect" id="Node000005" href="$d1/d1c/CreatePlatformDialog_8cpp.html" title=" " alt="" coords="196,163,368,189"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="1312,107,1168,121,1048,127,843,130,639,134,521,142,381,157,337,165,336,159,380,152,520,137,639,129,843,124,1047,122,1168,116,1306,107"/>
+<area shape="rect" id="Node000006" href="$d0/dc4/CreateTypeDialog_8cpp.html" title=" " alt="" coords="392,163,542,189"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="1311,107,1194,120,1096,125,929,129,764,135,667,143,554,157,516,165,515,159,553,152,667,138,764,129,929,123,1096,120,1194,115,1306,107"/>
+<area shape="rect" id="Node000007" href="$d2/d9c/DeveloperActions_8cpp.html" title=" " alt="" coords="566,163,715,189"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="1311,107,1145,124,1016,130,889,137,728,157,690,165,689,159,727,152,888,132,1016,125,1144,119,1306,107"/>
+<area shape="rect" id="Node000008" href="$d7/d4c/DragAndDrop_8cpp.html" title=" " alt="" coords="739,163,864,189"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="1312,107,1187,123,1091,130,996,139,877,157,845,165,844,159,876,152,996,133,1091,124,1186,117,1306,107"/>
+<area shape="rect" id="Node000009" href="$d4/d31/Environment_8cpp.html" title=" " alt="" coords="889,163,1008,189"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="1312,107,1021,157,991,165,991,159,1020,152,1306,108"/>
+<area shape="rect" id="Node000010" href="$db/d81/wizard_2lib_2source_2map_2Platform_8cpp.html" title=" " alt="" coords="1033,163,1128,189"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="1318,110,1141,157,1117,165,1116,159,1140,152,1313,111"/>
+<area shape="rect" id="Node000011" href="$d2/d35/PointOfInterestPropertiesWidget_8cpp.html" title=" " alt="" coords="1152,155,1321,197"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="1354,114,1276,157,1275,152,1349,115"/>
+<area shape="rect" id="Node000012" href="$d3/d22/Project_8cpp.html" title=" " alt="" coords="1345,163,1432,189"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="1390,120,1390,164,1387,161,1387,124"/>
+<area shape="rect" id="Node000013" href="$d3/de4/ProxyUtil_8cpp.html" title=" " alt="" coords="1456,163,1556,189"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="1420,113,1490,163,1485,162,1419,118"/>
+<area shape="rect" id="Node000014" href="$d4/d95/ProxyWatcher_8cpp.html" title=" " alt="" coords="1580,163,1709,189"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="1443,109,1607,162,1602,162,1442,114"/>
+<area shape="rect" id="Node000015" href="$dd/dd1/RangeRingPropertiesWidget_8cpp.html" title=" " alt="" coords="1732,163,1944,189"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="1468,106,1770,162,1764,162,1467,111"/>
+<area shape="rect" id="Node000016" href="$d5/d45/RevisionStore_8cpp.html" title=" " alt="" coords="1967,163,2095,189"/>
+<area shape="poly" id="edge15_Node000003_Node000016" title=" " alt="" coords="1468,97,1689,115,1822,131,1956,152,1991,162,1985,162,1955,157,1822,136,1688,121,1468,102"/>
+<area shape="rect" id="Node000017" href="$de/d54/TerrainMonitor_8cpp.html" title=" " alt="" coords="2119,163,2247,189"/>
+<area shape="poly" id="edge16_Node000003_Node000017" title=" " alt="" coords="1468,94,1751,110,1929,127,2108,152,2143,162,2138,162,2107,157,1929,132,1751,115,1468,99"/>
+<area shape="rect" id="Node000018" href="$d6/d48/VtkInterface_8cpp.html" title=" " alt="" coords="2271,163,2388,189"/>
+<area shape="poly" id="edge17_Node000003_Node000018" title=" " alt="" coords="1468,92,1616,95,1813,104,2036,122,2149,135,2260,152,2294,162,2288,162,2259,157,2148,140,2035,127,1813,109,1616,100,1468,97"/>
+<area shape="rect" id="Node000019" href="$db/dc1/lib_2source_2map_2Zone_8cpp.html" title=" " alt="" coords="2412,163,2488,189"/>
+<area shape="poly" id="edge18_Node000003_Node000019" title=" " alt="" coords="1468,93,1676,99,1945,109,2209,127,2318,138,2401,152,2426,162,2421,162,2400,157,2318,143,2209,132,1945,115,1676,104,1468,99"/>
+<area shape="rect" id="Node000020" href="$de/d3b/ZoneSet_8cpp.html" title=" " alt="" coords="2512,163,2607,189"/>
+<area shape="poly" id="edge19_Node000003_Node000020" title=" " alt="" coords="1468,94,1694,99,1992,110,2286,128,2407,139,2500,152,2529,162,2524,162,2499,157,2407,144,2285,133,1992,116,1694,105,1468,99"/>
+</map>

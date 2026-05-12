@@ -1,0 +1,5 @@
+<map id="WsfRouteNetwork" name="WsfRouteNetwork">
+<area shape="rect" id="Node000001" title="A collection of WsfRoute object that represents a connected network (such as a road network)." alt="" coords="5,80,135,107"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="28,5,112,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,46,73,80,67,79,68,50"/>
+</map>

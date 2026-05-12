@@ -1,0 +1,19 @@
+<map id="WsfScriptMessageClass" name="WsfScriptMessageClass">
+<area shape="rect" id="Node000001" title="WsfScriptMessageClass is a script class that exposes methods in WsfMessage for use in script." alt="" coords="5,227,172,253"/>
+<area shape="rect" id="Node000002" href="$d0/dcc/classWsfScriptAssetMessageClass.html" title=" " alt="" coords="230,5,430,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,212,115,173,141,127,175,81,218,42,243,31,239,35,221,46,179,84,146,130,120,175,103,214"/>
+<area shape="rect" id="Node000003" href="$d1/d49/classWsfScriptBMAssignmentMessageClass.html" title=" " alt="" coords="220,56,441,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,213,154,160,185,132,218,108,244,97,241,101,221,113,188,136,158,164,111,216"/>
+<area shape="rect" id="Node000004" href="$d4/d9a/classWsfScriptBMAssignmentStatusClass.html" title=" " alt="" coords="227,123,434,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="128,217,219,175,254,164,250,167,221,180,131,221"/>
+<area shape="rect" id="Node000005" href="$d9/dfb/classWsfScriptBMAssignmentTrackMessageClass.html" title=" " alt="" coords="230,189,431,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,226,231,221,227,224,188,231"/>
+<area shape="rect" id="Node000006" href="$db/dba/classWsfScriptBMCueMessageClass.html" title=" " alt="" coords="225,256,436,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="186,249,227,255,222,258,188,254"/>
+<area shape="rect" id="Node000007" href="$d5/d90/classWsfScriptBMStatusMessageClass.html" title=" " alt="" coords="235,307,426,349"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="134,257,221,292,256,305,251,307,219,297,134,263"/>
+<area shape="rect" id="Node000008" href="$d8/d36/classWsfScriptBMTrackMessageClass.html" title=" " alt="" coords="221,373,440,400"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="110,263,158,313,188,338,221,359,250,373,245,373,218,364,185,342,155,317,109,268"/>
+<area shape="rect" id="Node000009" href="$dc/dc7/classWsfScriptSA__EntityMessage.html" title=" " alt="" coords="235,424,426,451"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="103,265,124,300,150,339,182,378,221,410,245,424,240,423,218,414,179,381,145,342,119,302,102,270"/>
+</map>

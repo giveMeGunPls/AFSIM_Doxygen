@@ -1,0 +1,5 @@
+<map id="WsfCircularFieldOfView" name="WsfCircularFieldOfView">
+<area shape="rect" id="Node000001" title="A field of view with circular extent defined by a conical half&#45;angle." alt="" coords="5,80,167,107"/>
+<area shape="rect" id="Node000002" href="$d0/db0/classWsfFieldOfView.html" title=" " alt="" coords="28,5,144,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,46,88,81,84,79,84,50"/>
+</map>

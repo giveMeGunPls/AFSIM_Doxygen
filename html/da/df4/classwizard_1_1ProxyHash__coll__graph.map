@@ -1,0 +1,11 @@
+<map id="wizard::ProxyHash" name="wizard::ProxyHash">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,203,236,229"/>
+<area shape="rect" id="Node000002" href="$d6/d4f/classwizard_1_1ProxyHashNode.html" title=" " alt="" coords="5,104,169,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,140,162,202,156,203,106,145"/>
+<area shape="rect" id="Node000003" href="$d8/d65/classUtSHA__Digest.html" title="Container for a UtSHA Digest." alt="" coords="33,5,141,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,45,90,104,84,103,86,50"/>
+<area shape="rect" id="Node000004" href="$d4/d9c/classWsfPProxyValue.html" title=" " alt="" coords="192,104,312,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="234,142,182,205,179,200,229,143"/>
+<area shape="rect" id="Node000005" href="$d6/d03/classWsfPProxyType.html" title=" " alt="" coords="194,5,310,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="254,46,255,105,250,103,251,50"/>
+</map>

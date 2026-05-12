@@ -1,0 +1,25 @@
+<map id="WsfLaunchComputer" name="WsfLaunchComputer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,237,281,264"/>
+<area shape="rect" id="Node000003" href="$d3/d0c/classFires_1_1FiresLaunchComputer.html" title=" " alt="" coords="331,5,517,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,222,231,182,254,133,286,84,327,42,351,31,347,34,331,46,290,87,259,135,236,184,221,224"/>
+<area shape="rect" id="Node000004" href="$d3/d23/classWsfATA__LaunchComputer.html" title=" " alt="" coords="336,56,512,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="221,222,263,157,292,122,328,92,354,81,349,85,330,97,296,126,267,160,226,225"/>
+<area shape="rect" id="Node000005" href="$dc/def/classWsfATG__LaunchComputer.html" title=" " alt="" coords="336,107,513,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="230,224,273,182,299,161,328,143,358,132,354,135,330,148,302,165,276,186,234,227"/>
+<area shape="rect" id="Node000006" href="$dc/dc5/classWsfAirToAirLaunchComputer.html" title=" " alt="" coords="329,157,519,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="249,228,328,194,368,183,363,186,330,198,252,232"/>
+<area shape="rect" id="Node000007" href="$d7/d0f/classWsfBallisticLaunchComputer.html" title=" " alt="" coords="329,208,519,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="296,236,331,233,326,236,298,241"/>
+<area shape="rect" id="Node000008" href="$dd/d70/classWsfBallisticMissileLaunchComputer.html" title=" " alt="" coords="337,259,511,301"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="296,260,339,267,334,269,297,265"/>
+<area shape="rect" id="Node000009" href="$d0/d56/classWsfOrbitalLaunchComputer.html" title="A launch computer implementation for launch&#45;to&#45;orbit." alt="" coords="333,325,515,352"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="245,269,286,291,330,311,366,324,360,325,328,316,284,296,245,275"/>
+<area shape="rect" id="Node000010" href="$d9/d60/classWsfSAM__LaunchComputer.html" title=" " alt="" coords="334,376,514,403"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="231,274,275,319,301,342,330,362,358,375,352,376,328,366,298,347,271,323,230,279"/>
+<area shape="rect" id="Node000011" href="$dd/da0/classWsfScriptLaunchComputer.html" title="A launch computer whose implementation is provided via script." alt="" coords="335,427,513,453"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="224,276,266,345,295,382,331,412,354,426,348,426,327,417,291,385,261,348,222,280"/>
+<area shape="rect" id="Node000012" href="$df/dc4/classWsfTabularLaunchComputer.html" title=" " alt="" coords="331,477,517,504"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="219,276,235,319,257,369,289,420,309,443,331,463,351,477,346,476,327,467,305,447,285,423,253,372,230,321,217,281"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,237,89,264"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,248,139,249,134,252,106,253"/>
+</map>

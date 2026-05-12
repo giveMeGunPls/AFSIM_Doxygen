@@ -1,0 +1,5 @@
+<map id="usmtf::LineSegment" name="usmtf::LineSegment">
+<area shape="rect" id="Node000001" title="Represents a Line segment so that intersection can be calculated." alt="" coords="5,125,144,152"/>
+<area shape="rect" id="Node000002" href="$da/da1/structusmtf_1_1Point.html" title="Represents a point." alt="" coords="28,5,121,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,47,77,125,72,124,72,49"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="usmtf::MacroEnabled" name="usmtf::MacroEnabled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,151,57"/>
+<area shape="rect" id="Node000002" href="$d8/d08/classusmtf_1_1Ato.html" title=" " alt="" coords="250,5,332,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,31,252,22,248,25,167,36"/>
+<area shape="rect" id="Node000003" href="$dd/d04/classusmtf_1_1USMTF__Transformer.html" title="Exists to Facilitate the contract for Polymorphic Script Block Exports From Set Segments." alt="" coords="199,56,384,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,52,201,57,196,59,167,57"/>
+<area shape="rect" id="Node000004" href="$de/dcd/classusmtf_1_1AircraftMissionTransform.html" title="Transforms a Segment identifying an Aircraft Mission into one or more AFSIM script blocks containing ..." alt="" coords="432,5,640,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="373,50,471,32,466,34,375,55"/>
+<area shape="rect" id="Node000005" href="$d4/dc1/classusmtf_1_1Comment.html" title=" " alt="" coords="476,56,596,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="399,67,479,69,473,70,400,72"/>
+<area shape="rect" id="Node000006" href="$d2/df4/classusmtf_1_1Zone.html" title=" " alt="" coords="490,107,582,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="375,84,493,110,487,111,374,89"/>
+<area shape="rect" id="Node000007" href="$d0/d0b/classusmtf_1_1AOrbitZone.html" title=" " alt="" coords="698,5,827,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="596,109,639,92,654,81,662,68,672,55,687,42,708,34,713,32,690,46,676,59,667,71,657,84,642,97,597,114"/>
+<area shape="rect" id="Node000008" href="$d2/dff/classusmtf_1_1CircularZone.html" title="Transforms a Segment identifying an Circle Zone, Point Zone, or Radarc Zone into an AFSIM zone script..." alt="" coords="694,56,831,83"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="597,104,697,84,702,83,598,109"/>
+<area shape="rect" id="Node000009" href="$d6/d36/classusmtf_1_1OneTrackZone.html" title=" " alt="" coords="688,107,837,133"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="597,117,691,120,685,120,598,123"/>
+<area shape="rect" id="Node000010" href="$d7/d0a/classusmtf_1_1PolyarcZone.html" title=" " alt="" coords="695,157,830,184"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="597,131,702,157,697,157,597,136"/>
+<area shape="rect" id="Node000011" href="$d8/df5/classusmtf_1_1PolygonalZone.html" title=" " alt="" coords="688,208,837,235"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="577,139,689,194,721,208,715,207,687,198,575,144"/>
+</map>

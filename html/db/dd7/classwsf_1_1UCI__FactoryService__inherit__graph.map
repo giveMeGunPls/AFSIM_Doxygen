@@ -1,0 +1,5 @@
+<map id="wsf::UCI_FactoryService&lt; MessageType, FactoryType &gt;" name="wsf::UCI_FactoryService&lt; MessageType, FactoryType &gt;">
+<area shape="rect" id="Node000001" title="Define a generic factory service that can be parameterized with any factory&#45;enabled UCI type." alt="" coords="5,80,212,123"/>
+<area shape="rect" id="Node000002" href="$dc/dc8/classwsf_1_1UCI__ServiceBase.html" title=" " alt="" coords="31,5,186,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,46,111,81,106,79,107,50"/>
+</map>

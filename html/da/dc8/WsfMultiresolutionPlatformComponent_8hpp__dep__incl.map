@@ -1,0 +1,15 @@
+<map id="WsfMultiresolutionPlatformComponent.hpp" name="WsfMultiresolutionPlatformComponent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="276,5,454,48"/>
+<area shape="rect" id="Node000002" href="$d9/d77/MultiresolutionRoles_8hpp.html" title=" " alt="" coords="100,104,264,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="306,57,210,106,207,101,310,54"/>
+<area shape="rect" id="Node000003" href="$d7/dfb/WsfMultiresolutionTypes_8hpp.html" title=" " alt="" coords="148,187,337,213"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="344,60,253,188,249,184,339,62"/>
+<area shape="rect" id="Node000006" href="$d7/d84/WsfMultiresolutionPlatformComponentImpl_8hpp.html" title=" " alt="" coords="340,96,518,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="381,58,409,96,404,95,379,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,141,236,187,230,186,200,146"/>
+<area shape="rect" id="Node000004" href="$df/d51/MultiresolutionPluginRegistration_8cpp.html" title=" " alt="" coords="5,261,242,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,221,146,263,143,258,206,222"/>
+<area shape="rect" id="Node000005" href="$d7/d48/WsfMultiresolutionTypes_8cpp.html" title=" " alt="" coords="266,261,456,288"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="276,219,343,261,337,261,275,224"/>
+<area shape="poly" id="edge6_Node000006_Node000001" title=" " alt="" coords="411,82,387,51,388,46,416,83"/>
+</map>

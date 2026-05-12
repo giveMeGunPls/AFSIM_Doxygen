@@ -1,0 +1,7 @@
+<map id="WsfScriptCommRouterClass" name="WsfScriptCommRouterClass">
+<area shape="rect" id="Node000001" title="Define script methods for WsfCommRouter." alt="" coords="5,155,197,181"/>
+<area shape="rect" id="Node000002" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="8,80,194,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,121,103,155,99,153,99,124"/>
+<area shape="rect" id="Node000003" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="25,5,177,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,45,104,80,98,79,100,50"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="wizard::CacheSourceProvider" name="wizard::CacheSourceProvider">
+<area shape="rect" id="Node000001" title="Provides sources to the WsfParser from the TextSourceCache instead of the files directly." alt="" coords="51,203,245,229"/>
+<area shape="rect" id="Node000002" href="$d2/d56/classWsfParseSourceProvider.html" title="Interface providing source files to the WsfParser." alt="" coords="5,104,174,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,142,143,202,138,203,104,146"/>
+<area shape="rect" id="Node000003" href="$d7/d96/classwizard_1_1TextSourceCache.html" title=" " alt="" coords="197,104,368,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,140,167,204,164,200,250,140"/>
+<area shape="rect" id="Node000004" href="$d9/d71/classwizard_1_1ProjectWorkspace.html" title=" " alt="" coords="196,5,370,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="284,46,285,105,280,103,281,50"/>
+</map>

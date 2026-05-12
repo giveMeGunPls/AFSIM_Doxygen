@@ -1,0 +1,13 @@
+<map id="WsfCallback" name="WsfCallback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="114,155,211,181"/>
+<area shape="rect" id="Node000005" href="$d3/d04/classWsfScriptCallback.html" title=" " alt="" coords="5,237,136,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,191,86,239,83,235,134,192"/>
+<area shape="rect" id="Node000006" href="$d8/d36/classXWsfAirTraffic_1_1UpdateFlightStatusCallback.html" title=" " alt="" coords="160,229,349,272"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="189,189,234,229,228,229,187,194"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="48,80,131,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,115,152,154,147,155,112,121"/>
+<area shape="rect" id="Node000003" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="155,80,316,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,116,177,156,173,152,210,120"/>
+<area shape="rect" id="Node000004" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="180,5,292,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,45,238,81,233,79,235,50"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="wsf::space::PiecewiseExponentialAtmosphere" name="wsf::space::PiecewiseExponentialAtmosphere">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,227,197"/>
+<area shape="rect" id="Node000002" href="$d9/d82/classwsf_1_1space_1_1Atmosphere.html" title=" " alt="" coords="34,80,198,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,120,118,156,114,153,114,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="74,5,158,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,45,119,80,113,79,115,50"/>
+</map>

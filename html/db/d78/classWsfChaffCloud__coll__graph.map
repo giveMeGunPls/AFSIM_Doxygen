@@ -1,0 +1,9 @@
+<map id="WsfChaffCloud" name="WsfChaffCloud">
+<area shape="rect" id="Node000001" title="A chaff cloud that maintains a list of parcels ejected from a chaff weapon." alt="" coords="227,80,337,107"/>
+<area shape="rect" id="Node000002" href="$dc/d95/classWsfChaffCloudInterface.html" title=" " alt="" coords="5,5,167,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,35,250,78,245,81,134,40"/>
+<area shape="rect" id="Node000003" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="190,5,374,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="284,46,284,81,280,78,280,50"/>
+<area shape="rect" id="Node000004" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="397,5,495,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="406,38,312,82,310,77,401,39"/>
+</map>

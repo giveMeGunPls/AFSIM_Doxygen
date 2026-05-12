@@ -1,0 +1,13 @@
+<map id="wsf::event::CyberAttackInitiated" name="wsf::event::CyberAttackInitiated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,279,401,305"/>
+<area shape="rect" id="Node000002" href="$d9/de0/classwsf_1_1event_1_1CyberResult.html" title=" " alt="" coords="215,203,378,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,243,299,280,294,277,295,246"/>
+<area shape="rect" id="Node000003" href="$d5/d3d/classwsf_1_1event_1_1Result.html" title=" " alt="" coords="106,104,234,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,138,283,201,277,203,198,143"/>
+<area shape="rect" id="Node000004" href="$d7/db6/classwsf_1_1event_1_1ResultBase.html" title=" " alt="" coords="5,5,164,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="106,41,161,103,156,105,105,47"/>
+<area shape="rect" id="Node000005" href="$d4/ddf/classwsf_1_1event_1_1Settings.html" title=" " alt="" coords="187,5,326,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="233,46,183,106,179,102,237,42"/>
+<area shape="rect" id="Node000006" href="$d9/df0/classwsf_1_1cyber_1_1Engagement.html" title="A class that represents the cyber engagements between two platforms." alt="" coords="258,104,421,131"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="330,143,304,204,300,201,325,146"/>
+</map>

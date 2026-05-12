@@ -1,0 +1,25 @@
+<map id="SOSM_SensorTarget" name="SOSM_SensorTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="981,123,1126,149"/>
+<area shape="rect" id="Node000002" href="$df/d41/classSOSM__Manager.html" title="A singleton class that manages SOSM data." alt="" coords="358,89,476,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,106,701,121,983,134,978,135,701,127,491,112"/>
+<area shape="rect" id="Node000007" href="$d3/ddf/classSOSM__Target.html" title="Abstract base class that represents a target." alt="" coords="726,61,829,88"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="491,99,580,95,677,88,728,83,723,85,677,93,580,101,491,104"/>
+<area shape="rect" id="Node000003" href="$da/d30/classSOSM__TestCommands.html" title="Commands that can be used to test the model." alt="" coords="5,89,165,116"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,100,360,101,356,105,181,105"/>
+<area shape="rect" id="Node000004" href="$dd/d9c/classSOSM__Sensor.html" title="A class that represents an optical sensor (IR or visible)." alt="" coords="723,5,831,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="847,30,902,45,959,67,1003,93,1039,123,1034,122,1000,98,956,72,901,50,846,35"/>
+<area shape="rect" id="Node000005" href="$db/d1f/classSOSM__CoreBase.html" title=" " alt="" coords="354,24,480,51"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="495,31,725,20,720,22,496,36"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="495,43,728,68,723,70,495,48"/>
+<area shape="rect" id="Node000006" href="$d0/d78/classSOSM__SpectralObject.html" title=" " alt="" coords="8,24,162,51"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="177,35,356,35,352,39,178,40"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="844,87,993,122,987,122,844,92"/>
+<area shape="rect" id="Node000008" href="$d4/d79/classSOSM__SensorTarget_1_1SnrAtmPair.html" title=" " alt="" coords="701,184,853,227"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="869,194,957,176,993,163,1024,151,1029,149,995,168,958,181,869,199"/>
+<area shape="rect" id="Node000009" href="$d9/d2f/classSOSM__ScalarTable2D.html" title=" " alt="" coords="341,179,493,205"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="509,193,703,202,698,203,509,198"/>
+<area shape="rect" id="Node000010" href="$d7/d83/classSOSM__ScalarTable3D.html" title=" " alt="" coords="341,255,493,281"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="508,269,591,265,634,259,676,249,688,244,700,236,722,228,727,227,702,241,691,248,678,255,635,264,592,271,509,275"/>
+<area shape="rect" id="Node000011" href="$dc/d2d/classSOSM__SensorTarget_1_1SnrTgtPair.html" title=" " alt="" coords="701,251,853,293"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="868,254,913,241,956,222,982,205,1005,185,1039,151,1044,148,1008,189,985,209,959,226,915,246,869,259"/>
+</map>

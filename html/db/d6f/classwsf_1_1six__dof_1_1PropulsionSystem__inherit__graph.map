@@ -1,0 +1,9 @@
+<map id="wsf::six_dof::PropulsionSystem" name="wsf::six_dof::PropulsionSystem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="159,80,320,123"/>
+<area shape="rect" id="Node000003" href="$d2/dc6/classwsf_1_1six__dof_1_1PointMassPropulsionSystem.html" title=" " alt="" coords="5,171,229,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,131,147,172,144,168,197,133"/>
+<area shape="rect" id="Node000004" href="$df/d5c/classwsf_1_1six__dof_1_1RigidBodyPropulsionSystem.html" title=" " alt="" coords="253,171,474,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="282,129,337,170,332,170,280,134"/>
+<area shape="rect" id="Node000002" href="$de/d1c/classwsf_1_1six__dof_1_1Object.html" title=" " alt="" coords="170,5,309,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,45,242,81,237,79,238,50"/>
+</map>

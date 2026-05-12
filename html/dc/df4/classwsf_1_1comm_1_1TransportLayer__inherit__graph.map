@@ -1,0 +1,5 @@
+<map id="wsf::comm::TransportLayer" name="wsf::comm::TransportLayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,187,107"/>
+<area shape="rect" id="Node000002" href="$d3/deb/classwsf_1_1comm_1_1LayerImp.html" title="A base class defining the interface for the implementation classes. (Implementor)." alt="" coords="22,5,170,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,46,98,81,94,79,94,50"/>
+</map>

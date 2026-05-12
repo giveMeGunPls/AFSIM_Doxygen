@@ -1,0 +1,43 @@
+<map id="WsfParseRule" name="WsfParseRule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,385,112,412"/>
+<area shape="rect" id="Node000002" href="$dd/d6c/classWsfParseAlternate.html" title=" " alt="" coords="191,5,322,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,369,59,303,72,215,85,168,103,122,127,80,158,42,173,31,193,24,189,28,175,36,162,46,131,83,108,125,90,170,77,216,64,303,62,370"/>
+<area shape="rect" id="Node000003" href="$da/d83/classWsfParseDelimited.html" title=" " alt="" coords="190,56,324,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="58,369,64,311,79,237,92,198,109,160,131,124,158,93,191,75,188,80,161,97,135,127,113,162,97,200,84,238,69,312,63,370"/>
+<area shape="rect" id="Node000004" href="$df/d09/classWsfParseIntRule.html" title=" " alt="" coords="196,107,318,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="60,369,69,320,86,259,115,197,134,168,158,143,175,132,198,125,194,129,178,136,161,147,139,172,119,200,91,261,74,321,65,370"/>
+<area shape="rect" id="Node000005" href="$d2/d5a/classWsfParseLineStringRule.html" title=" " alt="" coords="175,157,339,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="63,370,75,330,94,282,121,235,158,194,180,182,177,187,161,198,125,238,98,285,80,332,69,371"/>
+<area shape="rect" id="Node000006" href="$d3/dcb/classWsfParseLiteral.html" title="Matches a string of text with no whitespace." alt="" coords="200,208,314,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="68,370,102,306,127,273,158,245,178,234,201,227,197,231,180,239,161,249,131,276,106,309,73,372"/>
+<area shape="rect" id="Node000007" href="$d1/d33/classWsfParseNamedRule.html" title=" " alt="" coords="183,259,331,285"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="76,372,111,332,134,312,158,295,187,284,183,288,161,300,137,316,115,336,81,375"/>
+<area shape="rect" id="Node000011" href="$de/d49/classWsfParsePassthrough.html" title=" " alt="" coords="181,309,333,336"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="95,376,159,346,197,335,193,338,161,350,99,379"/>
+<area shape="rect" id="Node000012" href="$df/db1/classWsfParseQuotedStringRule.html" title=" " alt="" coords="166,360,348,387"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="126,388,167,383,163,387,129,392"/>
+<area shape="rect" id="Node000013" href="$d9/d3c/classWsfParseRealRule.html" title=" " alt="" coords="190,411,324,437"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="126,405,192,414,187,417,128,410"/>
+<area shape="rect" id="Node000014" href="$d7/d02/classWsfParseRecurrence.html" title=" " alt="" coords="184,461,330,488"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="96,417,161,447,197,460,193,462,159,452,98,422"/>
+<area shape="rect" id="Node000015" href="$da/d06/classWsfParseRuleReference.html" title=" " alt="" coords="174,512,340,539"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="78,421,115,462,137,481,161,498,188,510,183,512,158,502,134,485,111,465,79,427"/>
+<area shape="rect" id="Node000016" href="$d0/de1/classWsfParseScriptRule.html" title="WsfParseScriptRule collects a block of text to be parsed later by the script parser." alt="" coords="187,563,327,589"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="71,424,106,488,131,521,161,548,189,563,184,565,158,553,127,524,102,491,71,429"/>
+<area shape="rect" id="Node000017" href="$d2/ddc/classWsfParseSequence.html" title=" " alt="" coords="188,613,326,640"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="66,425,80,466,98,513,125,560,161,599,190,616,185,617,158,603,121,563,94,515,75,467,66,430"/>
+<area shape="rect" id="Node000018" href="$d5/d90/classWsfParseStringRule.html" title=" " alt="" coords="187,664,327,691"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="63,425,74,476,91,536,119,598,139,626,161,650,189,667,183,668,158,654,134,629,115,600,86,538,69,477,63,431"/>
+<area shape="rect" id="Node000020" href="$d3/d01/classWsfParseTypeCommandRule.html" title=" " alt="" coords="160,715,354,741"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="61,425,69,485,84,559,97,598,113,635,135,670,161,701,179,714,174,714,158,705,131,673,109,638,92,600,79,560,64,486,60,430"/>
+<area shape="rect" id="Node000021" href="$d5/d70/classWsfParseTypeLoadRule.html" title=" " alt="" coords="176,765,338,792"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="59,425,64,494,77,581,90,628,108,673,131,715,161,751,178,765,173,764,158,755,127,718,103,675,85,629,72,582,59,495,59,430"/>
+<area shape="rect" id="Node000008" href="$d5/daa/classWsfParseStruct.html" title=" " alt="" coords="461,233,575,260"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="346,261,463,251,458,254,348,266"/>
+<area shape="rect" id="Node000009" href="$d9/da1/classWsfParseValue.html" title=" " alt="" coords="462,284,574,311"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="346,278,464,291,460,293,347,283"/>
+<area shape="rect" id="Node000010" href="$d5/d6a/classWsfParseEnumeration.html" title=" " alt="" coords="682,284,835,311"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="588,295,684,296,679,298,590,300"/>
+<area shape="rect" id="Node000019" href="$d5/d55/classWsfParseStringWithExceptionsRule.html" title=" " alt="" coords="402,664,634,691"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="342,675,404,677,399,678,343,680"/>
+</map>

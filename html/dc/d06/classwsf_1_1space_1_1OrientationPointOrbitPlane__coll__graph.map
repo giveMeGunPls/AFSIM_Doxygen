@@ -1,0 +1,12 @@
+<map id="wsf::space::OrientationPointOrbitPlane" name="wsf::space::OrientationPointOrbitPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,348,192,391"/>
+<area shape="rect" id="Node000002" href="$da/dbf/classwsf_1_1space_1_1OrientationGeoPoint.html" title=" " alt="" coords="8,256,189,299"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,312,101,349,96,347,97,316"/>
+<area shape="rect" id="Node000003" href="$d2/dad/classwsf_1_1space_1_1Orientation.html" title=" " alt="" coords="20,180,177,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,220,101,256,96,255,98,225"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="52,5,135,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,45,101,180,95,180,93,50"/>
+<area shape="rect" id="Node000005" href="$d9/d94/classWsfAttitudeController.html" title=" " alt="" coords="115,81,261,108"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="121,39,174,80,170,82,121,44"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="165,122,112,181,108,178,167,117"/>
+</map>

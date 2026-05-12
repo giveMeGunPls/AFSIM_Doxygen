@@ -1,0 +1,23 @@
+<map id="WsfSpaceMoverBase" name="WsfSpaceMoverBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="222,304,370,331"/>
+<area shape="rect" id="Node000009" href="$d0/d5a/classWsfIntegratingSpaceMover.html" title=" " alt="" coords="5,379,185,405"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="250,337,131,381,130,375,245,335"/>
+<area shape="rect" id="Node000010" href="$d9/dc9/classWsfNORAD__SpaceMover.html" title="WsfNORAD_SpaceMover is a specialization of WsfMover for earth&#45;orbiting satellites." alt="" coords="209,379,384,405"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="298,345,298,380,294,377,294,348"/>
+<area shape="rect" id="Node000011" href="$db/d41/classWsfSpaceMover.html" title=" " alt="" coords="408,379,526,405"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="341,335,440,378,434,378,340,340"/>
+<area shape="rect" id="Node000002" href="$d7/d6f/classWsfMover.html" title=" " alt="" coords="256,229,337,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,270,299,305,294,302,295,274"/>
+<area shape="rect" id="Node000003" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="237,155,356,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,195,299,230,294,228,295,199"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="32,80,115,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,109,259,152,255,156,127,114"/>
+<area shape="rect" id="Node000005" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="140,80,301,107"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="245,115,286,154,281,155,244,120"/>
+<area shape="rect" id="Node000006" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="164,5,276,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="221,45,223,80,218,79,220,50"/>
+<area shape="rect" id="Node000007" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="325,80,422,107"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="351,116,311,156,308,152,347,119"/>
+<area shape="rect" id="Node000008" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="446,80,589,107"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="462,113,336,156,334,152,467,111"/>
+</map>

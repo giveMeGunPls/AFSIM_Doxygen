@@ -1,0 +1,15 @@
+<map id="WsfEW_PulseSuppressEffect" name="WsfEW_PulseSuppressEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,453,202,480"/>
+<area shape="rect" id="Node000002" href="$d9/d12/classWsfEW__PulseEffect.html" title="WsfEW_PulseEffect models and applies base pulse effects for use by other pulse type effects classes." alt="" coords="33,379,174,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,419,106,454,101,452,102,423"/>
+<area shape="rect" id="Node000003" href="$d2/df2/classWsfEW__PowerEffect.html" title=" " alt="" coords="31,304,176,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,344,106,379,101,378,102,349"/>
+<area shape="rect" id="Node000004" href="$dc/dff/classWsfEW__RepeaterEffect.html" title=" " alt="" coords="23,229,184,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,269,106,304,101,303,103,274"/>
+<area shape="rect" id="Node000005" href="$de/db7/classWsfEW__RadiusEffect.html" title=" " alt="" coords="29,155,178,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="104,195,106,229,101,229,103,200"/>
+<area shape="rect" id="Node000006" href="$d5/d38/classWsfEW__Effect.html" title=" " alt="" coords="49,80,158,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="104,120,106,155,101,154,103,125"/>
+<area shape="rect" id="Node000007" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="62,5,145,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="104,45,106,80,101,79,103,50"/>
+</map>

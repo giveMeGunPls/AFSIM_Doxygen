@@ -1,0 +1,7 @@
+<map id="WsfXIO_TaskUpdatePkt" name="WsfXIO_TaskUpdatePkt">
+<area shape="rect" id="Node000001" title="Defines a change in a task. Assignment, cancellation, or completion. Response to WsfXIO_TaskRequestPk..." alt="" coords="5,155,171,181"/>
+<area shape="rect" id="Node000002" href="$d4/d59/classWsfXIO__ResponsePkt.html" title=" " alt="" coords="11,80,165,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,121,90,155,86,153,86,124"/>
+<area shape="rect" id="Node000003" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="30,5,146,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,45,91,80,85,79,87,50"/>
+</map>

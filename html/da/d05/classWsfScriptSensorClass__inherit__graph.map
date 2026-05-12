@@ -1,0 +1,13 @@
+<map id="WsfScriptSensorClass" name="WsfScriptSensorClass">
+<area shape="rect" id="Node000001" title="Define script methods for WsfSensor." alt="" coords="138,245,292,272"/>
+<area shape="rect" id="Node000005" href="$d9/df1/classWsfScriptPassiveSensorClass.html" title=" " alt="" coords="5,320,207,347"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,280,126,322,124,317,181,282"/>
+<area shape="rect" id="Node000006" href="$de/d04/classWsfScriptSAR__SensorClass.html" title=" " alt="" coords="231,320,421,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="248,278,309,319,304,319,246,283"/>
+<area shape="rect" id="Node000002" href="$da/d9f/classWsfScriptArticulatedPartClass.html" title="Define script methods for WsfArticulatedPart." alt="" coords="133,155,298,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,211,218,246,213,244,214,215"/>
+<area shape="rect" id="Node000003" href="$d7/dcb/classWsfScriptPlatformPartClass.html" title="Define script methods for WsfPlatformPart." alt="" coords="122,80,308,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,120,218,155,213,154,214,125"/>
+<area shape="rect" id="Node000004" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="140,5,291,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,45,218,80,213,79,214,50"/>
+</map>

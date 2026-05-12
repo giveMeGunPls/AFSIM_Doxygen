@@ -1,0 +1,27 @@
+<map id="WsfScriptOverridableProcessor" name="WsfScriptOverridableProcessor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,210,133"/>
+<area shape="rect" id="Node000002" href="$dc/d2c/classWsfAssetManager.html" title=" " alt="" coords="278,5,407,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,97,197,69,257,42,292,31,288,34,259,46,199,74,147,101"/>
+<area shape="rect" id="Node000004" href="$db/d36/classWsfBMDisseminateC2.html" title=" " alt="" coords="265,56,420,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,100,279,82,275,85,189,105"/>
+<area shape="rect" id="Node000006" href="$d4/dec/classWsfBMSensorsManager.html" title=" " alt="" coords="261,107,424,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="225,117,263,119,258,121,226,123"/>
+<area shape="rect" id="Node000009" href="$d1/deb/classWsfBMWeaponsManager.html" title=" " alt="" coords="258,157,427,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="188,135,280,156,275,158,188,140"/>
+<area shape="rect" id="Node000012" href="$da/d32/classWsfBattleManager.html" title=" " alt="" coords="278,233,407,260"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="148,138,318,231,313,234,146,143"/>
+<area shape="rect" id="Node000003" href="$d6/dae/classWsfUnclassifiedAssetManager.html" title=" " alt="" coords="478,5,679,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,16,480,18,475,19,423,21"/>
+<area shape="rect" id="Node000005" href="$d4/d6f/classWsfUnclassifiedDisseminateC2.html" title=" " alt="" coords="475,56,682,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="435,67,477,69,472,70,436,72"/>
+<area shape="rect" id="Node000007" href="$d0/d6c/classWsfSimpleSensorsManager.html" title=" " alt="" coords="487,107,670,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="439,117,489,119,484,121,440,123"/>
+<area shape="rect" id="Node000008" href="$d2/d19/classWsfSensorsManagerFov.html" title=" " alt="" coords="730,107,896,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="686,117,732,120,727,120,686,123"/>
+<area shape="rect" id="Node000010" href="$d0/d28/classWsfWeaponsManagerAI.html" title=" " alt="" coords="498,157,660,184"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="442,168,500,170,494,171,443,173"/>
+<area shape="rect" id="Node000011" href="$da/dce/classWsfWeaponsManagerSAM.html" title=" " alt="" coords="490,208,668,235"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="423,185,516,207,510,208,423,191"/>
+<area shape="rect" id="Node000013" href="$d1/d1b/classWsfUnclassifiedBattleManager.html" title=" " alt="" coords="478,259,679,285"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="423,253,480,261,475,261,423,258"/>
+</map>

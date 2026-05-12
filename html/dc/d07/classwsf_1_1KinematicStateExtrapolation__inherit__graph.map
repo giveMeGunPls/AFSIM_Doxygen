@@ -1,0 +1,13 @@
+<map id="wsf::KinematicStateExtrapolation" name="wsf::KinematicStateExtrapolation">
+<area shape="rect" id="Node000001" title="A base class for kinematic state (position, velocity) extrapolation." alt="" coords="91,245,306,272"/>
+<area shape="rect" id="Node000005" href="$db/dcd/classwsf_1_1DefaultKinematicStateExtrapolation.html" title=" " alt="" coords="5,320,187,363"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="173,281,124,322,121,317,168,283"/>
+<area shape="rect" id="Node000006" href="$dd/d25/classwsf_1_1space_1_1KinematicStateExtrapolation.html" title=" " alt="" coords="210,320,392,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="227,279,278,320,272,319,226,284"/>
+<area shape="rect" id="Node000002" href="$d3/db0/classwsf_1_1TrackExtrapolation.html" title=" " alt="" coords="119,155,278,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,211,201,246,196,244,197,215"/>
+<area shape="rect" id="Node000003" href="$d4/df9/classwsf_1_1TrackExtrapolationBase.html" title="A common base class of track extrapolation objects." alt="" coords="104,80,293,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,120,201,155,196,154,198,125"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="157,5,240,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="200,45,201,80,196,79,198,50"/>
+</map>

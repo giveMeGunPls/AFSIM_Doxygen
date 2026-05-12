@@ -1,0 +1,25 @@
+<map id="P6DofPilotObject" name="P6DofPilotObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="150,247,272,273"/>
+<area shape="rect" id="Node000003" href="$d7/d89/classP6DofGuidanceAutopilot.html" title=" " alt="" coords="320,80,485,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,234,383,108,388,106,241,239"/>
+<area shape="rect" id="Node000006" href="$d6/ded/classP6DofHardwareAutopilot.html" title=" " alt="" coords="320,213,485,240"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="287,244,325,240,320,241,288,249"/>
+<area shape="rect" id="Node000009" href="$de/d90/classP6DofManualPilot.html" title=" " alt="" coords="340,272,466,299"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="287,267,342,277,336,277,287,273"/>
+<area shape="rect" id="Node000012" href="$df/d30/classP6DofSyntheticPilot.html" title=" " alt="" coords="333,323,472,349"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="253,278,321,308,355,322,350,322,319,313,252,283"/>
+<area shape="rect" id="Node000002" href="$d6/d35/classP6DofObject.html" title=" " alt="" coords="5,247,102,273"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,257,152,259,147,261,118,263"/>
+<area shape="rect" id="Node000004" href="$d3/d13/classP6DofGuidanceAutopilotBankToTurn.html" title=" " alt="" coords="544,5,738,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,73,564,47,560,50,469,78"/>
+<area shape="rect" id="Node000005" href="$d9/d53/classP6DofGuidanceAutopilotSkidToTurn.html" title=" " alt="" coords="546,72,736,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="500,91,548,93,543,94,501,96"/>
+<area shape="rect" id="Node000007" href="$d5/d4f/classP6DofHardwareAutopilotBankToTurn.html" title=" " alt="" coords="543,139,739,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="467,206,565,181,559,183,469,211"/>
+<area shape="rect" id="Node000008" href="$d9/d99/classP6DofHardwareAutopilotSkidToTurn.html" title=" " alt="" coords="545,205,737,248"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="500,224,547,226,542,227,501,229"/>
+<area shape="rect" id="Node000010" href="$d9/da5/classP6DofManualPilotAugmentedControls.html" title=" " alt="" coords="545,272,737,315"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="481,285,547,290,542,290,481,291"/>
+<area shape="rect" id="Node000011" href="$d3/de3/classP6DofManualPilotSimpleControls.html" title=" " alt="" coords="533,339,749,365"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="464,301,486,308,534,324,580,338,574,338,533,329,485,313,463,306"/>
+</map>

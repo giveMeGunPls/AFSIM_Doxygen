@@ -1,0 +1,7 @@
+<map id="wsf::comm::NetworkManagerExtension" name="wsf::comm::NetworkManagerExtension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,199,197"/>
+<area shape="rect" id="Node000002" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="25,80,179,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,120,104,155,100,154,100,124"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="50,5,154,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,45,105,80,99,79,101,50"/>
+</map>

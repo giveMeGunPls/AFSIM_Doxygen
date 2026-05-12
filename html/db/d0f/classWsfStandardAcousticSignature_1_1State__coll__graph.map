@@ -1,0 +1,5 @@
+<map id="WsfStandardAcousticSignature::State" name="WsfStandardAcousticSignature::State">
+<area shape="rect" id="Node000001" title="A &#39;State&#39; represents all of the tables for a given signature state." alt="" coords="5,120,209,163"/>
+<area shape="rect" id="Node000002" href="$d4/dfa/classWsfStandardAcousticSignature_1_1Table.html" title="A &#39;Table&#39; represents the signature." alt="" coords="5,5,209,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,62,110,120,104,119,105,65"/>
+</map>

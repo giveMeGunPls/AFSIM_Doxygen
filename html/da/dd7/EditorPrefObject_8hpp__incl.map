@@ -1,0 +1,22 @@
+<map id="EditorPrefObject.hpp" name="EditorPrefObject.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,5,603,32"/>
+<area shape="rect" id="Node000002" href="$d5/d41/UiResources_8hpp.html" title=" " alt="" coords="290,80,412,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="503,32,398,76,396,71,498,33"/>
+<area shape="rect" id="Node000008" href="$d6/df8/ViExport_8hpp.html" title=" " alt="" coords="488,155,584,181"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="529,31,521,66,520,106,528,141,523,138,515,107,516,65,525,34"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="529,80,618,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="540,30,561,68,556,66,538,35"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="642,80,774,107"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="563,30,666,74,660,74,562,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,155,131,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="302,110,133,153,132,148,301,105"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="155,155,213,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="324,107,228,151,226,146,319,108"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="237,155,294,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="338,106,293,147,290,142,333,108"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="317,155,384,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="353,105,353,141,349,137,349,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="408,155,464,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="366,105,413,145,407,144,365,110"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="383,105,492,149,487,149,382,110"/>
+</map>

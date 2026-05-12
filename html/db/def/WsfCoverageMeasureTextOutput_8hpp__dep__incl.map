@@ -1,0 +1,21 @@
+<map id="WsfCoverageMeasureTextOutput.hpp" name="WsfCoverageMeasureTextOutput.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="407,5,647,32"/>
+<area shape="rect" id="Node000002" href="$d5/dd6/WsfCoverageMeasureCSV__Output_8hpp.html" title=" " alt="" coords="109,80,289,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,37,284,82,283,77,463,35"/>
+<area shape="rect" id="Node000005" href="$de/df4/WsfCoverageMeasureGridStatsOutput_8hpp.html" title=" " alt="" coords="313,80,520,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="500,40,446,82,443,77,495,42"/>
+<area shape="rect" id="Node000007" href="$d3/d5a/WsfCoverageMeasureLatLonStatsOutput_8hpp.html" title=" " alt="" coords="544,80,734,123"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="557,39,613,80,608,79,556,44"/>
+<area shape="rect" id="Node000009" href="$d5/d99/WsfCoverageMeasureTextOutput_8cpp.html" title=" " alt="" coords="759,88,999,115"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="598,33,826,87,821,88,597,39"/>
+<area shape="rect" id="Node000003" href="$de/d30/WsfCoverageMeasureCSV__Output_8cpp.html" title=" " alt="" coords="5,171,185,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="166,132,121,172,118,168,161,134"/>
+<area shape="rect" id="Node000004" href="$dd/d3c/WsfCoverageMeasureOutputTypes_8cpp.html" title=" " alt="" coords="209,171,400,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="236,130,282,170,277,170,234,135"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="381,132,332,172,329,168,376,133"/>
+<area shape="rect" id="Node000006" href="$d4/df3/WsfCoverageMeasureGridStatsOutput_8cpp.html" title=" " alt="" coords="424,171,630,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="455,130,504,171,498,170,453,135"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="548,127,383,173,382,167,543,128"/>
+<area shape="rect" id="Node000008" href="$dc/de7/WsfCoverageMeasureLatLonStatsOutput_8cpp.html" title=" " alt="" coords="654,171,845,213"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="677,130,726,171,721,169,676,135"/>
+</map>

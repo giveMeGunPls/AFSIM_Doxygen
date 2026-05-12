@@ -1,0 +1,5 @@
+<map id="wsf::comm::ProtocolIGMP::RouteData" name="wsf::comm::ProtocolIGMP::RouteData">
+<area shape="rect" id="Node000001" title="A simple data structure to hold routing data." alt="" coords="5,104,182,147"/>
+<area shape="rect" id="Node000002" href="$da/da1/classwsf_1_1comm_1_1Address.html" title=" " alt="" coords="22,5,165,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,46,96,104,91,103,91,49"/>
+</map>

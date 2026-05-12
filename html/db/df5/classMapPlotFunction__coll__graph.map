@@ -1,0 +1,11 @@
+<map id="MapPlotFunction" name="MapPlotFunction">
+<area shape="rect" id="Node000001" title="An abstract base class for sensor_plot functions using MapPlotVariables." alt="" coords="123,203,242,229"/>
+<area shape="rect" id="Node000002" href="$de/d65/classFunction.html" title="An abstract base class for sensor_plot function." alt="" coords="87,104,158,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,142,178,202,172,202,137,146"/>
+<area shape="rect" id="Node000003" href="$da/dd9/classWsfPlatformAvailability.html" title=" " alt="" coords="5,5,163,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,44,120,104,115,104,94,49"/>
+<area shape="rect" id="Node000004" href="$df/d4c/classMapPlotVariables.html" title=" " alt="" coords="202,104,324,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="245,142,195,205,191,200,240,143"/>
+<area shape="rect" id="Node000005" href="$db/de6/classMapPlotVariable_1_1SharedData.html" title=" " alt="" coords="186,5,379,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="279,45,268,105,263,102,275,49"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="WsfAntennaPattern" name="WsfAntennaPattern">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,107,272,133"/>
+<area shape="rect" id="Node000003" href="$df/d47/classWsfALARM__AntennaPattern.html" title=" " alt="" coords="320,56,508,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,100,358,83,353,84,278,105"/>
+<area shape="rect" id="Node000006" href="$d8/d1a/classWsfESA__AntennaPattern.html" title=" " alt="" coords="330,107,499,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="287,117,332,120,327,120,288,123"/>
+<area shape="rect" id="Node000009" href="$d2/dcb/classWsfStandardAntennaPattern.html" title=" " alt="" coords="320,157,508,184"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="278,135,359,157,353,157,277,140"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,107,89,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,117,139,119,134,121,105,123"/>
+<area shape="rect" id="Node000004" href="$d4/db9/classWsfALARM__AntennaPatternBanded.html" title=" " alt="" coords="556,5,789,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="501,50,603,32,598,33,502,55"/>
+<area shape="rect" id="Node000005" href="$d2/d8b/classWsfGENAP__AntennaPattern.html" title=" " alt="" coords="578,56,767,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="524,67,580,69,575,70,524,72"/>
+<area shape="rect" id="Node000007" href="$dc/d3f/classWsfESA__NX__AntennaPattern.html" title=" " alt="" coords="575,107,770,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="514,117,577,120,572,120,514,123"/>
+<area shape="rect" id="Node000008" href="$de/dc7/classWsfElementESA__AntennaPattern.html" title=" " alt="" coords="564,157,781,184"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="501,134,604,157,598,157,501,140"/>
+</map>

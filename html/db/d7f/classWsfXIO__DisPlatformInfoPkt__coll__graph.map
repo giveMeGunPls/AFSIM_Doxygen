@@ -1,0 +1,9 @@
+<map id="WsfXIO_DisPlatformInfoPkt" name="WsfXIO_DisPlatformInfoPkt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,180,296,207"/>
+<area shape="rect" id="Node000002" href="$d4/d59/classWsfXIO__ResponsePkt.html" title=" " alt="" coords="5,81,160,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,115,189,179,184,180,109,120"/>
+<area shape="rect" id="Node000003" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="24,5,141,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,45,85,81,80,80,82,50"/>
+<area shape="rect" id="Node000004" href="$d4/dcb/structWsfXIO__EntityId.html" title=" " alt="" coords="184,81,304,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,121,210,182,206,178,230,124"/>
+</map>

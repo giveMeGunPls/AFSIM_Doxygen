@@ -1,0 +1,9 @@
+<map id="MTT" name="MTT">
+<area shape="rect" id="Node000001" title=" " alt="" coords="60,256,108,283"/>
+<area shape="rect" id="Node000002" href="$da/d84/classWsfPerfectCorrelation.html" title=" " alt="" coords="9,157,159,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,198,87,256,81,255,82,201"/>
+<area shape="rect" id="Node000003" href="$d3/dcf/classWsfCorrelationStrategy.html" title=" " alt="" coords="5,81,163,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,121,87,157,81,156,83,126"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="42,5,126,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="85,44,87,81,81,81,83,50"/>
+</map>

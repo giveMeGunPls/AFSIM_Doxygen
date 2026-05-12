@@ -1,0 +1,14 @@
+<map id="wsf::space::OrientationEntityNadir" name="wsf::space::OrientationEntityNadir">
+<area shape="rect" id="Node000001" title=" " alt="" coords="62,355,252,397"/>
+<area shape="rect" id="Node000002" href="$d1/d7d/classwsf_1_1space_1_1OrientationEntity.html" title=" " alt="" coords="62,279,252,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,319,159,356,154,353,155,323"/>
+<area shape="rect" id="Node000003" href="$d2/dad/classwsf_1_1space_1_1Orientation.html" title=" " alt="" coords="5,180,162,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,217,150,278,145,279,101,222"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="36,5,120,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="80,45,86,180,80,180,78,50"/>
+<area shape="rect" id="Node000005" href="$d9/d94/classWsfAttitudeController.html" title=" " alt="" coords="100,81,246,108"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="106,39,159,80,155,82,106,44"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="150,122,97,181,93,178,152,117"/>
+<area shape="rect" id="Node000006" href="$d3/dd6/classWsfTrackId.html" title=" " alt="" coords="186,180,275,207"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="214,217,168,280,164,277,209,221"/>
+</map>

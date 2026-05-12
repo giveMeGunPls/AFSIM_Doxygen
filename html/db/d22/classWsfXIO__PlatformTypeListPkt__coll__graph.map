@@ -1,0 +1,5 @@
+<map id="WsfXIO_PlatformTypeListPkt" name="WsfXIO_PlatformTypeListPkt">
+<area shape="rect" id="Node000001" title="Contains a list of data about the simulation&#39;s platform types." alt="" coords="5,80,199,107"/>
+<area shape="rect" id="Node000002" href="$d7/d8a/classWsfXIO__Packet.html" title="Base class for XIO Packets. Provides the header information." alt="" coords="44,5,160,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,46,104,81,100,79,100,50"/>
+</map>

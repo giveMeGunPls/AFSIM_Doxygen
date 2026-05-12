@@ -1,0 +1,5 @@
+<map id="WsfRouteNetwork::RouteEdge" name="WsfRouteNetwork::RouteEdge">
+<area shape="rect" id="Node000001" title="Represents an edge key for use with the RouteGraph class." alt="" coords="6,125,208,152"/>
+<area shape="rect" id="Node000002" href="$df/df5/structWsfRouteNetwork_1_1RouteNode.html" title="Represents a node key for use with the RouteGraph class." alt="" coords="5,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,46,110,126,104,124,105,49"/>
+</map>
