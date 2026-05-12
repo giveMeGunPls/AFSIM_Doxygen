@@ -1,0 +1,5 @@
+<map id="wsf::TrackExtrapolationBase" name="wsf::TrackExtrapolationBase">
+<area shape="rect" id="Node000001" title="A common base class of track extrapolation objects." alt="" coords="5,80,195,107"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="58,5,142,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,46,102,81,98,79,98,50"/>
+</map>

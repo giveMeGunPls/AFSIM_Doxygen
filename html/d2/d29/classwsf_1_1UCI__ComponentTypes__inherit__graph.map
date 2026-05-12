@@ -1,0 +1,9 @@
+<map id="wsf::UCI_ComponentTypes" name="wsf::UCI_ComponentTypes">
+<area shape="rect" id="Node000001" title="A type that only uses functionality of base class to register itself with the scenario." alt="" coords="5,245,189,272"/>
+<area shape="rect" id="Node000002" href="$dc/d79/classWsfObjectTypeList.html" title=" " alt="" coords="27,155,167,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,211,99,246,95,244,95,215"/>
+<area shape="rect" id="Node000003" href="$db/d98/classWsfObjectTypeListBase.html" title="Base class for WsfObjectTypeList. Provides most of the implementation." alt="" coords="16,80,178,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,120,100,155,94,154,96,125"/>
+<area shape="rect" id="Node000004" href="$d5/d92/classWsfObjectTypeListBaseI.html" title="The interface an object type list must support." alt="" coords="14,5,180,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="98,45,100,80,94,79,96,50"/>
+</map>

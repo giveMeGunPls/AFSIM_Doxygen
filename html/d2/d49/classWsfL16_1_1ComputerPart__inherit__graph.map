@@ -1,0 +1,17 @@
+<map id="WsfL16::ComputerPart" name="WsfL16::ComputerPart">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,132,292,159"/>
+<area shape="rect" id="Node000003" href="$da/d4d/classWsfL16_1_1NetworkEnabledWeaponPart.html" title=" " alt="" coords="340,5,581,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="237,119,281,79,309,59,339,42,373,31,368,34,341,46,312,63,285,83,240,123"/>
+<area shape="rect" id="Node000004" href="$db/d0b/classWsfL16_1_1PPLI__Part.html" title=" " alt="" coords="394,56,528,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="258,123,339,92,396,80,391,82,341,97,260,128"/>
+<area shape="rect" id="Node000005" href="$de/dd6/classWsfL16_1_1ScriptedPart.html" title=" " alt="" coords="388,107,534,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="307,133,390,127,385,128,308,138"/>
+<area shape="rect" id="Node000006" href="$dc/df2/classWsfL16_1_1SurveillancePart.html" title="SurveillancePart is responsible for sending tracks." alt="" coords="376,157,545,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="307,152,378,161,373,162,308,158"/>
+<area shape="rect" id="Node000007" href="$d9/db9/classWsfL16_1_1SystemStatusPart.html" title=" " alt="" coords="370,208,551,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="259,163,341,193,386,207,381,208,339,199,259,168"/>
+<area shape="rect" id="Node000008" href="$df/d8a/classWsfL16_1_1WeaponsCoordinationPart.html" title="This class is a stub for handling J9.X messages." alt="" coords="348,259,573,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="239,167,285,208,312,228,341,244,373,258,368,258,339,249,309,232,281,212,238,172"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,132,89,159"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,143,138,144,134,147,105,148"/>
+</map>

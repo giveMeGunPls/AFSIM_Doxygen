@@ -1,0 +1,19 @@
+<map id="SOSM_CoreBase" name="SOSM_CoreBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="351,80,477,107"/>
+<area shape="rect" id="Node000003" href="$dd/d7a/classSOSM__Atmosphere.html" title="An abstract base class for representing atmospherics." alt="" coords="199,155,336,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="377,113,294,156,292,152,372,115"/>
+<area shape="rect" id="Node000006" href="$dd/d9c/classSOSM__Sensor.html" title="A class that represents an optical sensor (IR or visible)." alt="" coords="360,155,468,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="416,120,416,156,412,153,412,125"/>
+<area shape="rect" id="Node000007" href="$d3/ddf/classSOSM__Target.html" title="Abstract base class that represents a target." alt="" coords="492,155,595,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="450,112,523,154,518,154,449,117"/>
+<area shape="rect" id="Node000002" href="$d0/d78/classSOSM__SpectralObject.html" title=" " alt="" coords="337,5,491,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,46,416,81,412,78,412,50"/>
+<area shape="rect" id="Node000004" href="$d5/d72/classSOSM__SimpleAtmosphere.html" title=" " alt="" coords="5,229,183,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,188,125,231,123,226,221,187"/>
+<area shape="rect" id="Node000005" href="$dd/d98/classSOSM__TableAtmosphere.html" title=" " alt="" coords="207,229,376,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="278,194,290,230,285,228,275,199"/>
+<area shape="rect" id="Node000008" href="$d3/d6b/classSOSM__SimpleTarget.html" title=" " alt="" coords="448,229,591,256"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="536,195,525,231,522,227,532,198"/>
+<area shape="rect" id="Node000009" href="$d9/d69/classSOSM__TableTarget.html" title=" " alt="" coords="615,229,749,256"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="582,186,660,229,655,228,580,191"/>
+</map>

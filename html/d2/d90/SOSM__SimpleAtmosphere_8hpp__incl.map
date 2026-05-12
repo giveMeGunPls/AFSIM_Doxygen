@@ -1,0 +1,19 @@
+<map id="SOSM_SimpleAtmosphere.hpp" name="SOSM_SimpleAtmosphere.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="82,5,284,32"/>
+<area shape="rect" id="Node000002" href="$db/d9f/SOSM__Atmosphere_8hpp.html" title=" " alt="" coords="17,80,179,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,35,126,72,122,68,170,30"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="204,80,334,107"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="198,30,245,69,240,71,198,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,155,63,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="86,110,57,144,53,141,88,105"/>
+<area shape="rect" id="Node000004" href="$da/df2/SOSM__CoreBase_8hpp.html" title=" " alt="" coords="87,155,237,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="109,105,143,142,138,143,109,110"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="51,304,158,331"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="120,184,89,203,75,215,63,231,59,246,62,261,82,292,77,293,57,263,54,245,58,228,71,212,86,198,124,180"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="193,304,246,331"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="202,179,238,198,253,212,266,228,270,245,267,263,246,295,243,290,262,261,265,246,261,231,249,215,235,203,202,185"/>
+<area shape="rect" id="Node000007" href="$d9/d9c/SOSM__SpectralObject_8hpp.html" title=" " alt="" coords="73,229,251,256"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="163,180,164,215,160,213,161,184"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="154,255,126,294,122,290,150,258"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="173,254,203,292,197,291,171,259"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WsfDisFileDevice" name="WsfDisFileDevice">
+<area shape="rect" id="Node000001" title="A specialization of WsfDisDevice to support recording to a CME replay file." alt="" coords="5,80,133,107"/>
+<area shape="rect" id="Node000002" href="$d9/d19/classWsfDisDevice.html" title="A base class for a DIS I/O device (file, network, etc)." alt="" coords="16,5,122,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,46,72,80,66,79,67,50"/>
+</map>

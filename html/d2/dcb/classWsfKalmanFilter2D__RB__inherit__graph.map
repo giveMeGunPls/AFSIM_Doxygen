@@ -1,0 +1,7 @@
+<map id="WsfKalmanFilter2D_RB" name="WsfKalmanFilter2D_RB">
+<area shape="rect" id="Node000001" title="Implement an alpha&#45;beta filter as a WsfFilter." alt="" coords="5,155,167,181"/>
+<area shape="rect" id="Node000002" href="$d0/dc9/classWsfFilter.html" title="Implement a filter as an adapter." alt="" coords="49,80,123,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,121,88,155,84,153,84,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="44,5,128,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,45,89,80,83,79,85,50"/>
+</map>

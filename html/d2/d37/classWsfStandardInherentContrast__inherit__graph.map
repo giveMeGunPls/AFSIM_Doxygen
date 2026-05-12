@@ -1,0 +1,9 @@
+<map id="WsfStandardInherentContrast" name="WsfStandardInherentContrast">
+<area shape="rect" id="Node000001" title="A collection of one or more inherent contrast tables that represent the inherent contrast of a platfo..." alt="" coords="5,229,200,256"/>
+<area shape="rect" id="Node000002" href="$d4/d3b/classWsfInherentContrast.html" title="An object that represents the inherent contrast of a platform." alt="" coords="31,155,174,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,195,105,230,100,228,101,199"/>
+<area shape="rect" id="Node000003" href="$d6/db4/classWsfSignature.html" title=" " alt="" coords="52,80,153,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,120,105,155,100,154,101,125"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="61,5,144,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,45,105,80,100,79,102,50"/>
+</map>

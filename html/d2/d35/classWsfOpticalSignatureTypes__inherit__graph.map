@@ -1,0 +1,9 @@
+<map id="WsfOpticalSignatureTypes" name="WsfOpticalSignatureTypes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,245,182,272"/>
+<area shape="rect" id="Node000002" href="$dc/d79/classWsfObjectTypeList.html" title=" " alt="" coords="15,155,172,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,211,96,246,91,244,92,215"/>
+<area shape="rect" id="Node000003" href="$db/d98/classWsfObjectTypeListBase.html" title="Base class for WsfObjectTypeList. Provides most of the implementation." alt="" coords="12,80,175,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,120,96,155,91,154,92,125"/>
+<area shape="rect" id="Node000004" href="$d5/d92/classWsfObjectTypeListBaseI.html" title="The interface an object type list must support." alt="" coords="10,5,177,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,45,96,80,91,79,93,50"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="WsfXIO_MoverInfo" name="WsfXIO_MoverInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,379,440,405"/>
+<area shape="rect" id="Node000004" href="$d1/da7/classWsfXIO__PlatformInfo.html" title=" " alt="" coords="635,193,781,220"/>
+<area shape="poly" id="edge12_Node000004_Node000001" title=" " alt="" coords="454,387,533,372,573,358,609,339,641,311,667,278,699,222,703,219,671,281,645,315,613,343,575,363,534,377,455,392"/>
+<area shape="rect" id="Node000002" href="$d3/d6a/classWsfXIO__PlatformPartInfo.html" title=" " alt="" coords="914,193,1085,220"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="968,228,903,269,818,316,717,360,665,379,612,393,567,401,522,404,440,402,440,396,522,398,567,395,610,388,663,374,715,355,815,311,901,265,963,229"/>
+<area shape="rect" id="Node000003" href="$d8/d67/classWsfXIO__ObjectInfo.html" title=" " alt="" coords="9,37,145,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,31,172,23,296,8,394,3,491,14,612,41,720,76,823,118,975,193,970,193,821,123,718,81,610,46,490,19,394,9,296,13,173,28,137,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="159,44,275,40,406,41,527,51,576,60,612,74,646,99,672,132,692,165,704,194,699,192,687,168,668,135,642,103,610,78,575,65,527,56,406,46,275,45,161,49"/>
+<area shape="rect" id="Node000007" href="$db/d4c/classWsfXIO__TrackManagerInfo.html" title="Contains information about a track manager." alt="" coords="283,88,463,115"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="159,65,173,67,284,86,280,89,172,72,161,69"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="797,204,917,206,911,207,797,209"/>
+<area shape="rect" id="Node000005" href="$d4/dcb/structWsfXIO__EntityId.html" title=" " alt="" coords="313,139,433,165"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="448,156,527,165,612,179,662,192,657,193,610,184,526,170,448,161"/>
+<area shape="rect" id="Node000006" href="$de/d50/structWsfXIO__EntityType.html" title=" " alt="" coords="304,193,442,220"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="457,204,637,206,632,207,457,209"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="479,101,546,111,612,131,637,144,660,160,697,194,691,193,657,164,634,148,610,136,545,116,479,106"/>
+<area shape="rect" id="Node000008" href="$d3/ded/classWsfRoute.html" title="A collection of WsfWaypoint objects that represent a path to be followed." alt="" coords="333,248,413,275"/>
+<area shape="poly" id="edge9_Node000004_Node000008" title=" " alt="" coords="428,256,514,248,610,233,670,220,665,221,612,239,515,253,429,261"/>
+<area shape="rect" id="Node000009" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="35,223,119,249"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="134,238,334,256,330,260,134,243"/>
+<area shape="rect" id="Node000010" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="5,273,149,300"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="164,277,334,263,330,267,165,282"/>
+<area shape="rect" id="Node000011" href="$df/d72/classWsfAttributeContainer.html" title=" " alt="" coords="298,303,448,329"/>
+<area shape="poly" id="edge13_Node000004_Node000011" title=" " alt="" coords="463,312,537,302,574,293,610,280,634,267,657,251,692,222,696,219,661,255,637,271,612,285,576,298,537,307,464,317"/>
+<area shape="rect" id="Node000012" href="$d4/dd2/structWsfPathConstraints.html" title="Contains constraints used for computing a path in WsfPathComputer." alt="" coords="7,379,147,405"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="162,389,308,391,303,393,162,395"/>
+</map>

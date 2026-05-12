@@ -1,0 +1,9 @@
+<map id="WsfSixDOF_Object.hpp" name="WsfSixDOF_Object.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="113,5,275,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,151,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,32,113,74,110,69,171,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="175,80,213,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,31,196,66,192,63,192,34"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="237,80,290,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="207,30,243,69,238,68,205,35"/>
+</map>

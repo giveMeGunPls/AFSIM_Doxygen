@@ -1,0 +1,9 @@
+<map id="WsfSA_Module" name="WsfSA_Module">
+<area shape="rect" id="Node000001" title=" " alt="" coords="148,5,260,32"/>
+<area shape="rect" id="Node000002" href="$db/daf/classWsfSA__Assess.html" title="This is the assess module of the SA Processor." alt="" coords="5,80,120,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,40,88,82,86,77,163,38"/>
+<area shape="rect" id="Node000003" href="$da/d00/classWsfSA__Perceive.html" title="This is the perceive module of the SA Processor." alt="" coords="143,80,264,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,46,206,81,202,78,202,50"/>
+<area shape="rect" id="Node000004" href="$d4/d32/classWsfSA__Predict.html" title="This is the predict module of the SA Processor." alt="" coords="288,80,400,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,37,322,79,317,80,241,42"/>
+</map>

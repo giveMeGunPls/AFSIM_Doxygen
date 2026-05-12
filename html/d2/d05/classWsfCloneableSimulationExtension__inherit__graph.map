@@ -1,0 +1,13 @@
+<map id="WsfCloneableSimulationExtension" name="WsfCloneableSimulationExtension">
+<area shape="rect" id="Node000001" title=" " alt="" coords="369,64,591,91"/>
+<area shape="rect" id="Node000004" href="$df/d5c/classWsfDrawManager.html" title=" " alt="" coords="688,5,815,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="560,58,685,33,691,32,561,63"/>
+<area shape="rect" id="Node000005" href="$dc/d94/classwsf_1_1coverage_1_1SimulationExtension.html" title=" " alt="" coords="665,56,838,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="607,75,667,77,662,78,607,80"/>
+<area shape="rect" id="Node000006" href="$dd/d48/classwsf_1_1space_1_1AtmosphereSimulationExtension.html" title=" " alt="" coords="639,123,864,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="553,92,664,122,659,122,552,98"/>
+<area shape="rect" id="Node000002" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="157,64,321,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="336,75,371,77,366,78,337,80"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="5,64,109,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,75,158,76,154,78,125,80"/>
+</map>

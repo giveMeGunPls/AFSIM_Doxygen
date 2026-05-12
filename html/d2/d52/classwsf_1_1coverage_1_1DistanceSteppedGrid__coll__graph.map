@@ -1,0 +1,9 @@
+<map id="wsf::coverage::DistanceSteppedGrid" name="wsf::coverage::DistanceSteppedGrid">
+<area shape="rect" id="Node000001" title="A grid that specifies its separation between points as a length across the surface of the Earth." alt="" coords="5,229,241,256"/>
+<area shape="rect" id="Node000002" href="$d4/d84/classwsf_1_1coverage_1_1RectangularGrid.html" title=" " alt="" coords="20,155,226,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,195,125,230,121,228,121,199"/>
+<area shape="rect" id="Node000003" href="$de/d24/classwsf_1_1coverage_1_1Grid.html" title="The Grid object defines the region over which coverage can be computed." alt="" coords="55,80,191,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,120,126,155,120,153,122,125"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="81,5,165,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,45,126,80,120,79,122,50"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="wsf::six_dof::CommonController" name="wsf::six_dof::CommonController">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,5,336,32"/>
+<area shape="rect" id="Node000002" href="$df/d10/classwsf_1_1six__dof_1_1PointMassCommonController.html" title=" " alt="" coords="5,80,221,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,40,145,82,142,77,198,42"/>
+<area shape="rect" id="Node000003" href="$dd/d06/classwsf_1_1six__dof_1_1RigidBodyCommonController.html" title=" " alt="" coords="245,80,458,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,38,324,80,318,79,262,43"/>
+</map>

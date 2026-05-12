@@ -1,0 +1,7 @@
+<map id="WsfTrackClassifier" name="WsfTrackClassifier">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,5,226,32"/>
+<area shape="rect" id="Node000002" href="$d6/d06/classWsfBayesClassifier.html" title=" " alt="" coords="5,80,143,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,42,90,82,87,77,131,43"/>
+<area shape="rect" id="Node000003" href="$dc/d5e/classWsfClassifierTabulated.html" title="A rules based classifier, that gives a user positive control over any mis&#45;classifications." alt="" coords="166,80,323,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,40,233,80,227,80,185,45"/>
+</map>

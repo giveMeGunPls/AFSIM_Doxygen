@@ -1,0 +1,9 @@
+<map id="WsfTrack" name="WsfTrack">
+<area shape="rect" id="Node000001" title="An object that represents an &#39;track&#39; (perception) of something." alt="" coords="107,80,185,107"/>
+<area shape="rect" id="Node000004" href="$da/dd6/classWsfLocalTrack.html" title=" " alt="" coords="92,155,201,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,121,149,156,144,153,144,124"/>
+<area shape="rect" id="Node000002" href="$d8/da5/classWsfMeasurement.html" title="A measurement class that provides WSF&#45;specific interfaces and data extrapolation." alt="" coords="5,5,130,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,40,135,79,130,80,92,45"/>
+<area shape="rect" id="Node000003" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="153,5,296,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,41,161,82,158,78,198,44"/>
+</map>

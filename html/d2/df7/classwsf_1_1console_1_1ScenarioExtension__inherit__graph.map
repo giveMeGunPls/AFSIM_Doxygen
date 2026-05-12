@@ -1,0 +1,7 @@
+<map id="wsf::console::ScenarioExtension" name="wsf::console::ScenarioExtension">
+<area shape="rect" id="Node000001" title="Reads the input for console_output." alt="" coords="5,155,218,181"/>
+<area shape="rect" id="Node000002" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="34,80,189,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,121,114,155,109,153,110,124"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="60,5,163,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="113,45,114,80,109,79,110,50"/>
+</map>
