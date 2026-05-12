@@ -1,0 +1,15 @@
+<map id="WsfEW_TrackEffect" name="WsfEW_TrackEffect">
+<area shape="rect" id="Node000001" title="WsfEW_TrackEffect models and applies track/tracking effects (tracking errors, track drops) to tracks ..." alt="" coords="15,453,157,480"/>
+<area shape="rect" id="Node000002" href="$d9/d12/classWsfEW__PulseEffect.html" title="WsfEW_PulseEffect models and applies base pulse effects for use by other pulse type effects classes." alt="" coords="15,379,157,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,419,88,454,84,452,84,423"/>
+<area shape="rect" id="Node000003" href="$d2/df2/classWsfEW__PowerEffect.html" title=" " alt="" coords="13,304,159,331"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,344,89,379,83,378,85,349"/>
+<area shape="rect" id="Node000004" href="$dc/dff/classWsfEW__RepeaterEffect.html" title=" " alt="" coords="5,229,167,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,269,89,304,83,303,85,274"/>
+<area shape="rect" id="Node000005" href="$de/db7/classWsfEW__RadiusEffect.html" title=" " alt="" coords="11,155,161,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="86,195,89,229,83,229,86,200"/>
+<area shape="rect" id="Node000006" href="$d5/d38/classWsfEW__Effect.html" title=" " alt="" coords="32,80,140,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="86,120,89,155,83,154,86,125"/>
+<area shape="rect" id="Node000007" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="44,5,128,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="86,45,89,80,83,79,86,50"/>
+</map>

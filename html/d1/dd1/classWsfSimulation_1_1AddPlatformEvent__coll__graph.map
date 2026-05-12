@@ -1,0 +1,5 @@
+<map id="WsfSimulation::AddPlatformEvent" name="WsfSimulation::AddPlatformEvent">
+<area shape="rect" id="Node000001" title="An internal event scheduled to add a platform at the specified time." alt="" coords="5,80,192,123"/>
+<area shape="rect" id="Node000002" href="$d9/d04/classWsfEvent.html" title=" " alt="" coords="59,5,138,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,46,101,81,96,79,97,50"/>
+</map>

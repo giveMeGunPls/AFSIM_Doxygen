@@ -1,0 +1,7 @@
+<map id="SphericalMapFunction" name="SphericalMapFunction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,156,181"/>
+<area shape="rect" id="Node000002" href="$d1/db4/classMapPlotFunction.html" title="An abstract base class for sensor_plot functions using MapPlotVariables." alt="" coords="21,80,140,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,121,83,155,78,153,79,124"/>
+<area shape="rect" id="Node000003" href="$de/d65/classFunction.html" title="An abstract base class for sensor_plot function." alt="" coords="45,5,116,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,45,83,80,78,79,79,50"/>
+</map>

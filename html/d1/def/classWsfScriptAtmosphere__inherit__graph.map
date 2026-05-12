@@ -1,0 +1,7 @@
+<map id="WsfScriptAtmosphere" name="WsfScriptAtmosphere">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,5,324,32"/>
+<area shape="rect" id="Node000002" href="$de/da7/classWsfScriptJacchiaRobertsAtmosphere.html" title=" " alt="" coords="5,88,246,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,40,146,90,143,85,215,41"/>
+<area shape="rect" id="Node000003" href="$d1/d98/classWsfScriptPiecewiseExponentialAtmosphere.html" title=" " alt="" coords="270,80,477,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="282,38,344,80,339,79,281,43"/>
+</map>

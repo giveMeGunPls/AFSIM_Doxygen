@@ -1,0 +1,9 @@
+<map id="WsfGeometricSensor::GeometricMode" name="WsfGeometricSensor::GeometricMode">
+<area shape="rect" id="Node000001" title="A mode of the sensor." alt="" coords="5,229,152,272"/>
+<area shape="rect" id="Node000002" href="$d1/da1/classWsfSensorMode.html" title=" " alt="" coords="19,155,138,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,195,81,230,76,228,77,199"/>
+<area shape="rect" id="Node000003" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="40,80,117,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,120,81,155,76,154,78,125"/>
+<area shape="rect" id="Node000004" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="35,5,122,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="79,45,81,80,76,79,78,50"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WsfPathGuidance" name="WsfPathGuidance">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,5,160,32"/>
+<area shape="rect" id="Node000002" href="$db/de0/classWsfWaypointPathGuidance.html" title="A derived guidance class used by WsfMovers that follow WsfWaypoints." alt="" coords="5,80,187,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,46,98,81,94,79,94,50"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="wsf::space::script::OrbitalEventCondition" name="wsf::space::script::OrbitalEventCondition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="17,80,173,123"/>
+<area shape="rect" id="Node000003" href="$d3/d01/classwsf_1_1space_1_1script_1_1OrbitalManeuverCondition.html" title="(Deprecated) Same as OrbitalEventCondition, except named differently, for use with orbital maneuvers." alt="" coords="5,171,185,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,136,98,171,92,169,93,140"/>
+<area shape="rect" id="Node000002" href="$d3/dda/classWsfScriptObjectClass.html" title=" " alt="" coords="19,5,171,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,45,98,80,92,79,94,50"/>
+</map>

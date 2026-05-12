@@ -1,0 +1,21 @@
+<map id="WsfXIO_DrawService" name="WsfXIO_DrawService">
+<area shape="rect" id="Node000001" title="Services WsfXIO_DrawRequests." alt="" coords="206,377,356,404"/>
+<area shape="rect" id="Node000002" href="$dd/d2f/classWsfXIO__Service.html" title=" " alt="" coords="66,279,186,305"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,311,263,376,258,378,158,316"/>
+<area shape="rect" id="Node000003" href="$de/d75/classWsfXIO__Interface.html" title=" " alt="" coords="63,180,189,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,220,129,279,123,278,125,225"/>
+<area shape="rect" id="Node000004" href="$de/d4a/classWsfXIO__InputData.html" title=" " alt="" coords="60,104,192,131"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,143,129,180,123,179,125,148"/>
+<area shape="rect" id="Node000005" href="$d2/d51/classWsfXIO__InputData_1_1InputCallbackList.html" title="An input processing callback list." alt="" coords="5,5,247,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="127,45,129,104,123,103,125,50"/>
+<area shape="rect" id="Node000006" href="$d3/d21/classWsfXIO__Destination.html" title=" " alt="" coords="210,279,351,305"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="283,319,283,378,278,376,279,323"/>
+<area shape="rect" id="Node000007" href="$df/d5c/classWsfDrawManager.html" title=" " alt="" coords="375,279,501,305"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="419,316,373,356,322,379,320,374,370,351,414,317"/>
+<area shape="rect" id="Node000008" href="$dc/d0b/classWsfCloneableSimulationExtension.html" title=" " alt="" coords="327,180,549,207"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="440,220,440,280,436,277,436,224"/>
+<area shape="rect" id="Node000009" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="356,104,520,131"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="439,144,440,181,436,178,437,148"/>
+<area shape="rect" id="Node000010" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="386,5,490,32"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="439,45,440,105,436,103,437,50"/>
+</map>

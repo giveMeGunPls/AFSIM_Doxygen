@@ -1,0 +1,11 @@
+<map id="WsfTaskData" name="WsfTaskData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="91,80,192,107"/>
+<area shape="rect" id="Node000003" href="$d6/d31/classWsfTask.html" title="A class that defines a task to be performed." alt="" coords="105,155,178,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,120,144,155,139,153,140,125"/>
+<area shape="rect" id="Node000002" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="70,5,214,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,45,144,80,139,79,141,50"/>
+<area shape="rect" id="Node000004" href="$d3/d62/classWsfQuantumTask.html" title=" " alt="" coords="5,229,132,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,192,83,231,79,227,116,193"/>
+<area shape="rect" id="Node000005" href="$d1/dfe/classWsfWeaponTask.html" title="A class that defines a task to be performed." alt="" coords="156,229,277,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="167,190,206,229,201,229,165,195"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="WsfSurfaceWaveRadarSensor::RadarMode" name="WsfSurfaceWaveRadarSensor::RadarMode">
+<area shape="rect" id="Node000001" title="A &#39;mode&#39; of the sensor." alt="" coords="37,229,236,272"/>
+<area shape="rect" id="Node000002" href="$d1/da1/classWsfSensorMode.html" title=" " alt="" coords="5,155,124,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,191,121,229,116,230,85,196"/>
+<area shape="rect" id="Node000003" href="$d4/df2/classWsfMode.html" title=" " alt="" coords="26,80,103,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="65,120,67,155,62,154,64,125"/>
+<area shape="rect" id="Node000004" href="$d1/dab/classWsfNamed.html" title=" " alt="" coords="21,5,108,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="65,45,67,80,62,79,64,50"/>
+<area shape="rect" id="Node000005" href="$d7/d88/classWsfSensorBeam.html" title=" " alt="" coords="148,155,269,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="189,192,156,231,153,227,185,194"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="wsf::UCI_InterfaceExtension" name="wsf::UCI_InterfaceExtension">
+<area shape="rect" id="Node000001" title="The OMS / UCI Interface Object to the UCI middleware." alt="" coords="5,155,196,181"/>
+<area shape="rect" id="Node000002" href="$d9/d89/classWsfSimulationExtension.html" title=" " alt="" coords="18,80,183,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,121,103,155,98,153,99,124"/>
+<area shape="rect" id="Node000003" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="49,5,152,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,45,103,80,98,79,99,50"/>
+</map>

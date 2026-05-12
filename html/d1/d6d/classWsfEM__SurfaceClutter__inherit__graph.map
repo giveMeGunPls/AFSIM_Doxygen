@@ -1,0 +1,7 @@
+<map id="WsfEM_SurfaceClutter" name="WsfEM_SurfaceClutter">
+<area shape="rect" id="Node000001" title="Land and sea clutter model." alt="" coords="5,155,162,181"/>
+<area shape="rect" id="Node000002" href="$d9/dc6/classWsfEM__Clutter.html" title="An abstract class for computing clutter power." alt="" coords="28,80,139,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,121,86,155,81,153,82,124"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="42,5,125,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="85,45,86,80,81,79,82,50"/>
+</map>

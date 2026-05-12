@@ -1,0 +1,15 @@
+<map id="WsfEW_SLC_DegradeEffect.hpp" name="WsfEW_SLC_DegradeEffect.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,5,457,32"/>
+<area shape="rect" id="Node000002" href="$d0/dba/WsfEW__EffectTypes_8cpp.html" title=" " alt="" coords="5,155,174,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,38,238,58,188,82,138,120,102,157,99,152,135,116,185,78,236,53,289,36"/>
+<area shape="rect" id="Node000003" href="$d9/d19/WsfEW__PolModEffect_8hpp.html" title=" " alt="" coords="198,80,376,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="331,43,299,82,296,77,326,45"/>
+<area shape="rect" id="Node000005" href="$d2/dce/WsfEW__SLC__Effect_8cpp.html" title=" " alt="" coords="400,155,566,181"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="372,41,474,154,469,154,370,46"/>
+<area shape="rect" id="Node000006" href="$df/d5d/WsfEW__SLC__DegradeEffect_8cpp.html" title=" " alt="" coords="451,80,666,107"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="401,35,525,79,519,80,400,40"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="240,114,125,157,123,152,236,111"/>
+<area shape="rect" id="Node000004" href="$df/d87/WsfEW__PolModEffect_8cpp.html" title=" " alt="" coords="198,155,376,181"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="289,121,289,156,285,153,285,124"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="336,110,451,154,446,154,335,115"/>
+</map>

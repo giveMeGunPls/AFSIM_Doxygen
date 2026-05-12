@@ -1,0 +1,9 @@
+<map id="WsfFuelFlow" name="WsfFuelFlow">
+<area shape="rect" id="Node000001" title="Constant flow rate fuel consumption table object." alt="" coords="154,5,252,32"/>
+<area shape="rect" id="Node000002" href="$db/d5b/classWsfFuelFlow1D.html" title=" " alt="" coords="5,80,121,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,40,89,82,86,77,163,39"/>
+<area shape="rect" id="Node000003" href="$d5/d83/classWsfFuelFlow2D.html" title="Two&#45;Dimensional flow rate fuel consumption table object." alt="" coords="145,80,261,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,46,205,81,201,78,201,50"/>
+<area shape="rect" id="Node000004" href="$db/d78/classWsfFuelFlow3D.html" title="Three&#45;Dimensional flow rate fuel consumption table object." alt="" coords="285,80,401,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,37,321,79,316,80,240,42"/>
+</map>

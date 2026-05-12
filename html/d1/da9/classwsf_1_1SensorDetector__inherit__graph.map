@@ -1,0 +1,9 @@
+<map id="wsf::SensorDetector" name="wsf::SensorDetector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="179,5,321,32"/>
+<area shape="rect" id="Node000002" href="$d6/dec/classwsf_1_1BinaryDetector.html" title="Computation of probability of detection using the binary detection algorithm." alt="" coords="5,88,143,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,41,102,90,100,85,207,37"/>
+<area shape="rect" id="Node000003" href="$db/d8f/classwsf_1_1DetectionProbabilityTable.html" title="Computation of probability of detection using a probability detection table." alt="" coords="166,80,334,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,46,252,81,248,78,248,50"/>
+<area shape="rect" id="Node000004" href="$d5/dec/classwsf_1_1MarcumSwerling.html" title="Computation of probability of detection using the Marcum&#45;Swerling algorithm." alt="" coords="358,88,505,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,36,406,87,401,88,292,41"/>
+</map>

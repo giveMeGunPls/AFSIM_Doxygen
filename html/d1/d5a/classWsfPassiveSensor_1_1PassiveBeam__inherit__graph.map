@@ -1,0 +1,5 @@
+<map id="WsfPassiveSensor::PassiveBeam" name="WsfPassiveSensor::PassiveBeam">
+<area shape="rect" id="Node000001" title="A &#39;beam&#39; of a sensor &#39;mode&#39;." alt="" coords="5,80,228,107"/>
+<area shape="rect" id="Node000002" href="$d7/d88/classWsfSensorBeam.html" title=" " alt="" coords="56,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,46,119,81,114,78,115,50"/>
+</map>

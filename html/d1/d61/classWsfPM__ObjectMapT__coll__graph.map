@@ -1,0 +1,9 @@
+<map id="WsfPM_ObjectMapT&lt; TYPE &gt;" name="WsfPM_ObjectMapT&lt; TYPE &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,256,207,283"/>
+<area shape="rect" id="Node000002" href="$df/d1e/classWsfPM__ObjectMap.html" title=" " alt="" coords="38,180,174,207"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,220,108,257,104,255,104,224"/>
+<area shape="rect" id="Node000003" href="$dd/d03/classWsfPProxyNode.html" title=" " alt="" coords="46,104,166,131"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,143,109,180,103,179,105,148"/>
+<area shape="rect" id="Node000004" href="$d3/d5b/classWsfPProxyPath.html" title="Represents a path or unique key to a value in the proxy." alt="" coords="48,5,164,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,45,109,104,103,103,105,50"/>
+</map>

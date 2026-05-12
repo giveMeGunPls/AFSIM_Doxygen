@@ -1,0 +1,5 @@
+<map id="WsfClockSource" name="WsfClockSource">
+<area shape="rect" id="Node000001" title="Maintain the current simulation clock." alt="" coords="33,5,154,32"/>
+<area shape="rect" id="Node000002" href="$d5/db8/classWsfRealTimeClockSource.html" title="A specialization of WsfClockSource to support a real&#45;time clock." alt="" coords="5,80,182,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,46,96,81,91,79,92,50"/>
+</map>

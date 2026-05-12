@@ -1,0 +1,9 @@
+<map id="WsfStandardInfraredSignature" name="WsfStandardInfraredSignature">
+<area shape="rect" id="Node000001" title="The standard representation of infrared signature using a collection of tables." alt="" coords="5,229,202,256"/>
+<area shape="rect" id="Node000002" href="$db/d86/classWsfInfraredSignature.html" title="An object that represents the infrared signature of a platform." alt="" coords="31,155,176,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,195,106,230,101,228,102,199"/>
+<area shape="rect" id="Node000003" href="$d6/db4/classWsfSignature.html" title=" " alt="" coords="53,80,154,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,120,106,155,101,154,102,125"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="62,5,145,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,45,106,80,101,79,103,50"/>
+</map>

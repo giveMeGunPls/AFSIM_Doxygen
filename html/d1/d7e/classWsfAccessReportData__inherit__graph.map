@@ -1,0 +1,7 @@
+<map id="WsfAccessReportData" name="WsfAccessReportData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,5,237,32"/>
+<area shape="rect" id="Node000002" href="$d4/de2/classWsfAccessReport.html" title="A utility that produces access reports for which platforms have visibility with each other...." alt="" coords="5,80,134,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,42,86,82,83,77,129,43"/>
+<area shape="rect" id="Node000003" href="$d5/dbb/classWsfConfigureAccessReport.html" title="The scenario extension used to configure the access reports object." alt="" coords="157,80,342,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,39,237,80,231,80,185,44"/>
+</map>

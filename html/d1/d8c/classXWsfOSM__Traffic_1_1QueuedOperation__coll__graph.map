@@ -1,0 +1,9 @@
+<map id="XWsfOSM_Traffic::QueuedOperation" name="XWsfOSM_Traffic::QueuedOperation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,242,207"/>
+<area shape="rect" id="Node000002" href="$d3/ded/classWsfRoute.html" title="A collection of WsfWaypoint objects that represent a path to be followed." alt="" coords="83,81,164,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,122,126,181,121,179,121,125"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="14,5,97,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,40,115,80,109,82,77,46"/>
+<area shape="rect" id="Node000004" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="121,5,264,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="173,41,137,83,133,79,169,45"/>
+</map>

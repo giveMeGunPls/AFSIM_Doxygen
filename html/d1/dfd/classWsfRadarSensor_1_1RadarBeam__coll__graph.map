@@ -1,0 +1,9 @@
+<map id="WsfRadarSensor::RadarBeam" name="WsfRadarSensor::RadarBeam">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,204,207"/>
+<area shape="rect" id="Node000002" href="$d7/d88/classWsfSensorBeam.html" title=" " alt="" coords="23,81,143,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,121,104,180,99,179,87,125"/>
+<area shape="rect" id="Node000003" href="$d9/dc6/classWsfEM__Clutter.html" title="An abstract class for computing clutter power." alt="" coords="168,81,279,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,118,122,182,119,177,193,118"/>
+<area shape="rect" id="Node000004" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="182,5,265,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="225,45,226,82,221,80,222,49"/>
+</map>

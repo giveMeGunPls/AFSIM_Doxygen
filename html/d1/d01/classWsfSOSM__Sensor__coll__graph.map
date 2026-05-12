@@ -1,0 +1,38 @@
+<map id="WsfSOSM_Sensor" name="WsfSOSM_Sensor">
+<area shape="rect" id="Node000001" title="A sensor that utilizes the &#39;Spectral Optical Detection Model&#39; (SOSM)." alt="" coords="1388,184,1520,211"/>
+<area shape="rect" id="Node000002" href="$d0/d47/classWsfSensor.html" title=" " alt="" coords="1092,157,1179,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1194,173,1390,192,1385,192,1194,178"/>
+<area shape="rect" id="Node000003" href="$d1/d94/classWsfArticulatedPart.html" title=" " alt="" coords="748,107,880,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="895,122,966,129,1041,140,1096,157,1091,157,1040,145,966,134,895,127"/>
+<area shape="rect" id="Node000004" href="$d6/d4f/classWsfPlatformPart.html" title=" " alt="" coords="410,107,528,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="544,117,751,119,746,121,545,123"/>
+<area shape="rect" id="Node000005" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="20,40,103,67"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="119,59,329,92,412,108,407,110,328,97,119,64"/>
+<area shape="rect" id="Node000012" href="$d0/dc6/classWsfUncloneableObject.html" title="An object that does not support Clone." alt="" coords="170,5,325,32"/>
+<area shape="poly" id="edge12_Node000012_Node000005" title=" " alt="" coords="117,41,174,31,171,34,120,45"/>
+<area shape="rect" id="Node000006" href="$d8/d01/classWsfComponentT.html" title=" " alt="" coords="167,107,328,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="344,117,412,119,407,121,344,123"/>
+<area shape="rect" id="Node000007" href="$d8/d7b/classWsfComponent.html" title=" " alt="" coords="5,107,118,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="132,117,169,119,164,121,134,123"/>
+<area shape="rect" id="Node000008" href="$d1/ddb/classWsfUniqueId.html" title=" " alt="" coords="199,157,296,184"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="310,154,412,133,407,134,312,159"/>
+<area shape="rect" id="Node000009" href="$df/d7b/classWsfAuxDataEnabled.html" title=" " alt="" coords="176,208,319,235"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="318,199,327,194,342,182,351,169,360,156,376,143,407,132,412,130,379,148,364,160,355,172,345,185,330,198,320,204"/>
+<area shape="rect" id="Node000010" href="$d4/d59/classWsfSinglePlatformObserver.html" title=" " alt="" coords="378,157,561,184"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="576,152,751,129,746,130,577,158"/>
+<area shape="rect" id="Node000011" href="$d8/dfc/classWsfMaskingPattern.html" title=" " alt="" coords="401,28,538,55"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="546,56,755,105,749,107,546,61"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="340,26,403,33,398,35,341,31"/>
+<area shape="rect" id="Node000013" href="$dd/db4/classWsfCategoryList.html" title="Contains the &#39;categories&#39; to which an object belongs." alt="" coords="754,157,874,184"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="889,168,1095,170,1089,171,889,173"/>
+<area shape="rect" id="Node000014" href="$de/d86/classWsfSOSM__Interface.html" title=" " alt="" coords="1064,208,1207,235"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="1222,220,1291,219,1363,213,1391,212,1396,211,1364,219,1292,224,1222,226"/>
+<area shape="rect" id="Node000015" href="$db/dfa/classWsfScenarioExtension.html" title=" " alt="" coords="737,208,891,235"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="907,219,1067,221,1061,221,907,224"/>
+<area shape="rect" id="Node000016" href="$d8/d11/classWsfExtension.html" title="The base class for application, scenario and simulation extensions." alt="" coords="418,208,521,235"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="537,219,740,221,734,222,537,224"/>
+<area shape="rect" id="Node000017" href="$df/d41/classSOSM__Manager.html" title="A singleton class that manages SOSM data." alt="" coords="756,259,873,285"/>
+<area shape="poly" id="edge17_Node000014_Node000017" title=" " alt="" coords="888,266,962,260,1040,248,1093,236,1098,235,1041,253,962,265,889,272"/>
+<area shape="rect" id="Node000018" href="$da/d30/classSOSM__TestCommands.html" title="Commands that can be used to test the model." alt="" coords="390,259,549,285"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="565,269,758,272,752,272,565,275"/>
+</map>
