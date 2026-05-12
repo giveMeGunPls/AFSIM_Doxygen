@@ -1,0 +1,5 @@
+<map id="WsfMessageProcessor::DelayRequest" name="WsfMessageProcessor::DelayRequest">
+<area shape="rect" id="Node000001" title="A unit of work within a time delay queue." alt="" coords="5,96,163,139"/>
+<area shape="rect" id="Node000002" href="$d2/d85/classWsfTimeDelayQueue_1_1Request.html" title=" " alt="" coords="7,5,161,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,62,87,97,81,95,82,66"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="MessageSizeChecker.hpp" name="MessageSizeChecker.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="304,5,479,32"/>
+<area shape="rect" id="Node000002" href="$da/d13/FieldTypes_8hpp.html" title=" " alt="" coords="337,80,446,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="393,30,394,66,389,63,390,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="234,229,354,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,96,253,101,158,111,72,128,41,141,20,156,8,178,9,187,13,195,31,209,59,220,137,233,221,241,216,242,136,239,58,225,28,214,9,198,4,188,3,177,16,153,38,136,71,123,157,105,253,96,339,94"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="30,155,102,181"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="336,109,118,156,116,151,337,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="125,155,178,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="347,109,193,157,192,151,351,106"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="202,155,248,181"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="365,106,263,153,261,148,360,108"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="272,155,340,181"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="379,106,334,147,331,142,374,108"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="365,155,418,181"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="393,105,394,140,389,138,390,109"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="443,155,500,181"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="406,105,449,145,444,144,405,110"/>
+<area shape="rect" id="Node000010" href="$dd/dbe/MessagePacking_8hpp.html" title=" " alt="" coords="524,155,670,181"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="428,105,549,149,544,149,427,110"/>
+<area shape="rect" id="Node000011" href="$d5/d8e/NumericConversion_8hpp.html" title=" " alt="" coords="693,155,855,181"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="447,102,695,151,690,152,447,108"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="879,155,968,181"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="447,97,628,118,867,154,861,155,628,123,447,103"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="992,155,1081,181"/>
+<area shape="poly" id="edge13_Node000002_Node000013" title=" " alt="" coords="446,96,674,115,823,131,980,154,975,155,822,136,673,120,446,101"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="546,182,363,228,361,223,541,182"/>
+</map>

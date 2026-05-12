@@ -1,0 +1,5 @@
+<map id="WsfFrameStepSimulationInput" name="WsfFrameStepSimulationInput">
+<area shape="rect" id="Node000001" title="Reads inputs specific to frame&#45;stepped simulations." alt="" coords="5,5,205,32"/>
+<area shape="rect" id="Node000002" href="$de/d15/classWsfDefaultSimulationInput.html" title="Reads inputs for both WsfEventStepSimulation and WsfFrameStepSimulation." alt="" coords="16,80,194,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,46,107,81,103,79,103,50"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="WsfSpaceScriptOrientation.hpp" name="WsfSpaceScriptOrientation.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="148,5,353,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,144,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,35,121,76,118,71,222,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="167,80,334,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="252,30,253,66,248,63,249,35"/>
+<area shape="rect" id="Node000004" href="$d5/d4b/WsfScriptObjectClass_8hpp.html" title=" " alt="" coords="358,80,570,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,30,415,74,410,75,287,35"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="338,155,435,181"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="453,106,412,146,410,142,448,108"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="459,155,621,181"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="478,105,518,145,513,143,476,110"/>
+</map>

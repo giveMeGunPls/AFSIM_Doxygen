@@ -1,0 +1,16 @@
+<map id="WsfCategoryList.hpp" name="WsfCategoryList.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="48,5,192,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,155,102,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,30,83,81,62,141,57,139,78,79,109,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="92,80,149,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="121,30,123,65,118,64,119,35"/>
+<area shape="rect" id="Node000004" href="$d6/d11/WsfStringId_8hpp.html" title=" " alt="" coords="173,80,288,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="140,30,202,70,196,72,139,35"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="201,109,99,151,97,146,198,105"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="125,155,184,181"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="220,106,180,146,177,142,215,108"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="208,155,262,181"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="233,105,236,140,231,138,230,109"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="286,155,392,181"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="250,105,310,146,305,146,249,110"/>
+</map>

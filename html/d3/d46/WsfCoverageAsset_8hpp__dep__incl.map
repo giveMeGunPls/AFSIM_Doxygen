@@ -1,0 +1,162 @@
+<map id="WsfCoverageAsset.hpp" name="WsfCoverageAsset.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="3382,5,3543,32"/>
+<area shape="rect" id="Node000002" href="$d4/d37/WsfCoverage_8hpp.html" title=" " alt="" coords="4038,229,4164,256"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3419,38,3393,55,3374,71,3364,88,3365,96,3370,105,3389,123,3416,139,3487,167,3575,190,3674,207,3877,228,4040,240,4035,240,3876,233,3673,212,3574,195,3485,172,3413,144,3386,127,3366,108,3360,98,3359,87,3370,68,3390,51,3414,40"/>
+<area shape="rect" id="Node000008" href="$de/d30/WsfCoverageMeasureCSV__Output_8cpp.html" title=" " alt="" coords="2449,304,2628,347"/>
+<area shape="poly" id="edge74_Node000001_Node000008" title=" " alt="" coords="3364,20,3279,27,3176,37,3067,54,2961,83,2900,106,2840,133,2727,196,2632,258,2566,306,2564,301,2629,254,2724,192,2837,129,2898,101,2959,77,3066,49,3176,31,3279,21,3369,20"/>
+<area shape="rect" id="Node000009" href="$de/d22/WsfCoverageMeasureGridStats_8cpp.html" title=" " alt="" coords="2867,312,3098,339"/>
+<area shape="poly" id="edge75_Node000001_Node000009" title=" " alt="" coords="3364,22,3276,29,3179,39,3095,56,3063,68,3040,82,3019,108,3003,138,2992,171,2985,205,2981,267,2983,313,2979,310,2976,267,2980,204,2987,170,2998,136,3014,105,3037,78,3060,63,3093,51,3179,33,3276,23,3370,21"/>
+<area shape="rect" id="Node000011" href="$d5/da3/WsfCoverageMeasureLatLonStats_8cpp.html" title=" " alt="" coords="2653,304,2843,347"/>
+<area shape="poly" id="edge76_Node000001_Node000011" title=" " alt="" coords="3364,26,3170,48,3078,63,3013,82,2971,105,2932,133,2860,196,2803,257,2764,306,2761,301,2799,254,2856,192,2928,129,2969,101,3011,78,3077,58,3170,43,3370,26"/>
+<area shape="rect" id="Node000020" href="$d7/dda/WsfCoverageSimulationExtension_8cpp.html" title=" " alt="" coords="1463,403,1708,429"/>
+<area shape="poly" id="edge95_Node000001_Node000020" title=" " alt="" coords="3364,21,2839,33,2479,42,2103,56,1747,75,1447,100,1330,115,1241,131,1185,149,1171,158,1167,167,1167,244,1166,301,1173,322,1191,345,1209,357,1235,368,1303,385,1383,398,1465,408,1459,408,1382,403,1302,391,1233,373,1207,362,1188,349,1169,325,1161,301,1161,244,1161,166,1167,155,1183,144,1240,126,1330,109,1447,95,1746,70,2102,51,2479,37,2839,28,3370,21"/>
+<area shape="rect" id="Node000026" href="$d3/d8d/WsfSimpleCoverage_8cpp.html" title=" " alt="" coords="3122,312,3288,339"/>
+<area shape="poly" id="edge99_Node000001_Node000026" title=" " alt="" coords="3364,21,3279,27,3188,37,3109,55,3080,67,3061,82,3051,96,3045,112,3045,144,3058,177,3080,209,3107,240,3137,268,3190,312,3184,311,3133,272,3103,244,3075,213,3053,179,3040,145,3040,111,3046,94,3057,78,3077,62,3107,49,3187,32,3279,22,3370,20"/>
+<area shape="rect" id="Node000027" href="$d9/d7f/WsfCoverageAccessDuration_8hpp.html" title=" " alt="" coords="3570,80,3790,107"/>
+<area shape="poly" id="edge30_Node000001_Node000027" title=" " alt="" coords="3515,35,3645,80,3639,79,3515,40"/>
+<area shape="rect" id="Node000029" href="$d5/d3c/WsfCoverageAssetSpecification_8hpp.html" title=" " alt="" coords="3070,80,3306,107"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="3403,36,3237,82,3236,77,3397,37"/>
+<area shape="rect" id="Node000031" href="$df/d46/WsfCoverageCoverageTime_8hpp.html" title=" " alt="" coords="3814,80,4026,107"/>
+<area shape="poly" id="edge36_Node000001_Node000031" title=" " alt="" coords="3558,32,3843,79,3837,79,3558,38"/>
+<area shape="rect" id="Node000032" href="$d7/d6f/WsfCoverageGrid_8hpp.html" title=" " alt="" coords="2022,229,2172,256"/>
+<area shape="poly" id="edge39_Node000001_Node000032" title=" " alt="" coords="3364,19,3218,24,3026,32,2813,51,2705,65,2599,83,2459,116,2324,158,2209,200,2128,231,2127,226,2207,195,2322,153,2458,111,2598,77,2704,60,2812,45,3026,27,3218,19,3370,19"/>
+<area shape="rect" id="Node000050" href="$d5/d14/WsfCoverageN__AssetCoverage_8hpp.html" title=" " alt="" coords="4050,80,4283,107"/>
+<area shape="poly" id="edge77_Node000001_Node000050" title=" " alt="" coords="3558,27,4052,80,4047,80,3558,32"/>
+<area shape="rect" id="Node000051" href="$db/dfc/WsfCoverageNumberOfAccesses_8hpp.html" title=" " alt="" coords="4307,80,4552,107"/>
+<area shape="poly" id="edge80_Node000001_Node000051" title=" " alt="" coords="3558,24,4296,77,4309,81,4304,81,4296,83,3558,29"/>
+<area shape="rect" id="Node000052" href="$db/d20/WsfCoverageNumberOfGaps_8hpp.html" title=" " alt="" coords="4575,80,4793,107"/>
+<area shape="poly" id="edge83_Node000001_Node000052" title=" " alt="" coords="3558,21,3994,41,4564,77,4577,81,4572,81,4564,83,3993,47,3558,26"/>
+<area shape="rect" id="Node000053" href="$d7/d29/WsfCoverageRawDataOutput_8hpp.html" title=" " alt="" coords="5288,80,5509,107"/>
+<area shape="poly" id="edge86_Node000001_Node000053" title=" " alt="" coords="3558,18,4273,33,4769,50,5276,77,5291,81,5286,81,5276,83,4769,56,4272,38,3558,24"/>
+<area shape="rect" id="Node000056" href="$de/d97/WsfCoverageRevisitTime_8hpp.html" title=" " alt="" coords="4816,80,5013,107"/>
+<area shape="poly" id="edge92_Node000001_Node000056" title=" " alt="" coords="3559,19,4090,37,4445,54,4806,77,4819,81,4814,81,4805,83,4445,59,4090,42,3559,25"/>
+<area shape="rect" id="Node000057" href="$d9/d97/WsfCoverageTimeAverageGap_8hpp.html" title=" " alt="" coords="5037,80,5264,107"/>
+<area shape="poly" id="edge96_Node000001_Node000057" title=" " alt="" coords="3558,19,4176,36,4597,53,5026,77,5039,81,5034,81,5025,83,4596,59,4175,41,3559,24"/>
+<area shape="rect" id="Node000058" href="$d8/d1c/WsfSimpleCoverage_8hpp.html" title=" " alt="" coords="3380,80,3546,107"/>
+<area shape="poly" id="edge100_Node000001_Node000058" title=" " alt="" coords="3464,46,3465,81,3461,78,3461,50"/>
+<area shape="rect" id="Node000003" href="$de/da6/WsfCoverage_8cpp.html" title=" " alt="" coords="2057,403,2183,429"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="4180,253,4305,276,4355,289,4382,302,4389,314,4392,326,4390,337,4381,349,4295,358,4080,367,3411,387,2184,416,2183,411,3411,382,4080,362,4295,352,4379,344,4385,335,4387,326,4384,316,4378,306,4353,294,4304,281,4180,258"/>
+<area shape="rect" id="Node000004" href="$d4/d54/WsfCoverageAccessDuration_8cpp.html" title=" " alt="" coords="3513,312,3732,339"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="4025,257,3699,314,3698,309,4020,257"/>
+<area shape="rect" id="Node000005" href="$d3/dcd/WsfCoverageCoverageTime_8cpp.html" title=" " alt="" coords="3757,312,3968,339"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="4052,261,3901,314,3900,309,4047,262"/>
+<area shape="rect" id="Node000006" href="$d2/de4/WsfCoverageIntervalConstraint_8cpp.html" title=" " alt="" coords="5632,312,5861,339"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="4180,241,4423,243,4778,251,5195,269,5410,283,5620,301,5679,312,5674,311,5620,307,5409,289,5195,275,4778,256,4423,248,4180,247"/>
+<area shape="rect" id="Node000007" href="$dd/d18/WsfCoverageMeasure_8cpp.html" title=" " alt="" coords="3313,312,3490,339"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="4020,250,3789,272,3645,288,3502,307,3460,314,3459,309,3501,301,3645,282,3788,267,4025,249"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="4020,246,3335,268,2935,285,2768,295,2642,307,2629,308,2628,303,2641,301,2768,290,2934,280,3335,262,4025,245"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="4020,246,3631,266,3373,283,3111,307,3056,314,3055,309,3110,301,3372,278,3631,261,4026,246"/>
+<area shape="rect" id="Node000010" href="$d4/df3/WsfCoverageMeasureGridStatsOutput_8cpp.html" title=" " alt="" coords="4634,304,4840,347"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="4180,251,4198,253,4411,276,4623,301,4636,306,4631,306,4622,307,4410,281,4197,259,4180,257"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="4020,244,3818,249,3529,258,3195,276,3023,289,2855,307,2844,308,2843,303,2854,301,3023,284,3194,270,3529,252,3818,244,4025,244"/>
+<area shape="rect" id="Node000012" href="$dc/de7/WsfCoverageMeasureLatLonStatsOutput_8cpp.html" title=" " alt="" coords="4178,304,4368,347"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="4142,260,4232,304,4226,303,4141,265"/>
+<area shape="rect" id="Node000013" href="$d5/d99/WsfCoverageMeasureTextOutput_8cpp.html" title=" " alt="" coords="2185,312,2426,339"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="4020,244,3760,248,3369,255,2908,273,2671,288,2438,307,2379,314,2378,309,2437,301,2670,282,2908,268,3368,250,3760,242,4025,244"/>
+<area shape="rect" id="Node000014" href="$db/d81/WsfCoverageN__AssetCoverage_8cpp.html" title=" " alt="" coords="4865,312,5098,339"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="4180,251,4198,253,4382,268,4525,276,4668,284,4852,301,4909,311,4904,311,4852,307,4668,289,4525,281,4381,274,4197,259,4180,257"/>
+<area shape="rect" id="Node000015" href="$db/d97/WsfCoverageNumberOfAccesses_8cpp.html" title=" " alt="" coords="5122,312,5366,339"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="4180,244,4580,261,4843,278,5111,301,5170,311,5165,311,5110,307,4843,283,4579,266,4180,249"/>
+<area shape="rect" id="Node000016" href="$d4/d80/WsfCoverageNumberOfGaps_8cpp.html" title=" " alt="" coords="5390,312,5607,339"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="4180,242,4388,245,4685,254,5029,272,5379,301,5434,311,5429,311,5378,307,5028,277,4684,260,4388,250,4180,247"/>
+<area shape="rect" id="Node000017" href="$df/d1f/WsfCoverageRevisitTime_8cpp.html" title=" " alt="" coords="5886,312,6082,339"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="4180,242,5013,260,5509,278,5717,289,5874,301,5926,312,5921,311,5873,307,5716,294,5509,283,5013,266,4180,248"/>
+<area shape="rect" id="Node000018" href="$d3/d00/WsfCoverageSimulationExtension_8hpp.html" title=" " alt="" coords="1815,312,2060,339"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="4020,245,3268,263,2728,280,2173,307,2061,315,2060,310,2173,301,2728,275,3268,258,4025,245"/>
+<area shape="rect" id="Node000021" href="$d6/d11/WsfCoverageTimeAverageGap_8cpp.html" title=" " alt="" coords="6106,312,6334,339"/>
+<area shape="poly" id="edge21_Node000002_Node000021" title=" " alt="" coords="4180,242,5115,260,5680,278,5916,289,6095,301,6154,312,6149,311,6094,307,5916,294,5680,283,5115,265,4180,248"/>
+<area shape="rect" id="Node000022" href="$de/d8c/WsfCoverageTypes_8hpp.html" title=" " alt="" coords="3993,312,4154,339"/>
+<area shape="poly" id="edge22_Node000002_Node000022" title=" " alt="" coords="4094,269,4079,314,4076,310,4090,272"/>
+<area shape="rect" id="Node000024" href="$d3/da0/WsfSensorCoverage_8hpp.html" title=" " alt="" coords="4443,312,4610,339"/>
+<area shape="poly" id="edge26_Node000002_Node000024" title=" " alt="" coords="4180,256,4424,301,4465,312,4460,311,4424,307,4180,261"/>
+<area shape="poly" id="edge29_Node000002_Node000026" title=" " alt="" coords="4020,247,3707,266,3505,283,3302,307,3260,314,3260,309,3301,301,3504,277,3706,261,4025,246"/>
+<area shape="poly" id="edge18_Node000018_Node000003" title=" " alt="" coords="1978,343,2097,402,2091,402,1977,348"/>
+<area shape="rect" id="Node000019" href="$d3/d94/WsfCoverageScenarioExtension_8cpp.html" title=" " alt="" coords="1797,403,2032,429"/>
+<area shape="poly" id="edge19_Node000018_Node000019" title=" " alt="" coords="1932,352,1920,404,1916,400,1928,356"/>
+<area shape="poly" id="edge20_Node000018_Node000020" title=" " alt="" coords="1875,343,1636,405,1635,399,1869,343"/>
+<area shape="poly" id="edge23_Node000022_Node000019" title=" " alt="" coords="4011,342,3980,349,3687,377,3438,389,3218,389,3014,383,2809,375,2589,372,2340,378,2046,397,1987,405,1986,399,2045,392,2339,372,2589,367,2809,370,3014,377,3218,384,3438,384,3687,372,3980,344,4005,343"/>
+<area shape="poly" id="edge24_Node000022_Node000020" title=" " alt="" coords="4011,342,3980,349,3767,366,3501,377,3201,382,2884,383,2266,385,2000,389,1785,397,1697,405,1696,399,1785,392,1999,384,2266,380,2884,378,3201,376,3501,371,3766,361,3980,344,4005,343"/>
+<area shape="rect" id="Node000023" href="$dc/de5/WsfCoverageTypes_8cpp.html" title=" " alt="" coords="4219,403,4381,429"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="4120,342,4270,402,4265,402,4119,347"/>
+<area shape="poly" id="edge27_Node000024_Node000023" title=" " alt="" coords="4483,344,4333,405,4332,399,4478,345"/>
+<area shape="rect" id="Node000025" href="$d3/d3f/WsfSensorCoverage_8cpp.html" title=" " alt="" coords="3231,403,3398,429"/>
+<area shape="poly" id="edge28_Node000024_Node000025" title=" " alt="" coords="4456,342,4424,349,4130,380,3838,399,3584,411,3399,416,3399,411,3584,405,3838,394,4129,374,4424,344,4451,342"/>
+<area shape="poly" id="edge31_Node000027_Node000004" title=" " alt="" coords="3675,120,3628,314,3624,310,3671,124"/>
+<area shape="rect" id="Node000028" href="$d7/da7/WsfCoverageMeasureTypes_8cpp.html" title=" " alt="" coords="4309,155,4520,181"/>
+<area shape="poly" id="edge32_Node000027_Node000028" title=" " alt="" coords="3805,104,4311,156,4306,156,3805,110"/>
+<area shape="poly" id="edge34_Node000029_Node000002" title=" " alt="" coords="3229,111,3319,147,3426,179,3598,209,3769,227,3922,235,4040,241,4035,241,3922,241,3769,232,3597,214,3425,184,3317,152,3229,116"/>
+<area shape="rect" id="Node000030" href="$d0/d5c/WsfCoverageAssetSpecification_8cpp.html" title=" " alt="" coords="3070,155,3306,181"/>
+<area shape="poly" id="edge35_Node000029_Node000030" title=" " alt="" coords="3190,120,3190,156,3186,153,3186,124"/>
+<area shape="poly" id="edge37_Node000031_Node000005" title=" " alt="" coords="3915,120,3868,314,3864,310,3911,124"/>
+<area shape="poly" id="edge38_Node000031_Node000028" title=" " alt="" coords="4022,107,4331,154,4325,154,4021,112"/>
+<area shape="poly" id="edge40_Node000032_Node000003" title=" " alt="" coords="2103,269,2121,404,2116,401,2099,273"/>
+<area shape="poly" id="edge54_Node000032_Node000007" title=" " alt="" coords="2188,241,2389,244,2665,253,2980,271,3142,284,3300,301,3348,312,3343,311,3300,307,3142,290,2980,276,2664,258,2388,249,2188,247"/>
+<area shape="poly" id="edge55_Node000032_Node000008" title=" " alt="" coords="2186,256,2438,301,2451,306,2446,306,2437,307,2186,262"/>
+<area shape="poly" id="edge56_Node000032_Node000009" title=" " alt="" coords="2188,246,2485,266,2669,282,2855,301,2911,311,2905,311,2854,307,2669,287,2484,272,2188,252"/>
+<area shape="poly" id="edge57_Node000032_Node000011" title=" " alt="" coords="2188,249,2395,270,2640,301,2655,306,2650,306,2640,307,2395,276,2188,255"/>
+<area shape="poly" id="edge58_Node000032_Node000013" title=" " alt="" coords="2144,259,2275,312,2270,311,2144,265"/>
+<area shape="poly" id="edge71_Node000032_Node000018" title=" " alt="" coords="2062,262,1963,314,1961,309,2056,264"/>
+<area shape="poly" id="edge72_Node000032_Node000025" title=" " alt="" coords="2110,268,2136,310,2154,329,2175,344,2198,353,2236,361,2343,375,2483,386,2644,395,2974,406,3233,414,3228,414,2974,412,2643,400,2483,392,2342,380,2235,366,2197,358,2172,349,2150,333,2132,313,2107,273"/>
+<area shape="poly" id="edge73_Node000032_Node000026" title=" " alt="" coords="2187,242,2359,246,2589,256,2849,273,3111,301,3155,311,3150,311,3110,307,2848,279,2589,261,2359,251,2188,248"/>
+<area shape="rect" id="Node000033" href="$d9/d6d/WsfCoverageCompositeGrid_8hpp.html" title=" " alt="" coords="459,312,672,339"/>
+<area shape="poly" id="edge41_Node000032_Node000033" title=" " alt="" coords="2004,244,1775,249,1447,257,1069,275,875,289,684,307,632,314,630,309,684,301,874,284,1069,270,1447,252,1775,244,2009,244"/>
+<area shape="rect" id="Node000036" href="$dc/da1/WsfCoverageExistingPlatformGrid_8hpp.html" title=" " alt="" coords="141,304,339,347"/>
+<area shape="poly" id="edge44_Node000032_Node000036" title=" " alt="" coords="2004,246,1356,264,906,281,447,307,340,316,338,311,446,301,906,276,1356,259,2009,245"/>
+<area shape="rect" id="Node000038" href="$d0/db5/WsfCoverageGrid_8cpp.html" title=" " alt="" coords="1201,312,1351,339"/>
+<area shape="poly" id="edge47_Node000032_Node000038" title=" " alt="" coords="2004,248,1719,267,1541,283,1363,307,1325,314,1324,309,1362,301,1541,278,1719,262,2009,247"/>
+<area shape="rect" id="Node000039" href="$d9/d5a/WsfCoverageGridPoint_8cpp.html" title=" " alt="" coords="1375,312,1556,339"/>
+<area shape="poly" id="edge48_Node000032_Node000039" title=" " alt="" coords="2004,252,1806,276,1568,307,1526,314,1526,309,1568,301,1805,270,2009,252"/>
+<area shape="rect" id="Node000040" href="$d8/dc7/WsfCoverageGridTypes_8hpp.html" title=" " alt="" coords="941,312,1126,339"/>
+<area shape="poly" id="edge49_Node000032_Node000040" title=" " alt="" coords="2004,249,1649,271,1420,287,1190,307,1125,314,1124,309,1189,301,1420,281,1648,265,2009,248"/>
+<area shape="rect" id="Node000041" href="$d2/d17/WsfCoverageOverlayOutput_8cpp.html" title=" " alt="" coords="1580,312,1790,339"/>
+<area shape="poly" id="edge59_Node000032_Node000041" title=" " alt="" coords="2020,259,1751,314,1750,309,2015,260"/>
+<area shape="rect" id="Node000042" href="$d2/d57/WsfCoverageRectangularGrid_8hpp.html" title=" " alt="" coords="696,312,917,339"/>
+<area shape="poly" id="edge60_Node000032_Node000042" title=" " alt="" coords="2004,246,1812,252,1544,262,1238,280,928,307,876,314,875,309,928,301,1238,274,1544,257,1811,247,2009,245"/>
+<area shape="rect" id="Node000034" href="$d0/d61/WsfCoverageCompositeGrid_8cpp.html" title=" " alt="" coords="555,403,768,429"/>
+<area shape="poly" id="edge42_Node000033_Node000034" title=" " alt="" coords="591,347,650,402,645,402,589,352"/>
+<area shape="rect" id="Node000035" href="$d3/d16/WsfCoverageGridTypes_8cpp.html" title=" " alt="" coords="549,576,734,603"/>
+<area shape="poly" id="edge43_Node000033_Node000035" title=" " alt="" coords="441,338,388,352,341,371,325,384,315,399,313,416,318,436,337,466,360,491,388,513,419,531,485,558,551,577,545,576,483,563,416,536,385,518,357,495,333,469,314,438,307,416,310,397,321,380,339,367,386,347,446,336"/>
+<area shape="poly" id="edge46_Node000036_Node000035" title=" " alt="" coords="249,359,264,400,283,445,311,489,347,526,381,542,431,556,551,578,545,578,430,561,379,547,344,530,307,493,279,448,259,402,247,364"/>
+<area shape="rect" id="Node000037" href="$d2/d0e/WsfCoverageExistingPlatformGrid_8cpp.html" title=" " alt="" coords="5,395,203,437"/>
+<area shape="poly" id="edge45_Node000036_Node000037" title=" " alt="" coords="194,357,137,396,134,392,197,353"/>
+<area shape="poly" id="edge52_Node000040_Node000019" title=" " alt="" coords="1142,338,1190,344,1455,369,1720,392,1799,402,1794,402,1720,397,1454,374,1189,349,1142,344"/>
+<area shape="poly" id="edge53_Node000040_Node000020" title=" " alt="" coords="1118,339,1146,344,1502,402,1497,402,1145,349,1118,345"/>
+<area shape="poly" id="edge50_Node000040_Node000034" title=" " alt="" coords="963,343,715,405,714,399,968,342"/>
+<area shape="poly" id="edge51_Node000040_Node000035" title=" " alt="" coords="1112,340,1190,363,1221,377,1241,393,1261,429,1269,463,1263,496,1240,530,1215,543,1169,554,1034,571,876,582,735,588,735,583,876,577,1034,566,1168,549,1213,538,1237,526,1258,494,1264,463,1256,431,1237,396,1218,382,1188,368,1112,345"/>
+<area shape="rect" id="Node000043" href="$d9/df4/WsfCoverageDistanceSteppedGrid_8hpp.html" title=" " alt="" coords="329,395,530,437"/>
+<area shape="poly" id="edge61_Node000042_Node000043" title=" " alt="" coords="735,344,519,397,517,391,740,342"/>
+<area shape="rect" id="Node000045" href="$d8/d2d/WsfCoverageLatLonGrid_8hpp.html" title=" " alt="" coords="1037,403,1227,429"/>
+<area shape="poly" id="edge64_Node000042_Node000045" title=" " alt="" coords="868,341,1088,402,1083,402,868,346"/>
+<area shape="rect" id="Node000049" href="$dc/d2d/WsfCoverageRectangularGrid_8cpp.html" title=" " alt="" coords="792,403,1013,429"/>
+<area shape="poly" id="edge70_Node000042_Node000049" title=" " alt="" coords="832,347,892,403,886,402,831,352"/>
+<area shape="poly" id="edge63_Node000043_Node000035" title=" " alt="" coords="430,451,438,491,445,510,457,526,476,544,499,557,551,578,546,577,497,562,473,548,453,530,441,512,433,493,427,455"/>
+<area shape="rect" id="Node000044" href="$da/da8/WsfCoverageDistanceSteppedGrid_8cpp.html" title=" " alt="" coords="467,485,669,528"/>
+<area shape="poly" id="edge62_Node000043_Node000044" title=" " alt="" coords="475,443,538,485,533,485,474,449"/>
+<area shape="poly" id="edge65_Node000045_Node000035" title=" " alt="" coords="1084,435,678,578,677,573,1079,435"/>
+<area shape="rect" id="Node000046" href="$dd/d29/WsfCoverageLatLonGrid_8cpp.html" title=" " alt="" coords="1037,493,1227,520"/>
+<area shape="poly" id="edge66_Node000045_Node000046" title=" " alt="" coords="1134,443,1134,494,1130,491,1130,447"/>
+<area shape="rect" id="Node000047" href="$d0/daa/WsfCoverageZoneBasedGrid_8hpp.html" title=" " alt="" coords="1301,493,1518,520"/>
+<area shape="poly" id="edge67_Node000045_Node000047" title=" " alt="" coords="1187,432,1372,493,1367,493,1186,437"/>
+<area shape="poly" id="edge68_Node000047_Node000035" title=" " alt="" coords="1322,523,1283,531,983,563,735,584,734,578,982,557,1282,525,1317,523"/>
+<area shape="rect" id="Node000048" href="$dc/d15/WsfCoverageZoneBasedGrid_8cpp.html" title=" " alt="" coords="1301,576,1518,603"/>
+<area shape="poly" id="edge69_Node000047_Node000048" title=" " alt="" coords="1411,534,1411,578,1407,574,1407,538"/>
+<area shape="poly" id="edge79_Node000050_Node000014" title=" " alt="" coords="4194,114,4242,148,4298,179,4349,197,4416,215,4582,252,4904,312,4899,311,4581,257,4415,220,4347,202,4296,184,4239,152,4193,119"/>
+<area shape="poly" id="edge78_Node000050_Node000028" title=" " alt="" coords="4225,109,4374,154,4368,154,4224,114"/>
+<area shape="poly" id="edge82_Node000051_Node000015" title=" " alt="" coords="4465,112,4706,254,4765,271,4816,282,4905,290,4996,292,5111,301,5165,311,5160,311,5110,307,4996,297,4905,295,4816,287,4764,276,4704,258,4463,118"/>
+<area shape="poly" id="edge81_Node000051_Node000028" title=" " alt="" coords="4426,120,4419,156,4415,152,4422,124"/>
+<area shape="poly" id="edge85_Node000052_Node000016" title=" " alt="" coords="4744,109,5457,312,5451,311,4743,114"/>
+<area shape="poly" id="edge84_Node000052_Node000028" title=" " alt="" coords="4625,111,4462,157,4461,151,4620,112"/>
+<area shape="poly" id="edge87_Node000053_Node000002" title=" " alt="" coords="5276,109,4165,237,4165,231,5270,109"/>
+<area shape="rect" id="Node000054" href="$d2/da7/WsfCoverageIntervalConstraint_8hpp.html" title=" " alt="" coords="5108,155,5337,181"/>
+<area shape="poly" id="edge88_Node000053_Node000054" title=" " alt="" coords="5357,112,5254,157,5253,151,5351,114"/>
+<area shape="rect" id="Node000055" href="$dd/d16/WsfCoverageRawDataOutput_8cpp.html" title=" " alt="" coords="5463,155,5684,181"/>
+<area shape="poly" id="edge91_Node000053_Node000055" title=" " alt="" coords="5443,110,5545,154,5540,154,5443,116"/>
+<area shape="poly" id="edge89_Node000054_Node000002" title=" " alt="" coords="5090,178,4165,240,4165,235,5095,177"/>
+<area shape="poly" id="edge90_Node000054_Node000006" title=" " alt="" coords="5250,189,5299,223,5357,253,5478,276,5672,312,5667,311,5477,282,5355,259,5296,227,5248,194"/>
+<area shape="poly" id="edge94_Node000056_Node000017" title=" " alt="" coords="5028,105,5231,131,5312,143,5351,152,5364,164,5373,178,5380,205,5388,231,5396,243,5408,254,5448,271,5502,283,5566,290,5634,293,5769,296,5874,301,5922,312,5917,311,5873,307,5769,301,5634,299,5565,295,5501,288,5447,276,5405,258,5392,246,5383,233,5375,206,5368,180,5360,168,5348,157,5311,148,5230,136,5028,110"/>
+<area shape="poly" id="edge93_Node000056_Node000028" title=" " alt="" coords="4815,109,4503,157,4502,151,4809,110"/>
+<area shape="poly" id="edge98_Node000057_Node000021" title=" " alt="" coords="5220,108,5379,152,5415,166,5451,179,5591,210,5783,247,6145,312,6140,311,5782,252,5590,216,5450,184,5414,171,5378,157,5219,114"/>
+<area shape="poly" id="edge97_Node000057_Node000028" title=" " alt="" coords="5019,108,4521,159,4520,154,5024,107"/>
+<area shape="poly" id="edge102_Node000058_Node000026" title=" " alt="" coords="3440,116,3220,314,3218,309,3435,118"/>
+<area shape="poly" id="edge101_Node000058_Node000028" title=" " alt="" coords="3561,104,3980,138,4311,161,4306,161,3979,143,3561,110"/>
+</map>

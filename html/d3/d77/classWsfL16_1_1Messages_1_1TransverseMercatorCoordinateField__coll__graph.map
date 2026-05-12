@@ -1,0 +1,9 @@
+<map id="WsfL16::Messages::TransverseMercatorCoordinateField" name="WsfL16::Messages::TransverseMercatorCoordinateField">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,304,213,347"/>
+<area shape="rect" id="Node000002" href="$da/d24/classWsfL16_1_1Messages_1_1IntegerField.html" title=" " alt="" coords="18,212,200,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,268,111,305,107,303,107,272"/>
+<area shape="rect" id="Node000003" href="$df/dc5/classWsfL16_1_1Messages_1_1FieldBase.html" title=" " alt="" coords="9,120,209,163"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,176,112,212,106,211,108,181"/>
+<area shape="rect" id="Node000004" href="$d8/df0/structWsfL16_1_1Messages_1_1SmallIntType.html" title=" " alt="" coords="14,5,204,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="110,61,112,120,106,119,108,66"/>
+</map>

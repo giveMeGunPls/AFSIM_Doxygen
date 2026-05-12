@@ -1,0 +1,21 @@
+<map id="wsf::coverage::Measure" name="wsf::coverage::Measure">
+<area shape="rect" id="Node000001" title=" " alt="" coords="137,183,298,209"/>
+<area shape="rect" id="Node000003" href="$d0/d02/classwsf_1_1coverage_1_1AccessDuration.html" title="An MOE that measures the durations of individual free asset accesses in coverage." alt="" coords="358,5,563,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,167,276,103,308,70,345,42,373,31,368,34,347,46,312,74,280,107,236,171"/>
+<area shape="rect" id="Node000004" href="$da/def/classwsf_1_1coverage_1_1CoverageTime.html" title="An MoE that measures the amount of time covered." alt="" coords="362,56,559,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="240,170,286,130,315,109,345,92,379,82,374,85,347,97,317,114,290,134,244,174"/>
+<area shape="rect" id="Node000005" href="$df/d06/classwsf_1_1coverage_1_1N__AssetCoverage.html" title="An MOE that measures the number of free assets that a grid point can access at a time." alt="" coords="352,107,570,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,174,345,143,391,133,386,135,347,148,265,178"/>
+<area shape="rect" id="Node000006" href="$d1/d06/classwsf_1_1coverage_1_1NumberOfAccesses.html" title="An MOE that measures how many times a grid point accesses a free asset." alt="" coords="346,157,575,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="313,183,348,182,343,184,314,189"/>
+<area shape="rect" id="Node000007" href="$de/d42/classwsf_1_1coverage_1_1NumberOfGaps.html" title="An MOE that measures the number of gaps in coverage." alt="" coords="360,208,562,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="313,203,362,210,357,211,314,209"/>
+<area shape="rect" id="Node000008" href="$da/d43/classwsf_1_1coverage_1_1RevisitTime.html" title="An MOE that measures timing of gaps in coverage." alt="" coords="370,259,551,285"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="264,213,347,244,391,258,386,258,345,249,264,219"/>
+<area shape="rect" id="Node000009" href="$d8/d1b/classwsf_1_1coverage_1_1SimpleCoverage.html" title="An MOE that measures if a grid asset has had any interaction with a free asset." alt="" coords="357,309,564,336"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="243,218,290,258,317,278,347,295,379,309,374,309,345,300,315,283,286,262,242,223"/>
+<area shape="rect" id="Node000010" href="$d4/d42/classwsf_1_1coverage_1_1TimeAverageGap.html" title="An MOE that measures timing of gaps in coverage." alt="" coords="354,360,567,387"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="235,221,280,285,312,318,347,346,373,360,368,359,345,350,308,322,276,289,233,226"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,183,89,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,194,138,194,134,198,105,198"/>
+</map>

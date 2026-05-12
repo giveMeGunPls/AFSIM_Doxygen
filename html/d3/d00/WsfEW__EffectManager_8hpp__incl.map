@@ -1,0 +1,13 @@
+<map id="WsfEW_EffectManager.hpp" name="WsfEW_EffectManager.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="81,5,264,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,44,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,35,59,78,57,73,146,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="68,80,114,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,32,118,72,115,68,156,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="138,80,207,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,31,175,66,170,63,171,34"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="231,80,285,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="188,30,235,70,229,70,186,35"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="308,80,429,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="207,30,322,73,317,75,206,35"/>
+</map>

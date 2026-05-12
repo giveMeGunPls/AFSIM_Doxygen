@@ -1,0 +1,7 @@
+<map id="wizard::ReplaceTextRequest" name="wizard::ReplaceTextRequest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,180,195,207"/>
+<area shape="rect" id="Node000002" href="$d4/d9b/classwizard_1_1FindTextRequest.html" title=" " alt="" coords="17,104,183,131"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,144,102,181,98,179,98,148"/>
+<area shape="rect" id="Node000003" href="$d2/d00/classwizard_1_1TextSource.html" title=" " alt="" coords="33,5,167,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="101,45,103,104,97,103,99,50"/>
+</map>

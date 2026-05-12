@@ -1,0 +1,9 @@
+<map id="WsfAntennaPattern" name="WsfAntennaPattern">
+<area shape="rect" id="Node000001" title=" " alt="" coords="25,235,160,261"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classWsfObject.html" title=" " alt="" coords="5,128,89,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,167,90,234,84,235,57,171"/>
+<area shape="rect" id="Node000003" href="$d7/d6d/classWsfAntennaPattern_1_1BaseData.html" title=" " alt="" coords="113,120,256,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,174,105,236,102,232,154,175"/>
+<area shape="rect" id="Node000004" href="$de/de7/classWsfAntennaPattern_1_1GainAdjustmentTable.html" title=" " alt="" coords="112,5,257,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="186,61,187,120,182,119,183,66"/>
+</map>

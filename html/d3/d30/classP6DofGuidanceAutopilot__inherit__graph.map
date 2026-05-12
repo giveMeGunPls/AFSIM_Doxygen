@@ -1,0 +1,11 @@
+<map id="P6DofGuidanceAutopilot" name="P6DofGuidanceAutopilot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="128,155,293,181"/>
+<area shape="rect" id="Node000004" href="$d3/d13/classP6DofGuidanceAutopilotBankToTurn.html" title=" " alt="" coords="5,229,200,272"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,190,132,231,129,227,179,192"/>
+<area shape="rect" id="Node000005" href="$d9/d53/classP6DofGuidanceAutopilotSkidToTurn.html" title=" " alt="" coords="223,229,414,272"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="241,188,293,229,288,229,239,194"/>
+<area shape="rect" id="Node000002" href="$d7/d99/classP6DofPilotObject.html" title=" " alt="" coords="149,80,272,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,120,213,155,208,153,209,125"/>
+<area shape="rect" id="Node000003" href="$d6/d35/classP6DofObject.html" title=" " alt="" coords="162,5,259,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,45,213,80,208,79,209,50"/>
+</map>

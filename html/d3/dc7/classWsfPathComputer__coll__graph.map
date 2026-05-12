@@ -1,0 +1,5 @@
+<map id="WsfPathComputer" name="WsfPathComputer">
+<area shape="rect" id="Node000001" title="WsfPathComputer computes a WsfPathList for a platform to reach a target state." alt="" coords="10,104,140,131"/>
+<area shape="rect" id="Node000002" href="$d4/dd2/structWsfPathConstraints.html" title="Contains constraints used for computing a path in WsfPathComputer." alt="" coords="5,5,145,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,46,78,104,72,103,73,49"/>
+</map>

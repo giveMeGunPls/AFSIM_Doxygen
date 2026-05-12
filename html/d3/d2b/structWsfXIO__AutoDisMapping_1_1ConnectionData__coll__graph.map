@@ -1,0 +1,9 @@
+<map id="WsfXIO_AutoDisMapping::ConnectionData" name="WsfXIO_AutoDisMapping::ConnectionData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,180,247,223"/>
+<area shape="rect" id="Node000002" href="$d6/dd9/classWsfXIO__DisRequest.html" title=" " alt="" coords="5,81,150,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,121,88,139,96,154,122,179,117,180,92,158,83,141,80,126"/>
+<area shape="rect" id="Node000003" href="$d1/d9b/classWsfXIO__Request.html" title=" " alt="" coords="15,5,140,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,45,80,81,75,81,77,50"/>
+<area shape="rect" id="Node000004" href="$d5/d54/classWsfXIO__Connection.html" title=" " alt="" coords="174,81,315,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="231,120,206,158,184,182,181,177,202,154,227,123"/>
+</map>

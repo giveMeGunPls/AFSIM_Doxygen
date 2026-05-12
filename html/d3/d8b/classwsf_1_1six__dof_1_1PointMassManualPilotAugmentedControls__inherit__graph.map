@@ -1,0 +1,11 @@
+<map id="wsf::six_dof::PointMassManualPilotAugmentedControls" name="wsf::six_dof::PointMassManualPilotAugmentedControls">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,336,210,379"/>
+<area shape="rect" id="Node000002" href="$d6/d0a/classwsf_1_1six__dof_1_1PointMassManualPilot.html" title=" " alt="" coords="5,245,210,288"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,302,110,337,105,335,106,306"/>
+<area shape="rect" id="Node000003" href="$d8/d8c/classwsf_1_1six__dof_1_1PointMassPilotObject.html" title=" " alt="" coords="13,155,202,197"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,210,110,246,105,244,106,215"/>
+<area shape="rect" id="Node000004" href="$d6/d9e/classwsf_1_1six__dof_1_1PilotObject.html" title=" " alt="" coords="25,80,190,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="108,120,110,155,105,154,107,125"/>
+<area shape="rect" id="Node000005" href="$de/d1c/classwsf_1_1six__dof_1_1Object.html" title=" " alt="" coords="38,5,177,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="108,45,110,80,105,79,107,50"/>
+</map>

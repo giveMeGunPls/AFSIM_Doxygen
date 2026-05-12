@@ -1,0 +1,40 @@
+<map id="SOSM_SimpleAtmosphere.cpp" name="SOSM_SimpleAtmosphere.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="596,5,798,32"/>
+<area shape="rect" id="Node000002" href="$d2/d9f/SOSM__SimpleAtmosphere_8hpp.html" title=" " alt="" coords="257,80,459,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="635,34,433,79,431,74,640,31"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="660,80,734,107"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="698,30,699,66,695,63,695,35"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="758,80,815,107"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="713,30,762,70,756,70,712,35"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="838,80,910,107"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="728,30,832,73,827,74,728,35"/>
+<area shape="rect" id="Node000013" href="$dc/db7/SOSM__Interaction_8hpp.html" title=" " alt="" coords="483,80,636,107"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="671,34,598,75,596,70,675,31"/>
+<area shape="rect" id="Node000016" href="$d3/df1/SOSM__Selector_8hpp.html" title=" " alt="" coords="5,155,146,181"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="593,25,518,32,429,43,336,59,246,83,171,114,109,148,105,144,168,109,244,77,335,54,428,38,517,27,598,23"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="934,80,1023,107"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="746,30,921,76,916,77,746,35"/>
+<area shape="rect" id="Node000003" href="$db/d9f/SOSM__Atmosphere_8hpp.html" title=" " alt="" coords="325,155,487,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,105,392,142,387,141,366,110"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="170,155,301,181"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="335,109,272,148,269,144,339,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="196,229,254,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="372,183,269,227,267,222,377,180"/>
+<area shape="rect" id="Node000005" href="$da/df2/SOSM__CoreBase_8hpp.html" title=" " alt="" coords="311,229,461,256"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="404,180,396,216,391,213,401,184"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="420,379,528,405"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="404,254,429,275,451,303,465,333,472,364,468,362,460,334,447,305,425,279,403,259"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="194,379,248,405"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="325,258,286,277,265,290,248,306,233,334,225,365,221,362,228,332,244,302,262,286,283,272,330,256"/>
+<area shape="rect" id="Node000008" href="$d9/d9c/SOSM__SpectralObject_8hpp.html" title=" " alt="" coords="258,304,437,331"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="382,255,363,292,359,288,377,258"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="370,329,442,371,436,370,369,334"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="328,331,257,373,255,368,323,332"/>
+<area shape="poly" id="edge15_Node000013_Node000006" title=" " alt="" coords="558,106,484,365,480,362,553,108"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="562,155,626,181"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="567,105,584,141,579,140,565,110"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="651,155,732,181"/>
+<area shape="poly" id="edge17_Node000013_Node000015" title=" " alt="" coords="583,105,658,147,653,147,582,110"/>
+<area shape="poly" id="edge20_Node000016_Node000004" title=" " alt="" coords="101,179,187,221,183,223,102,185"/>
+<area shape="poly" id="edge19_Node000016_Node000007" title=" " alt="" coords="85,180,207,365,202,367,82,184"/>
+</map>
